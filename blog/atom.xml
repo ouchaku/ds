@@ -2,11 +2,1047 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ouchaku.github.io/ds/blog</id>
     <title>UFO/Bigfoot/Missing-411/Supernatural Research Blog</title>
-    <updated>2024-07-20T00:00:00.000Z</updated>
+    <updated>2024-07-21T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://ouchaku.github.io/ds/blog"/>
     <subtitle>UFO/Bigfoot/Missing-411/Supernatural Research Blog</subtitle>
     <icon>https://ouchaku.github.io/ds/img/favicon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[DeepL の新モデルの翻訳性能をざっとチェック]]></title>
+        <id>https://ouchaku.github.io/ds/blog/2024/07/21/deepl_cmp</id>
+        <link href="https://ouchaku.github.io/ds/blog/2024/07/21/deepl_cmp"/>
+        <updated>2024-07-21T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[はじめに]]></summary>
+        <content type="html"><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="はじめに">はじめに<a class="hash-link" aria-label="はじめに への直接リンク" title="はじめに への直接リンク" href="https://ouchaku.github.io/ds/blog/2024/07/21/deepl_cmp#%E3%81%AF%E3%81%98%E3%82%81%E3%81%AB">​</a></h2>
+<p>最近、DeepL の新モデルが登場し、ChatGPT-4 よりも上だと DeepL 社は主張している。</p>
+<p>全く期待せずに翻訳性能をざっとチェックした結果が下。確かに以下の例だと ChatGPT-4o よりも優れている。</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="原文">原文<a class="hash-link" aria-label="原文 への直接リンク" title="原文 への直接リンク" href="https://ouchaku.github.io/ds/blog/2024/07/21/deepl_cmp#%E5%8E%9F%E6%96%87">​</a></h2>
+<p>He ended up with cancer of the spine.
+He did not want to die at home.
+And as he was laying on the gurney waiting to be loaded into the ambulance, he told me, he said, baby, he said, the story is true.</p>
+<p>He said, don't let anybody try to tell you any different.
+He said, the incident happened, there was a spacecraft, and I kissed him, and that's the last I got to talk to my dad.
+(00:01:23)</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="deepl-old-model">DeepL old model<a class="hash-link" aria-label="DeepL old model への直接リンク" title="DeepL old model への直接リンク" href="https://ouchaku.github.io/ds/blog/2024/07/21/deepl_cmp#deepl-old-model">​</a></h2>
+<p>彼は結局、背骨のガンを患った。
+彼は家で死にたくなかった。
+担架に寝かされて救急車に乗せられるのを待っているとき、彼は私に言ったんだ。</p>
+<p>誰にも違うことを言わせないでくれ、と。
+そして私は父にキスをし、それが父と話をした最後となった。
+(00:01:23)</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="deepl-new-model">DeepL new model<a class="hash-link" aria-label="DeepL new model への直接リンク" title="DeepL new model への直接リンク" href="https://ouchaku.github.io/ds/blog/2024/07/21/deepl_cmp#deepl-new-model">​</a></h2>
+<p>彼は最終的に脊髄がんで亡くなった。
+彼は自宅で死にたくなかった。
+そして、救急車に乗せられるのを担架の上で待っていたとき、彼は私に言った。
+「ベイビー、あの話は本当なんだ。</p>
+<p>他の人が違うことを言おうとしても、信じちゃいけないよ。あの出来事は実際に起こったんだ。宇宙船があったんだ。そして、私は彼にキスをした。それが、父と最後に話した言葉だ。
+（00:01:23）</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="比較用chatgpt-4o">（比較用）ChatGPT-4o<a class="hash-link" aria-label="（比較用）ChatGPT-4o への直接リンク" title="（比較用）ChatGPT-4o への直接リンク" href="https://ouchaku.github.io/ds/blog/2024/07/21/deepl_cmp#%E6%AF%94%E8%BC%83%E7%94%A8chatgpt-4o">​</a></h2>
+<p>彼は最終的に脊椎の癌になった。
+彼は自宅で死にたくなかった。
+そして、担架に横たわりながら救急車に乗せられるのを待っていた時に、彼は私にこう言った。「ベイビー、話は本当だ」と。</p>
+<p>「誰にも違うと言わせるな。事件は本当に起こったんだ、宇宙船もあったんだ」と言って、私は彼にキスをした。それが私が父と話した最後だった。
+（00:01:23）</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="原文の参照元">原文の参照元<a class="hash-link" aria-label="原文の参照元 への直接リンク" title="原文の参照元 への直接リンク" href="https://ouchaku.github.io/ds/blog/2024/07/21/deepl_cmp#%E5%8E%9F%E6%96%87%E3%81%AE%E5%8F%82%E7%85%A7%E5%85%83">​</a></h2>
+<p><a href="http://news21c.blog.fc2.com/blog-entry-22294.html" target="_blank">❏ 心理学教授の「1965年に Roswell の金属シートを実際に手にした」という証言の謎を解く （完結）</a> (2024-05-22)</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="chatgpt-4o-による-deepl-の和訳性能の評価">ChatGPT-4o による DeepL の和訳性能の評価<a class="hash-link" aria-label="ChatGPT-4o による DeepL の和訳性能の評価 への直接リンク" title="ChatGPT-4o による DeepL の和訳性能の評価 への直接リンク" href="https://ouchaku.github.io/ds/blog/2024/07/21/deepl_cmp#chatgpt-4o-%E3%81%AB%E3%82%88%E3%82%8B-deepl-%E3%81%AE%E5%92%8C%E8%A8%B3%E6%80%A7%E8%83%BD%E3%81%AE%E8%A9%95%E4%BE%A1">​</a></h2>
+<p>ついでに ChatGPT-4o に DeepL の和訳を評価させたが、大きく進化したと判定している。</p>
+<div class="theme-admonition theme-admonition-note admonition_xJq3 alert alert--secondary"><div class="admonitionHeading_Gvgb"><span class="admonitionIcon_Rf37"><svg viewBox="0 0 14 16"><path fill-rule="evenodd" d="M6.3 5.69a.942.942 0 0 1-.28-.7c0-.28.09-.52.28-.7.19-.18.42-.28.7-.28.28 0 .52.09.7.28.18.19.28.42.28.7 0 .28-.09.52-.28.7a1 1 0 0 1-.7.3c-.28 0-.52-.11-.7-.3zM8 7.99c-.02-.25-.11-.48-.31-.69-.2-.19-.42-.3-.69-.31H6c-.27.02-.48.13-.69.31-.2.2-.3.44-.31.69h1v3c.02.27.11.5.31.69.2.2.42.31.69.31h1c.27 0 .48-.11.69-.31.2-.19.3-.42.31-.69H8V7.98v.01zM7 2.3c-3.14 0-5.7 2.54-5.7 5.68 0 3.14 2.56 5.7 5.7 5.7s5.7-2.55 5.7-5.7c0-3.15-2.56-5.69-5.7-5.69v.01zM7 .98c3.86 0 7 3.14 7 7s-3.14 7-7 7-7-3.12-7-7 3.14-7 7-7z"></path></svg></span>ChatGPT-4o</div><div class="admonitionContent_BuS1"><p>DeepL の新モデルの翻訳結果は非常に自然で読みやすいですね。特に以下の点で優れていると感じます：</p><ol>
+<li>
+<p>感情の表現: 「信じちゃいけないよ」という部分は、話し手の感情をうまく捉えています。これにより、会話のリアリティと感情がよく伝わります。</p>
+</li>
+<li>
+<p>文脈の理解: 「そして、救急車に乗せられるのを担架の上で待っていたとき、彼は私に言った。」という部分は、元の英文の意味を正確に捉えています。従来のモデルでは係り受け構文が難しかった点が改善されています。</p>
+</li>
+<li>
+<p>自然な日本語: 全体的に翻訳された日本語が非常に自然で、違和感が少ないです。文の流れもスムーズで読みやすいです。</p>
+</li>
+</ol><p>全体として、DeepL の新モデルは非常に高い翻訳性能を持っていると評価できます。特に、感情やニュアンスをうまく捉えた翻訳ができる点で、従来モデルから大きく進化していると感じます。</p></div></div>
+<p>(2024-07-21)</p>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hill-Norton（UK 元・海軍大将）の証言]]></title>
+        <id>https://ouchaku.github.io/ds/blog/2024/07/21/hill_norton</id>
+        <link href="https://ouchaku.github.io/ds/blog/2024/07/21/hill_norton"/>
+        <updated>2024-07-21T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[前置き]]></summary>
+        <content type="html"><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="前置き">前置き<a class="hash-link" aria-label="前置き への直接リンク" title="前置き への直接リンク" href="https://ouchaku.github.io/ds/blog/2024/07/21/hill_norton#%E5%89%8D%E7%BD%AE%E3%81%8D">​</a></h2>
+<p>Hill-Norton の UFO に関する証言は過去記事でも取り上げたが、比較的長い証言を見かけたので記録しておく。</p>
+<p>なお、最近になって DeepL の New Model が登場したのでそれを使って和訳した。</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="関連">関連<a class="hash-link" aria-label="関連 への直接リンク" title="関連 への直接リンク" href="https://ouchaku.github.io/ds/blog/2024/07/21/hill_norton#%E9%96%A2%E9%80%A3">​</a></h2>
+<p><a href="http://news21c.blog.fc2.com/blog-entry-21555.html" target="_blank">❏ Peter Hill_norton （元・国防参謀総長、元・NATO軍事委員会の委員長）の証言</a> (2023-11-11)</p>
+<p><a href="http://news21c.blog.fc2.com/blog-entry-12185.html" target="_blank">元・海軍元帥、「NATO 軍事委員会議長」の証言：Rendlesham/Bentwaters 事件の UFO は本物、政府は隠蔽している。</a> (2018-07-31)</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="動画924">動画(9:24)<a class="hash-link" aria-label="動画(9:24) への直接リンク" title="動画(9:24) への直接リンク" href="https://ouchaku.github.io/ds/blog/2024/07/21/hill_norton#%E5%8B%95%E7%94%BB924">​</a></h2>
+<p>Admiral of the Fleet Lord Hill-Norton on the UFO landing at Rendlesham Forest near RAF Bentwaters</p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rFbeyzSiC14?si=IyKL8NmAe5Pr7PXM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin"></iframe>
+<p><a href="http://www.youtube.com/watch?v=rFbeyzSiC14" target="_blank" rel="noopener noreferrer">www.youtube.com/watch?v=rFbeyzSiC14</a></p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="コメント">コメント<a class="hash-link" aria-label="コメント への直接リンク" title="コメント への直接リンク" href="https://ouchaku.github.io/ds/blog/2024/07/21/hill_norton#%E3%82%B3%E3%83%A1%E3%83%B3%E3%83%88">​</a></h2>
+<p>過去記事で述べたかどうか判然としないが、Hill-Norton の証言が本音だとすると（元皇太子の発言などを考慮すると、たぶんその筈）、 Bob Dean の証言（NATO 本部勤務時代、NATO が纏めた UFO に関する極秘資料を閲覧したというアレ）はやはり嘘だった…ということになる。</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="関連-1">関連<a class="hash-link" aria-label="関連 への直接リンク" title="関連 への直接リンク" href="https://ouchaku.github.io/ds/blog/2024/07/21/hill_norton#%E9%96%A2%E9%80%A3-1">​</a></h3>
+<p><a href="http://news21c.blog.fc2.com/blog-entry-18624.html" target="_blank">John Ramirez（元・CIA 高級職員）: Bob Dean の "cosmic top secret" 資格を否定　（途中1）</a> (2021-11-04)</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="動画概要欄">動画概要欄<a class="hash-link" aria-label="動画概要欄 への直接リンク" title="動画概要欄 への直接リンク" href="https://ouchaku.github.io/ds/blog/2024/07/21/hill_norton#%E5%8B%95%E7%94%BB%E6%A6%82%E8%A6%81%E6%AC%84">​</a></h3>
+<p>6,000 views  Jul 19, 2024</p>
+<p>"UFO Landings-Rendlesham Forest, 1980" <a href="https://www.ufocasebook.com/Rendlesha" target="_blank" rel="noopener noreferrer">https://www.ufocasebook.com/Rendlesha</a>...</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="whisper-ailarge-v2-model--deeplnew-model">Whisper AI(large-v2 model) + DeepL(New Model)<a class="hash-link" aria-label="Whisper AI(large-v2 model) + DeepL(New Model) への直接リンク" title="Whisper AI(large-v2 model) + DeepL(New Model) への�直接リンク" href="https://ouchaku.github.io/ds/blog/2024/07/21/hill_norton#whisper-ailarge-v2-model--deeplnew-model">​</a></h2>
+<p>ヒル・ノートン卿は元海軍大将で、1971年から1973年にかけて国防参謀本部長を務めた人物であり、空想癖のある人物ではありません。
+残念ながら、UFOについて語る人はすぐにゴミ扱いされてしまいます。このインタビューが多くの家庭のテレビで放映されれば、視聴者は「あの年老いた男はついに正気を失ってしまった」と思うでしょう。しかし、残念なのは、何かが起こっているということです。ここ数年、世界中の国々で、数十万、いや、数十万という目撃例があります。
+(00:00:34)</p>
+<p>しかし、残念なのは、何かが起こっているということです。ここ数年、世界中の国々で数十万、いや、数十万という目撃例があり、そのうちの5～10％についてはいまだに説明がつかないことを誰もが認めています。付け加えるなら、これらの目撃例の多くは、経験豊富な警察官や航空機パイロット、そして、幻覚を見たり、テレビ番組に出るためにくだらない作り話をしたりすることのない常識的な人々によるものです。可能性をすべて排除したら、不可能の可能性について考え始める必要がある、と言ったのは誰だったか思い出せない。
+(00:00:59)</p>
+<p>私はそれが秘密兵器だとは思わない。なぜなら、もしそうなら、私はそれを知っているだろうし、もし知っていたら、それを話すことは許されないだろうからだ。ですから、私はこの問題には地球外生命体の解決策がある可能性があると考えるほかありません。
+それがどのように機能するのかは私にはわかりませんが、とにかく、それが事実と一致する唯一の解決策または理論のように思えるのです。
+（00:01:20）</p>
+<p>ベントウォーター家の事件は広く報道されたので、私はこの事件に非常に興味を持っています。この事件については本も出版され、ケーブルテレビのニュースやその他の人々が録音したテープも聴きました。また、この事件に関して牧師たちとある程度やり取りもしました。私が関わったのはこの一件だけです。端的に言えば、2つのうちの1つのことが起こったのだと思います。
+（00:01:41）</p>
+<p>何かが我々の領空に入り、ベントウォーターズに着陸したか、あるいはアメリカ空軍の将校や上級下士官が幻覚を見ていたかのどちらかです。いずれの説明においても、政府が繰り返し述べてきたこととは逆に、防衛上の理由があるはずです。
+あなたはどちらの説を信じますか？
+私自身は、何かがそこに着陸した可能性をほぼ確実視することは、非常に難しいと思います。
+どこから来たものなのか？
+（00:02:11）</p>
+<p>私には全く分かりません。分かっていたら良かったのですが。世界中の政府が、フランスを除いて、これらの問題に関する情報を秘密にしてきたことは疑う余地がありません。なぜなら、その多くは、情報公開法に基づいて米国に流出しており、そうでなければ公開されることはなかったからです。
+ベントウォーター事件についてはかなり詳しく、6冊の本を読み、事件に関わった多くの人々にインタビューしました。そして、慎重に考えた末、以前にも何度か公の場で発言したことですが、サフォークで起きたあの夜の出来事については、2つの説明しか考えられません。
+（00:02:50）</p>
+<p>まず一つ目は、当時基地の副司令官であったホルト大佐や、多くの兵士、つまり航空兵たちを含む関係者が、地球の大気圏外から何かが彼らの空軍基地に落下したと主張したことだ。
+（00:03:11）</p>
+<hr>
+<p>彼らはそのそばに行き、それを調べ、写真を撮った。翌日、彼らはそれが落下した場所で調査を行い、放射性物質を検出しました。
+彼らはこのことを報告しました。ホルト大佐は覚書を書き、それを我が国の防衛省に送りました。私の知る限り、少なくとも1回は英国のテレビ番組に出演し、その覚書で述べたことを繰り返し述べています。
+（00:03:41）</p>
+<p>そして、彼が述べたことは、私が今説明した通りです。これは、ホルト大佐の報告どおりに実際に起こったという一つの説明です。もう一つの説明は、実際には起こらなかったというものです。その場合、ホルト大佐と彼の部下全員が幻覚を見ていたと考えるしかありません。
+私の立場は明確です。どちらの説明も防衛上極めて重要な意味を持ちます。この件はすでに報告され、主張されており、私自身もこの国の防衛省の大臣たちにこの件を持ち出しましたが、大臣たちは、自分たちが知らされたことは防衛上重要な意味を持つものではないと否定しています。
+（00:04:24）</p>
+<p>確かに、常識的な人であれば、どちらの説明も、防衛上の関心事であるに違いない。サフォークにあるアメリカ空軍基地の大佐と彼の部下たちが、核兵器を搭載した航空機が基地に駐機しているのに幻覚症状を起こしているというのは、防衛上の関心事であるに違いない。
+もし、彼が言うことが実際に起こったのであれば、なぜ彼はそれをでっち上げたのか、そして、この国の防衛基地に、確かに人工物ではなく、宇宙から来た車が侵入したことも、間違いなく防衛上の関心事であるに違いない。
+（00:05:08）</p>
+<p>そして、大臣、特に国防省が、サフォーク州で12月の夜に起こったことは防衛上の関心事ではないと言うのは、まったく意味がありません。それは真実ではないのです。
+この国や他の1、2カ国において、私の名前がUFO問題とかなり大きく結び付けられるようになって以来、私はしばしば、元統合参謀本部議長、元NATO軍事委員会議長という経歴から、情報漏洩があったのではないか、あるいはUFOに関する事実を隠蔽しようとする政府の理由は何なのかと考えるようになりました。
+(00:06:02)</p>
+<p>そして、多くの説明がしばしば提示されてきましたが、最も頻繁で、おそらく最ももっともらしいのは、関係各国政府、主に米国政府と私の母国政府、が真実を語れば、 それは、私たちの大気圏に、私たちが配備できるものよりも技術的に何マイルも進んだ物体があり、それがこちらに来るのを止める手段がなく、それが敵対的な場合、私たちには防御手段がないという真実を公表すれば、私は... すみません、ここで止めさせていただきます。
+（00:06:45）</p>
+<p>そのまま続けます。私が思うに、政府がそうした事実を公表すれば、人々がパニックを起こし、大騒ぎして、あの有名なニューヨークの日にあったような、火星人が着陸したというデマが流れたときのように、電話交換機をパンクさせるだろう、と恐れているからだと思います。
+（00:07:04）</p>
+<hr>
+<p>人々は狂乱し、飛び跳ね回るだろう。私はそれを全く信じていません。私はそれを印刷物でも言いました。ティモシー・グッドの本に書いた序文でも言いました。私は、21世紀の現代人がそのような情報でパニックを起こすとは信じていません。
+結局のところ、彼らは50年前に2つの日本の都市が核兵器によって破壊されたことを我慢してきたのです。我慢したのではなく、我慢という言葉は適切ではありません。彼らは火星に車を着陸させることを当然のこととして受け止めています。彼らは、遠い惑星に車を着陸させる何年も前から、正確な着陸時刻を予測しています。
+(00:07:43)</p>
+<p>なぜパニックになる必要があるのでしょうか？彼らはこの国や宝くじやロトにずっと興味がある。彼らは肩をすくめて、当然のこととして受け止める。とにかく、私の経験では、彼らは政治家を信用していない。だから、それが最もありそうな説明だと思う。もちろん、他にも理由はあるが、私はそれで納得せざるを得ないだろう。
+最後に一つだけ質問してよろしいでしょうか...
+（00:08:08）</p>
+<p>素晴らしい。
+準備ができました。ベントウォーターズ事件について、よろしければ...
+ベントウォーターズ事件は、私たちの領空への明らかな侵入と、実際に私たちの国への着陸が、軍で責任ある仕事を担当する真面目な人々によって目撃された典型的なケースのように思えます。そしてベントウォーターズは、ある意味では、今後このような問題に対処しないための基準となるでしょう。
+（00:09:22）</p>
+<p>ありがとうございます。
+（00:09:24）</p>
+<hr>
+<p>Lord Hill Norton is an Admiral of the Fleet and was Chief of the Defence Staff between 1971 and 1973, and is not a man given to fanciful notions.
+Well, unfortunately, anybody who talks about UFOs is rubbish at once, and I don't doubt that when this interview appears on television screens in many people's homes, they'll think, poor old chap, he's really lost his marbles at last. But it's a shame, because there is something going on. There have been tens, if not hundreds of thousands of sightings in countries all over the world in the last few years, poor old chap, he's really lost his marbles at last.
+(00:00:34)</p>
+<p>But it's a shame, because there is something going on. There have been tens, if not hundreds of thousands of sightings in countries all over the world in the last few years, and everybody admits that between 5 and 10% of them have never been explained. And if I may add, many of these sightings are by experienced police officers, airline pilots, and sensible people who don't hallucinate and don't make up silly stories to get themselves on the box. I can't remember who it was who said that when you've eliminated all the possibilities, you've got to start looking at the impossibilities.
+(00:00:59)</p>
+<p>I don't believe it's a secret weapon, because I think if it were, I would know about it, and if I did know about it, I wouldn't be allowed to tell you. So I'm bound to feel that there may be a possibility of an extraterrestrial solution to this problem.
+I simply don't know how it possibly works, but it's the only solution or theory anyway that seems to me to fit the facts.
+(00:01:20)</p>
+<p>Well, I've taken a good deal of interest in the Bentwaters incident, because it was so widely publicized. Books have been written about it, I've listened to tapes made by cable news and people like that, and I've had a certain amount of dealings with ministers over this particular incident, the only one I have, and I think in a nutshell, one of two things happened.
+(00:01:41)</p>
+<p>Either something entered our airspace, landed at Bentwaters, or United States Air Force officers and senior non-commissioned officers were hallucinating, and in either explanation, there must be a defense interest in it, contrary to what the government has repeatedly said.
+Which of those two alternatives do you prefer?
+I myself think it's very difficult indeed to discount the almost certainty that something landed there.
+Something from where?
+(00:02:11)</p>
+<p>I've no idea. I wish I had. I don't doubt at all that governments all over the world, with the possible exception of the French, have kept information available to them about these matters secret, because much of it is now flowing out in the United States under their Freedom of Information Act, which wouldn't have been released otherwise.
+I know a good bit about the Bentwaters incident, and I've read half a dozen books, I've interviewed a number of the people who took part in it, and what I have decided, after careful thought, and I have said it in public more than once before, there are only two explanations for what happened that night in Suffolk.
+(00:02:50)</p>
+<p>The first is that what the people concerned, including Colonel Holt, who was at the time the deputy commander of the base, and a lot of his soldiers, or airmen, they claimed that something from outside the Earth's atmosphere landed at their Air Force base.
+(00:03:11)</p>
+<hr>
+<p>They went and stood by it, they inspected it, they photographed it. The following day they took tests on the ground where it had been and found radioactive traces.
+They reported this. Colonel Holt wrote a memorandum which was sent to our Ministry of Defence. He has appeared on British television at least once, to my knowledge, possibly more often, in which he has repeated, effectively, what he said in that memorandum.
+(00:03:41)</p>
+<p>And what he said is what I have just described. That is one explanation, that it actually happened, as Colonel Holt reported. The other explanation is that it didn't. And in that case, one is bound to assume that Colonel Holt and all his men were hallucinating.
+My position is perfectly clear. Either of those explanations is of the utmost defence interest. It has been reported and claimed, and I myself have raised it with ministers at the Defence Ministry in this country, who deny that anything they have been informed is of defence interest.
+(00:04:24)</p>
+<p>Surely, to any sensible person, either of those explanations must be, cannot fail to be, of defence interest. That the Colonel of an American Air Force base in Suffolk and his many men are hallucinating when there are nuclear-armed aircraft on the base must be of defence interest.
+If, indeed, what he says took place did take place, and why on earth would he make it up, then surely the entry of a vehicle from outer space, certainly not man-made, to a defence base in this country also cannot fail to be of defence interest.
+(00:05:08)</p>
+<p>And it simply isn't any good, ministers, and the Ministry of Defence in particular, saying that nothing that took place that December night in Suffolk is of defence interest. It simply isn't true.
+Since my name has become connected with UFO matters in quite a big way in this country, and in one or two other countries too, I have frequently been a wire person of my background, a former Chief of the Defence Staff, a former Chairman of the NATO Military Committee, why I think there is a cover-up, or what the reasons may be for governments wishing to cover up the facts about UFOs.
+(00:06:02)</p>
+<p>And a number of explanations have often been put forward, of which the most frequent and perhaps the most plausible is that the governments concerned, which are primarily that of the United States and that of my own country, believe that if they told the truth, which is that there are objects in our atmosphere, which are technically miles in advance of anything that we can deploy, that we have no means of stopping them coming here, and that we have no defence against them should they be hostile, that I believe... Sorry, I have to stop.
+(00:06:45)</p>
+<p>I'll go straight on. That, I believe, is because governments fear that if they did disclose those facts, people would panic, people would rush about, jam the switchboard like they did on that famous day in New York when there was a spoof, Martians have landed.
+(00:07:04)</p>
+<hr>
+<p>People would go mad and they'll jump up and down. I don't believe that at all. I've said so in print. I've said it in the foreword I wrote to one of Timothy Good's books. I do not believe that people today, in the 21st century, are going to panic at that sort of information.
+After all, they have put up with the introduction of nuclear weapons, the destruction of two Japanese cities 50 years ago. They put up, not put up with, it's the wrong word, they take as a matter of course that we can land vehicles on Mars. They land to the precise instant forecast years before vehicles on distant planets.
+(00:07:43)</p>
+<p>Why should they panic? They are much more interested in this country and doing the pools or the lottery. They shrug their shoulders and take it as a matter of course. Anyway, they don't trust politicians, in my experience. So, I believe that that is the most likely explanation. There are, of course, others, but I think I'll have to settle for that.
+If I can ask you one closing...
+(00:08:08)</p>
+<p>Wonderful.
+OK, we're ready. On the Bentwaters incident, if you wouldn't mind...
+It seems to me that the Bentwaters incident is a classic case where an apparent intrusion into our airspace and indeed a landing in our country was witnessed by serious-minded people in the military, responsible people doing a responsible job. And Bentwaters is, in a sense, a benchmark for how not to deal with these matters in the future.
+(00:09:22)</p>
+<p>Thank you.
+(00:09:24)</p>
+<p>(2024-07-21)</p>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Oak Ridge 国立研究所による「Roswell金属破片分」の析結果報告書の結論]]></title>
+        <id>https://ouchaku.github.io/ds/blog/2024/07/21/metal_analysis</id>
+        <link href="https://ouchaku.github.io/ds/blog/2024/07/21/metal_analysis"/>
+        <updated>2024-07-21T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[前置き]]></summary>
+        <content type="html"><![CDATA[<a href="https://ouchaku.github.io/ds/img/20240721_specimen.jpg" target="_blank"><img alt="20240721_specimen.jpg" border="0" src="https://ouchaku.github.io/ds/img/20240721_specimen.jpg" width="90%"></a>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="前置き">前置き<a class="hash-link" aria-label="前置き への直接リンク" title="前置き への直接リンク" href="https://ouchaku.github.io/ds/blog/2024/07/21/metal_analysis#%E5%89%8D%E7%BD%AE%E3%81%8D">​</a></h2>
+<p>結論だけ。テキスト抽出＋和訳。</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="関連">関連<a class="hash-link" aria-label="関連 への直接リンク" title="関連 への直接リンク" href="https://ouchaku.github.io/ds/blog/2024/07/21/metal_analysis#%E9%96%A2%E9%80%A3">​</a></h3>
+<p><a href="https://ouchaku.github.io/ds/blog/2024/07/21/synopsis_analysis">Oak Ridge 国立研究所による「Roswell金属破片分」の析結果報告書：pdf → テキスト抽出 → 和訳</a></p>
+<p><a href="https://ouchaku.github.io/ds/blog/2024/07/21/roswell_metal_analysys_result">国立研究所で Roswell の墜落 UFO 由来とされる破片を分析 →普通の地球の物質と判明</a></p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="出典">出典<a class="hash-link" aria-label="出典 への直接リンク" title="出典 への直接リンク" href="https://ouchaku.github.io/ds/blog/2024/07/21/metal_analysis#%E5%87%BA%E5%85%B8">​</a></h2>
+<p><a href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/ORNL-Synopsis_Analysis_of_a_Metallic_Specimen.pdf?ver=V1rMXfRV-VUb2gjTd4DzVg%3D%3D" target="_blank" rel="noopener noreferrer">https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/ORNL-Synopsis_Analysis_of_a_Metallic_Specimen.pdf?ver=V1rMXfRV-VUb2gjTd4DzVg%3D%3D</a></p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="結論">結論<a class="hash-link" aria-label="結論 への直接リンク" title="結論 への直接リンク" href="https://ouchaku.github.io/ds/blog/2024/07/21/metal_analysis#%E7%B5%90%E8%AB%96">​</a></h2>
+<p>AAROは、この歴史的な標本が地球外起源であり、ビスマスベースのテラヘルツ波ガイドとして機能できるとする主張を立証または反証するために必要な要件を、ORNLが独自に評価することを確保しました。</p>
+<p>この試料の起源、保管状況、最終的な用途は依然として不明ですが、化学組成と構造、特性に関する最新の堅牢な分析では、その起源が地球外であることを示す結果は得られていません。</p>
+<p>また、調査対象となった物質がテラヘルツ波ガイドとして機能する可能性のある純粋な単結晶ビスマス層を有していたことを示すデータもありません。</p>
+<p>この物質が過去に意図的または実際に使用されたかどうかは不明ですが、ORNLは、すべてのデータが、この物質が今日の基準では珍しい元素の混合を用いて製造されたものであることを示しているものの、機械的および熱的ストレス要因による損傷を受けたものであるという高い確信を持っています。</p>
+<p>Conclusion</p>
+<p>AARO secured ORNL to independently assess the requirements necessary to confirm or contest public claims that this historical specimen is of non-terrestrial origin and that it is capable of functioning as a bismuth-based terahertz waveguide. Although the origin, chain of custody, and ultimate purpose of this specimen remain unclear, a modern and robust analysis of its chemical and structural composition and properties does not indicate that its origin is non-terrestrial, nor do the data indicate that the material examined ever had the pure single-crystalline bismuth layer that could possibly have acted as a terahertz waveguide. The intended or actual past use of the material remains undetermined, but ORNL has a high level of confidence that all data indicate the material was manufactured terrestrially—albeit using an uncommon mixture of elements by today’s standards—and then incurred damage caused by mechanical and heat stressors.</p>
+<p>(2024-07-21)</p>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[国立研究所で Roswell の墜落 UFO 由来とされる破片を分析 →普通の地球の物質と判明]]></title>
+        <id>https://ouchaku.github.io/ds/blog/2024/07/21/roswell_metal_analysys_result</id>
+        <link href="https://ouchaku.github.io/ds/blog/2024/07/21/roswell_metal_analysys_result"/>
+        <updated>2024-07-21T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[前置き]]></summary>
+        <content type="html"><![CDATA[<a href="https://ouchaku.github.io/ds/img/20240721_specimen.jpg" target="_blank"><img alt="20240721_specimen.jpg" border="0" src="https://ouchaku.github.io/ds/img/20240721_specimen.jpg" width="90%"></a>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="前置き">前置き<a class="hash-link" aria-label="前置き への直接リンク" title="前置き への直接リンク" href="https://ouchaku.github.io/ds/blog/2024/07/21/roswell_metal_analysys_result#%E5%89%8D%E7%BD%AE%E3%81%8D">​</a></h2>
+<blockquote><p>All-Domain Anomaly Resolution Office (AARO) は、マグネシウムと亜鉛を主成分とし、ビスマスとその他の微量元素の帯状層を持つ積層材料標本の測定を複数回実施しました。この材料標本の起源と目的については、長年にわたり議論されてきた歴史があります。この材料標本は、1947年頃に発生した未確認異常現象（UAP）の墜落現場から回収されたと主張されています。さらに、この試料の物理化学的特性により、この物質は「慣性質量減少」（すなわち、浮遊や反重力機能）が可能であると主張されています。これは、ビスマスとマグネシウムの層がテラヘルツ波の導波路として機能しているためである可能性があります。</p><p>...</p><p>AARO は ORNL(Oak Ridge National Labs) に、</p><p>(1) この試料が地球起源であるかどうか、</p><p>(2) この試料に含まれるビスマスがテラヘルツ波の導波路として機能する可能性があるかどう</p><p>かを評価するよう依頼しました。</p></blockquote>
+<p>その分析・評価結果の pdf 資料が公表された。この pdf 資料をやや詳しく解説した動画を取り上げる。</p>
+<p>問題の pdf 資料そのものについては別記事で扱う予定。</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="関連">関連<a class="hash-link" aria-label="関連 への直接リンク" title="関連 への直接リンク" href="https://ouchaku.github.io/ds/blog/2024/07/21/roswell_metal_analysys_result#%E9%96%A2%E9%80%A3">​</a></h3>
+<p><a href="https://ouchaku.github.io/ds/blog/2024/07/21/synopsis_analysis">Oak Ridge 国立研究所による「Roswell金属破片分」の析結果報告書：pdf → テキスト抽出 → 和訳</a></p>
+<p><a href="https://ouchaku.github.io/ds/blog/2024/07/21/metal_analysis">Oak Ridge 国立研究所による「Roswell金属破片分」の析結果報告書の結論</a></p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="動画2318">動画(23:18)<a class="hash-link" aria-label="動画(23:18) への直接リンク" title="動画(23:18) への直接リンク" href="https://ouchaku.github.io/ds/blog/2024/07/21/roswell_metal_analysys_result#%E5%8B%95%E7%94%BB2318">​</a></h2>
+<p>Metallic Specimen Revealed: Oak Ridge National Lab's Surprising Findings.</p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E9HPUxD1ZyY?si=s3U2vcmF1exa2j34" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin"></iframe>
+<p><a href="http://www.youtube.com/watch?v=E9HPUxD1ZyY" target="_blank" rel="noopener noreferrer">www.youtube.com/watch?v=E9HPUxD1ZyY</a></p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="動画概要欄">動画概要欄<a class="hash-link" aria-label="動画概要欄 への直接リンク" title="動画概要欄 への直接リンク" href="https://ouchaku.github.io/ds/blog/2024/07/21/roswell_metal_analysys_result#%E5%8B%95%E7%94%BB%E6%A6%82%E8%A6%81%E6%AC%84">​</a></h3>
+<p>28,900 views  Jul 15, 2024  ✪ Members first on July 14, 2024  #uaps #uap #alien
+In this video, we dive into the latest analysis from Oak Ridge National Laboratory on a metallic specimen claimed to be of extraterrestrial origin. Chris Lehto reviews the findings and discusses the implications of the report. Join us to explore whether this material holds secrets of the unknown or if it can be explained by earthly science. Don't miss this detailed breakdown of a long-debated mystery.</p>
+<p>Read the Full AARO report here:
+<a href="https://www.aaro.mil/Portals/136/PDFs" target="_blank" rel="noopener noreferrer">https://www.aaro.mil/Portals/136/PDFs</a>...</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="whisper-ailarge-v2-model--deeplnew-model">Whisper AI(large-v2 model) + DeepL(new model)<a class="hash-link" aria-label="Whisper AI(large-v2 model) + DeepL(new model) への直接リンク" title="Whisper AI(large-v2 model) + DeepL(new model) への直接リンク" href="https://ouchaku.github.io/ds/blog/2024/07/21/roswell_metal_analysys_result#whisper-ailarge-v2-model--deeplnew-model">​</a></h2>
+<p>米国防総省のUFO調査部門である代替ドメイン異常解決局（Aero）は、オークリッジ国立研究所の金属標本の分析結果を公表しました。
+すぐに確認してください。
+Aeroは当初から、基本的に最初の1分間で、あらゆる種類の地球外知的生命体の関与を完全に懐疑的に見ています。
+彼らが公表してきたものはすべて、人間以外の知性または地球外生命体の関与の主張を否定するためのものでした。
+（00:00:38）</p>
+<p>期待しすぎないように、でも、これから何が起こるのか、興味深いですね。
+グリーンウォルドが投稿した、DODの分析によると、地球外生命体の同盟国とされるものの分析はオークリッジ国立研究所で行われた。
+興味深い点があります。
+ショーン・カークパトリック博士は、かつてAeroのトップを務めており、おそらく当時、契約を担当していたと思われます。
+つまり、ショーン・カークパトリックは極めて懐疑的で、UFOコミュニティから酷評されていた人物ですが、その後エアロを退職し、オークリッジ国立研究所に採用されたのです。
+(00:01:17)</p>
+<p>オークリッジ国立研究所に採用されたのです。
+驚きですね。
+ジョンはさらに興味深い指摘をしています。エアロ社の調査結果に反論し、この特定のケースに関する大規模な隠蔽を明らかにできる人物は、スターズ・アカデミー、スターズ・メディア・アース・ファイルズ、ハル・パトフ博士、CRADAに主任研究者として記載されていたルー・エリゾンド氏です。
+グリーンウォルドが言うように、彼らが反論できるのであれば、そうしてほしい。あるいは、2024年の今、エアロの調査結果に同意するのであれば、そう言ってほしい。そうすれば、私たちは皆、この特定の話題から先に進むことができるだろう。
+（00:01:56）</p>
+<p>この問題は長年にわたって続いており、私たちが知っている資料の所有権をめぐって、文字通り何万ドルもの金がやり取りされてきました。なぜなら、陸軍もオークリッジとは独立して調査を行っていたからです。
+ジョンは、この件を終わらせるか、隠蔽を白日の下にさらすか、いずれにせよ決断する時だと言っています。それでは、この報告書に目を通し、これが実際に真実ではないことを決定づけるきっかけとなるのか、それともグリーンウォルドが言うように隠蔽を白日の下にさらすきっかけとなるのか、見ていきましょう。
+（00:02:27）</p>
+<p>お越しいただきありがとうございます。
+「いいね」ボタンを押していただけると、チャンネルの運営に役立ちます。また、今後のコンテンツの配信をご希望の方は、ぜひチャンネル登録をお願いします。
+クリス・ラド、ラド・ファイルへようこそ。
+金属試料の概要分析。
+それほど長いレポートではありません。
+オークリッジ国立研究所。
+はじめに。
+オールドメイン・アノマリー・リゾリューション・オフィスは、主にマグネシウムと亜鉛で構成され、ビスマスと他の同位元素の帯を持つ層状物質試料の一連の測定を後援しました。
+（00:03:06）</p>
+<p>この物質標本は、その起源と目的について長年にわたる議論の的となっているが、1947年頃に発生した未確認の異常現象の墜落現場から回収されたと主張されている。
+ということは、これはロズウェル事件のものなのか？
+ロズウェル事件で回収されたとされる物質。
+さらに、この標本の物理化学的性質から、この物質は慣性質量減少を起こすことが可能であると主張されている。
+つまり、ビスマスとマグネシウムの層がテラヘルツ波の導波路として作用することで、IEの浮上や反重力機能が可能になる可能性がある。
+（00:03:42）</p>
+<p>では、テラヘルツ信号処理はどこまで進んでいるのでしょうか？
+（00:03:47）</p>
+<hr>
+<p>これは2022年2月8日の記事です。
+そして、テラヘルツ通信システムの完全な展開において、導波路は極めて重要な役割を果たします。
+でも、かなり制限されているよね？
+信号の伝送以外にも、革新的なテラヘルツ導波管には、多機能な信号処理機能を提供することが求められています。
+つまり、信号の伝送はできるけど、多機能な信号処理機能を実現するには、まだ革新的なテラヘルツ導波管が必要ということですね。
+（00:04:17）</p>
+<p>基本的には、まだそこまで到達していません。
+では、先ほどの報告書に戻りますが、米国陸軍戦闘能力開発司令部（DEFCON）は、スターズ・アカデミーと共同研究開発協定（CRADA）を締結し、この広く議論されている標本に関連する破壊的技術の可能性を評価しました。
+ル・アルゾンドは、基本的にこのCRADAの研究調査官の1人でした。
+（00:04:48）</p>
+<p>2022年に設立されたAEROは、UAP事件の過去の記録を調査し、その結果を公表することを議会から義務付けられています。
+はい、議会から義務付けられています。国防総省ではなく、国防総省が運営しているようですが。
+標本の長い保管履歴は確認できませんが、標本に対する一般市民とメディアの関心は、科学的方法に従った透明性のある調査を保証しました。
+つまり、標本に対する一般市民とメディアの関心です。
+（00:05:15）</p>
+<p>TTSA DEFCON CRADAに続いて、5回、AEROは科学技術パートナーであるオークリッジ国立研究所を確保しました。オークリッジ国立研究所は米国エネルギー省国立研究所17カ所のうちの1つで、80年にわたる世界トップクラスの材料科学の専門知識を活用し、標本を独自に評価し、徹底的な特性評価研究を実施しました。
+こちらが実際に吹き飛ばされた標本です。
+材料特性評価の専門家であるオークリッジには、多様な専門知識を持つスタッフと強力な機器群が備わっており、個々の研究所の能力を超える厳密な科学的調査が可能です。
+(00:05:55)</p>
+<p>したがって、この標本とその性質を公平に分析し、科学的整合性を維持する上で、非常に適格な機関である。
+ちょうどカーパトリックを雇った、公平に、ちょうどカーパトリックを雇った。
+AEROは、オークリッジに、この標本が地球起源であるかどうか、そして標本に含まれるビスマスがテラヘルツ波の導波路として作用する可能性があるかどうかを評価するよう依頼した。
+それが彼らの依頼内容だった。
+ジョン・グリーンウォルドが言ったように、実際にオークリッジに仕事を依頼した時、AEROはショーン・カークパトリックが運営していたのでしょう。
+（00:06:30）</p>
+<p>DEVCOM、地上車両システムセンターは、オークリッジに金属標本、単一親サンプル、2023年2月から採取された3つの副サンプルへのアクセスを提供しました。
+カークパトリックがまだそこにいた時期ですね。
+オークリッジの材料科学分析では、顕微鏡、分光法、分光分析などの複数の方法を用いて、サンプルの構造、化学組成、同位体比を評価しました。
+その結果は、以前のDEVCOM分析と一致し、ビスマス層の構造と組成はテラヘルツ波の導波路として必要な要件を満たしていないことを示しました。
+（00:07:08）</p>
+<p>さらに、すべてのデータが、その物質が地球起源であることを強く裏付けています。
+つまり、それが事実だと思います。
+つまり、彼らの分析によると、その物質は地球起源であり、テラヘルツ波の導波路として実際に機能することさえできないという結論に達したのです。
+（00:07:27）</p>
+<hr>
+<p>分析方法、すべての分析、物質の利用は、STARSアカデミーによって承認され、監督されていました。
+そして、オークリッジ研究所が試料を受け取る前に、すべての分析はエアロとDEVCOMによって事前に承認されていました。
+わかりました。
+形態と微細構造の特徴は、光学顕微鏡、つまり標準的な顕微鏡分析、コンピュータ断層撮影、別名CTスキャン、つまり試料を傷つけることなく3D画像を作成するX線画像手順を使用して調査されました。
+（00:07:59）</p>
+<p>走査型電子顕微鏡。
+彼らは、エネルギー分散型X線分光法という手法を用いて、より高い解像度で2D画像を生成し、微細構造と元素組成の分析を可能にした。
+エネルギー分散型X線分光法では、高エネルギー電子ビームを試料の薄い箔に通し、結晶構造、結晶粒、特徴的な形態、欠陥、元素組成を、すべてナノメートルからサブナノメートルの解像度で分析する。
+（00:08:34）</p>
+<p>わかりました。
+また、バルク化学、元素、同位体組成の分析も行いました。質量分析技術を使用して同位体を調べ、サンプル内の元素とその存在量、同位体組成を特定しました。
+それが、それが地球起源であると判断した理由だと思います。
+トレーサブルな品質管理基準とメソッドブランクをすべての分析で実行し、十分な整合性と機器性能を監視しました。
+（00:09:04）</p>
+<p>わかりました。
+その結果、形態と構造データは複数の画像アプローチで一貫しており、この物質はさまざまな点で融合したり分岐したりする明確な層から構成されていることが示されています。
+界面には亀裂やその他の特徴が見られ、オークリッジ国立研究所は、これらはもともと一体であった物質と一致しているが、熱や機械的な力による長期にわたる負荷によって歪んだものであると断定しました。
+図2はCTを使用して構築された試料の画像です。
+（00:09:34）</p>
+<p>右下に見えるのは、熱による損傷を受けたと思われる端の部分です。
+走査型電子顕微鏡を用いた化学組成分析によると、マグネシウムと亜鉛が試料中に最も多く含まれる元素であることが判明しました。それぞれ、試料全体の約97.5%と2%を占めています。
+（00:10:02）</p>
+<p>マグネシウムが97.5%、亜鉛が2%です。
+表1で検出された微量元素は、鉛とビスマスで、鉄とマンガンもわずかに検出されました。
+さらに、最も感度の高い分析手法である誘導結合プラズマ質量分析法（ICP-MS）により、カドミウム、タリウム、金、モリブデン、スズ、バリウムが微量に存在することが明らかになりました。
+検出された元素の量が検量線の下限を下回ったり、検出限界を下回ったりした場合は、その元素は表1に表示されませんでした。
+（00:10:43）</p>
+<p>それでは、後方散乱電子像、電子像、エネルギー分散型X線分光法、EDSマップを、1つのサブサンプルから取得します。
+これは炭素マップで、埋め込まれたエポキシ樹脂を示しています。
+マグネシウムマトリックスがはっきりと見えます。
+マグネシウムの母材と、その亀裂が実際に確認できます。
+実際の固体母材に亀裂があることが確認できます。
+（00:11:11）</p>
+<hr>
+<p>亜鉛マップは、亜鉛含有量が高い領域と低い領域を示しています。
+鉛とビスマスのマップの上部には、同じ層が見えます。
+結晶構造は、固体がいかにして作られるかを示しています。
+つまり、すべての固体には何らかの内部結晶構造があるということですね？
+私は大学で材料科学を専攻していました。
+空軍士官学校でです。
+材料科学を本格的に学んだのはもう24年も前のことですが、それが私の専門分野です。</p>
+<p>（00:11:44）</p>
+<p>TEM電子顕微鏡により、試料中のマグネシウムの結晶構造は一般的なマグネシウム合金の構造と一致することが明らかになりました。
+つまり、マグネシウムの破壊方法は一般的なマグネシウム合金構造に通常見られるものだということです。
+レーザーアブレーションにより、亜鉛成分のバンド構造と、そのバンドに層状に存在する鉛とビスマスの共在が明らかになりました。
+ビスマスが豊富な部分は明確な結晶構造を欠いており、非晶質マトリックスの中に非常に微細な結晶ポケットで構成されているように見えます。
+（00:12:20）</p>
+<p>そのため、純粋な単結晶ビスマスが薄い単層構造になっている場合、導波路として機能する可能性があると考えられています。導波路とは、電気やエネルギーのフィールドを乱したり、方向付けたりする材料で、この場合はテラヘルツ波です。
+つまり、極薄の単層構造になっているビスマスがテラヘルツ波として作用できる可能性があるという議論です。
+これは推測に基づく議論です。
+（00:12:46）</p>
+<p>非常に小さいマイクロスケールの波長を持つ電磁波です。
+熱ストレスの疑いを含む試料へのダメージにより、試料の元の構造を明確に述べることはできませんが、現在の試料の調査された層におけるビスマスの非晶質およびナノ結晶の外観は、材料内に純粋な結晶質のビスマス層が存在しなかったことを示している可能性が高いです。 オークリッジの分析によると、材料の非晶質およびナノ結晶の外観は、
+（00:13:16）</p>
+<p>オークリッジ研究所の分析によると、ビスマスの非晶質およびナノ結晶の外観は、純粋な結晶層が存在しないことを示しています。
+さらに、このような理論上のビスマスに基づく導波路の構造は、異なる誘電率を持つ物質の間に単層で存在することが必要であると仮定されています。
+しかし、材料全体に複数のビスマス層が存在しても、この導波路機能を達成したり改善したりできるとは仮定されていません。
+(00:13:46)</p>
+<p>実際、複数の層は、その機能に干渉する可能性があります。
+したがって、試料内の不純物ビスマスの層状構造は、導波路として機能することを妨げる可能性が高いと考えられます。
+つまり、完璧な結晶構造の中には導波路として機能する薄い層が存在しないだけでなく、層状になっているというのです。
+そして、ビスマス層は、この種のテラヘルツ波導波路の選択肢を妨げるだろうと彼らは主張しています。
+（00:14:12）</p>
+<p>そして、彼らはここで、最終的に、仮定上のビスマス使用法に基づいて、ビスマスが導波路として機能するために必要な誘電特性が、試料中のビスマスが鉛と共存し混合されているため、この材料では破壊されているだろうという結論に達しました。これらの調査結果に基づき、オークリッジ国立研究所は、この材料がビスマスベースのテラヘルツ導波路として機能した可能性は極めて低いと決定しました。
+（00:14:36）</p>
+<p>OK、これは側面からのもので、基本的に、ビスマスに含まれる青色の層は、ビスマスが複数層重なっているため、テラヘルツ波の導波路として使用されるのを妨げる、ということを意味しています。
+（00:14:49）</p>
+<hr>
+<p>彼らの主張です。
+同位体分析の最終セクションを用意してください。
+マルチコレクターICP分析により、試料のマグネシウムと鉛の同位体組成は、地球上で製造・使用されている他の物質と一致することが示されました。
+これが今ご覧になっている図です。ちょっと待って、図7を表示します。
+同位体は、質量が異なる同じ元素のさまざまな形態であり、その割合が化学的性質に影響を与え、同位体が発見された物質の歴史に関する情報を明らかにします。
+（00:15:24）</p>
+<p>すべての元素には同位体があり、さまざまな同位体の量の比率は同位体シグネチャと呼ばれ、化学分析における指紋のようなものです。
+そのため、彼らは同位体比を探しており、興味深い同位体比は、地球外物質の指標、指紋となる可能性があります。
+この試料のマグネシウム同位体比は分画されていますが、これはおそらく、この物質が受けたと思われる機械的および熱的歪みのためと考えられますが、通常の地球組成の範囲内であり、分画の予想トレンドラインに正確に一致しています。
+（00:16:00）</p>
+<p>図6の分画の予想トレンドラインを参照しています。
+彼らはそう言っているのです。
+それは壊れていたので、壊れた分画線に沿って落ちていくのです。
+彼らは、それが本質的に壊れていたので、それを説明しているのです。
+それが、奇妙な同位体比を生み出している理由です。
+それぞれの恒星系は、その地域の星形成領域から受け継いだマグネシウム同位体組成を持っています。
+図6は、太陽系内で生成されたさまざまな物質のマグネシウム同位体シグネチャを示しています。
+（00:16:34）</p>
+<p>下図の直線は、質量に基づく同位体シフトの種類を定義する、動的および平衡質量分画傾向線です。
+分画は、化学反応や物理的プロセス（例えば
+製造や採掘）によって発生し、天然および人工材料とその構成成分の寿命の間は通常発生します。
+図6の物質（試料を含む）は、分画傾向線上またはその付近に位置しており、その出発組成はかつて同じであり、分画の結果、系統的に変化したことを強く示唆しています。
+（00:17:16）</p>
+<p>物質が太陽系外から来た場合、マグネシウム同位体シグネチャは、図6の上部グラフのほぼどこにでもプロットされる可能性があります。
+しかし、この試料のデータは、太陽系特有の既知の組成に対する予想される分画傾向線内に正確にプロットされています。
+これがその議論です。地球と他の物質がここにありますね。
+そして、私にとって興味深いのは、隕石が地球のすぐそばにあることです。
+(00:17:46)</p>
+<p>つまり、隕石は太陽系から来たに違いないのです。
+隕石が地球と同じ場所にあるのはそのためです。
+ご存知のように、私たちが理解している限りでは、そして議論もあると思いますが、オウムアムアは太陽系外天体としては初めてのものでした。
+それが、エイヴィ・ローブがIM2を探していた理由です。
+つまり、別の隕石が地球に衝突したとしても、その速度や方向、どこから来たのかに基づいて、太陽系外のものかもしれない、と彼は言ったのです。
+（00:18:13）</p>
+<p>ですから、その同位体は別の場所にプロットされるはずです。
+つまり、この線上にはない。
+彼らはマグネシウムの同位体比を言っている。つまり、マグネシウムの同位体同盟。
+（00:18:25）</p>
+<hr>
+<p>他の同位体はどうですか？
+違いがあるのでしょうか？
+それから、サンプルAの分画。
+サンプルAを置くと、分画の線上にぴったりと当てはまる。
+興味深い。
+より複雑ではなく、彼らは続ける。
+標本の鉛同位体シグネチャは、一般的な鉛と完全に一致しています。
+地球上や地球物質に自然界に存在する組成です。
+これが今ご覧になっている図です。
+（00:18:53）</p>
+<p>月の物質とも明確に区別されており、この物質が地球で生成された可能性が高いことを示しています。
+鉛の同位体比はさらに決定的であり、基本的に月のものよりも地球由来の同位体比に近いということです。
+ご覧になっているのはこれですね？
+同位体比207対206、これは204対206です。
+X軸は鉛204と鉛206の関係、縦軸は鉛207と鉛206の関係を表しています。
+（00:19:28）</p>
+<p>ここで興味深いのは、月の砂が左側に大きく偏っていることです。
+つまり、鉛206に関連する鉛204の同位体は基本的にゼロということです。
+鉛204は基本的にゼロです。
+206に関連する207の地球由来の物質よりも少ない量です。
+ですから、このサンプルはチャートと一致していません。
+彼らは、彼らが調査しているサンプルは、地球由来の物質の中心に一致していると言っています。
+（00:20:02）</p>
+<p>鉛の同位体比に基づいて、彼らはそう言っています。
+それは地球由来の物質と一致しています。
+さて、ここで簡単に結論を言います。
+Aeroは、オークリッジ国立研究所に、この歴史的な標本が地球外起源であり、ビスマスベースのテラヘルツ波ガイドとして機能できるとする主張を立証または反証するために必要な要件を独自に評価するよう依頼しました。
+この試料の起源、保管状況、最終的な目的については依然として不明ですが、その化学的・構造的組成と性質を最新の強力な分析法で調べた結果、その起源が地球外であるとは考えられず、また、調査した物質にテラヘルツ波ガイドとして作用する可能性のある純粋な単結晶ビスマス層が存在していたというデータもありません。
+(00:20:48)</p>
+<p>この物質が過去に意図的または実際に使用されたかどうかは不明ですが、オークリッジ研究所は、現在の基準では珍しい元素の混合物が使用されているものの、この物質は地球上で製造されたものであると、また、機械的および熱的ストレスによって損傷を受けたものであると、すべてのデータが示していることに高い信頼性を置いています。
+なるほど、興味深い結論ですね。
+私が重要だと思うのは、現在の基準では珍しい元素の混合物を使用しているものの、と彼らは言っていることです。
+（00:21:18）</p>
+<p>つまり、現代の基準からすると珍しい元素の混合であるとしても、それがどこから来たのか、どのように製造されたのか、まだわからないということのようです。
+彼らはそれを分析しなかったんですね？
+彼らは分析しました。ビスマス結晶構造を通してテラヘルツ波導波路として実際に使用可能かどうか、ですね。しかし、それは不可能だということがわかった。
+そして、それは地球上の物質から作られたものであると決定した。つまり、基本的に地球上で作られたものである。
+（00:21:46）</p>
+<p>しかし、彼らの見解では、それは非常に特殊で、非常に狭い範囲のものであるように見えますね？
+（00:21:49）</p>
+<hr>
+<p>それは何か他の用途に使われた可能性はあるのでしょうか？
+それは何のために使われたのでしょうか？
+それは何から作られたのでしょうか？
+彼らはそれを特定できなかった。
+それは興味深いですね。
+彼らはそれを特定できなかったが、同位体比は地球上の元素の通常値であるとし、テラヘルツ波ガイドとして使用できるとは考えていないと述べた。
+ショーン・カルパチェクがアロー社を退社後、再び就職したオークリッジ研究所によると、彼らはそれが未確認飛行物体（UAP）の材料であるとは考えておらず、テラヘルツ波ガイドとして使用できるとは信じていない。
+(00:22:21)</p>
+<p>しかし、ジョン・グリーンウォルドが言ったように、ルー・アルゾンダの反応を聞くのは非常に興味深いでしょう。
+彼の本に載るのでしょうか？
+これについて何かありますか？
+スターズ・アカデミーについてはどうですか？
+トム・デロング、ハル・プトフ、その人たち全員。
+とても興味があるので、最終的な答えを聞くことはできますか？
+彼らはこの分析を否定するのか、それとも支持するのか？
+いずれにしても、私たちは知るでしょう。
+ご視聴ありがとうございました。
+(00:22:45)</p>
+<p>いいねボタンを押してください。
+本当に助かりますし、無料です。
+今後の動画公開通知を受け取るために、ぜひチャンネル登録もお願いします。
+この動画も気に入っていただけるかもしれません。
+チャンネルをサポートしたい方は、こちらの素晴らしい方々に参加して、限定ボーナスコンテンツを入手し、こちらのボタンをクリックしてください。patreon.comスラッシュクリス・スラト、またはYouTubeメンバーになってください。
+議論を続けたい場合は、UAP Society Discordにアクセスしてください。
+(00:23:13)</p>
+<p>リンクはすべて説明文に記載されています。
+良い一日を。</p>
+<p>(00:23:18)</p>
+<hr>
+<p>So Aero, the alternate domain anomaly resolution office, so the US DOD's UFO investigation arm has just released the analysis of a metallic specimen synopsis from Oak Ridge National Laboratory.
+Go through it shortly.
+Just be advised Aero has from the get-go, basically minute one has been totally skeptical of any sort of ET alien involvement.
+Everything they have released has been to debunk any claims of non-human intelligence or extraterrestrial involvement.
+(00:00:38)</p>
+<p>So don't get your hopes up, but it'll be interesting to see what happens from this.
+Greenwald posted, DOD analysis on an alleged extraterrestrial ally was done by Oak Ridge National Labs.
+Interesting point here, Dr.
+Sean Kirkpatrick, former head of Aero, most likely was in charge of contracting at the time.
+So Sean Kirkpatrick, who seems extremely skeptical and has been much demised by the UFO community, he has since retired from Aero and was hired by Oak Ridge National Labs, and you cannot make this stuff up.
+(00:01:17)</p>
+<p>It was hired by Oak Ridge National Labs.
+Amazing.
+John makes a further interesting point that those who can refute these findings by Aero and reveal a massive coverup in relation to this specific case are to the Stars Academy, to the Stars Media Earth Files, Dr.
+Hal Putoff and Lou Elizondo, who was the principal investigator listed on the CRADA.
+So as Greenwald says, I hope they do refute it if they can, or if they agree now in 2024 with Aero's findings, I hope they say so, and we can all move on from this specific story.
+(00:01:56)</p>
+<p>It has lingered for many years and literally tens of thousands of dollars have exchanged hands with the ownership of the material that we know of, because the Army also did independent from Oak Ridge investigated it.
+So John says, time to put this to rest or blow the coverup wide open, whichever it is, so we'll go through the report now and see, could this be a flashpoint to actually determine that it's not real or blow open the coverup wide open as Greenwald says.
+(00:02:27)</p>
+<p>Thanks for being here.
+Please hit the like button, really helps the channel and subscribe for future content.
+Chris Lado, welcome to Lado Files.
+Synopsis analysis of a metallic specimen.
+Not that long of a report.
+Oak Ridge National Laboratory.
+Introduction.
+The All Domain Anomaly Resolution Office sponsored a series of measurements on a layered material specimen primarily composed of magnesium and zinc with bands of bismuth and other co-located trace elements.
+(00:03:06)</p>
+<p>The material specimen, whose origin and purpose are of long and debated history is claimed to be recovered from an unidentified anomalous phenomena crash in or around 1947.
+So could this be from Roswell?
+Claimed Roswell crash material.
+Furthermore, the specimen physiochemical properties are claimed to make the material capable of inertial mass reduction.
+So IE levitation or anti-gravity functionality, possibly attributable to the materials bismuth and magnesium layers acting as a terahertz waveguide.
+(00:03:42)</p>
+<p>So where are we at in terahertz signal processing?
+(00:03:47)</p>
+<hr>
+<p>This is a article from 8 February, 2022.
+And waveguides play a pivotal role in the full deployment of terahertz communication systems.
+But we're pretty limited, right?
+Besides signal transporting, innovative terahertz waveguides are required to provide versatile signal processing functionality.
+So it sounds like you can do some signal transporting, but we still need innovative terahertz waveguides do any sort of versatile signal processing functionality.
+(00:04:17)</p>
+<p>We're still not there yet, basically.
+So back to the report previously, US Army Combat Capabilities Development Command, DEFCON, established a Cooperative Research and Development Agreement, so that's a CRADA, to the Stars Academy, to evaluate the feasibility of exploiting any potential disruptive technology associated with this widely discussed specimen.
+So we'll see, Lew Alzondo was basically one of the investigating officers in that CRADA, Cooperative Research and Development Agreement.
+(00:04:48)</p>
+<p>AERO, founded in 2022, is congressionally mandated to explore historical records of UAP incidents and publicly report its findings.
+Yes, congressionally mandated, not by the DOD, but it seems to be run by the DOD.
+Although the long chain of custody for the specimen cannot be verified, public and media interest in the specimen warranted transparent investigation that adhered to the scientific method.
+So public and media interest in the specimen.
+(00:05:15)</p>
+<p>Subsequent to the TTSA DEFCON CRADA, say that five times, AERO secured science and technology partner Oak Ridge National Laboratory, one of 17 US Department of Energy National Laboratory, to independently assess and perform thorough characterization studies on the specimen, leveraging Oak Ridge's 80-year history of world-leading material science expertise.
+Here is the actual specimen blown out.
+Oak Ridge, an expert in materials characterization, has the diverse staff expertise and co-located powerful instrumentation suites to allow rigorous scientific inquiry beyond the capabilities of most individual laboratories.
+(00:05:55)</p>
+<p>Therefore, it's a highly qualified institution to maintain scientific integrity in its unbiased analysis of this specimen and its property.
+That just hired Kirkpatrick, unbiased, just hired Kirkpatrick.
+AERO tasked Oak Ridge with assessing whether the specimen is of terrestrial origin and the bismuth in the specimen could act as a terahertz waveguide.
+So that's what they asked.
+And as John Greenwald said, when they actually tasked Oak Ridge, AERO was probably run by Sean Kirkpatrick.
+(00:06:30)</p>
+<p>DEVCOM, Ground Vehicle Systems Center, provided Oak Ridge access to the metallic specimen, a single parent example, and three previously derived subsamples, all from the same material, beginning in February 2023.
+So that's when Kirkpatrick was still there as well.
+Oak Ridge material science analysis evaluated the sample structure, chemical composition, and isotope ratios via multiple methods, including microscopy, spectroscopy, and spectrometry.
+Results align with previous DEVCOM analysis, indicating that the structure and composition of the bismuth layers do not meet the requirements necessary to serve as terahertz waveguide.
+(00:07:08)</p>
+<p>Furthermore, all data strongly support that the material is terrestrial in origin.
+So I think those are the facts.
+So basically their findings are that it is terrestrial in origin and it could not actually even work as a terahertz waveguide based on their analysis.
+(00:07:27)</p>
+<hr>
+<p>So methods, all analysis and materials utilization were authorized and overseen by to the STARS Academy.
+And all analysis were pre-approved by Aero and DEVCOM before Oak Ridge received the specimen.
+Okay.
+So morphology and microstructural characteristics were investigated using the following techniques, optical microscopy, so standard microscope analysis, computerized tomography, aka a CT scan, that's x-ray imaging procedure that produces a 3D image of the sample without damaging it.
+(00:07:59)</p>
+<p>A scanning electron microscope.
+So they used energy dispersive x-ray spectroscopy technique that produces 2D images at higher resolution to allow analysis of microstructure and elemental makeup, they use a scanning transmission electron microscope.
+So energy dispersive x-ray spectroscopy, they pass high energy electron beam through a thin foil of the sample, allowing analysis of the crystal structure, grain, feature morphology and defects, as well as an elemental makeup, all with nanometer to sub nanometer resolution.
+(00:08:34)</p>
+<p>Okay.
+They also did analysis of the bulk chemical, elemental and isotopic composition, so they looked at the isotopes using mass spectrometry techniques, and that's really to identify the elements, their abundance within a sample and their isotopic composition.
+So I'm guessing that's how they determined that it was terrestrial in nature.
+Traceable quality control standards and method blanks were run throughout all analysis to monitor ample integrity and instrument performance.
+(00:09:04)</p>
+<p>Okay.
+So the results, morphology and structure data are consistent across multiple imaging approaches, showing that the material consists of distinct layers that merge and diverge at various points throughout the material.
+Interfaces showed fractures and other features that Oak Ridge determined are consistent with the material that was originally whole, but was strained by heat exposure and mechanical forces, possibly for extended periods.
+Figure two shows images of the specimen constructed using CT.
+(00:09:34)</p>
+<p>So I think they're showing here, the bottom right, the edge with probable heat damage, looks like heat damage here, and the layer nature of the material is what they wanted to show.
+As far as the chemical composition analysis using scanning electron microscope, determined that magnesium and zinc are the primary elements present in the specimen, comprising approximately 97.5% and 2% of the material respectively.
+(00:10:02)</p>
+<p>So it's 97.5% magnesium and 2% zinc.
+Minor elements detected in table one were lead and bismuth with lesser trace amounts of iron and manganese.
+Inductively coupled plasma mass spectrometry, the most sensitive analysis technique performed additionally revealed the presence of small amounts of cadmium, thallium, gold, molybdenum, tin and barium.
+If a detected element abundance fell beneath the lower bound of the calibration curve or below the method detection limit, then the element was not displayed in table one.
+(00:10:43)</p>
+<p>So backscattered electron image, electron image and energy dispersive x-ray spectrometry, EDS maps from one sub sample.
+This is the carbon map indicates the embedded epoxy.
+The magnesium matrix is clearly visible, it says.
+So you can actually see the matrix of magnesium along with the cracks in the matrix.
+So actually seeing the cracks in the actual solid matrix, so how it's formed.
+(00:11:11)</p>
+<hr>
+<p>The zinc maps shows regions of higher and lower zinc content, so in the layers.
+And at the top of the lead and bismuth maps, co-located layers are visible.
+So crystalline structures now, how the solids actually made.
+So all solids have some sort of internal crystal structure, right?
+I was a material science major in university, so at the Air Force Academy.
+It's been obviously 24 years since I really studied material science, but that is my major.
+(00:11:44)</p>
+<p>So TEM electron microscope revealed that the crystalline structure of magnesium in the specimen was consistent with common magnesium alloy structures.
+So they say that the way the magnesium is broken out is normal for common magnesium alloy structures.
+Laser ablation revealed banding of zinc components along with layered co-location of lead and bismuth in the bands.
+The bismuth rich portions of the specimen lack to clear crystalline structure instead appearing to consist of highly nanocrystalline pockets in an otherwise amorphous matrix.
+(00:12:20)</p>
+<p>So pure single crystalline bismuth in a single thin layer has been postulated to have the ability to function as a waveguide, a material that can disrupt or direct an electric or energy field, in this case, terahertz waves.
+So that's the argument is that the bismuth in a super fine thin layer is able to act as a terahertz wave.
+This is the speculative argument.
+(00:12:46)</p>
+<p>So electromagnetic waves with micro scale wavelengths, very small.
+Although the damage to the specimen, including suspected heat stress, precludes a definitive statement describing the specimen's original structure, the amorphous and nanocrystalline appearance of the bismuth in the examined layers of the current specimens likely indicates that a pure crystalline layer of bismuth was never present within the material. So Oak Ridge analysis says the amorphous and nanocrystalline appearance of the material.
+(00:13:16)</p>
+<p>So Oak Ridge analysis says the amorphous and nanocrystalline appearance of the bismuth indicates that a pure crystalline layer, so that one perfect crystal layer of bismuth thin layer was never present in the material.
+They continue, moreover, the postulated structure of such a theoretical bismuth based waveguide requires it to be in a single layer between a material possessing a different dielectric constant.
+However, multiple bismuth layers throughout a material have not been postulated to be capable of achieving or improving this waveguide functionality.
+(00:13:46)</p>
+<p>In fact, multiple layers could instead interfere with such such functionality.
+Thus, the layered nature of the impure bismuth within the specimen likely precludes it from acting as a waveguide.
+So they say is not only is there no thin layers in a perfect crystalline structure that could act as waveguides, but it's layered.
+And they say layers of bismuth, they argue, would interfere with this sort of terahertz waveguide option.
+(00:14:12)</p>
+<p>And they finish here, finally, based on the postulated hypothetical uses of bismuth, the dielectric properties necessary for bismuth to function as a waveguide would have been disrupted in this material because the bismuth in the specimen is co-located and mixed with lead. Based on these findings, Oak Ridge determined that this material is highly unlikely to have ever functioned as a bismuth based terahertz waveguide.
+(00:14:36)</p>
+<p>OK, and this is from the side is basically saying that the layers of blue here in bismuth, right, there's multiple layers of bismuth, and so that would interfere with it being used as a terahertz waveguide.
+(00:14:49)</p>
+<hr>
+<p>It's their argument.
+Get a final section on isotope analysis.
+So multi-collector ICP analysis showed that the specimen's magnesium and lead isotope composition is consistent with other materials manufactured and used terrestrially.
+So this is the figure you see right here, show figure seven in a minute.
+Isotopes are varying forms of the same element with differing mass and their proportions affect the chemical properties and reveal information about the history of the material within which the isotopes are found.
+(00:15:24)</p>
+<p>All elements have isotopes and the ratio between the amounts of various isotopes is called the isotopic signature, which is akin to a fingerprint in chemical analysis.
+So that's why they look for isotopic ratios and some interesting isotopic ratio could be an indicator, a fingerprint of an extraterrestrial item.
+The magnesium isotopic signature of the specimen is fractionated, possibly owing to the mechanical and heat strain that the material appears to have undergone, but falls within normal terrestrial compositions and precisely within the expected trend lines of fractionation.
+(00:16:00)</p>
+<p>The reference here to figure six, expected trend line of fractionation.
+So that's what they say.
+It was broken and so it's falling right along the broken fractionation line.
+So they're explaining it because it was essentially fractured.
+That's why it's coming up with a weird isotopic ratio.
+Each star system has a magnesium isotopic composition that was inherited from its local star forming region.
+Figure six shows the magnesium isotopic signature of various materials originating within our solar system.
+(00:16:34)</p>
+<p>The straight lines in the bottom graphic representation are the kinetic and equilibrium mass fractionation trend lines, which define the types of isotopic shifts incurred on the basis of mass.
+Fractionation occurs due to chemical reactions and physical processes, e.g.
+manufacturing and mining, and is normal during the lifespan of natural and manufactured materials and their components.
+The materials in figure six, including the specimen, fall on or near the fractionation trend lines, strongly indicating that their starting compositions were once the same and have been systematically changed as a result of mass fractionation.
+(00:17:16)</p>
+<p>If a material originated outside our solar system, its magnesium isotopic signature could plot nearly anywhere in the top graphic representation of figure six.
+Instead, the specimen's data plots precisely within the expected fractionization trend lines for known compositions specific to our solar system.
+So that's the argument. You can see Earth here as well as other materials.
+And interesting to me is meteorites is right here with Earth.
+(00:17:46)</p>
+<p>So it must be coming from our solar system.
+That's why meteorites would be in the same place as Earth.
+You know, Oumuamua, as far as we understand, and I guess there's some controversy, Oumuamua was the first extrasolar object.
+And that's why Avi Loeb was looking for IM2.
+So another meteor crashed into Earth, he said, could be extrasolar based on its speed direction, where it's coming from.
+(00:18:13)</p>
+<p>So its isotope should plot somewhere else.
+So not on this line.
+They're saying isotopic ratio of magnesium, so the magnesium isotope alliance.
+(00:18:25)</p>
+<hr>
+<p>What about other isotopes?
+Would that make a difference?
+And then this fractionization of sample A.
+So they put sample A, it says it falls right on the line of fractionation.
+So it is interesting.
+Less complexly, they continue.
+The lead isotopic signature of the specimen is fully consistent with common lead.
+Compositions that exist naturally on Earth and within terrestrial material.
+So this is the figure you're looking at now.
+(00:18:53)</p>
+<p>Distinctly separate from even lunar materials, indicating it is extremely likely that the material originated on Earth.
+So they say that the lead isotope ratio was even more conclusive and basically aligns more with terrestrial Earth-based isotopic ratios than even the moon.
+I think you're seeing here, right?
+So isotopic ratio 207 to 206, and this is 204 to 206.
+So the x-axis is lead 204 related to lead 206, and the vertical axis is lead 207 related to lead 206.
+(00:19:28)</p>
+<p>And what's interesting here is the lunar glasses are way over here on the left.
+So they have basically zero isotopes of 204 related to 206.
+So basically zero of 204.
+They do have, and they have less than Earth-based materials of 207 related to 206.
+So they're not aligned with the chart and they say sample that they're looking at is aligned right here.
+So in line with right in the middle of terrestrial objects.
+(00:20:02)</p>
+<p>That's what they say based on the lead isotopic ratio.
+It aligns with terrestrial material.
+Okay, short conclusion here.
+Aero secured Oak Ridge National Laboratory to independently assess the requirements necessary to confirm or contest public claims that this historical specimen is of non-terrestrial origin and that it is capable of functioning as a bismuth-based terahertz waveguide.
+Although the origin, chain of custody, and ultimate purpose of the specimen remain unclear, a modern and robust analysis of its chemical and structural composition and properties does not indicate that its origin is non-terrestrial, nor do the data indicate that the material examined ever had the pure singling crystalline bismuth layer that could possibly have acted as a terahertz waveguide.
+(00:20:48)</p>
+<p>The intended or actual past use of the material remains undetermined, but Oak Ridge has a high level of confidence that all data indicate the material was manufactured terrestrially, albeit using an uncommon mixture of elements by today's standards, and that incurred damage caused by mechanical and heat stressors.
+Okay, so interesting conclusion there.
+What I found important is they say, albeit using an uncommon mixture of elements by today's standards.
+(00:21:18)</p>
+<p>So it sounds like they still don't know where it came from or how the material was manufactured if it's an uncommon mixture of elements by today's standards.
+So they didn't analyze that, right?
+They analyzed, could it actually be used as a terahertz waveguide through that bismuth crystalline structure, right, which they found that could not be the case.
+And they determined it was made through terrestrial materials, so made basically on earth.
+(00:21:46)</p>
+<p>But seems kind of specific, kind of narrow in their view, right?
+(00:21:49)</p>
+<hr>
+<p>Could it have been used for anything else?
+What was it used for?
+What was it made?
+So they couldn't identify it.
+So that's interesting.
+They couldn't identify it, but they did say that the isotopic ratios seem normal for terrestrial elements, and they don't think it could be used as a terahertz waveguide.
+So according to Oak Ridge, which again, Sean Karpaczek went to work for after he left Arrow, they don't think it is a UAP material, and certainly they don't believe it could be used for terahertz waveguide.
+(00:22:21)</p>
+<p>But as John Greenwald said, it'd be very interesting to hear responses from Lew Alzonda.
+Will it be in his book?
+Anything about this?
+What about to the Stars Academy?
+Tom DeLonge, Hal Puthoff, all those guys.
+So curious to hear, can we get a final answer?
+Do they refute this analysis or do they support it?
+And either way, we'll know.
+Thank you for watching.
+(00:22:45)</p>
+<p>Please hit the like button.
+It really helps, and it's free.
+Consider subscribing to get future notifications of when I release videos.
+And you might like this video.
+If you want to support the channel, join these great people over here, get exclusive bonus content, then click this button here, patreon.com forward slash Chris Slato, or become a YouTube member.
+If you want to continue the discussion, go to UAP Society Discord.
+(00:23:13)</p>
+<p>Links are all in the description.
+Have a great rest of your day.
+Peace.
+(00:23:18)</p>
+<p>(2024-07-21)</p>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Oak Ridge 国立研究所による「Roswell金属破片分」の析結果報告書：pdf → テキスト抽出 → 和訳]]></title>
+        <id>https://ouchaku.github.io/ds/blog/2024/07/21/synopsis_analysis</id>
+        <link href="https://ouchaku.github.io/ds/blog/2024/07/21/synopsis_analysis"/>
+        <updated>2024-07-21T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[前置き]]></summary>
+        <content type="html"><![CDATA[<a href="https://ouchaku.github.io/ds/img/20240721_specimen.jpg" target="_blank"><img alt="20240721_specimen.jpg" border="0" src="https://ouchaku.github.io/ds/img/20240721_specimen.jpg" width="90%"></a>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="前置き">前置き<a class="hash-link" aria-label="前置き への直接リンク" title="前置き への直接リンク" href="https://ouchaku.github.io/ds/blog/2024/07/21/synopsis_analysis#%E5%89%8D%E7%BD%AE%E3%81%8D">​</a></h2>
+<p>下の pdf から英文テキストを抽出した。その英文テキストを DeepL(New model)で和訳した。以下では図や写真は無視したので、それらは下の出典にある pdf を参照。</p>
+<p>さらに ChatGPT-4o に後述の英文テキスト（参照文献のみ除外）を喰わせて、要約させた。</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="関連">関連<a class="hash-link" aria-label="関連 への直接リンク" title="関連 への直接リンク" href="https://ouchaku.github.io/ds/blog/2024/07/21/synopsis_analysis#%E9%96%A2%E9%80%A3">​</a></h3>
+<p><a href="https://ouchaku.github.io/ds/blog/2024/07/21/roswell_metal_analysys_result">国立研究所で Roswell の墜落 UFO 由来とされる破片を分析 →普通の地球の物質と判明</a></p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="要約by-chatgpt-4o">要約(by ChatGPT-4o)<a class="hash-link" aria-label="要約(by ChatGPT-4o) への直接リンク" title="要約(by ChatGPT-4o) への直接リンク" href="https://ouchaku.github.io/ds/blog/2024/07/21/synopsis_analysis#%E8%A6%81%E7%B4%84by-chatgpt-4o">​</a></h2>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="序論">序論<a class="hash-link" aria-label="序論 への直接リンク" title="序論 への直接リンク" href="https://ouchaku.github.io/ds/blog/2024/07/21/synopsis_analysis#%E5%BA%8F%E8%AB%96">​</a></h3>
+<p>All-Domain Anomaly Resolution Office (AARO)は、1947年頃のUAP（未確認異常現象）の墜落から回収されたとされる、マグネシウムと亜鉛からなる層状物質の標本を分析しました。この標本は「慣性質量の減少」（反重力機能）を持つとされ、ビスマスとマグネシウムの層がテラヘルツ波ガイドとして機能する可能性があるとされています。</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="方法">方法<a class="hash-link" aria-label="方法 への直接リンク" title="方法 への直接リンク" href="https://ouchaku.github.io/ds/blog/2024/07/21/synopsis_analysis#%E6%96%B9%E6%B3%95">​</a></h3>
+<p>分析は光学顕微鏡、CTスキャン、走査電子顕微鏡（SEM-EDS）、透過電子顕微鏡（TEM-EDS）を用いて行われ、化学組成や同位体比も質量分析で評価されました。</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="結果">結果<a class="hash-link" aria-label="結果 への直接リンク" title="結果 への直接リンク" href="https://ouchaku.github.io/ds/blog/2024/07/21/synopsis_analysis#%E7%B5%90%E6%9E%9C">​</a></h3>
+<p>標本は地球起源であり、ビスマス層はテラヘルツ波ガイドとして機能するための要件を満たしていないことが確認されました。</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="結論">結論<a class="hash-link" aria-label="結論 への直接リンク" title="結論 への直接リンク" href="https://ouchaku.github.io/ds/blog/2024/07/21/synopsis_analysis#%E7%B5%90%E8%AB%96">​</a></h3>
+<p>標本は地球上で製造されたものであり、反重力機能や非地球起源の証拠は見つかりませんでした。標本は機械的および熱的ストレスを受けた形跡がありました。</p>
+<p>以上の分析から、標本の科学的および物理的特性が詳細に評価されましたが、非地球起源である可能性は否定されました。</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="出典pdf">出典(pdf)<a class="hash-link" aria-label="出典(pdf) への直接リンク" title="出典(pdf) への直接リンク" href="https://ouchaku.github.io/ds/blog/2024/07/21/synopsis_analysis#%E5%87%BA%E5%85%B8pdf">​</a></h2>
+<p><a href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/ORNL-Synopsis_Analysis_of_a_Metallic_Specimen.pdf?ver=V1rMXfRV-VUb2gjTd4DzVg%3D%3D" target="_blank" rel="noopener noreferrer">https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/ORNL-Synopsis_Analysis_of_a_Metallic_Specimen.pdf?ver=V1rMXfRV-VUb2gjTd4DzVg%3D%3D</a></p>
+<hr style="height:3px;border-width:3px;color:orange;background-color:blue">
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="はじめに">はじめに<a class="hash-link" aria-label="はじめに への直接リンク" title="はじめに への直接リンク" href="https://ouchaku.github.io/ds/blog/2024/07/21/synopsis_analysis#%E3%81%AF%E3%81%98%E3%82%81%E3%81%AB">​</a></h2>
+<p>All-Domain Anomaly Resolution Office (AARO) は、マグネシウムと亜鉛を主成分とし、ビスマスとその他の微量元素の帯状層を持つ積層材料標本の測定を複数回実施しました。この材料標本の起源と目的については、長年にわたり議論されてきた歴史があります。この材料標本は、1947年頃に発生した未確認異常現象（UAP）の墜落現場から回収されたと主張されています。さらに、この試料の物理化学的特性により、この物質は「慣性質量減少」（すなわち、浮遊や反重力機能）が可能であると主張されています。これは、ビスマスとマグネシウムの層がテラヘルツ波の導波路として機能しているためである可能性があります。</p>
+<p>これ以前に、米国陸軍戦闘能力開発司令部（DEVCOM）は、この広く議論されている標本に関連する潜在的な破壊的テクノロジーの利用可能性を評価するために、トゥ・ザ・スターズ・アカデミー（TTSA）と共同研究開発協定（CRADA）を締結しました。</p>
+<p>2022年に設立されたAAROは、UAP事件の歴史的記録を調査し、その調査結果を公開することを議会から義務付けられています。この標本の長い保管履歴は確認できませんが、標本に対する一般およびメディアの関心の高さを考慮し、科学的方法に従った透明性の高い調査を行うことが求められました。</p>
+<p>TTSA-DEVCOM CRADAに続いて、AAROは科学技術パートナーであるオークリッジ国立研究所（ORNL）を確保しました。ORNLは米国エネルギー省が所有する17の国立研究所のひとつであり、80年にわたる世界トップクラスの材料科学の専門知識を活用し、この標本を独自に評価し、徹底的な特性調査を実施しました。</p>
+<p>図1. 受領時のバルク標本の様子。一般公開用に内部サンプル追跡情報を編集したステッカー。</p>
+<p>材料特性評価の専門家である ORNL は、多様な専門知識を持つスタッフと強力な機器群を擁しており、個々の研究所の能力を超える厳密な科学的調査が可能です。そのため、この試料とその特性について公平な分析を行い、科学的整合性を維持する能力に優れた機関です。</p>
+<p>AARO は ORNL に、(1) この試料が地球起源であるかどうか、(2) この試料に含まれるビスマスがテラヘルツ波の導波路として機能する可能性があるかどうかを評価するよう依頼しました。DEVCOM地上車両システムセンターは、2023年2月からORNLに金属試料へのアクセスを提供しました。</p>
+<p>ORNLの材料科学分析では、顕微鏡、分光法、分光分析など、複数の方法を用いて試料の構造、化学組成、同位体比を評価しました。その結果は、DEVCOMによる過去の分析結果と一致し、ビスマス層の構造と組成はテラヘルツ波の導波路として必要な要件を満たしていないことを示しました。さらに、すべてのデータは、この物質が地球起源であることを強く裏付けています。</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="introduction">Introduction<a class="hash-link" aria-label="Introduction への直接リンク" title="Introduction への直接リンク" href="https://ouchaku.github.io/ds/blog/2024/07/21/synopsis_analysis#introduction">​</a></h2>
+<p>The All-Domain Anomaly Resolution Office (AARO) sponsored a series of measurements on a layered material specimen primarily composed of magnesium and zinc, with bands of bismuth and other co-located trace elements. The material specimen, whose origin and purpose are of long and debated history, is claimed to be recovered from an unidentified anomalous phenomenon (UAP) crash in or around 1947. Furthermore, the specimen’s physiochemical properties are claimed to make the material capable of “inertial mass reduction” (i.e., levitation or antigravity functionality), possibly attributable to the material’s bismuth and magnesium layers acting as a terahertz waveguide.</p>
+<p>Previously, US Army Combat Capabilities Development Command (DEVCOM) established a Cooperative Research and Development Agreement (CRADA) with To the Stars Academy (TTSA) to evaluate the feasibility of exploiting any potential disruptive technology associated with this widely discussed specimen.</p>
+<p>AARO, founded in 2022, is congressionally mandated to explore historical records of UAP incidents and publicly report its findings. Although the long chain of custody for this  pecimen cannot be verified, public and media interest in the specimen warranted a transparent investigation that adhered to the scientific method.</p>
+<p>Subsequent to the TTSA–DEVCOM CRADA, AARO secured science and technology partner Oak Ridge National Laboratory (ORNL), one of 17 US Department of Energy national  aboratories, to independently assess and perform thorough characterization studies on the specimen, leveraging ORNL’s 80-year history of world-leading materials science expertise.</p>
+<p>Figure 1. View of the as-received bulk specimen. Sticker containing internal sample tracking information edited out for public release.</p>
+<p>ORNL, an expert in materials characterization, has the diverse staff expertise and co-located, powerful instrumentation suites to allow rigorous scientific inquiry beyond the capabilities of most individual laboratories. Therefore, it is a highly qualified institution to maintain scientific integrity in its unbiased analysis of this specimen and its properties.</p>
+<p>AARO tasked ORNL with assessing whether (1) the specimen is of terrestrial origin and (2) the bismuth in the specimen could act as a terahertz waveguide. DEVCOM Ground Vehicle System Center provided ORNL access to the metallic specimen—a single parent sample and three previously derived subsamples, all from the same material—beginning in February 2023.</p>
+<p>ORNL materials science analyses evaluated the sample’s structure, chemical composition, and isotope ratios via multiple methods, including microscopy, spectroscopy, and spectrometry. Results align with previous DEVCOM analyses, indicating that the structure and composition of the bismuth layers do not meet the requirements necessary to serve as a terahertz waveguide. Furthermore, all data strongly support that the material is terrestrial in origin.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="方法-1">方法<a class="hash-link" aria-label="方法 への直接リンク" title="方法 への直接リンク" href="https://ouchaku.github.io/ds/blog/2024/07/21/synopsis_analysis#%E6%96%B9%E6%B3%95-1">​</a></h2>
+<p>すべての分析および材料の利用は、DEVCOM CRADA を通じて TTSA によって承認および監督され、すべての分析は、ORNL が試料を受け取る前に AARO および DEVCOM によって事前承認されました。</p>
+<p>形態および微細構造の特徴は、以下の技術を使用して調査されました。</p>
+<ul>
+<li>光学顕微鏡：微細構造の特徴を画像化できる標準的な顕微鏡分析。</li>
+<li>コンピュータ断層撮影、別名 CT スキャン： X線画像化技術で、試料を傷つけることなく3D画像を作成し、内部構造の特徴を明らかにします。</li>
+<li>走査型電子顕微鏡-エネルギー分散型X線分光法（SEM-EDS）：2D画像をより高解像度で作成し、微細構造や元素組成の分析を可能にする技術です。</li>
+<li>（走査）透過型電子顕微鏡-エネルギー分散型X線分光法（[S]TEM-EDS）：高エネルギー（200kVなど）の電子ビームを試料（厚さ200nm未満）の薄膜に通し、結晶構造、結晶粒や特徴の形状、欠陥、元素組成をナノメートルからサブナノメートルの解像度で分析する一連の技術。</li>
+</ul>
+<p>バルク化学、元素、同位体組成の分析には、元素を特定し、サンプル内の存在量（ごく微量のものも含む）や同位体組成を明らかにする、広く使用されている分析技術である質量分析技術が使用されました。</p>
+<p>サンプルの完全性と機器性能を監視するため、すべての分析においてトレーサブルな品質管理標準物質とメソッドブランクが実行されました。</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="methods">Methods<a class="hash-link" aria-label="Methods への直接リンク" title="Methods への直接リンク" href="https://ouchaku.github.io/ds/blog/2024/07/21/synopsis_analysis#methods">​</a></h2>
+<p>All analyses and materials utilization were authorized and overseen by TTSA via the DEVCOM CRADA, and all analyses were preapproved by AARO and DEVCOM before ORNL received the specimen.</p>
+<p>Morphology and microstructural characteristics were investigated using the following techniques.</p>
+<ul>
+<li>
+<p>Optical microscopy: standard microscope analysis that allows imaging of microstructural features.</p>
+</li>
+<li>
+<p>Computerized tomography, aka CT scan: X-ray imaging procedure that produces a 3D image of a sample without damaging it, revealing interior structural features.</p>
+</li>
+<li>
+<p>Scanning electron microscopy-energy dispersive x-ray spectroscopy (SEM-EDS): technique that produces 2D images at higher resolution to allow analysis of microstructure and elemental makeup.</p>
+</li>
+<li>
+<p>(Scanning) transmission electron microscopy-energy dispersive x-ray spectroscopy ([S]TEM-EDS): a suite of techniques that pass a high-energy (e.g., 200 kV) electron beam through a thin (&lt;200 nm) foil of sample, allowing analysis of crystal structure, grain and feature morphology, and defects, as well as elemental makeup, all with nanometer to subnanometer resolution.</p>
+</li>
+</ul>
+<!-- -->
+<p>Analyses of bulk chemical, elemental, and isotopic composition used mass spectrometry techniques, a suite of widely used analytical techniques that identify elements, their abundance within a sample (including very trace quantities), and their isotopic composition.</p>
+<p>Traceable quality control standards and method blanks were run throughout all analyses to monitor sample integrity and instrument performance.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="結果-1">結果<a class="hash-link" aria-label="結果 への直接リンク" title="結果 への直接リンク" href="https://ouchaku.github.io/ds/blog/2024/07/21/synopsis_analysis#%E7%B5%90%E6%9E%9C-1">​</a></h2>
+<p>形態と構造に関するデータは、複数の画像解析手法で一貫しており、この物質は複数の点で融合したり分岐したりする明確な層から構成されていることを示しています。</p>
+<p>界面には亀裂やその他の特徴が見られ、ORNLは、この物質はもともと一体のものであったが、熱への曝露や機械的な力によって、おそらく長期間にわたって歪んだものであると結論づけています。図2は、CTを使用して構築された試料の画像です。</p>
+<p>表1. 試料（バルクマグネシウム亜鉛マトリックスを除く）の微量元素組成。 すべて、0.1%未満の含有量で「微量」と見なされます。 灰色は誘導結合プラズマ発光分光分析（ICP-OES）の結果、青色は高分解能ICP-MSの結果を示しています。</p>
+<p>図2. CTスキャンにより撮影された画像。バルク試料の複数の角度から撮影されており、材料の層状構造（左下）や熱損傷を受けたエッジ（右下）などの特徴が示されている。</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="results">Results<a class="hash-link" aria-label="Results への直接リンク" title="Results への直接リンク" href="https://ouchaku.github.io/ds/blog/2024/07/21/synopsis_analysis#results">​</a></h2>
+<p>Morphology and Structure Data are consistent across multiple imaging approaches, showing that the material consists of distinct layers that merge and diverge at various points throughout the material.</p>
+<p>Interfaces showed fractures and other features that ORNL determined are consistent with a material that was originally whole but was strained by heat exposure and mechanical forces, possibly for extended periods. Figure 2 shows images of the specimen constructed using CT.</p>
+<p>Table 1. Trace element composition of the specimen (sans the bulk magnesium-zinc matrix), in decreasing order of abundance. All are considered “trace,” at less than 0.1%  bundance. Gray reflects results from inductively coupled plasma optical emission spectroscopy (ICP-OES); Blue reflects results from high-resolution ICP-MS.</p>
+<p>Figure 2. Images produced via CT showing multiple angles of the bulk specimen, showcasing features including the layer nature of the material (bottom left) and edge with  robable heat damage (bottom right).</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="化学組成">化学組成<a class="hash-link" aria-label="化学組成 への直接リンク" title="化学組成 への直接リンク" href="https://ouchaku.github.io/ds/blog/2024/07/21/synopsis_analysis#%E5%8C%96%E5%AD%A6%E7%B5%84%E6%88%90">​</a></h3>
+<p>SEM-EDS 分析により、試料に含まれる主な元素はマグネシウムと亜鉛であることが判明しました。マグネシウムは試料全体の約 97.5%、亜鉛は約 2% を占めています。検出された微量元素（表 1）は鉛（Pb）とビスマス（Bi）で（図 3）、鉄（Fe）とマンガン（Mn）もごく微量に含まれていました。最も感度の高い分析手法である誘導結合プラズマ質量分析法（ICP-MS）では、さらに少量のカドミウム（Cd）、タリウム（Tl）、金（Au）、モリブデン（Mo）、スズ（Sn）、バリウム（Ba）の存在が明らかになりました。検出された元素の量が検量線の下限を下回ったり、検出限界を下回ったりした場合は、その元素が製造工程に意図的に添加された可能性が非常に低いと考えられるため、表1には表示されません。</p>
+<p>図3： 1つのサブサンプルからの後方散乱電子像（BSE、左上）とエネルギー分散型X線分光法（EDS）マップ（SEMビームエネルギー：30 kV）。推定重量パーセントで表示（微量元素は表示されていないため、合計は100%にならない）。炭素（C）マップは埋め込みエポキシを示している。マグネシウムマトリックス（Mg）がはっきり見え、マトリックスの亀裂も確認できる。亜鉛（Zn）マップでは、亜鉛含有量が高い領域と低い領域が示されています。鉛（Pb）とビスマス（Bi）マップの上部には、同じ位置にある層が示されています。</p>
+<p>（図5は、バンド状の元素組成の追加イメージングを示しており、複数のPb-Bi層を示しています。）</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="chemical-composition">Chemical Composition<a class="hash-link" aria-label="Chemical Composition への直接リンク" title="Chemical Composition への直接リンク" href="https://ouchaku.github.io/ds/blog/2024/07/21/synopsis_analysis#chemical-composition">​</a></h3>
+<p>Analysis using SEM-EDS determined that magnesium and zinc are the primary elements present in the specimen, comprising approximately 97.5% and 2% of the material, respectively. Minor elements detected (Table 1) were lead (Pb) and bismuth (Bi) (Figure 3), with lesser trace amounts of iron (Fe) and manganese (Mn). Inductively coupled plasma mass spectrometry (ICP-MS), the most sensitive analysis technique performed, additionally revealed the presence of small amounts of cadmium (Cd), thallium (Tl), gold (Au), molybdenum (Mo), tin (Sn), and barium (Ba). If a detected element abundance fell beneath the lower bound of the calibration curve or below the method detection limit, then the element is not displayed in Table 1 because that element was extremely unlikely to have been a purposeful addition to the manufacturing process.</p>
+<p>Figure 3: Backscattered electron image (BSE, top left) and energy dispersive x-ray spectrometry (EDS) maps from one subsample (SEM beam energy: 30 kV), presented as estimated weight percent (minor elements not shown, so numbers will not total 100%). Carbon (C) map indicates the embedding epoxy. The magnesium matrix (Mg) is clearly visible, along with the cracks in the matrix. The zinc (Zn) map shows regions of higher and lower zinc content. At the top of the lead (Pb) and bismuth (Bi) maps, co-located layers are visible.</p>
+<p>(Figure 5 presents additional imaging of the banded element composition, showing multiple Pb-Bi layers.)</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="結晶構造">結晶構造<a class="hash-link" aria-label="結晶構造 への直接リンク" title="結晶構造 への直接リンク" href="https://ouchaku.github.io/ds/blog/2024/07/21/synopsis_analysis#%E7%B5%90%E6%99%B6%E6%A7%8B%E9%80%A0">​</a></h3>
+<p>TEMにより、試料中のマグネシウムの結晶構造は一般的なマグネシウム合金の構造と一致していることが明らかになりました（図4）。レーザーアブレーションICP-MSにより、亜鉛成分のバンド構造が明らかになり、そのバンドには鉛とビスマスが層状に（ほぼ1:1の割合で）並んでいることが分かりました。ビスマスが豊富な部分は明確な結晶構造を持たず、非晶質マトリックスの中に非常に微細な結晶ポケットが密集しているように見えました（図4）。
+単層で純粋な単結晶ビスマスは、電気やエネルギーフィールド（この場合、テラヘルツ波（マイクロスケールの波長を持つ電磁波））を乱したり、方向付けたりする物質である導波路として機能する能力を持つと仮定されています。試料へのダメージ（熱ストレスの疑いを含む）により、試料の元の構造を明確に述べることは不可能ですが、現在の試料の検査層におけるビスマスの非晶質およびナノ結晶の外観は、おそらくこの材料内に純粋な結晶質のビスマス層が存在しなかったことを示しています。
+さらに、このような理論上のビスマスベースの導波路の構造は、異なる誘電率を持つ物質の間に単層で存在することが必要となります。しかし、物質全体に複数のビスマス層が存在しても、この導波路の機能性を実現したり向上させたりできるとは想定されていません。したがって、試料内の不純物ビスマスが層状構造になっているため、それが導波路として機能しない可能性が高い（図5）。</p>
+<p>最後に、ビスマスの仮説上の用途に基づいて考えると、ビスマスが導波路として機能するために必要な誘電特性は、試料内のビスマスが鉛と混在しているため、この材料では損なわれていると考えられる（図3および5）。これらの調査結果に基づき、ORNLは、この物質がビスマスベースのテラヘルツ波ガイドとして機能した可能性は極めて低いと結論付けた。</p>
+<p>図4：（a）試料のバルクから単結晶領域を切り出したTEM写真。この解像度では構造欠陥が観察できる（この図は、図3に示された領域のわずか2～3ピクセルに相当する領域を示している）。下部の縦線は、集束イオンビームによる試料作成の痕跡です。 (b) (a) の領域から得られた選択領域電子回折パターン (SAEDP)。標準的な Mg 構造にインデックス付けされています。 (c) 低倍率モンタージュ TEM 顕微鏡写真。ビスマスが豊富な層 (中央の暗い帯) が密集している領域。 (d) ビスマスが豊富な層からの SAEDP。ビスマスが豊富な領域からの電子回折パターン（画像処理γ=3.0）が白いリングで示されています。比較のために、ビスマス（Bi、黄色）と Bi2O3（赤）の計算されたリングパターンが示されています。Biの方がわずかに一致度が高いです。
+この回折パターンは、ビスマス層がナノ結晶で欠陥が多いことを示しています。</p>
+<p>図5. レーザーアブレーションICP-MS元素マップ。（上）鉛（緑）、ビスマス（青）、亜鉛（赤）の3つの主要微量元素の分布。色の混ざり具合で重なり具合を表しており、青緑色は鉛とビスマスがほぼ1：1の割合であることを示しています。（下）ビスマス濃度の元素マップ（黄色が濃いとビスマスが多く、紫色がかっているとビスマスが少ない）。ビスマスは上部に最も多く存在していますが、多くの層で繰り返して見られます。</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="crystalline-structures">Crystalline Structures<a class="hash-link" aria-label="Crystalline Structures への直接リンク" title="Crystalline Structures への直接リンク" href="https://ouchaku.github.io/ds/blog/2024/07/21/synopsis_analysis#crystalline-structures">​</a></h3>
+<p>TEM revealed that the crystalline structure of magnesium in the specimen was consistent with common magnesium alloy structures (Figure 4). Laser ablation ICP-MS revealed banding of the zinc components, along with layered colocation of lead and bismuth (in an approximate 1:1 ratio) in the bands. The bismuth-rich portions of the specimen lacked a clear crystalline structure, instead appearing to consist of highly nanocrystalline pockets in an otherwise amorphous matrix (Figure 4).
+Pure single-crystalline bismuth in a single thin layer has been postulated to have the ability to function as a waveguide, a material that can disrupt or direct an electric or energy field—in this case, terahertz waves (electromagnetic waves with microscale wavelengths). Although the damage to the specimen (including suspected heat stress) precludes a definitive statement describing the specimen’s original structure, the amorphous and nanocrystalline appearance of the bismuth in the examined layers of the current specimen likely indicates that a pure crystalline layer of bismuth was never present within the material.
+Moreover, the postulated structure of such a theoretical bismuth-based waveguide requires it to be in a single layer between a material possessing a different dielectric constant. However, multiple bismuth layers throughout a material have not been postulated to be capable of achieving or improving this waveguide functionality—in fact, multiple layers could instead interfere with such functionality. Thus, the layered nature of the impure bismuth within the specimen likely precludes it from acting as a waveguide (Figure 5).</p>
+<p>Finally, based on the postulated hypothetical uses of bismuth, the dielectric properties necessary for bismuth to function as a waveguide would have been disrupted in this material because the bismuth in the specimen is colocated and mixed with lead (Figures 3 and 5). Based on these findings ORNL determined that this material is highly unlikely to have ever functioned as a bismuth-based terahertz waveguide.</p>
+<p>Figure 4: (a) TEM micrograph of a single-crystalline region from the bulk of the sample; structural defects are visible at this level of resolution (this figure is showing an area that represents just 2 to 3 pixels of the area shown in Figure 3). The vertical lines at the bottom are a focused ion beam preparation artifact. (b) Selected area electron diffraction pattern (SAEDP) from the region in (a), indexed to the standard Mg structure. (c) A low-magnification montage TEM micrograph of an area showing a dense bismuth-rich layer (dark central band). (d) A SAEDP from a bismuth-rich band. The electron diffraction pattern (with image processing γ=3.0) from the bismuth-rich region is shown in the white rings. Both bismuth (Bi, yellow) and Bi2O3 (red) calculated ring patterns are shown for comparison; Bi is a slightly better match. The diffraction
+indicates that the bismuth layer is nanocrystalline and highly defective.</p>
+<p>Figure 5. Laser ablation ICP-MS elemental maps. (Top) Colocation of lead (green), bismuth (blue), and zinc (red), the three primary minor elements in the material. Blending of colors indicates co-location: teal indicates the nearly 1:1 ratio of lead to bismuth. (Bottom) Elemental map of bismuth concentration (hot [yellow] = more, cool [purple] = less). Bismuth is most concentrated at the top but is present in many repeating layers.</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="同位体分析">同位体分析<a class="hash-link" aria-label="同位体分析 への直接リンク" title="同位体分析 への直接リンク" href="https://ouchaku.github.io/ds/blog/2024/07/21/synopsis_analysis#%E5%90%8C%E4%BD%8D%E4%BD%93%E5%88%86%E6%9E%90">​</a></h3>
+<p>多チャンネル ICP-MS 分析により、この試料のマグネシウムと鉛の同位体組成は、地球上で製造・使用されている他の物質と一致することが明らかになりました（図 6 および 7）。同位体は、質量が異なる同じ元素のさまざまな形態であり、その割合によって同位体が含まれる物質の化学的性質が変化し、その物質の歴史に関する情報が明らかになります。すべての元素には同位体があり、さまざまな同位体の量の比率は同位体シグネチャと呼ばれ、化学分析における指紋のようなものです。</p>
+<p>試料のマグネシウム同位体シグネチャは分画されていますが（おそらく、この物質が受けたと思われる機械的および熱的歪みのため）、通常の地球組成の範囲内にあり、分画の予想されるトレンドラインに正確に一致しています（図6）。それぞれの恒星系は、その恒星形成領域から受け継いだマグネシウム同位体組成を持っています。図6は、太陽系内で生成されたさまざまな物質のマグネシウム同位体組成を示しています。下部の図表の直線は、質量に基づく同位体シフトの種類を定義する動的および平衡質量分画傾向線です。分画は化学反応や物理的プロセス（製造や採掘など）によって起こり、天然素材や人工素材、それらの構成要素の寿命の間は通常起こります。図6の素材（試料を含む）は分画トレンドライン上またはその付近に位置しており、その出発組成はかつて同じであり、分画の結果、系統的に変化したことを強く示しています。もしその物質が太陽系外から来たものである場合、マグネシウム同位体比は、図6の上部グラフのほぼどの位置にもプロットされる可能性があります。一方、この試料のデータは、太陽系特有の既知の組成に対する予想される分画傾向線内に正確にプロットされています。</p>
+<p>より単純に言えば、この試料の鉛同位体組成は、地球や地球上の物質に自然界に存在する「一般的な鉛」の組成と完全に一致しています（図7）。これは月の物質とも明確に区別されており、この物質が地球で生成された可能性が非常に高いことを示しています。</p>
+<p>図6：未知物質のマグネシウム同位体系統を含む芸術的表現。特に、地球上の物質、地球外の物質、太陽系外の物質との相対的な関係を示しています。この図は、既知の標準物質（DSM-3）に対する26Mg/24Mgおよび25Mg/24Mg同位体の差を、1000分の1（‰）単位で示したδ26Mg′とδ25Mg′の関係をプロットしたものです。この計算は、ICP-MS分析に固有の既知の機器質量偏り効果を補正したもので、文献でしばしば示されるマグネシウムデータの表示方法と一致しています。（上）異なるタイプの星から得られるマグネシウム同位体組成の極値。 （下）太陽系物質と問題の物質のマグネシウム同位体組成の拡大図。 不確実性エンベロープは含まれていませんが、不確実性を含めてプロットすると、データポイントは動的分画線と平衡分画線に重なります。注：菱形で示されたデータポイントは、完全な情報として含めたもので、古い分析資料から抽出されたものです。これらのデータの正確さや正確性を直接検証することはできません。デルタ値はDSM-3を基準に計算され、系統的なオフセット補正係数が適用されています。
+これらのポイントのエラーバーは±2‰の不確かさです。</p>
+<p>サンプルA</p>
+<p>銀貨 工業用鉛 鉛鉱石 大気浮遊粒子状物質 雲母 隕石 トロイライト 火星</p>
+<p>SRM-982 測定値 SRM 982 SRM 981 SRM 983 太平洋硫化物 月面ガラス ガソリン</p>
+<p>図7. 未知物質の鉛（Pb）同位体系統。206Pb/204Pb 対 207Pb/206Pb で、他の地球物質および非地球物質と比較した。このプロットには、3つの末端成分組成がある。(1) 太陽系内の鉛の初期組成である原始鉛、(2) 天然ウランの崩壊によって生成される純粋な放射性鉛、(3) 繰り返し分析によって定義される地球上の鉛または「一般的な鉛」。この試料は、地球上の鉛組成の領域に正確にプロットされる鉛同位体組成を持っています。SRM は標準参照物質を意味し、その組成や特性が十分に把握されているため、機器の校正に一般的に使用される物質です。
+米国商務省標準技術局が測定および認証しています。</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="isotope-analysis">Isotope Analysis<a class="hash-link" aria-label="Isotope Analysis への直接リンク" title="Isotope Analysis への直接リンク" href="https://ouchaku.github.io/ds/blog/2024/07/21/synopsis_analysis#isotope-analysis">​</a></h3>
+<p>Multicollector ICP-MS analysis showed that the specimen’s magnesium and lead isotope composition is consistent with other materials manufactured and used terrestrially (Figures 6 and 7). Isotopes are varying forms of the same element with differing mass, and their proportions affect the chemical properties of and reveal information about the history of the material within which the isotopes are found. All elements have isotopes, and the ratio between the amounts of various isotopes is called the isotopic signature, which is akin to a fingerprint in chemical analyses.</p>
+<p>The magnesium isotopic signature of the specimen is fractionated (possibly owing to the mechanical and heat strain that the material appears to have undergone) but falls within normal terrestrial compositions and precisely within the expected trendlines of fractionation (Figure 6). Each star system has a magnesium isotopic composi­tion that was inherited from its local star-forming region. Figure 6 shows the magne­sium isotopic signature of various materials originating within our solar system. The straight lines in the bottom graphic representation are the kinetic and equilibrium mass fractionation trendlines, which define the types of isotopic shifts incurred on the basis of mass. Fractionation occurs due to chemical reactions and physical processes (e.g., manufacturing and mining) and is normal during the lifespan of natural and manufactured ma­terials and their components. The materials in Figure 6—including the specimen—fall on or near the fractionation trendlines, strongly indicating that their starting compositions were once the same and have been systematically changed as a result of mass fractionation. If a material originated outside our solar system, its magnesium isotopic signature could plot nearly anywhere in the top graphic representation of Figure 6—ins­ tead, the specimen’s data plots it precisely within the expected fractionation trendlines for known compositions specific to our solar system.</p>
+<p>Less complexly, the lead isotopic signature of this specimen is fully consistent with “common lead” compositions that exist naturally on Earth and within terrestrial materials (Figure 7), distinctly separate from even lunar materials, indicating it is extremely likely that the material originated on Earth.</p>
+<p>Figure 6: Artistic representation including the magnesium isotope systematics of the unknown material, specifically shown relative to other terrestrial, non-terrestrial, and extrasolar materials. The figures plot the δ26Mg′ vs. the δ25Mg′, which represent the differences in 26Mg/24Mg and 25Mg/24Mg isotopes relative to a known standard (DSM-3) in parts per thousand (‰) notation. This calculation adjusts for known instrumental mass bias effects inherent in ICP-MS analyses and is consistent with how magnesium data in literature are often presented. (Top) The extreme magnesium isotope compositions possible from different star types. (Bottom) A zoomed-in view of the magnesium isotope compositions of local solar system materials and the material in question. Uncertainty envelopes are not included, but when plotted with their uncertainties, data points overlap the kinetic and equilibrium fractionation lines. (Note: Data points shown with a diamond shape, included for completeness, were extracted from an older analysis source; we cannot directly verify the precision or correctness of these data. The delta values were calculated relative to DSM-3, and a systematic offset correction factor was applied; error
+bars for these points reach ± 2 ‰ uncertainty.)</p>
+<p>Sample A</p>
+<p>Silver Coins Industrial Pb Galena Airborne Particulate Matter Feldspars Meteorite Troilite Mars</p>
+<p>SRM-982 measured SRM 982 SRM 981 SRM 983 Pacific Ocean Sulfides Lunar Glasses Gasoline</p>
+<p>Figure 7. Lead (Pb) isotope systematics of the unknown material, shown relative to other terrestrial and non-terrestrial materials in 206Pb/204Pb vs. 207Pb/206Pb. This plot has three end-member compositions: (1) primordial lead, which is the starting composition of the lead in the solar system; (2) pure radiogenic lead from the decay of naturally occurring uranium; and (3) terrestrial lead or “common lead,” which is defined by repeat analyses. The specimen has a lead isotopic composition that plots precisely in the field of terrestrial lead compositions. SRM stands for standard reference material, materials typically used to perform instrument calibrations due to their well-characterized composition or properties, as measured
+and certified by the U.S. Department of Commerce’s National Institute for Standards and Technology.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="結論-1">結論<a class="hash-link" aria-label="結論 への直接リンク" title="結論 への直接リンク" href="https://ouchaku.github.io/ds/blog/2024/07/21/synopsis_analysis#%E7%B5%90%E8%AB%96-1">​</a></h2>
+<p>AAROは、この歴史的な標本が地球外起源であり、ビスマスベースのテラヘルツ波ガイドとして機能できるとする主張を立証または反証するために必要な要件を、ORNLが独自に評価することを確保しました。この標本の起源、保管状況、最終的な用途は依然として不明ですが、化学組成と構造、特性に関する最新の堅牢な分析では、その起源が地球外であることを示す結果は得られていません。また、調査対象物質がテラヘルツ波ガイドとして機能する可能性のある純粋な単結晶ビスマス層を有していたことを示すデータもありません。この物質が過去に意図的または実際に使用されたかどうかは不明ですが、ORNLは、すべてのデータが、この物質が今日の基準では珍しい元素の混合を用いて製造されたものであることを示しているものの、機械的および熱的ストレス要因による損傷を受けたものであるという高い確信を持っています。</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="conclusion">Conclusion<a class="hash-link" aria-label="Conclusion への直接リンク" title="Conclusion への直接リンク" href="https://ouchaku.github.io/ds/blog/2024/07/21/synopsis_analysis#conclusion">​</a></h2>
+<p>AARO secured ORNL to independently assess the requirements necessary to confirm or contest public claims that this historical specimen is of non-terrestrial origin and that it is capable of functioning as a bismuth-based terahertz waveguide. Although the origin, chain of custody, and ultimate purpose of this specimen remain unclear, a modern and robust analysis of its chemical and structural composition and properties does not indicate that its origin is non-terrestrial, nor do the data indicate that the material examined ever had the pure single-crystalline bismuth layer that could possibly have acted as a terahertz waveguide. The intended or actual past use of the material remains undetermined, but ORNL has a high level of confidence that all data indicate the material was manufactured terrestrially—albeit using an uncommon mixture of elements by today’s standards—and then incurred damage caused by mechanical and heat stressors.</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="references">References<a class="hash-link" aria-label="References への直接リンク" title="References への直接リンク" href="https://ouchaku.github.io/ds/blog/2024/07/21/synopsis_analysis#references">​</a></h3>
+<ol>
+<li>
+<p>Akram, W.; Schönbächler, M., Zirconium isotope constraints on the composition of Theia and current Moonforming theories. Earth Planet Sc Lett 2016, 449, 302-310.</p>
+</li>
+<li>
+<p>Albarede, F.; Blichert-Toft, J.; Gentelli, L.; Milot, J.; Vaxevanopoulos, M.; Klein, S.; Westner, K.; Birch, T.; Davis, G.; de Callataÿ, F., A miner’s perspective on Pb isotope provenances in the Western and Central Mediterranean. J Archaeol Sci 2020, 121.</p>
+</li>
+<li>
+<p>Blichert-Toft, J.; Zanda, B.; Ebel, D. S.; Albarède, F., The Solar System primordial lead. Earth Planet Sc Lett 2010, 300 (1-2), 152-163.</p>
+</li>
+<li>
+<p>Budde, G.; Tissot, F. L. H.; Kleine, T.; Marquez, R. T., Spurious molybdenum isotope anomalies resulting from non-exponential mass fractionation. Geochemistry-Germany 2023, 83 (3).</p>
+</li>
+<li>
+<p>Catanzaro, E. J.; Murphy, T. J.; Shields, W. R.; Garner, E. L., Absolute Isotopic Abundance Ratios of Common Equal-Atom and Radiogenic Lead Isotopic Standards. J Res Nbs a Phys Ch 1968, A 72 (3), 261-+.</p>
+</li>
+<li>
+<p>Chakrabarti, R.; Jacobsen, S. B., The isotopic composition of magnesium in the inner Solar System. Earth Planet Sc Lett 2010, 293 (3-4), 349-358.</p>
+</li>
+<li>
+<p>Connelly, J. N.; Bizzarro, M.; Thrane, K.; Baker, J. A., The pb-pb age of angrite SAH99555 revisited. Geochim Cosmochim Ac 2008, 72 (19), 4813-4824.</p>
+</li>
+<li>
+<p>de Vega, C. G.; Chernonozhkin, S. M.; Grigoryan, R.; Costas-Rodríguez, M.; Vanhaecke, F., Characterization of the new isotopic reference materials IRMM-524A and ERM-AE143 for Fe and Mg isotopic analysis of geological and biological samples. J Anal Atom Spectrom 2020, 35 (11), 2517-2529.</p>
+</li>
+<li>
+<p>Fouquet, Y.; Marcoux, E., Lead-Isotope Systematics in Pacific Hydrothermal Sulfide Deposits. J Geophys ResSol Ea 1995, 100 (B4), 6025-6040.</p>
+</li>
+<li>
+<p>Gyngard, K. M. H. a. F., The Presolar Grain Database. In 40th Lunar and Planetary Science Conference, 2009.</p>
+</li>
+<li>
+<p>Higgins, J. A.; Schrag, D. P., Records of Neogene seawater chemistry and diagenesis in deep-sea carbonate
+sediments and pore fluids. Earth Planet Sc Lett 2012, 357, 386-396.</p>
+</li>
+<li>
+<p>Hoppe, P.; Leitner, J.; Kodolányi, J.; Vollmer, C., Isotope Systematics of Presolar Silicate Grains: New Insights
+from Magnesium and Silicon. Astrophys J 2021, 913 (1).</p>
+</li>
+<li>
+<p>Hulston, J. R.; Thode, H. G., Variations in S33 S34 and S36 Contents of Meteorites and Their Relation to
+Chemical and Nuclear Effects. J Geophys Res 1965, 70 (14), 3475-+.</p>
+</li>
+<li>
+<p>Kammerer, C. C.; Kulkarni, N. S.; Warmack, R. J.; Sohn, Y. H., Interdiffusion and impurity diffusion in
+polycrystalline Mg solid solution with Al or Zn. J Alloy Compd 2014, 617, 968-974.</p>
+</li>
+<li>
+<p>Karl K. Turekian, H. D. H., Presolar Grains. In Treatise on Geochemistry, 2 ed.; 2013.</p>
+</li>
+<li>
+<p>Kodolányi, J.; Hoppe, P.; Gröner, E.; Pauly, C.; Mücklich, F., The Mg isotope composition of presolar silicate
+grains from red giant stars. Geochim Cosmochim Ac 2014, 140, 577-605.</p>
+</li>
+<li>
+<p>Leitner, J.; Hoppe, P., A new population of dust from stellar explosions among meteoritic stardust. Nat Astron
+2019, 3 (8), 725-729.</p>
+</li>
+<li>
+<p>Leonid V. Alekseyev, V. A. P., and Evgenii E. Narimanov, Homogeneous Hyperbolic Systems for Terahertz and
+Far-Infrared Frequencies. Advances in OptoElectronics 2012, (Modern Trends in Metamaterial Applications), 6.</p>
+</li>
+<li>
+<p>Liu, N.; Dauphas, N.; Cristallo, S.; Palmerini, S.; Busso, M., Oxygen and aluminum-magnesium isotopic systematics of presolar nanospinel grains from CI chondrite Orgueil. Geochim Cosmochim Ac 2022, 319, 296317.</p>
+</li>
+<li>
+<p>Lubecke, V. M.; Mizuno, K.; Rebeiz, G. M., Micromachining for terahertz applications. LEEE T Microw Theory 1998, 46 (11), 1821-1831.</p>
+</li>
+<li>
+<p>Monna, F.; Lancelot, J.; Croudace, I. W.; Cundy, A. B.; Lewis, J. T., Pb isotopic composition of airborne particulate material from France and the southern United Kingdom: Implications for Pb pollution sources in urban areas. Environ Sci Technol 1997, 31 (8), 2277-2286.</p>
+</li>
+<li>
+<p>Moriwaki, R.; Usui, T.; Tobita, M.; Yokoyama, T., Geochemically heterogeneous Martian mantle inferred from Pb isotope systematics of depleted shergottites. Geochim Cosmochim Ac 2020, 274, 157-171.</p>
+</li>
+<li>
+<p>Nemchin, A. A.; Whitehouse, M. J.; Grange, M. L.; Muhling, J. R., On the elusive isotopic composition of lunar Pb. Geochim Cosmochim Ac 2011, 75 (10), 2940-2964.</p>
+</li>
+<li>
+<p>Nguyen, A. N.; Messenger, S., Resolving the Stellar Sources of Isotopically Rare Presolar Silicate Grains through Mg and Fe Isotopic Analyses. Astrophys J 2014, 784 (2).</p>
+</li>
+<li>
+<p>Patterson, C., Age of Meteorites and the Earth. Geochim Cosmochim Ac 1956, 10 (4), 230-237.</p>
+</li>
+<li>
+<p>Rutledge, D. B.; Schwarz, S. E.; Hwang, T. L.; Angelakos, D. J.; Mei, K. K.; Yokota, S., Antennas and WaveGuides for Far-Infrared Integrated-Circuits. LEEE J Quantum Elect 1980, 16 (5), 508-516.</p>
+</li>
+<li>
+<p>Song, Q.; Chen, H.; Zhang, M.; Li, L.; Yang, J. B.; Yan, P. G., Broadband electrically controlled bismuth nanofilm THz modulator. Apl Photonics 2021, 6 (5). 28.	 Stacey, J. S.; Kramers, J. D., Approximation of Terrestrial Lead Isotope Evolution by a 2-Stage Model. Earth Planet Sc Lett 1975, 26 (2), 207-221.</p>
+</li>
+<li>
+<p>Steele, R. C. J.; Elliott, T.; Coath, C. D.; Regelous, M., Confirmation of mass-independent Ni isotopic variability in iron meteorites. Geochim Cosmochim Ac 2011, 75 (24), 7906-7925.</p>
+</li>
+<li>
+<p>Sturrock, P., Composition analysis of the Brazil magnesium. Journal of Scientific Exploration 2001, 15 (1), 6995.</p>
+</li>
+<li>
+<p>Tatsumoto, M.; Knight, R. J.; Allegre, C. J., Time Differences in Formation of Meteorites as Determined from Ratio of Pb-207 to Pb-206. Science 1973, 180 (4092), 1279-1283.</p>
+</li>
+<li>
+<p>Teng, F. Z., Magnesium Isotope Geochemistry. Rev Mineral Geochem 2017, 82, 219-287.</p>
+</li>
+<li>
+<p>Timmes, F. X.; Woosley, S. E.; Weaver, T. A., Galactic Chemical Evolution - Hydrogen through Zinc. Astrophys J Suppl S 1995, 98 (2), 617-658.</p>
+</li>
+<li>
+<p>Vermeesch, P., IsoplotR: A free and open toolbox for geochronology. Geosci Front 2018, 9 (5), 1479-1493.</p>
+</li>
+<li>
+<p>Wakaki, S.; Tanaka, T., Stable isotope analysis of Nd by double spike thermal ionization mass spectrometry. Int J Mass Spectrom 2012, 323, 45-54.</p>
+</li>
+<li>
+<p>Wang, T.; Schwarz, S. E., Design of Dielectric Ridge Waveguides for Millimeter-Wave Integrated-Circuits. LEEE T Microw Theory 1983, 31 (2), 128-134.</p>
+</li>
+<li>
+<p>White, W. M., Chapter 8: Stable Isotope Theory. In Isotope Geochemistry, 2014; p 720.</p>
+</li>
+<li>
+<p>Wombacher, F.; Eisenhauer, A.; Heuser, A.; Weyer, S., Separation of Mg, Ca and Fe from geological reference materials for stable isotope ratio analyses by MC-ICP-MS and double-spike TIMS. J Anal Atom Spectrom 2009, 24 (5), 627-636.</p>
+</li>
+<li>
+<p>Young, E. D.; Galy, A., The isotope geochemistry and cosmochemistry of magnesium. Geochemistry of NonTraditional Stable Isotopes 2004, 55, 197-230.</p>
+</li>
+<li>
+<p>Young, E. D.; Galy, A.; Nagahara, H., Kinetic and equilibrium mass-dependent isotope fractionation laws in nature and their geochemical and cosmochemical significance. Geochim Cosmochim Ac 2002, 66 (6), 10951104.</p>
+</li>
+</ol>
+<p>(2024-07-21)</p>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jaime Maussan：世界各地の夜空に飛び交う謎の光点の群れ ⇒ この謎を解く]]></title>
+        <id>https://ouchaku.github.io/ds/blog/2024/7/21/moving_lights_sky</id>
+        <link href="https://ouchaku.github.io/ds/blog/2024/7/21/moving_lights_sky"/>
+        <updated>2024-07-21T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[前置き]]></summary>
+        <content type="html"><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="前置き">前置き<a class="hash-link" aria-label="前置き への直接リンク" title="前置き への直接リンク" href="https://ouchaku.github.io/ds/blog/2024/7/21/moving_lights_sky#%E5%89%8D%E7%BD%AE%E3%81%8D">​</a></h2>
+<p>本日 up された動画から、タイトルの件に絞る。2022年の "Messages from the andes: A wakeup call for humanity" と題された講演動画らしい。</p>
+<a href="https://ouchaku.github.io/ds/img/20240721_jm_00_rz.jpg" target="_blank"><img alt="20240721_jm_00_rz.jpg" border="0" src="https://ouchaku.github.io/ds/img/20240721_jm_00_rz.jpg" width="90%"></a>
+<p>この講演の中で Jaime Maussan は 30分間も延々と「世界各地の夜空に飛び交う謎の UFO （＝光点）の群れ」の動画映像を紹介し、ET からのメッセージだと主張している。</p>
+<p>だが、最初の動画シーンを一瞥しただけで、この UFO の正体に気づく。</p>
+<p>全体的に、この講演動画には捏造 UFO 動画と自然現象としての orb 動画が入り乱れて混在している。</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="手抜き">手抜き<a class="hash-link" aria-label="手抜き への直接リンク" title="手抜き への直接リンク" href="https://ouchaku.github.io/ds/blog/2024/7/21/moving_lights_sky#%E6%89%8B%E6%8A%9C%E3%81%8D">​</a></h2>
+<ul>
+<li>
+<p>冒頭：世界各地での謎の音響</p>
+</li>
+<li>
+<p>4:30から 夜空の奇妙なパターン</p>
+</li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="切り出し静止画">切り出し静止画<a class="hash-link" aria-label="切り出し静止画 への直接リンク" title="切り出し静止画 への直接リンク" href="https://ouchaku.github.io/ds/blog/2024/7/21/moving_lights_sky#%E5%88%87%E3%82%8A%E5%87%BA%E3%81%97%E9%9D%99%E6%AD%A2%E7%94%BB">​</a></h2>
+<p>動画の見栄えのするシーンを切り出して埋め込み動画にすれば良いのだろうが、それだけの手間をかける価値が見いだせないので、以下に静止画を添付しておく。</p>
+<a href="https://ouchaku.github.io/ds/img/20240721_jm_01_rz.jpg" target="_blank"><img alt="20240721_jm_01_rz.jpg" border="0" src="https://ouchaku.github.io/ds/img/20240721_jm_01_rz.jpg" width="90%"></a>
+<a href="https://ouchaku.github.io/ds/img/20240721_jm_02_rz.jpg" target="_blank"><img alt="20240721_jm_02_rz.jpg" border="0" src="https://ouchaku.github.io/ds/img/20240721_jm_02_rz.jpg" width="90%"></a>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="動画12738">動画(1:27:38)<a class="hash-link" aria-label="動画(1:27:38) への直接リンク" title="動画(1:27:38) への直接リンク" href="https://ouchaku.github.io/ds/blog/2024/7/21/moving_lights_sky#%E5%8B%95%E7%94%BB12738">​</a></h2>
+<p>Astonishing UFO Encounters Captured on Camera</p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FEOFtClfPgc?si=AryovOIIEW4Lus10" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin"></iframe>
+<p><a href="http://www.youtube.com/watch?v=FEOFtClfPgc" target="_blank" rel="noopener noreferrer">www.youtube.com/watch?v=FEOFtClfPgc</a></p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="動画概要欄">動画概要欄<a class="hash-link" aria-label="動画概要欄 への直接リンク" title="動画概要欄 への直接リンク" href="https://ouchaku.github.io/ds/blog/2024/7/21/moving_lights_sky#%E5%8B%95%E7%94%BB%E6%A6%82%E8%A6%81%E6%AC%84">​</a></h3>
+<p>5,000 views  Premiered 19 hours ago
+Jaime Maussan presents the very best of video evidence of UFOs capture across the world.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="この-ufo-の謎を解く">この UFO の謎を解く<a class="hash-link" aria-label="この UFO の謎を解く への直接リンク" title="この UFO の謎を解く への直接リンク" href="https://ouchaku.github.io/ds/blog/2024/7/21/moving_lights_sky#%E3%81%93%E3%81%AE-ufo-%E3%81%AE%E8%AC%8E%E3%82%92%E8%A7%A3%E3%81%8F">​</a></h2>
+<p>地上から強いスポット光を上空の雲に投影しただけ。強力な光源が安価に入手できるようになったので、こういったいたずらが各地で流行しただけ。</p>
+<p>その証拠に 9:28 の動画シーン（下）</p>
+<a href="https://ouchaku.github.io/ds/img/20240721_jm_04_rz.jpg" target="_blank"><img alt="20240721_jm_04_rz.jpg" border="0" src="https://ouchaku.github.io/ds/img/20240721_jm_04_rz.jpg" width="90%"></a>
+<p>では、雲がない部分をスポット光が通過すると雲に反射しないので光が見えなくなっている。静止画では分かりづらいが、動画で見ると明らか。</p>
+<p>こんな単純な手口でも、こんなに大勢の人が騙されるのか…と逆に感心する。</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="おまけ">おまけ<a class="hash-link" aria-label="おまけ への直接リンク" title="おまけ への直接リンク" href="https://ouchaku.github.io/ds/blog/2024/7/21/moving_lights_sky#%E3%81%8A%E3%81%BE%E3%81%91">​</a></h2>
+<p>以下の動画シーンは捏造の可能性もあるが、切り出し静止画を付けておく。ひとつの orb から幾つもの orb が分離している動画シーン。切り出し動画を付けたいところだが…。（AmendNeed）</p>
+<ul>
+<li>33:58-- 分離するorb の動画</li>
+</ul>
+<a href="https://ouchaku.github.io/ds/img/20240721_jm_sprt_00_rz.jpg" target="_blank"><img alt="20240721_jm_sprt_00_rz.jpg" border="0" src="https://ouchaku.github.io/ds/img/20240721_jm_sprt_00_rz.jpg" width="90%"></a>
+<p>(2024-07-21)</p>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Paul Villa が捏造した UFO 写真（＋追加）]]></title>
         <id>https://ouchaku.github.io/ds/blog/2024/07/20/1963_paul_villa_ufo</id>
@@ -62,7 +1098,7 @@
 <ul>
 <li>このケースからは重要な教訓が学べる：輝く円盤を信じるな。</li>
 </ul>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="ソース">ソース<a class="hash-link" aria-label="ソース への直接リンク" title="ソース への直接リンク" href="https://ouchaku.github.io/ds/blog/2024/07/20/1963_paul_villa_ufo#%E3%82%BD%E3%83%BC%E3%82%B9">​</a></h2>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="ソース">ソース<a class="hash-link" aria-label="ソース への直接リンク" title="ソ��ース への直接リンク" href="https://ouchaku.github.io/ds/blog/2024/07/20/1963_paul_villa_ufo#%E3%82%BD%E3%83%BC%E3%82%B9">​</a></h2>
 <a href="http://forgetomori.com/2007/ufos/ufo-photos-villas-shiny-discs/" target="_blank" title="http://forgetomori.com/2007/ufos/ufo-photos-villas-shiny-discs/"></a>
 <a href="http://forgetomori.com/2007/ufos/ufo-photos-villas-shiny-discs/" target="_blank"></a><a href="http://forgetomori.com/2007/ufos/ufo-photos-villas-shiny-discs/" target="_blank" rel="noopener noreferrer">http://forgetomori.com/2007/ufos/ufo-photos-villas-shiny-discs/</a>
 <p>(2011-10-04 end)</p>
@@ -161,7 +1197,7 @@ UFOインターナショナル 1965年10月号 ガブリエル・グリーン</p
 <p>しかし、炭素元素は両性元素（化学的に強い「塩基」に対しては「酸性」、強い「酸」に対しては「塩基性」として反応する）であり、プラスまたはマイナスに帯電した元素と同様に結合するため、帯電させることはできない。この炭素の原理を利用して密閉を実現するのが「チューブ」である。</p>
 <p>ヴィラの報告によると、何人かの乗組員は、長さ約8インチ、直径約1インチのアルミニウムのような素材でできた、中心から外側に向かってわずかに先細になったチューブの小型版を携帯していた。これらの装置は、人間を含むあらゆる動物生命体を麻痺させるために使用することができた。</p>
 <p>コマ・ベレニキア人」は平和主義者で、地球人が攻撃的で戦争好きな本能を克服することを望んでいた。愛とは「宇宙で最も強力な力」であり、正しく使えば人の心を変えることができると彼らは言った。愛の法則が地球人の心を支配するようになれば、他の世界の人々が大勢やってきて、彼らの進んだ科学を分かち合ってくれるだろう。. .</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="サード�コンタクト">サード・コンタクト<a class="hash-link" aria-label="サード・コンタクト への直接リンク" title="サード・コンタクト への直接リンク" href="https://ouchaku.github.io/ds/blog/2024/07/20/1963_paul_villa_ufo_2#%E3%82%B5%E3%83%BC%E3%83%89%E3%82%B3%E3%83%B3%E3%82%BF%E3%82%AF%E3%83%88">​</a></h2>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="サードコンタクト">サード・コンタクト<a class="hash-link" aria-label="サード・コンタクト への直�接リンク" title="サード・コンタクト への直接リンク" href="https://ouchaku.github.io/ds/blog/2024/07/20/1963_paul_villa_ufo_2#%E3%82%B5%E3%83%BC%E3%83%89%E3%82%B3%E3%83%B3%E3%82%BF%E3%82%AF%E3%83%88">​</a></h2>
 <p>ポール・ヴィラの2枚目のカラー写真シリーズは、1965年4月に数カ所で撮影された。このシリーズの中で最も興味深い写真は、4月18日の復活祭の日曜日、16時頃、アルバカーキの南20マイル、リオ・グランデ川の河床に近い地域で撮影されたものである。</p>
 <p>1976年にヴィラとともに訪れたいくつかの地域のひとつである。ある時、直径約150フィート（約1.5メートル）と推定されるその機体が光線を放ち、小さな茂みに火をつけた（聖書の「燃える茂み」だ！）。火の煙はクラフトのすぐ下の木々や、ヴィラのトラックのテールゲートのすぐ上と左に見える（写真9参照）。</p>
 <p>また、機体は「ミニチュア竜巻」を発生させ、いくつかの木の枝の下側がぼやけて見えた。ヴィラによると、乱気流は非常に大きく、自分もトラックも吹き飛ばされるのではないかと思ったという。突然、まるで「スイッチを切った」かのように風が止み、周囲の空気はかなり熱くなり、死んだような静寂に包まれた。</p>
@@ -400,7 +1436,7 @@ Thanks, EOC</p>
 <p>UFOs and Nukes: The Secret Link Revealed (Excerpt)</p>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/taoHiZFYHkA?si=OtKVgKl-64XCzWg2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin"></iframe>
 <p><a href="http://www.youtube.com/watch?v=taoHiZFYHkA" target="_blank" rel="noopener noreferrer">www.youtube.com/watch?v=taoHiZFYHkA</a></p>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="動画概要欄">動画概要欄<a class="hash-link" aria-label="動画概要欄 への直接リンク" title="動画概要欄 への直接リンク" href="https://ouchaku.github.io/ds/blog/2024/07/19/1966_ufo_nuke#%E5%8B%95%E7%94%BB%E6%A6%82%E8%A6%81%E6%AC%84">​</a></h3>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="動画概要欄">動画概要欄<a class="hash-link" aria-label="動画概要欄 への直接リンク" title="��動画概要欄 への直接リンク" href="https://ouchaku.github.io/ds/blog/2024/07/19/1966_ufo_nuke#%E5%8B%95%E7%94%BB%E6%A6%82%E8%A6%81%E6%AC%84">​</a></h3>
 <p>38,700 views  Nov 13, 2014</p>
 <h2 class="anchor anchorWithStickyNavbar_LWe7" id="whisper-ailarge-v2-model--deepl">Whisper AI(large-v2 model) + DeepL<a class="hash-link" aria-label="Whisper AI(large-v2 model) + DeepL への直接リンク" title="Whisper AI(large-v2 model) + DeepL への直接リンク" href="https://ouchaku.github.io/ds/blog/2024/07/19/1966_ufo_nuke#whisper-ailarge-v2-model--deepl">​</a></h2>
 <p>1965年8月1日、ワイオミング州にあるF.E.ウォーレン空軍基地で、劇的で大規模なUFOの襲撃があった。
@@ -2346,7 +3382,7 @@ I would say that the Poltergeist model to look at those single events, probably 
 However, there are sub elements within Poltergeist drawn from parapsychology.
 So if we think about psychokinesis or mind over matter or extrasensory perception, so accessing information through non-normal means that are very often embedded into those single events.
 (00:38:36)</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="コメント">コメント<a class="hash-link" aria-label="コメント への直接リンク" title="コメント への直接リンク" href="https://ouchaku.github.io/ds/blog/2024/07/18/eric_ouellet_belgium_ufo_reason#%E3%82%B3%E3%83%A1%E3%83%B3%E3%83%88">​</a></h2>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="コメント">コメント<a class="hash-link" aria-label="コメント へ�の直接リンク" title="コメント への直接リンク" href="https://ouchaku.github.io/ds/blog/2024/07/18/eric_ouellet_belgium_ufo_reason#%E3%82%B3%E3%83%A1%E3%83%B3%E3%83%88">​</a></h2>
 <p>私は一部の例外を除き、大半の社会学者の主張は評価できないが、その理由はこのような融通無限な「社会学的」見解が横行しているから。</p>
 <p>「三箇所の頂点に白、中央に赤のライト」がある三角形型 UFO はアメリカでも頻繁に目撃されている。そして一般のアメリカ人は EU なんて眼中にない。ゆえに Eric Ouellet のこの説明は破綻している。良く言っても こじつけ が過ぎる。</p>
 <h2 class="anchor anchorWithStickyNavbar_LWe7" id="動画12859">動画(1:28:59)<a class="hash-link" aria-label="動画(1:28:59) への直接リンク" title="動画(1:28:59) への直接リンク" href="https://ouchaku.github.io/ds/blog/2024/07/18/eric_ouellet_belgium_ufo_reason#%E5%8B%95%E7%94%BB12859">​</a></h2>
@@ -2537,7 +3573,7 @@ So again, it seems that there is a relationship between perceptions, electromagn
 (00:48:31)</p>
 <p>They seem to connect in a number of cases.
 I'm not saying they're there all the time, but in a number of cases, we can see that nexus of conditions to create a very weird UFO experience.</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="動画12859">動画(1:28:59)<a class="hash-link" aria-label="動画(1:28:59) への直接リンク" title="動画(1:28:59) への�直接リンク" href="https://ouchaku.github.io/ds/blog/2024/07/18/eric_ouellet_magnetic_esp#%E5%8B%95%E7%94%BB12859">​</a></h2>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="動画12859">動画(1:28:59)<a class="hash-link" aria-label="動画(1:28:59) への直接リンク" title="動画(1:28:59) への直接リンク" href="https://ouchaku.github.io/ds/blog/2024/07/18/eric_ouellet_magnetic_esp#%E5%8B%95%E7%94%BB12859">​</a></h2>
 <p>UFO's and Poltergeists with Eric Ouellet - July 11, 2024</p>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/dPBHw12YCuU?si=Frq8sayKRIHGwgI5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin"></iframe>
 <p><a href="http://www.youtube.com/watch?v=dPBHw12YCuU" target="_blank" rel="noopener noreferrer">www.youtube.com/watch?v=dPBHw12YCuU</a></p>
@@ -2639,683 +3675,5 @@ Originally aired on April 2, 2016</p>
 <p>Eric Ouellet joins me for a fascinating discussion of his new book, Illuminations: The UFO Experience as a Parapsychological Event. He proposes that we should examine the UFO Phenomenon as we would a poltergeist case. It's a novel way of looking at it, and may ultimately play a part in solving this enigma.</p>
 <p>ERIC OUELLET is professor of Defence Studies at the Royal Military College of Canada, and at the Canadian Forces College (Canada's Joint Staff and War College). He has a Ph.D. in sociology from York University (Toronto, Canada), and he is the liaison officer for Canada with the Parapsychological Association. He has published parapsychological work in the Australian Journal of Psychology, EdgeScience, and the Bulletin Métapsychique. His other research works focus on military sociology and war studies.</p>
 <p>(2024-07-18)</p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Eric Ouellet：ポルターガイスト現象の推移パターンと発生源]]></title>
-        <id>https://ouchaku.github.io/ds/blog/2024/07/18/eric_ouellet_poltergeist_pattern</id>
-        <link href="https://ouchaku.github.io/ds/blog/2024/07/18/eric_ouellet_poltergeist_pattern"/>
-        <updated>2024-07-18T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[前置き]]></summary>
-        <content type="html"><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="前置き">前置き<a class="hash-link" aria-label="前置き への直接リンク" title="前置き への直接リンク" href="https://ouchaku.github.io/ds/blog/2024/07/18/eric_ouellet_poltergeist_pattern#%E5%89%8D%E7%BD%AE%E3%81%8D">​</a></h2>
-<p>Eric Ouellet はカナダの社会学者で</p>
-<p>Eric Ouellet, "Illuminations: The UFO Experience as a Parapsychological", Anomalist Books, 2015</p>
-<p>という「UFO はポルターガイスト現象だ」という趣旨の著書(*1)も出している。彼のインタビュー動画からタイトルの件に絞る。</p>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="1">(*1)<a class="hash-link" aria-label="(*1) への直接リンク" title="(*1) への直接リンク" href="https://ouchaku.github.io/ds/blog/2024/07/18/eric_ouellet_poltergeist_pattern#1">​</a></h3>
-<details class="details_lb9f alert alert--info details_b_Ee" data-collapsed="true"><summary>▼展開</summary><div><div class="collapsibleContent_i85q"><blockquote><a href="https://ouchaku.github.io/ds/img/20240718_book.jpg" target="_blank"><img alt="20240718_book.jpg" border="0" src="https://ouchaku.github.io/ds/img/20240718_book.jpg" width="90%"></a><p>UFO体験が無意識の大規模な超能力の結果だとしたら？</p><p>超心理学とUFO学は油と水のようなものだ。何十年もの間、高名な研究者たちがUFO現象の超常現象や超心理学的側面に注目しようと努力してきたにもかかわらず、両者は混じり合わないのだ。社会学者エリック・オイエレットは『イルミネーションズ』の中で、地球外生命体、タイムトラベラー、政府の秘密プロジェクト、自然現象など、これまで説明しようとするあらゆる努力に抵抗してきたこの現象に、斬新なアプローチを提供している。</p><p>超心理学、社会学、UFO学の研究を組み合わせ、オイエレットは、1952年のワシントンDCのUFOの波、1961年のベティとバーニー・ヒル誘拐事件、1980年のレンデルシャムUFO事件、1989年から1991年のベルギーのUFOの波など、いくつかの有名なUFO事件の再評価を示唆する。UFOの謎に対する最終的な解決策を持っていると主張するわけではないが、彼は、頑固なまでにとらえどころのない現象に対して、多くの考える材料と新鮮な展望を提供している。</p><p>「この分野における超心理学的なアプローチは稀である。-ジャック・ヴァレ、『見えない大学』の著者</p><p>「社会学者として、UFO目撃者として、さらに超心理学研究者として、エリック・オイエレットは、私が40年にわたるUFO調査の現場で遭遇した好奇心のバガテルを理解するためのすべての条件を満たしている。- ジェニー・ランドルズ、『マインド・モンスター』の著者</p><p>ERIC OUELLETは、カナダ王立陸軍大学およびカナダ軍大学（カナダの統合幕僚学校および陸軍大学）の国防学教授である。ヨーク大学（カナダ・トロント）で社会学の博士号を取得し、超心理学協会のカナダ担当連絡官を務める。オーストラリアン・ジャーナル・オブ・サイコロジー』、『エッジサイエンス』、『会報Métapsychique』に超心理学的研究を発表している。その他の研究テーマは軍事社会学と戦争研究である。</p><hr><p>What if UFO experiences are the result of large-scale, unconscious, psychic forces?</p><p>Parapsychology and UFOlogy are like oil and water. They just don't mix, despite the decades-long efforts of some highly respected researchers to call attention to the paranormal or parapsychological aspects of UFO events. In Illuminations, sociologist Eric Ouellet offers a novel approach to a phenomenon that has thus far resisted all other efforts to explain it, be it as extraterrestrial craft, time travelers, secret government projects, or natural phenomena.</p><p>Combining research in parapsychology, sociology, and UFOlogy, Ouellet provides a thought provoking reassessment of several well-known UFO cases, including the Washington, DC, UFO wave of 1952, the Betty and Barney Hill abduction of 1961, the Rendlesham UFO incident of 1980, and the Belgian UFO wave of 1989-1991. While not claiming to have the final solution to the UFO mystery, he offers much food for thought and a refreshing outlook on a stubbornly elusive phenomenon.</p><p>"Parapsychological approaches in this field are rare: your contribution is precious, and it is very timely." -Jacques Vallée, author of The Invisible College</p><p>"As a sociologist and a UFO witness, plus, importantly, a parapsychological researcher, Eric Ouellet ticks all the boxes to appreciate the bagatelle of curiosities that I have encountered in the field during 40 years of UFO investigation." - Jenny Randles, author of Mind Monsters</p><p>ERIC OUELLET is professor of Defence Studies at the Royal Military College of Canada, and at the Canadian Forces College (Canada's Joint Staff and War College). He has a Ph.D. in sociology from York University (Toronto, Canada), and he is the liaison officer for Canada with the Parapsychological Association. He has published parapsychological work in the Australian Journal of Psychology, EdgeScience, and the Bulletin Métapsychique. His other research works focus on military sociology and war studies.</p><p>ref: Amazon | Illuminations: The UFO Experience as a Parapsychological Event | Ouellet, Eric | Occult
-<a href="https://www.amazon.co.jp/Illuminations-UFO-Experience-Parapsychological-Event/dp/193839853X" target="_blank" rel="noopener noreferrer">https://www.amazon.co.jp/Illuminations-UFO-Experience-Parapsychological-Event/dp/193839853X</a></p></blockquote></div></div></details>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="whisper-ailarge-v2-model--deepl">Whisper AI(large-v2 model) + DeepL<a class="hash-link" aria-label="Whisper AI(large-v2 model) + DeepL への直接リンク" title="Whisper AI(large-v2 model) + DeepL への直接リンク" href="https://ouchaku.github.io/ds/blog/2024/07/18/eric_ouellet_poltergeist_pattern#whisper-ailarge-v2-model--deepl">​</a></h2>
-<p>この本では、ポルターガイスト現象がどのように展開するのか、その一部始終を紹介しているんだけど、もしそれが誰から来ているのかを突き止め、彼らが抱えている問題を解決する手助けをすることができれば、ポルターガイストの活動は収まる傾向にあるとも言っているんだ。
-(00:17:52)</p>
-<p>その通りだ。
-ポルターガイストの状況になると、たいてい一人の人が心理的にとても苦しんでいるんだけど、何らかの理由で、その苦しみや痛みを表現できないんだ。
-だから話さない。
-そのため、その苦しみは無意識のものとなる。
-そしてある状況下では、無意識の人たちはその痛みを表現するために、通常とは違う手段、つまりマインド・オーバー・マターを使って、必要な助けを得られるようにする。
-(00:18:32)</p>
-<p>そして、いったんその人が自分の痛みの原因となった本当の問題について話し始めると、通常、ポルターガイスト現象における超常現象は非常に激減する。
-なるほど。
-ポルターガイスト事件における典型的な手順を説明してくれる？
-そうだね。
-フォン・ルカドゥがドイツやヨーロッパで経験的に研究したところ、ポルターガイスト現象はすべて同じように展開する傾向があることがわかったんだ。
-(00:19:08)</p>
-<p>つまり、非常に穏やかに始まる時期があり、これを彼はサプライズと呼んだ。
-穏やかに始まり、奇妙なことや奇妙な音に驚く。
-だから、身近な環境、たいていは家族や職場が、何が起こっているのだろうと思い始める。
-しかし、その時点ではまだよくわからない。
-超常的な力について強い仮説を立てるわけでもなく、ただあまり確信が持てないだけなのだ。
-(00:19:44)</p>
-<p>そして普通はもっと時間がかかる。
-それは強度を増し始める。
-でもその時点で、超常現象を強く信じる人たちが現場にやってくる。
-ゴースト・ハンターか、家の霊を追い払おうとする人たちだ。
-そして彼らの行動そのものが、超常的な何かがこの世に存在しないという信念を強めているのだ。
-(00:20:19)</p>
-<p>そしてこれは奇妙な効果をもたらし、誰もがそれが何であるかを信じるようになり、それが強化され、何でもポルターガイスト現象の一部であるように見えるようになる。
-しかし、苦しんでいる人の注意は、その人から、霊や幽霊と思われるものへと移ってしまう。
-(00:20:42)</p>
-<hr>
-<p>だからこそ、彼はこの第二段階を「ズレ」と呼んだのだ。
-焦点となる人物、本当に苦しんでいる人物から注意がそれる。
-そして第三段階がある。
-やがて、もう少し懐疑的な人々が登場する。
-科学者であったり、福祉サービスであったり、ケースによる。
-そして彼らは、より綿密な質問をする。
-彼らは何が起こっているのか、より批判的な観察者なのだ。
-(00:21:12)</p>
-<p>そして彼らは通常その時点で、その現象が、焦点を当てた人が特定の部屋や特定の建物にいるときに起こることを理解し始める。
-そこで彼らは、その現象をある人物に関連づけ始める。
-そして通常、その現象の強さが弱まり始める。
-しかし同時に、その人、つまりフォーカスしている人、苦しんでいる人が注目され始める。
-(00:21:39)</p>
-<p>それが最終的に彼らが必要とし、望んでいることなのだ。
-だから一方では、自分の痛みを伝えるために普通ではない手段を使う必要は少なくなる。
-しかし一方では、その現象のために多くの注目を浴びる傾向もある。
-だからその時、注目されている人は、注目され続けるために、ごまかしやデマに手を染め始めることがよくある。
-(00:22:06)</p>
-<p>そしてしばしば捕まる。
-それがその段階だ。
-それが衰退と呼ばれる第3の段階だ。
-そして最後に第4段階がある。
-それは抑制と呼ばれるものだ。
-報道されたり、警察が関与したり、自治体が関与したりすることで、社会全体が、「あれはデマだったんだ。
-(00:22:34)</p>
-<p>ポルターガイスト現象はとても不穏なものだからだ。
-そして、その出来事は完全に終結し、通常は完全に止まる。
-だから、事象のベルカーブのようなものがある。
-これがフォン・ルカドゥが提唱したモデルで、UFO波を研究するためのものだ。
-なるほど。
-そのモデルの完璧な例として、エンフィールド・ポルターガイスト事件を挙げたんだね。
-(00:23:02)</p>
-<p>その通りだ。
-リスナーがその事件をどれだけ知っているかはわからないが、その状況をよく表している。
-心霊研究協会が関与し、より批判的な観察者、元マジシャンがより批判的になる。
-そして最後には、少女がデマを流したことを認めるのだが、他の多くのことはデマではないと主張し、彼女を信じる十分な理由もある。
-(00:23:35)</p>
-<p>そして、最終的には完全に終わった。
-しかし問題の少女は、両親が離婚したばかりでトラウマを抱えていた。
-彼女は結局、社宅に住むことになり、妹や弟と一緒に暮らすことになった。
-だから、彼女の小さな世界はあっという間に崩壊していった。
-でも何らかの理由で、彼女はそれを表現することができなかった。
-だからこれは、フォン・ルカドゥが話したモデルを説明するのにとてもいいケースなのだ。
-(00:24:05)</p>
-<p>なるほど。
-さて、ここでUFOに関する超常現象のアイデアの歴史について少し触れよう。
-(00:24:11)</p>
-<hr>
-<p>その通りだ。
-テレパシーであれ、予感であれ、ポルターガイスト的な現象がUFO体験の最中に起こったり、UFO体験の直後に起こったりする。
-また、UFOを体験した後、人々はより精神的に自覚的になる傾向がある。
-だから、彼らは人々が考えていること、未来がどうなるかに同調しやすくなる時期があるようだ。
-(00:24:53)</p>
-<p>だから、UFO体験を超常現象の領域から完全に切り離すことはできないようだ。
-そうだね。
-ケネス・リングがオメガ・プロジェクトで臨死体験やUFOとの接触の後遺症について研究したように、最初の遭遇の後にも多くの超常現象が起こっていることを発見したんだ。
-その通りだ。
-そして、純粋に、物理的に、厳密に物理的なUFO体験をしたと思われる人たちでさえ、実際にはあらゆる種類の超常現象に巻き込まれている。
-(00:25:34)</p>
-<p>バーニーとベティ・ヒルの有名なケースは、多くの人が知らないことだけど、彼らはその出来事の前に、実は夫婦でテレパシーの練習をしていたんだ。
-だから、彼らはすでに超心理学に興味を持っていた。
-そしてその後、彼らにも奇妙なことがいくつか起こった。
-だから、このような事件でさえも、一見単純明快に見えるが、実は忘れてはならない別の側面があるのだ。
-(00:26:07)</p>
-<p>そうだね。
-このポルターガイストのような現象に当てはまるUFOの波について、あなたは本の中で3つの主な例を挙げている。
-そのうちの一つを選んで、あなたが話していることのアイデアを人々に与えたい？
-もちろんだ。
-この本では、このモデルを使った3つのケーススタディを紹介している。
-つまり、UFOの、ごめん、ポルターガイストの領域からのベル曲線だ。
-(00:26:33)</p>
-<p>一つは1952年のワシントンDCのUFOの波だ。
-もう一つは1989年、1991年のベルギーのUFOの波だ。
-そして最後のものは、UFOの波というほどではないが、1980年のレルダーシャムUFO事件としてよく知られているもので、これもベル曲線に非常によく似た形で展開した。
-これは大きなUFOの波だと思うので、ベルギーのものを使うことにする。
-(00:27:02)</p>
-<p>比較的最近のことだ。
-(00:27:02)比較的最近のものだ。
-そして、多くの類似点がある。
-その波はとても穏やかに始まった。
-いくつかの観測記録がある。
-しかし、当時は誰も波について深く考えていなかった。
-しかし、ある夜、ブームが起こり、100以上の観測がなされ、いくつかの観測は警察を巻き込み、多くの警察官が非常に奇妙なことを報告した。
-(00:27:42)</p>
-<p>だから、それは驚きとしてブームのように始まった。
-新聞はすぐにこの記事を取り上げた。
-でも彼らは比較的、冷静だったと言える。
-彼らは、よし、何か奇妙なことが起こっている、と言ったんだ。
-(00:27:57)</p>
-<hr>
-<p>それが何なのかはわからない。
-宇宙から来たエイリアンかもしれない。
-他の何かかもしれない。
-わからない。</p>
-<hr>
-<p>And in the book, one of the things you mentioned is that you lay out a whole part segment of how poltergeist phenomena unfold, but you also say that if you can figure out who it's coming from and get them actually help with the problems they're dealing with, because these are often unconscious expulsions that are creating the poltergeist, the poltergeist activity tends to go away.
-(00:17:52)</p>
-<p>Absolutely.
-And there's a lot of empirical evidence to support that, that when we have a poltergeist situation, there's one person usually suffering psychologically a lot, but for whatever reasons, cannot express that pain, that suffering, usually because social dynamics around them is very bad.
-So they don't speak.
-And so that pain becomes unconscious.
-And in some situation, the unconscious use non-normal means, so mind over matter, to express that pain so that they can get the help they need.
-(00:18:32)</p>
-<p>And once that the person starts to talk about the real issue that caused their pain, usually we see a very drastic reduction of the paranormal phenomena in a poltergeist event.
-Okay.
-And do you want to explain the typical steps there in a poltergeist case?
-Yes.
-So the Von Lucadou who studied empirically a number of cases in Germany and in Europe found that they all tend to unfold the same way.
-(00:19:08)</p>
-<p>So there is a period where it starts very gently, and this is a phase that he called surprise.
-So it starts gently, and then people are surprised that weird things happens, strange noises.
-So the immediate environment, so usually a family or a workplace, start to wonder what's going on.
-But at that point, they're not really sure.
-They don't make any strong hypothesis about the paranormal force, or they're just kind of not too sure.
-(00:19:44)</p>
-<p>And usually it takes more.
-It starts to grow in intensity.
-But at that point, we usually have people who are strong believers in the paranormal that arrive on the scene.
-Either it's ghost hunters or all kinds of people who want to clear houses of spirits.
-And by their very action, they actually reinforce the belief that there's something paranormal out of this world that is causing that.
-(00:20:19)</p>
-<p>And this has a strange effect that then everybody believes that what it is, which reinforces then anything will appear as being part of the poltergeist event, even a normal thing.
-But the person who's suffering, the attention is displaced from him or her towards an alleged spirit or alleged ghost.
-(00:20:42)</p>
-<hr>
-<p>And that's why he called this second phase the displacement.
-The attention is displaced away from the focus person, the person who's really suffering.
-And then there's a third phase.
-Eventually, there are people a little bit more skeptical that arrives on the scene.
-Either they're scientists or they could be social services, depends on the case.
-And they ask a lot more thorough questions.
-They're much more critical observers of what's going on.
-(00:21:12)</p>
-<p>And they usually at that point start to figure out that the phenomenon is usually happening when the focus person is in a particular room or a particular building.
-So they start to associate the phenomenon with a person.
-And then usually that's when the phenomenon starts to decline in intensity.
-But also, then the person, the focus person, the person suffering starts to get attention.
-(00:21:39)</p>
-<p>That's ultimately what they need and what they want.
-So there's less need to use the non-normal means to communicate their pain on one hand.
-But on the other hand, they tend also to get a lot of attentions because of the phenomenon.
-So oftentimes at that time, the person who's the focus person starts to engage in cheating or hoaxing, so just to continue to have the attention.
-(00:22:06)</p>
-<p>And oftentimes they get caught.
-That's that phase.
-That's the third phase that is called the decline.
-And then there's a fourth phase at the end.
-It's called suppression.
-It's that when the rest of society, so when it gets into the press or the police is involved or the municipality, whatever is the case, then they say, okay, that was a hoax and that's it.
-(00:22:34)</p>
-<p>We don't want to hear about this because it's very disturbing, a poltergeist event.
-And that put full closure to the event and it usually stops completely.
-So you have a bit like a bell curve of events.
-And so that's the model proposed by Von Lucadou, a use for studying UFO waves.
-Okay.
-And you give the Enfield poltergeist case as like a perfect example of that model.
-(00:23:02)</p>
-<p>Absolutely.
-I don't know how much your listeners are aware of that case, but it follows very well that situation.
-You have the Society for Psychical Research gets involved and then more critical observers, former magicians, so are much more critical.
-And then at the end, it's just the girl admits that she did some hoaxing, although she claims that a lot of other things were not hoax and there's good reason to believe her as well.
-(00:23:35)</p>
-<p>And then, eventually it's completely end.
-But the little girl in question, she was living a trauma because her parents just divorced.
-She ended up being in a social housing, so a situation with all her sisters and brother.
-And so her little world was falling apart very quickly.
-But for some reason, she was not able to express that.
-So this is a very good case to illustrate the model talked about by Von Lucadou.
-(00:24:05)</p>
-<p>Okay.
-Now, there's a little bit of history here of paranormal idea with UFOs.
-(00:24:11)</p>
-<hr>
-<p>Absolutely.
-I mean, a lot of UFO events have a degree of paranormal or psychological aspects to them, whether it's telepathy, premonition, either that there is actually poltergeist events that occurs during a UFO event or just after.
-And also people, after having a UFO experience, they tend to be more psychically aware.
-So they seem to have a period of time where they seem to be more in tune with what people are thinking, what the future holds.
-(00:24:53)</p>
-<p>And so it seems that we cannot really drastically separate the UFO experience from the realm of the paranormal.
-Yeah.
-And I know like Kenneth Ring did his study on the Omega Project, looking at the after effects of near-death experiences and UFO contact and found that very same thing, that there's a lot of paranormal stuff going on after the initial encounter.
-That's correct.
-And even people that we think that had a purely, I would say, physical, strictly physical UFO experience, they are actually mixed up with all kinds of paranormal event.
-(00:25:34)</p>
-<p>The famous case of Barney and Betty Hill, something that a lot of people don't really know is that they had before the event, they're actually practicing telepathy as a couple.
-So already they had an interest in the parapsychology.
-And then afterward, they had a few weird things happening to them as well, so that they mentioned.
-So even a case like that, that seems to be so nuts and bolts, there's actually other aspects to it that we should not forget.
-(00:26:07)</p>
-<p>Yeah.
-So do you want to lay out, you give three main examples in the book of UFO waves that fit this poltergeist-like phenomena.
-Do you just want to pick one of those and give people an idea of what you're talking about?
-Sure.
-In the book, I present three case studies using the model.
-So the bell curves, if you want, of the UFO, sorry, from the poltergeist realm.
-(00:26:33)</p>
-<p>So one is the 1952 Washington DC UFO wave.
-Another one is the Belgian UFO wave of 1989, 1991.
-And the last one, it was not really a UFO wave, but it's a well-known event as the Relderscham UFO incident of 1980, which also unfolded in ways very similar to the bell curve.
-I'll use the Belgian one because I think that's a big UFO wave.
-(00:27:02)</p>
-<p>It's relatively recent.
-I mean, it's getting old now.
-And the thing is, it has a lot of similarities.
-So the wave started very gently.
-There are a few observations that were recorded.
-But no one was really thinking about the wave at the time.
-But then one night, boom, there was over 100 observations that were made, some involving and it's very well documented, so involving the police, many police officers reporting things that were very, very weird.
-(00:27:42)</p>
-<p>So it started like boom as a surprise.
-And then the newspaper picked up the story quickly.
-But they were actually relatively, I would say, level-headed.
-They say, okay, there's something weird going on.
-(00:27:57)</p>
-<hr>
-<p>We don't know what it is.
-It may be aliens from outer space.
-It may be something else.
-We don't know.</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="動画12859">動画(1:28:59)<a class="hash-link" aria-label="動画(1:28:59) への直接リンク" title="動画(1:28:59) への直接リンク" href="https://ouchaku.github.io/ds/blog/2024/07/18/eric_ouellet_poltergeist_pattern#%E5%8B%95%E7%94%BB12859">​</a></h2>
-<p>UFO's and Poltergeists with Eric Ouellet - July 11, 2024</p>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dPBHw12YCuU?si=Frq8sayKRIHGwgI5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin"></iframe>
-<p><a href="http://www.youtube.com/watch?v=dPBHw12YCuU" target="_blank" rel="noopener noreferrer">www.youtube.com/watch?v=dPBHw12YCuU</a></p>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="動画概要欄">動画概要欄<a class="hash-link" aria-label="動画概要欄 への直接リンク" title="動画概要欄 への直接リンク" href="https://ouchaku.github.io/ds/blog/2024/07/18/eric_ouellet_poltergeist_pattern#%E5%8B%95%E7%94%BB%E6%A6%82%E8%A6%81%E6%AC%84">​</a></h3>
-<p>1,700 views  Jul 15, 2024  2024 Shows
-Originally aired on April 2, 2016</p>
-<p>Since I reference this book a lot, I felt it was time to remaster and re-upload this show, with it's short Patreon segment as well.</p>
-<p>Eric Ouellet joins me for a fascinating discussion of his new book, Illuminations: The UFO Experience as a Parapsychological Event. He proposes that we should examine the UFO Phenomenon as we would a poltergeist case. It's a novel way of looking at it, and may ultimately play a part in solving this enigma.</p>
-<p>ERIC OUELLET is professor of Defence Studies at the Royal Military College of Canada, and at the Canadian Forces College (Canada's Joint Staff and War College). He has a Ph.D. in sociology from York University (Toronto, Canada), and he is the liaison officer for Canada with the Parapsychological Association. He has published parapsychological work in the Australian Journal of Psychology, EdgeScience, and the Bulletin Métapsychique. His other research works focus on military sociology and war studies.</p>
-<p>(2024-07-18)</p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Eric Ouellet：Roswell 事件の目撃者は 7人。内 5人は軍人で特別なものは見ていない。奇妙なものを見たのは残りの 2人だけ ⇒ 本当か？]]></title>
-        <id>https://ouchaku.github.io/ds/blog/2024/07/18/eric_ouellet_roswell</id>
-        <link href="https://ouchaku.github.io/ds/blog/2024/07/18/eric_ouellet_roswell"/>
-        <updated>2024-07-18T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[前置き]]></summary>
-        <content type="html"><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="前置き">前置き<a class="hash-link" aria-label="前置き への直接リンク" title="前置き への直接リンク" href="https://ouchaku.github.io/ds/blog/2024/07/18/eric_ouellet_roswell#%E5%89%8D%E7%BD%AE%E3%81%8D">​</a></h2>
-<p>Eric Ouellet はカナダの社会学者で</p>
-<p>Eric Ouellet, "Illuminations: The UFO Experience as a Parapsychological", Anomalist Books, 2015</p>
-<p>という「UFO はポルターガイスト現象だ」という趣旨の著書(*1)も出している。彼のインタビュー動画からタイトルの件に絞る。</p>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="1">(*1)<a class="hash-link" aria-label="(*1) への直接リンク" title="(*1) への直接リンク" href="https://ouchaku.github.io/ds/blog/2024/07/18/eric_ouellet_roswell#1">​</a></h3>
-<details class="details_lb9f alert alert--info details_b_Ee" data-collapsed="true"><summary>▼展開</summary><div><div class="collapsibleContent_i85q"><blockquote><a href="https://ouchaku.github.io/ds/img/20240718_book.jpg" target="_blank"><img alt="20240718_book.jpg" border="0" src="https://ouchaku.github.io/ds/img/20240718_book.jpg" width="90%"></a><p>UFO体験が無意識の大規模な超能力の結果だとしたら？</p><p>超心理学とUFO学は油と水のようなものだ。何十年もの間、高名な研究者たちがUFO現象の超常現象や超心理学的側面に注目しようと努力してきたにもかかわらず、両者は混じり合わないのだ。社会学者エリック・オイエレットは『イルミネーションズ』の中で、地球外生命体、タイムトラベラー、政府の秘密プロジェクト、自然現象など、これまで説明しようとするあらゆる努力に抵抗してきたこの現象に、斬新なアプローチを提供している。</p><p>超心理学、社会学、UFO学の研究を組み合わせ、オイエレットは、1952年のワシントンDCのUFOの波、1961年のベティとバーニー・ヒル誘拐事件、1980年のレンデルシャムUFO事件、1989年から1991年のベルギーのUFOの波など、いくつかの有名なUFO事件の再評価を示唆する。UFOの謎に対する最終的な解決策を持っていると主張するわけではないが、彼は、頑固なまでにとらえどころのない現象に対して、多くの考える材料と新鮮な展望を提供している。</p><p>「この分野における超心理学的なアプローチは稀である。-ジャック・ヴァレ、『見えない大学』の著者</p><p>「社会学者として、UFO目撃者として、さらに超心理学研究者として、エリック・オイエレットは、私が40年にわたるUFO調査の現場で遭遇した好奇心のバガテルを理解するためのすべての条件を満たしている。- ジェニー・ランドルズ、『マインド・モンスター』の著者</p><p>ERIC OUELLETは、カナダ王立陸軍大学およびカナダ軍大学（カナダの統合幕僚学校および陸軍大学）の国防学教授である。ヨーク大学（カナダ・トロント）で社会学の博士号を取得し、超心理学協会のカナダ担当連絡官を務める。オーストラリアン・ジャーナル・オブ・サイコロジー』、『エッジサイエンス』、『会報Métapsychique』に超心理学的研究を発表している。その他の研究テーマは軍事社会学と戦争研究である。</p><hr><p>What if UFO experiences are the result of large-scale, unconscious, psychic forces?</p><p>Parapsychology and UFOlogy are like oil and water. They just don't mix, despite the decades-long efforts of some highly respected researchers to call attention to the paranormal or parapsychological aspects of UFO events. In Illuminations, sociologist Eric Ouellet offers a novel approach to a phenomenon that has thus far resisted all other efforts to explain it, be it as extraterrestrial craft, time travelers, secret government projects, or natural phenomena.</p><p>Combining research in parapsychology, sociology, and UFOlogy, Ouellet provides a thought provoking reassessment of several well-known UFO cases, including the Washington, DC, UFO wave of 1952, the Betty and Barney Hill abduction of 1961, the Rendlesham UFO incident of 1980, and the Belgian UFO wave of 1989-1991. While not claiming to have the final solution to the UFO mystery, he offers much food for thought and a refreshing outlook on a stubbornly elusive phenomenon.</p><p>"Parapsychological approaches in this field are rare: your contribution is precious, and it is very timely." -Jacques Vallée, author of The Invisible College</p><p>"As a sociologist and a UFO witness, plus, importantly, a parapsychological researcher, Eric Ouellet ticks all the boxes to appreciate the bagatelle of curiosities that I have encountered in the field during 40 years of UFO investigation." - Jenny Randles, author of Mind Monsters</p><p>ERIC OUELLET is professor of Defence Studies at the Royal Military College of Canada, and at the Canadian Forces College (Canada's Joint Staff and War College). He has a Ph.D. in sociology from York University (Toronto, Canada), and he is the liaison officer for Canada with the Parapsychological Association. He has published parapsychological work in the Australian Journal of Psychology, EdgeScience, and the Bulletin Métapsychique. His other research works focus on military sociology and war studies.</p><p>ref: Amazon | Illuminations: The UFO Experience as a Parapsychological Event | Ouellet, Eric | Occult
-<a href="https://www.amazon.co.jp/Illuminations-UFO-Experience-Parapsychological-Event/dp/193839853X" target="_blank" rel="noopener noreferrer">https://www.amazon.co.jp/Illuminations-UFO-Experience-Parapsychological-Event/dp/193839853X</a></p></blockquote></div></div></details>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="whisper-ailarge-v2-model--deepl">Whisper AI(large-v2 model) + DeepL<a class="hash-link" aria-label="Whisper AI(large-v2 model) + DeepL への直接リンク" title="Whisper AI(large-v2 model) + DeepL への直接リンク" href="https://ouchaku.github.io/ds/blog/2024/07/18/eric_ouellet_roswell#whisper-ailarge-v2-model--deepl">​</a></h2>
-<p>ロズウェルのようなことを指摘する人たちに何と言う？
-まあ、ロズウェルは、つまり、入手可能な証拠を非常に詳細に分析した人もいる。
-(00:12:20)</p>
-<p>そのうちの1人は、それが何であれ、あれを実際に見た人は7人しかいない、と発表したんだ。
-その7人のうち5人、その5人は軍人で、それについて特別なことは何も見ていない。
-つまり、何か奇妙なことがあるのではないかと考えたのは2人だけということになる。
-考えてみれば、その視点から証拠を見れば、かなり薄っぺらいもので、あとは伝聞や噂ばかりだ。
-(00:12:51)</p>
-<p>フィリップ・コルソのような本は誇張して書いているしね。
-(00:12:55)</p>
-<hr>
-<p>そして、徹底的に分析した結果、そのほとんどがでっち上げであることに気づく。
-だから結局、ロズウェルの話には大したことはないと思う。</p>
-<hr>
-<p>And what do you say to people who point to things like Roswell?
-Well, Roswell, I mean, some people did a very detailed analysis of the evidence available.
-(00:12:20)</p>
-<p>And one of them came out with, there's only seven people who actually saw that thing, whatever it was.
-And of those seven people, five, and the five of them are military, didn't see anything special about it.
-So this only comes down to two people who thought that there might be something really weird about this.
-It's pretty thin, if you think about it, if you look at the evidence from that perspective, and then all the rest of the story is hearsays and rumors.
-(00:12:51)</p>
-<p>And I mean, books like Philip Corso that exaggerate things.
-(00:12:55)</p>
-<hr>
-<p>And then we all discover after thorough analysis that almost all of it is fabrication.
-So, in the end, I think in the Roswell story, there's not a whole lot.</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="コメント">コメント<a class="hash-link" aria-label="コメント への直接リンク" title="コメント への直接リンク" href="https://ouchaku.github.io/ds/blog/2024/07/18/eric_ouellet_roswell#%E3%82%B3%E3%83%A1%E3%83%B3%E3%83%88">​</a></h2>
-<p>私は Roswell 事件で UFO の墜落はないと判断している。だが、その私ですら Eric Ouellet のタイトルの主張、</p>
-<blockquote><p>入手可能な証拠を非常に詳細に分析した人もいる。そのうちの1人は、それが何であれ、あれを実際に見た人は7人しかいない、と発表したんだ。その7人のうち5人、その5人は軍人で、それについて特別なことは何も見ていない。
-つまり、何か奇妙なことがあるのではないかと考えたのは2人だけということになる。</p></blockquote>
-<p>は極めて疑わしく思える。</p>
-<p>まず、「実際に見た人は7人」と「5人は軍人」から「つまり、何か奇妙なことがあるのではないかと考えたのは2人だけ」を導き出すようでは Eric Ouellet は論理的思考能力に問題がある（or 説明能力が貧弱）。導き出せるのは、「非軍人の目撃者はふたり」ということだけ。</p>
-<p>そもそも Eric Ouellet の語るタイトルのような調査結果は初耳だが、誰の調査結果で、その根拠は何か、を Eric Ouellet は一切、語っていない。</p>
-<p>私の知る範囲で、Roswell の破片に直接触れたり見たりしたと民間人は少なくとも</p>
-<ol>
-<li>Mack Brazel：第一発見者、牧場の委託管理者</li>
-<li>Timothy D Proctor : Mack Brazel に同伴。当時 7歳</li>
-<li>George Wilcox :保安官</li>
-<li>Jesse Marcel Jr.：Jesse Marcel の息子</li>
-<li>Jesse Marcel の妻</li>
-</ol>
-<p>の 5人になる。この 5人が目撃したことを疑う正当な理由はない。</p>
-<p>それなのに、 Eric Ouellet （が高く評価する「詳細に分析した人」）は何を根拠に「たったふたりの非軍人の目撃者」だと言うのか？</p>
-<ul>
-<li>
-<p>「入手可能な証拠を非常に詳細に分析した人」って誰だ？</p>
-</li>
-<li>
-<p>「その視点から証拠を見れば、かなり薄っぺらいもので、あとは伝聞や噂ばかりだ」と言うが、その視点とやらが信用できないのだが。</p>
-</li>
-<li>
-<p>「徹底的に分析した結果」というが、どこが徹底的なのだ？ 恣意的な分析を徹底的な分析と言い換えていないか？</p>
-</li>
-</ul>
-<p>このように、Eric Ouellet の主張は初っ端から大きな疑問符がつく。言い換えると Eric Ouellet の主張は怪しい(*1)ので注意して扱う必要がある。</p>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="1-1">(*1)<a class="hash-link" aria-label="(*1) への直接リンク" title="(*1) への直接リンク" href="https://ouchaku.github.io/ds/blog/2024/07/18/eric_ouellet_roswell#1-1">​</a></h3>
-<p>Eric Ouellet の怪しい主張の別の具体例が下。</p>
-<p><a href="https://ouchaku.github.io/ds/blog/2024/07/18/eric_ouellet_pilot_badmood_malfunction">Eric Ouellet：パイロットの機嫌が悪い時、航空用電子機器が正常動作しないことを示唆する研究結果がある</a></p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="動画12859">動画(1:28:59)<a class="hash-link" aria-label="動画(1:28:59) への直接リンク" title="動画(1:28:59) への直接リンク" href="https://ouchaku.github.io/ds/blog/2024/07/18/eric_ouellet_roswell#%E5%8B%95%E7%94%BB12859">​</a></h2>
-<p>UFO's and Poltergeists with Eric Ouellet - July 11, 2024</p>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dPBHw12YCuU?si=Frq8sayKRIHGwgI5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin"></iframe>
-<p><a href="http://www.youtube.com/watch?v=dPBHw12YCuU" target="_blank" rel="noopener noreferrer">www.youtube.com/watch?v=dPBHw12YCuU</a></p>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="動画概要欄">動画概要欄<a class="hash-link" aria-label="動画概要欄 への直接リンク" title="動画概要欄 への直接リンク" href="https://ouchaku.github.io/ds/blog/2024/07/18/eric_ouellet_roswell#%E5%8B%95%E7%94%BB%E6%A6%82%E8%A6%81%E6%AC%84">​</a></h3>
-<p>1,700 views  Jul 15, 2024  2024 Shows
-Originally aired on April 2, 2016</p>
-<p>Since I reference this book a lot, I felt it was time to remaster and re-upload this show, with it's short Patreon segment as well.</p>
-<p>Eric Ouellet joins me for a fascinating discussion of his new book, Illuminations: The UFO Experience as a Parapsychological Event. He proposes that we should examine the UFO Phenomenon as we would a poltergeist case. It's a novel way of looking at it, and may ultimately play a part in solving this enigma.</p>
-<p>ERIC OUELLET is professor of Defence Studies at the Royal Military College of Canada, and at the Canadian Forces College (Canada's Joint Staff and War College). He has a Ph.D. in sociology from York University (Toronto, Canada), and he is the liaison officer for Canada with the Parapsychological Association. He has published parapsychological work in the Australian Journal of Psychology, EdgeScience, and the Bulletin Métapsychique. His other research works focus on military sociology and war studies.</p>
-<p>(2024-07-18)</p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Eric Ouellet：UFO 目撃頻度や ESP 能力は太陽活動の影響を受けている]]></title>
-        <id>https://ouchaku.github.io/ds/blog/2024/07/18/eric_ouellet_sun_activity</id>
-        <link href="https://ouchaku.github.io/ds/blog/2024/07/18/eric_ouellet_sun_activity"/>
-        <updated>2024-07-18T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[前置き]]></summary>
-        <content type="html"><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="前置き">前置き<a class="hash-link" aria-label="前置き への直接リンク" title="前置き への直接リンク" href="https://ouchaku.github.io/ds/blog/2024/07/18/eric_ouellet_sun_activity#%E5%89%8D%E7%BD%AE%E3%81%8D">​</a></h2>
-<p>Eric Ouellet はカナダの社会学者で</p>
-<p>Eric Ouellet, "Illuminations: The UFO Experience as a Parapsychological", Anomalist Books, 2015</p>
-<p>という「UFO はポルターガイスト現象だ」という趣旨の著書(*1)も出している。彼のインタビュー動画からタイトルの件に絞る。</p>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="1">(*1)<a class="hash-link" aria-label="(*1) への直接リンク" title="(*1) への直接リンク" href="https://ouchaku.github.io/ds/blog/2024/07/18/eric_ouellet_sun_activity#1">​</a></h3>
-<details class="details_lb9f alert alert--info details_b_Ee" data-collapsed="true"><summary>▼展開</summary><div><div class="collapsibleContent_i85q"><blockquote><a href="https://ouchaku.github.io/ds/img/20240718_book.jpg" target="_blank"><img alt="20240718_book.jpg" border="0" src="https://ouchaku.github.io/ds/img/20240718_book.jpg" width="90%"></a><p>UFO体験が無意識の大規模な超能力の結果だとしたら？</p><p>超心理学とUFO学は油と水のようなものだ。何十年もの間、高名な研究者たちがUFO現象の超常現象や超心理学的側面に注目しようと努力してきたにもかかわらず、両者は混じり合わないのだ。社会学者エリック・オイエレットは『イルミネーションズ』の中で、地球外生命体、タイムトラベラー、政府の秘密プロジェクト、自然現象など、これまで説明しようとするあらゆる努力に抵抗してきたこの現象に、斬新なアプローチを提供している。</p><p>超心理学、社会学、UFO学の研究を組み合わせ、オイエレットは、1952年のワシントンDCのUFOの波、1961年のベティとバーニー・ヒル誘拐事件、1980年のレンデルシャムUFO事件、1989年から1991年のベルギーのUFOの波など、いくつかの有名なUFO事件の再評価を示唆する。UFOの謎に対する最終的な解決策を持っていると主張するわけではないが、彼は、頑固なまでにとらえどころのない現象に対して、多くの考える材料と新鮮な展望を提供している。</p><p>「この分野における超心理学的なアプローチは稀である。-ジャック・ヴァレ、『見えない大学』の著者</p><p>「社会学者として、UFO目撃者として、さらに超心理学研究者として、エリック・オイエレットは、私が40年にわたるUFO調査の現場で遭遇した好奇心のバガテルを理解するためのすべての条件を満たしている。- ジェニー・ランドルズ、『マインド・モンスター』の著者</p><p>ERIC OUELLETは、カナダ王立陸軍大学およびカナダ軍大学（カナダの統合幕僚学校および陸軍大学）の国防学教授である。ヨーク大学（カナダ・トロント）で社会学の博士号を取得し、超心理学協会のカナダ担当連絡官を務める。オーストラリアン・ジャーナル・オブ・サイコロジー』、『エッジサイエンス』、『会報Métapsychique』に超心理学的研究を発表している。その他の研究テーマは軍事社会学と戦争研究である。</p><hr><p>What if UFO experiences are the result of large-scale, unconscious, psychic forces?</p><p>Parapsychology and UFOlogy are like oil and water. They just don't mix, despite the decades-long efforts of some highly respected researchers to call attention to the paranormal or parapsychological aspects of UFO events. In Illuminations, sociologist Eric Ouellet offers a novel approach to a phenomenon that has thus far resisted all other efforts to explain it, be it as extraterrestrial craft, time travelers, secret government projects, or natural phenomena.</p><p>Combining research in parapsychology, sociology, and UFOlogy, Ouellet provides a thought provoking reassessment of several well-known UFO cases, including the Washington, DC, UFO wave of 1952, the Betty and Barney Hill abduction of 1961, the Rendlesham UFO incident of 1980, and the Belgian UFO wave of 1989-1991. While not claiming to have the final solution to the UFO mystery, he offers much food for thought and a refreshing outlook on a stubbornly elusive phenomenon.</p><p>"Parapsychological approaches in this field are rare: your contribution is precious, and it is very timely." -Jacques Vallée, author of The Invisible College</p><p>"As a sociologist and a UFO witness, plus, importantly, a parapsychological researcher, Eric Ouellet ticks all the boxes to appreciate the bagatelle of curiosities that I have encountered in the field during 40 years of UFO investigation." - Jenny Randles, author of Mind Monsters</p><p>ERIC OUELLET is professor of Defence Studies at the Royal Military College of Canada, and at the Canadian Forces College (Canada's Joint Staff and War College). He has a Ph.D. in sociology from York University (Toronto, Canada), and he is the liaison officer for Canada with the Parapsychological Association. He has published parapsychological work in the Australian Journal of Psychology, EdgeScience, and the Bulletin Métapsychique. His other research works focus on military sociology and war studies.</p><p>ref: Amazon | Illuminations: The UFO Experience as a Parapsychological Event | Ouellet, Eric | Occult
-<a href="https://www.amazon.co.jp/Illuminations-UFO-Experience-Parapsychological-Event/dp/193839853X" target="_blank" rel="noopener noreferrer">https://www.amazon.co.jp/Illuminations-UFO-Experience-Parapsychological-Event/dp/193839853X</a></p></blockquote></div></div></details>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="whisper-ailarge-v2-model--deepl">Whisper AI(large-v2 model) + DeepL<a class="hash-link" aria-label="Whisper AI(large-v2 model) + DeepL への直接リンク" title="Whisper AI(large-v2 model) + DeepL への直接リンク" href="https://ouchaku.github.io/ds/blog/2024/07/18/eric_ouellet_sun_activity#whisper-ailarge-v2-model--deepl">​</a></h2>
-<p>では、太陽活動が活発なときに、UFOの目撃情報は増えるのだろうか？
-これについては、まだ結論が出ていない。
-太陽活動が最大になるときと最小になるときでは、UFOの活動が多くなるようだ。
-(00:49:02)</p>
-<p>今、このことに関する研究とデータは古くなってきている。
-しかし、UFOの波と、少なくとも多くのUFOを見ることと、太陽のサイクルには何らかの関係があるようだ。
-(00:49:27)</p>
-<hr>
-<p>ロバート・ショックが本を出版して、超能力を実験室とかでテストするとき、テストされる人たちは太陽活動が活発な時期によくなることを示唆したんだ。
-確かにそうだ。
-それに関する研究もいくつかある。
-また、ギャンブルでサイコロや何かを予言しようとする人たちの研究もいくつか覚えている。
-(00:49:54)</p>
-<p>ということは、何かありそうだ。
-我々が持っている証拠はその方向を示しているが、明確なケースではない。
-もしUFOがほとんど超常現象だとしたら、太陽活動もその一端を担っているような気がする。
-そうだね。
-でも、その関わり方はとても複雑で微妙だと思う。
-(00:50:18)</p>
-<p>それで、残念なことに、今の時代、昔のようによく調査されたUFOの報告はあまりない。
-ショックには理由がある。UFOグループは昔よりずっと少なくなったからだ。
-彼らはボランティアであり、時間とお金がある。
-だから、目撃されたことについて何か奇妙なことが実際にあったのかどうか、綿密な調査をする時間がある人はあまりいないんだ。
-(00:50:52)</p>
-<p>そのため、現在ではUFOの数が多いかどうかを評価するのは難しい。なぜなら、報告書を評価する能力が昔より弱まっているからだ</p>
-<hr>
-<p>Now, do we see more UFO reports during high solar activity?
-That jury is out on this.
-It seems that when we have maximas of solar activities and when we have minimas, there seems to be more UFO activities.
-(00:49:02)</p>
-<p>Now, the research and the data on this is start to be dated.
-So I don't know if we do research on this again, how well that hypothesis will survive, but there seems to be some sort of relationship between UFO waves and, or at least seeing a lot of UFOs and solar cycles.
-(00:49:27)</p>
-<hr>
-<p>I know Robert Schock had published a book and it suggested that psychic abilities, like when they test them in laboratories and stuff, people being tested do better during periods of high solar activity.
-Indeed, indeed.
-There are some research on that.
-I remember also some research of people gambling and try to predict whatever the dice or the things, and it seems to links to be linked somewhat to solar activities.
-(00:49:54)</p>
-<p>So there seems to be something there.
-The evidence we have points in that direction, but it's not a clear cut case.
-Yeah, but it seems like it might play a part in, you know, if UFOs are mostly paranormal, it seems like solar activity might play a part in that as well.
-Yes, yes, I think so it does.
-But I think the way, how it plays might be very complex and subtle.
-(00:50:18)</p>
-<p>So, and unfortunately I would say in this day and age, we don't have a lot of well investigated UFO reports as it was in the past.
-Schock has a reason, mostly because UFO groups are way less now than there was in the past.
-And, you know, they are volunteers and, you know, there's their time and their money.
-So not many people have the time to do an in-depth investigation to see if, you know, was it, was there anything actually odd about the sighting or not?
-(00:50:52)</p>
-<p>So today's, it's hard to assess if there's more UFOs because of the capacity to assess the reporting is weaker now than it was in the past.</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="動画12859">動画(1:28:59)<a class="hash-link" aria-label="動画(1:28:59) への直接リンク" title="動画(1:28:59) への直接リンク" href="https://ouchaku.github.io/ds/blog/2024/07/18/eric_ouellet_sun_activity#%E5%8B%95%E7%94%BB12859">​</a></h2>
-<p>UFO's and Poltergeists with Eric Ouellet - July 11, 2024</p>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dPBHw12YCuU?si=Frq8sayKRIHGwgI5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin"></iframe>
-<p><a href="http://www.youtube.com/watch?v=dPBHw12YCuU" target="_blank" rel="noopener noreferrer">www.youtube.com/watch?v=dPBHw12YCuU</a></p>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="動画概要欄">動画概要欄<a class="hash-link" aria-label="動画概要欄 への直接リンク" title="動画概要欄 への直接リンク" href="https://ouchaku.github.io/ds/blog/2024/07/18/eric_ouellet_sun_activity#%E5%8B%95%E7%94%BB%E6%A6%82%E8%A6%81%E6%AC%84">​</a></h3>
-<p>1,700 views  Jul 15, 2024  2024 Shows
-Originally aired on April 2, 2016</p>
-<p>Since I reference this book a lot, I felt it was time to remaster and re-upload this show, with it's short Patreon segment as well.</p>
-<p>Eric Ouellet joins me for a fascinating discussion of his new book, Illuminations: The UFO Experience as a Parapsychological Event. He proposes that we should examine the UFO Phenomenon as we would a poltergeist case. It's a novel way of looking at it, and may ultimately play a part in solving this enigma.</p>
-<p>ERIC OUELLET is professor of Defence Studies at the Royal Military College of Canada, and at the Canadian Forces College (Canada's Joint Staff and War College). He has a Ph.D. in sociology from York University (Toronto, Canada), and he is the liaison officer for Canada with the Parapsychological Association. He has published parapsychological work in the Australian Journal of Psychology, EdgeScience, and the Bulletin Métapsychique. His other research works focus on military sociology and war studies.</p>
-<p>(2024-07-18)</p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Eric Ouellet：UFO はポルターガイスト現象として解釈できる]]></title>
-        <id>https://ouchaku.github.io/ds/blog/2024/07/18/eric_ouellet_ufo_seemed_poltergeist</id>
-        <link href="https://ouchaku.github.io/ds/blog/2024/07/18/eric_ouellet_ufo_seemed_poltergeist"/>
-        <updated>2024-07-18T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[前置き]]></summary>
-        <content type="html"><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="前置き">前置き<a class="hash-link" aria-label="前置き への直接リンク" title="前置き への直接リンク" href="https://ouchaku.github.io/ds/blog/2024/07/18/eric_ouellet_ufo_seemed_poltergeist#%E5%89%8D%E7%BD%AE%E3%81%8D">​</a></h2>
-<p>Eric Ouellet はカナダの社会学者で</p>
-<p>Eric Ouellet, "Illuminations: The UFO Experience as a Parapsychological", Anomalist Books, 2015</p>
-<p>という「UFO はポルターガイスト現象だ」という趣旨の著書(*1)も出している。彼のインタビュー動画からタイトルの件に絞る。</p>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="1">(*1)<a class="hash-link" aria-label="(*1) への直接リンク" title="(*1) への直接リンク" href="https://ouchaku.github.io/ds/blog/2024/07/18/eric_ouellet_ufo_seemed_poltergeist#1">​</a></h3>
-<details class="details_lb9f alert alert--info details_b_Ee" data-collapsed="true"><summary>▼展開</summary><div><div class="collapsibleContent_i85q"><blockquote><a href="https://ouchaku.github.io/ds/img/20240718_book.jpg" target="_blank"><img alt="20240718_book.jpg" border="0" src="https://ouchaku.github.io/ds/img/20240718_book.jpg" width="90%"></a><p>UFO体験が無意識の大規模な超能力の結果だとしたら？</p><p>超心理学とUFO学は油と水のようなものだ。何十年もの間、高名な研究者たちがUFO現象の超常現象や超心理学的側面に注目しようと努力してきたにもかかわらず、両者は混じり合わないのだ。社会学者エリック・オイエレットは『イルミネーションズ』の中で、地球外生命体、タイムトラベラー、政府の秘密プロジェクト、自然現象など、これまで説明しようとするあらゆる努力に抵抗してきたこの現象に、斬新なアプローチを提供している。</p><p>超心理学、社会学、UFO学の研究を組み合わせ、オイエレットは、1952年のワシントンDCのUFOの波、1961年のベティとバーニー・ヒル誘拐事件、1980年のレンデルシャムUFO事件、1989年から1991年のベルギーのUFOの波など、いくつかの有名なUFO事件の再評価を示唆する。UFOの謎に対する最終的な解決策を持っていると主張するわけではないが、彼は、頑固なまでにとらえどころのない現象に対して、多くの考える材料と新鮮な展望を提供している。</p><p>「この分野における超心理学的なアプローチは稀である。-ジャック・ヴァレ、『見えない大学』の著者</p><p>「社会学者として、UFO目撃者として、さらに超心理学研究者として、エリック・オイエレットは、私が40年にわたるUFO調査の現場で遭遇した好奇心のバガテルを理解するためのすべての条件を満たしている。- ジェニー・ランドルズ、『マインド・モンスター』の著者</p><p>ERIC OUELLETは、カナダ王立陸軍大学およびカナダ軍大学（カナダの統合幕僚学校および陸軍大学）の国防学教授である。ヨーク大学（カナダ・トロント）で社会学の博士号を取得し、超心理学協会のカナダ担当連絡官を務める。オーストラリアン・ジャーナル・オブ・サイコロジー』、『エッジサイエンス』、『会報Métapsychique』に超心理学的研究を発表している。その他の研究テーマは軍事社会学と戦争研究である。</p><hr><p>What if UFO experiences are the result of large-scale, unconscious, psychic forces?</p><p>Parapsychology and UFOlogy are like oil and water. They just don't mix, despite the decades-long efforts of some highly respected researchers to call attention to the paranormal or parapsychological aspects of UFO events. In Illuminations, sociologist Eric Ouellet offers a novel approach to a phenomenon that has thus far resisted all other efforts to explain it, be it as extraterrestrial craft, time travelers, secret government projects, or natural phenomena.</p><p>Combining research in parapsychology, sociology, and UFOlogy, Ouellet provides a thought provoking reassessment of several well-known UFO cases, including the Washington, DC, UFO wave of 1952, the Betty and Barney Hill abduction of 1961, the Rendlesham UFO incident of 1980, and the Belgian UFO wave of 1989-1991. While not claiming to have the final solution to the UFO mystery, he offers much food for thought and a refreshing outlook on a stubbornly elusive phenomenon.</p><p>"Parapsychological approaches in this field are rare: your contribution is precious, and it is very timely." -Jacques Vallée, author of The Invisible College</p><p>"As a sociologist and a UFO witness, plus, importantly, a parapsychological researcher, Eric Ouellet ticks all the boxes to appreciate the bagatelle of curiosities that I have encountered in the field during 40 years of UFO investigation." - Jenny Randles, author of Mind Monsters</p><p>ERIC OUELLET is professor of Defence Studies at the Royal Military College of Canada, and at the Canadian Forces College (Canada's Joint Staff and War College). He has a Ph.D. in sociology from York University (Toronto, Canada), and he is the liaison officer for Canada with the Parapsychological Association. He has published parapsychological work in the Australian Journal of Psychology, EdgeScience, and the Bulletin Métapsychique. His other research works focus on military sociology and war studies.</p><p>ref: Amazon | Illuminations: The UFO Experience as a Parapsychological Event | Ouellet, Eric | Occult
-<a href="https://www.amazon.co.jp/Illuminations-UFO-Experience-Parapsychological-Event/dp/193839853X" target="_blank" rel="noopener noreferrer">https://www.amazon.co.jp/Illuminations-UFO-Experience-Parapsychological-Event/dp/193839853X</a></p></blockquote></div></div></details>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="whisper-ailarge-v2-model--deepl">Whisper AI(large-v2 model) + DeepL<a class="hash-link" aria-label="Whisper AI(large-v2 model) + DeepL への直接リンク" title="Whisper AI(large-v2 model) + DeepL への直接リンク" href="https://ouchaku.github.io/ds/blog/2024/07/18/eric_ouellet_ufo_seemed_poltergeist#whisper-ailarge-v2-model--deepl">​</a></h2>
-<p>そして、あなたが指摘している主なものは、ポルターガイスト事件の見解である。
-そうだね。
-私の本では、ドイツの超心理学者、ヴァルター・フォン・ルカドゥがポルターガイストを研究するために開発したモデルを使っているんだ。
-(00:15:47)</p>
-<p>しかし、ポルターガイストとは、超心理学の観点から言うと、霊や幽霊のようなものではなく、ある個人がその環境、つまり周囲の人々と連動して、サイコキネシス、つまりマインド・オーバー・マターを使って、物を動かしたり、音を出したり、申し訳ないが、本当に奇妙で奇妙な状況を作り出すことである。
-しかし、それは個人、または個人とそれに関与する人々のグループである。
-(00:16:24)</p>
-<p>だから、私はそのモデルを使っているんだ。でも規模は違うけど、UFOがポルターガイストとして展開する可能性を見ている。
-だから、私の本の大部分はそのアプローチを使っている。
-例えば、誰かが空に光を見たなら、それは地球外生命体に違いない。しかし、家の中で同じような光を見たら、それは幽霊に違いない。
-(00:16:46)</p>
-<p>まったくだ。
-(00:16:47)</p>
-<hr>
-<p>そしてそれは、場違いなもの、奇妙なもの、異様なものという知覚の問題なんだ。
-そして、その奇妙なことの解釈は全く別のものだ。
-そして、物事の解釈の仕方は、私たちが何を信じ、何を心に抱いているかに大きく関係していることを知っている。
-だから、私たち人間、私たちの文化、私たちの信念、私たち個人の心理、私たちが奇妙な現象をどのように表現するか、どのように報告するか、どのように汚すか、そのような側面を調べることはとても重要なことなのだ。
-(00:17:29)</p>
-<hr>
-<p>And the main thing you point to is the view of poltergeist cases.
-Yes.
-In my book, I'm using a model that was developed by a parapsychologist from Germany, Walter von Lukadu, to study poltergeist.
-(00:15:47)</p>
-<p>But poltergeist, again, from a point of view of parapsychology, is not a spirit or some sort of ghosts, but one individual in conjunctions with his or her environment, so the other people around, who through the use of psychokinesis, so mind over matter, make things move, create sounds, sorry, and really create a situation that is really strange and weird.
-But that's an individual or person and a group of person that are involved in that.
-(00:16:24)</p>
-<p>And so I'm using that model, but on a different scale, look at could UFO unfold as a poltergeist.
-And so a good chunk of my book is using that approach.
-And we've noted on this show many times before that, for instance, if someone sees a light in the sky, it must be extraterrestrials, but you see a light in a house, the same type of light in a house, and now it's a ghost.
-(00:16:46)</p>
-<p>Absolutely.
-(00:16:47)</p>
-<hr>
-<p>And that's really here an issue of the perception of something that is out of place, that is strange, that is bizarre, that's one thing.
-And then the interpretation of that bizarre thing is quite another one.
-And we know that the way we interpret things has a lot to do with what we believe and what we have in our minds.
-So it's very important to look into that aspect of us human, our culture, our beliefs, our individual psychology, how it's actually taint or how we report, how we describe strange phenomena.
-(00:17:29)</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="動画12859">動画(1:28:59)<a class="hash-link" aria-label="動画(1:28:59) への直接リンク" title="動画(1:28:59) への直接リンク" href="https://ouchaku.github.io/ds/blog/2024/07/18/eric_ouellet_ufo_seemed_poltergeist#%E5%8B%95%E7%94%BB12859">​</a></h2>
-<p>UFO's and Poltergeists with Eric Ouellet - July 11, 2024</p>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dPBHw12YCuU?si=Frq8sayKRIHGwgI5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin"></iframe>
-<p><a href="http://www.youtube.com/watch?v=dPBHw12YCuU" target="_blank" rel="noopener noreferrer">www.youtube.com/watch?v=dPBHw12YCuU</a></p>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="動画概要欄">動画概要欄<a class="hash-link" aria-label="動画概要欄 への直接リンク" title="動画概要欄 への直接リンク" href="https://ouchaku.github.io/ds/blog/2024/07/18/eric_ouellet_ufo_seemed_poltergeist#%E5%8B%95%E7%94%BB%E6%A6%82%E8%A6%81%E6%AC%84">​</a></h3>
-<p>1,700 views  Jul 15, 2024  2024 Shows
-Originally aired on April 2, 2016</p>
-<p>Since I reference this book a lot, I felt it was time to remaster and re-upload this show, with it's short Patreon segment as well.</p>
-<p>Eric Ouellet joins me for a fascinating discussion of his new book, Illuminations: The UFO Experience as a Parapsychological Event. He proposes that we should examine the UFO Phenomenon as we would a poltergeist case. It's a novel way of looking at it, and may ultimately play a part in solving this enigma.</p>
-<p>ERIC OUELLET is professor of Defence Studies at the Royal Military College of Canada, and at the Canadian Forces College (Canada's Joint Staff and War College). He has a Ph.D. in sociology from York University (Toronto, Canada), and he is the liaison officer for Canada with the Parapsychological Association. He has published parapsychological work in the Australian Journal of Psychology, EdgeScience, and the Bulletin Métapsychique. His other research works focus on military sociology and war studies.</p>
-<p>(2024-07-18)</p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Eric Ouellet：米政府は UFO を超心理学の観点から調査している ⇒ DoD が UFO/UAP の武器応用を検討した公式書類があるのだが？]]></title>
-        <id>https://ouchaku.github.io/ds/blog/2024/07/18/ric_ouellet_gvmt</id>
-        <link href="https://ouchaku.github.io/ds/blog/2024/07/18/ric_ouellet_gvmt"/>
-        <updated>2024-07-18T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[前置き]]></summary>
-        <content type="html"><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="前置き">前置き<a class="hash-link" aria-label="前置き への直接リンク" title="前置き への直接リンク" href="https://ouchaku.github.io/ds/blog/2024/07/18/ric_ouellet_gvmt#%E5%89%8D%E7%BD%AE%E3%81%8D">​</a></h2>
-<p>Eric Ouellet はカナダの社会学者で</p>
-<p>Eric Ouellet, "Illuminations: The UFO Experience as a Parapsychological", Anomalist Books, 2015</p>
-<p>という「UFO はポルターガイスト現象だ」という趣旨の著書(*1)も出している。彼のインタビュー動画からタイトルの件に絞る。</p>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="1">(*1)<a class="hash-link" aria-label="(*1) への直接リンク" title="(*1) への直接リンク" href="https://ouchaku.github.io/ds/blog/2024/07/18/ric_ouellet_gvmt#1">​</a></h3>
-<details class="details_lb9f alert alert--info details_b_Ee" data-collapsed="true"><summary>▼展開</summary><div><div class="collapsibleContent_i85q"><blockquote><a href="https://ouchaku.github.io/ds/img/20240718_book.jpg" target="_blank"><img alt="20240718_book.jpg" border="0" src="https://ouchaku.github.io/ds/img/20240718_book.jpg" width="90%"></a><p>UFO体験が無意識の大規模な超能力の結果だとしたら？</p><p>超心理学とUFO学は油と水のようなものだ。何十年もの間、高名な研究者たちがUFO現象の超常現象や超心理学的側面に注目しようと努力してきたにもかかわらず、両者は混じり合わないのだ。社会学者エリック・オイエレットは『イルミネーションズ』の中で、地球外生命体、タイムトラベラー、政府の秘密プロジェクト、自然現象など、これまで説明しようとするあらゆる努力に抵抗してきたこの現象に、斬新なアプローチを提供している。</p><p>超心理学、社会学、UFO学の研究を組み合わせ、オイエレットは、1952年のワシントンDCのUFOの波、1961年のベティとバーニー・ヒル誘拐事件、1980年のレンデルシャムUFO事件、1989年から1991年のベルギーのUFOの波など、いくつかの有名なUFO事件の再評価を示唆する。UFOの謎に対する最終的な解決策を持っていると主張するわけではないが、彼は、頑固なまでにとらえどころのない現象に対して、多くの考える材料と新鮮な展望を提供している。</p><p>「この分野における超心理学的なアプローチは稀である。-ジャック・ヴァレ、『見えない大学』の著者</p><p>「社会学者として、UFO目撃者として、さらに超心理学研究者として、エリック・オイエレットは、私が40年にわたるUFO調査の現場で遭遇した好奇心のバガテルを理解するためのすべての条件を満たしている。- ジェニー・ランドルズ、『マインド・モンスター』の著者</p><p>ERIC OUELLETは、カナダ王立陸軍大学およびカナダ軍大学（カナダの統合幕僚学校および陸軍大学）の国防学教授である。ヨーク大学（カナダ・トロント）で社会学の博士号を取得し、超心理学協会のカナダ担当連絡官を務める。オーストラリアン・ジャーナル・オブ・サイコロジー』、『エッジサイエンス』、『会報Métapsychique』に超心理学的研究を発表している。その他の研究テーマは軍事社会学と戦争研究である。</p><hr><p>What if UFO experiences are the result of large-scale, unconscious, psychic forces?</p><p>Parapsychology and UFOlogy are like oil and water. They just don't mix, despite the decades-long efforts of some highly respected researchers to call attention to the paranormal or parapsychological aspects of UFO events. In Illuminations, sociologist Eric Ouellet offers a novel approach to a phenomenon that has thus far resisted all other efforts to explain it, be it as extraterrestrial craft, time travelers, secret government projects, or natural phenomena.</p><p>Combining research in parapsychology, sociology, and UFOlogy, Ouellet provides a thought provoking reassessment of several well-known UFO cases, including the Washington, DC, UFO wave of 1952, the Betty and Barney Hill abduction of 1961, the Rendlesham UFO incident of 1980, and the Belgian UFO wave of 1989-1991. While not claiming to have the final solution to the UFO mystery, he offers much food for thought and a refreshing outlook on a stubbornly elusive phenomenon.</p><p>"Parapsychological approaches in this field are rare: your contribution is precious, and it is very timely." -Jacques Vallée, author of The Invisible College</p><p>"As a sociologist and a UFO witness, plus, importantly, a parapsychological researcher, Eric Ouellet ticks all the boxes to appreciate the bagatelle of curiosities that I have encountered in the field during 40 years of UFO investigation." - Jenny Randles, author of Mind Monsters</p><p>ERIC OUELLET is professor of Defence Studies at the Royal Military College of Canada, and at the Canadian Forces College (Canada's Joint Staff and War College). He has a Ph.D. in sociology from York University (Toronto, Canada), and he is the liaison officer for Canada with the Parapsychological Association. He has published parapsychological work in the Australian Journal of Psychology, EdgeScience, and the Bulletin Métapsychique. His other research works focus on military sociology and war studies.</p><p>ref: Amazon | Illuminations: The UFO Experience as a Parapsychological Event | Ouellet, Eric | Occult
-<a href="https://www.amazon.co.jp/Illuminations-UFO-Experience-Parapsychological-Event/dp/193839853X" target="_blank" rel="noopener noreferrer">https://www.amazon.co.jp/Illuminations-UFO-Experience-Parapsychological-Event/dp/193839853X</a></p></blockquote></div></div></details>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="whisper-ailarge-v2-model--deepl">Whisper AI(large-v2 model) + DeepL<a class="hash-link" aria-label="Whisper AI(large-v2 model) + DeepL への直接リンク" title="Whisper AI(large-v2 model) + DeepL への直接リンク" href="https://ouchaku.github.io/ds/blog/2024/07/18/ric_ouellet_gvmt#whisper-ailarge-v2-model--deepl">​</a></h2>
-<p>例えば、政府の中に、本当は何が起こっているのかを理解している人がいると思う？
-地球外生命体という考えではなく、この現象が本当は何なのか、もっとよく分かっているのではないだろうか？
-現時点ではわからない。
-(00:13:22)</p>
-<p>でも、世界中のほとんどの政府は、この現象にまったく関心を持っていないと思うよ。
-それは確かだ。
-しかし、CIAの公開ウェブサイトを見ると、70年代と80年代には多少の関心を持っていた。
-そして、超心理学の観点からこの問題を調査している。
-つまり、超常現象や超心理学的な何かが存在するという同じ方向に向かっていたのだと思う。
-(00:13:56)</p>
-<p>でも、これも推測に過ぎない。
-だから彼らは諦めたんだ、証拠がなかったから。
-彼らにはもっと大きな獲物があったのだろう。
-彼らはまた、マインドコントロールの実験や、UFOグループとの工作なども行っているようだ。
-ああ、おそらく過去にいくつかの実験が行われたんだろう。
-とても残念なことだけど、そういうこともあったと思う。
-(00:14:23)</p>
-<hr>
-<p>Do you think there's any level of government that may understand, for instance, what's really going on?
-Not so much an extraterrestrial idea, but may have a better idea of what the phenomena really is?
-At the present time, I don't know.
-(00:13:22)</p>
-<p>But I would think that most governments in the world have absolutely no interest in the phenomenon.
-So I'm pretty sure of that.
-However, if you go on the public website of the CIA, they had some interest in the 70s and 80s.
-And they look into the top, the issue from a parapsychology perspective.
-So I think that their thinking was, I mean, the few there in the CIA that had an interest in that, I think the thinking was going in the same direction that there's something paranormal or parapsychological.
-(00:13:56)</p>
-<p>But again, there were just probably speculations.
-And that's why they gave up, because they didn't have evidence.
-And they had probably much bigger fish to fry.
-They also seem to be experimenting with mind control and just manipulation with UFO groups and stuff as well.
-Yeah, there's probably been some experiments that have been done in the past.
-Very unfortunately, I would think that happened.
-(00:14:23)</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="コメント">コメント<a class="hash-link" aria-label="コメント への直接リンク" title="コメント への直接リンク" href="https://ouchaku.github.io/ds/blog/2024/07/18/ric_ouellet_gvmt#%E3%82%B3%E3%83%A1%E3%83%B3%E3%83%88">​</a></h2>
-<p>Eric Ouellet の主張は正しくない（不完全）。DoD の公式書類には UFO/UAP の武器応用が列挙されている。</p>
-<p>こういった発言に事欠かないゆえに Eric Ouellet は信用できない。</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="動画12859">動画(1:28:59)<a class="hash-link" aria-label="動画(1:28:59) への直接リンク" title="動画(1:28:59) への直接リンク" href="https://ouchaku.github.io/ds/blog/2024/07/18/ric_ouellet_gvmt#%E5%8B%95%E7%94%BB12859">​</a></h2>
-<p>UFO's and Poltergeists with Eric Ouellet - July 11, 2024</p>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dPBHw12YCuU?si=Frq8sayKRIHGwgI5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin"></iframe>
-<p><a href="http://www.youtube.com/watch?v=dPBHw12YCuU" target="_blank" rel="noopener noreferrer">www.youtube.com/watch?v=dPBHw12YCuU</a></p>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="動画概要欄">動画概要欄<a class="hash-link" aria-label="動画概要欄 への直接リンク" title="動画概要欄 への直接リンク" href="https://ouchaku.github.io/ds/blog/2024/07/18/ric_ouellet_gvmt#%E5%8B%95%E7%94%BB%E6%A6%82%E8%A6%81%E6%AC%84">​</a></h3>
-<p>1,700 views  Jul 15, 2024  2024 Shows
-Originally aired on April 2, 2016</p>
-<p>Since I reference this book a lot, I felt it was time to remaster and re-upload this show, with it's short Patreon segment as well.</p>
-<p>Eric Ouellet joins me for a fascinating discussion of his new book, Illuminations: The UFO Experience as a Parapsychological Event. He proposes that we should examine the UFO Phenomenon as we would a poltergeist case. It's a novel way of looking at it, and may ultimately play a part in solving this enigma.</p>
-<p>ERIC OUELLET is professor of Defence Studies at the Royal Military College of Canada, and at the Canadian Forces College (Canada's Joint Staff and War College). He has a Ph.D. in sociology from York University (Toronto, Canada), and he is the liaison officer for Canada with the Parapsychological Association. He has published parapsychological work in the Australian Journal of Psychology, EdgeScience, and the Bulletin Métapsychique. His other research works focus on military sociology and war studies.</p>
-<p>(2024-07-18)</p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Micah Hanks：1639, Massachusetts：John Winthrop らが目撃した UFO＋不可解な目撃者の移動 ⇒ この謎を解く]]></title>
-        <id>https://ouchaku.github.io/ds/blog/2024/07/17/1639</id>
-        <link href="https://ouchaku.github.io/ds/blog/2024/07/17/1639"/>
-        <updated>2024-07-17T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[前置き]]></summary>
-        <content type="html"><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="前置き">前置き<a class="hash-link" aria-label="前置き への直接リンク" title="前置き への直接リンク" href="https://ouchaku.github.io/ds/blog/2024/07/17/1639#%E5%89%8D%E7%BD%AE%E3%81%8D">​</a></h2>
-<ul>
-<li>前半は退屈な内容。40:00 ごろからようやく本題。</li>
-</ul>
-<a href="https://ouchaku.github.io/ds/img/20240717_micah_hanks_rz.jpg" target="_blank"><img alt="20240717_micah_hanks_rz.jpg" border="0" src="https://ouchaku.github.io/ds/img/20240717_micah_hanks_rz.jpg" width="90%"></a>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="ocr--deepl">OCR + DeepL<a class="hash-link" aria-label="OCR + DeepL への直接リンク" title="OCR + DeepL への直接リンク" href="https://ouchaku.github.io/ds/blog/2024/07/17/1639#ocr--deepl">​</a></h2>
-<a href="https://ouchaku.github.io/ds/img/20240717_1639__rz.jpg" target="_blank"><img alt="20240717_1639__rz.jpg" border="0" src="https://ouchaku.github.io/ds/img/20240717_1639__rz.jpg" width="90%"></a>
-<p>初期ニューイングランドのUFO</p>
-<ul>
-<li>
-<p>日付：1639年</p>
-</li>
-<li>
-<p>場所：マサチューセッツ州マディー・リバー（現在のブルックライン）。</p>
-</li>
-<li>
-<p>説明：ジョン・ウィンスロップは、ジェームズ・エベレルと他の2人の男が異常な光に遭遇したことを語っている：
-「この年、真面目で慎重な男ジェームズ・エベレルと他の2人が、マディ・リバーで夜中に大きな光を見た。
-静止しているときは燃え上がり、3ヤード四方ほどの大きさであった。走るときは豚の形に縮まり、矢のように素早くチャールトンに向かって走り、2～3時間ほど上下した。
-チャールトンに向かって矢のように速く走り、2、3時間かけて上下した。彼らは1マイルほど下ったところで身軽になり、それが終わると、潮に逆らって元来た場所まで引き戻された。他の信頼できるダイバーも、同じ場所で同じ光を見た。"</p>
-</li>
-<li>
-<p>出典 ウィンスロップの日記、「ニューイングランドの歴史」、1630-1649年、第1巻。</p>
-</li>
-</ul>
-<hr>
-<p>UFOs IN EARLY NEW ENGLAND</p>
-<ul>
-<li>
-<p>DATE: 1639</p>
-</li>
-<li>
-<p>LOCATION: Muddy River (now Brookline), Massachusetts.</p>
-</li>
-<li>
-<p>DESCRIPTION: John Winthrop gives an account of James Everell and two other men's encounter with an unusual light:
-"In this year one James Everell, a sober, discreet man, and two others, saw a great light in the night at Muddy River.
-When it stood still, it flamed up, and was about three yards square; when it ran, it was contracted into the figure of a swine : it ran as swift as an arrow towards Charlton, and so up and down about two or three hours.
-They were come down in their lighter about a mile, and, when it was over, they found themselves carried quite back against the tide to the place they came from. Divers other credible persons saw the same light, after, about the same place."</p>
-</li>
-<li>
-<p>SOURCE: Winthrop's Journal, "History of New England," 1630-1649, Volume I.</p>
-</li>
-</ul>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="この謎を解く">この謎を解く<a class="hash-link" aria-label="この謎を解く への直接リンク" title="この謎を解く への直接リンク" href="https://ouchaku.github.io/ds/blog/2024/07/17/1639#%E3%81%93%E3%81%AE%E8%AC%8E%E3%82%92%E8%A7%A3%E3%81%8F">​</a></h2>
-<p>この現象は orb ＋ 大気中の発光現象で説明がつく。</p>
-<p>さらに、</p>
-<blockquote><p>豚の描写も奇妙だが、おそらく最も重要なのは、光を観察した男たちが、自分たちが思っていたよりも渓流の奥にいることに気がついたようだという事実である。
-(00:42:01)</p><hr><p>そして、ある人たちはこれを、ある種の、行方不明の時の人工物と呼ぶかもしれない、あるいはまた、現代のUFO研究において、アブダクション体験と称されるものが認識されていることになぞらえた。さて、それがここで起きたことなのだろうか？</p></blockquote>
-<p>は意識障害が起きていたことを示している。</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="whisper-ailarge-v2-model--deepl">Whisper AI(large-v2 model) + DeepL<a class="hash-link" aria-label="Whisper AI(large-v2 model) + DeepL への直接リンク" title="Whisper AI(large-v2 model) + DeepL への直接リンク" href="https://ouchaku.github.io/ds/blog/2024/07/17/1639#whisper-ailarge-v2-model--deepl">​</a></h2>
-<p>次に、ジョン・ウィンスロップの日記『1630年から1649年までのニューイングランドの歴史』を見てみよう。
-ウィンスロップが1639年ごろに残した記録には、非常に興味深いものがいくつかある。
-マディ・リバーでの最初のもので、これは私のお気に入りの一つである。
-(00:40:57)</p>
-<p>ジョン・ウィンスロップは、ジェームズ・エヴリルと他の2人の男が異常な光に遭遇したことを語っている。
-これは彼の日記からの実際の記述である。
-この年、真面目で慎重な男ジェームス・エヴリルと他の二人は、マディ・リバーで夜中に大きな光を見た。
-静止しているとき、それは燃え上がり、3ヤード四方ほどの大きさだった。
-それが走ったとき、ところで、これは彼の言う描写の中で最も奇妙なことだが、彼はそれが豚の姿に収縮していたと言った。
-(00:41:22)</p>
-<p>それは矢のように素早くチャールトンに向かって走った。
-そうして2時間か3時間くらい上下していた。
-それが終わると、彼ら、また船頭たちは、潮に逆らって、自分たちが来た場所までかなり引き戻されているのに気がついた。
-他の信頼できるさまざまな人々も、ほぼ同じ時刻に同じ光を見た。
-さて、ここでもまた、非常にユニークな現象が描写されていることに、私はまず気づかないだろう。
-(00:41:49)</p>
-<p>豚の描写も奇妙だが、おそらく最も重要なのは、光を観察した男たちが、自分たちが思っていたよりも渓流の奥にいることに気がついたようだという事実である。
-(00:42:01)</p>
-<hr>
-<p>そして、ある人たちはこれを、ある種の、行方不明の時の人工物と呼ぶかもしれない、あるいはまた、現代のUFO研究において、アブダクション体験と称されるものが認識されていることになぞらえた。さて、それがここで起きたことなのだろうか？
-そうとは言い切れないが、根本的には、この類似性を認識することが重要だと思う。</p>
-<hr>
-<p>And we now look at John Winthrop's journal, The History of New England from 1630 to 1649.
-There are a couple of very interesting accounts that Winthrop gives us from around 1639.
-This first one from the Muddy River, and this is maybe one of my very favorites, and I'll just read briefly from the description in my notes here.
-(00:40:57)</p>
-<p>John Winthrop gives an account of James Everill and two other men's encounter with an unusual light.
-And this is the actual account from his journal.
-In this year one, James Everill, a sober, discreet man, and two others, saw a great light in the night at Muddy River.
-When it stood still, it flamed up and was about three yards square.
-When it ran, and this is most strange, by the way, the description he gives, but he said it was contracted into the figure of a swine.
-(00:41:22)</p>
-<p>It ran as swift as an arrow towards Charlton.
-And so up and down about two or three hours.
-They were come down in their lighter about a mile, and when it was over, they, again, the boatmen, found themselves carried quite back against the tide to the place they came from.
-Diverse other credible persons saw the same light after about the same time.
-Now, I wouldn't be the first to notice that, again, there are some very unique phenomena being described here.
-(00:41:49)</p>
-<p>The description of the swine is strange, but perhaps most significant is the fact that the men who observed the light seemed to feel that they had found themselves further back up the stream than they had thought that they were.
-(00:42:01)</p>
-<hr>
-<p>And some have likened this very much to sort of, you might call them, artifacts of missing time or again, what is purportedly the abduction experience is recognized in modern UFO research. Now, is that what happened here?
-We can't say that, but again, fundamentally, I think it's important to recognize that similarity.</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="動画10046">動画(1:00:46)<a class="hash-link" aria-label="動画(1:00:46) への直接リンク" title="動画(1:00:46) への直接リンク" href="https://ouchaku.github.io/ds/blog/2024/07/17/1639#%E5%8B%95%E7%94%BB10046">​</a></h2>
-<p>Anomaly Archives Saturday Streamathon Fundraiser Series 4.3 Micah Hanks</p>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/77rnKnFmjZw?si=OSoINEa5K4JBmeA9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin"></iframe>
-<p><a href="https://www.youtube.com/watch?v=77rnKnFmjZw" target="_blank" rel="noopener noreferrer">https://www.youtube.com/watch?v=77rnKnFmjZw</a></p>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="動画概要欄">動画概要欄<a class="hash-link" aria-label="動画概要欄 への直接リンク" title="動画概要欄 への直接リンク" href="https://ouchaku.github.io/ds/blog/2024/07/17/1639#%E5%8B%95%E7%94%BB%E6%A6%82%E8%A6%81%E6%AC%84">​</a></h3>
-<p>30 views  Dec 22, 2020
-Anomaly Archives Saturday Streamathon Fundraiser Series 4.3 Micah Hanks</p>
-<p>The Anomaly Archives Saturday Streamathons are a series of emergency fundraiser telethons happening each Saturday until 2021.</p>
-<p>03:15 pm – Micah Hanks – “UFOs: A Historical Perspective”</p>
-<p>We are raising funds to ensure our continued survival into 2021 and beyond. We're drawing together researchers from all corners of the Esoterica realms: Anomalistics, Cryptozoology, Forteana, Parapsychology, and Ufology. We'll be streaming many hours of great content covering these and other fields of inquiry. We'll be sharing a sort of "Fabulous Fortean Film Festival" evening, Plus Music and MORE! All in an effort to raise funds for our 501(c)3 nonprofit community organization to survive the circumstances created by this terrible Covid-Crisis.</p>
-<p>(2024-07-17)</p>]]></content>
     </entry>
 </feed>
