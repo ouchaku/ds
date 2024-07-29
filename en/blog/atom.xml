@@ -2,11 +2,508 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ouchaku.github.io/ds/en/blog</id>
     <title>UFO/Bigfoot/Missing-411/Supernatural Research Blog</title>
-    <updated>2024-07-27T00:00:00.000Z</updated>
+    <updated>2024-07-28T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://ouchaku.github.io/ds/en/blog"/>
     <subtitle>UFO/Bigfoot/Missing-411/Supernatural Research Blog</subtitle>
     <icon>https://ouchaku.github.io/ds/en/img/favicon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[John Spencer：ETH（ET仮説） では UFO を説明できない理由]]></title>
+        <id>https://ouchaku.github.io/ds/en/blog/2024/07/28/eth_fault</id>
+        <link href="https://ouchaku.github.io/ds/en/blog/2024/07/28/eth_fault"/>
+        <updated>2024-07-28T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[前置き]]></summary>
+        <content type="html"><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="前置き">前置き<a class="hash-link" aria-label="Direct link to 前置き" title="Direct link to 前置き" href="https://ouchaku.github.io/ds/en/blog/2024/07/28/eth_fault#%E5%89%8D%E7%BD%AE%E3%81%8D">​</a></h2>
+<p>John Spencer（UK の UFO 研究協会の副会長）がタイトルの件を解説している。</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="コメント">コメント<a class="hash-link" aria-label="Direct link to コメント" title="Direct link to コメント" href="https://ouchaku.github.io/ds/en/blog/2024/07/28/eth_fault#%E3%82%B3%E3%83%A1%E3%83%B3%E3%83%88">​</a></h2>
+<p>ETH とは平たく言えば「UFO は ET の操る飛行装置だよ」という主張で、Richard Dolan などの古いタイプの UFO 研究者が信じている仮説。いわば第一世代の主張。</p>
+<p>その ETH を最初に明確に否定したのが John Keel で、John Keel の影響を受けた Jackques Vallee がそれを敷衍した。これが第２世代の主張。</p>
+<p>近年、2017-12 の NYT の UAP 報道や、 墜落 UFO/ET の回収が再び話題となることで、第一世代への揺り戻しが起きているのが現状。</p>
+<p>情報操作の基本は「混乱した情報を与えてターゲット層を引っ掻き回し続け、ターゲット層の頭脳を混乱状態に落とし込む。その準備を整えた上で洗脳を行う（＝土壌を丁寧に耕してから種を撒く）」だが、その基本を忠実に実践している。</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="whisper-ailarge-v2-model--deeplnew-model">Whisper AI(large-v2 model) + DeepL(new model)<a class="hash-link" aria-label="Direct link to Whisper AI(large-v2 model) + DeepL(new model)" title="Direct link to Whisper AI(large-v2 model) + DeepL(new model)" href="https://ouchaku.github.io/ds/en/blog/2024/07/28/eth_fault#whisper-ailarge-v2-model--deeplnew-model">​</a></h2>
+<p>英国UFO研究協会の副会長ジョン・スペンサーは、この伝統的な見解に異議を唱えています。
+実際、彼はUFOという言葉は時代遅れ、あるいは全く無意味であると考えています。
+私が言いたいのは、私たちはUFOという言葉に人工的な境界線を設け、特定のものをその中に含め、特定のものは当てはまらないと言っているということです。
+例えば、UFOの目撃には、遠距離での遭遇、夜光現象、昼光円盤、そして、UFOに遭遇した人々がUFOとの相互作用を認識する、近距離での遭遇などがあります。
+(00:00:41)</p>
+<p>この2つには何の関係もないかもしれません。
+非常に遠くで何かを目撃した場合と、自分が空飛ぶ円盤の中にいて、宇宙人のパイロットと会っていた、あるいは誘拐されていたと話す場合とでは、まったく違います。
+また、この2つを同じ方法で調査できる可能性はほとんどありません。
+調査方法は異なりますし、目撃者の反応も異なります。また、そこに込められた思いも、おそらく根本的な意味も大きく異なるでしょう。
+（00:01:08）</p>
+<p>ジョン、あなたが嫌っているUFOという言葉の障壁を取り払えるとしたら、それはこのテーマに具体的にどのようなプラスをもたらすでしょうか？
+それは、人々が目撃したことと経験したことの違いに焦点を当てていることを意味します。つまり、地球外生命体仮説をいったん脇に置き、他の可能性にもっと目を向けることができるようになるということです。
+（00:01:33）</p>
+<p>ジョン、それは具体的にどのように機能するのですか？
+ET説を前提としたUFOの伝統的な見方では、UFOは他の惑星から来た宇宙人が操縦する宇宙船であり、したがって地球に現れるのは、少なくとも私たちから見れば、まったくの偶然だということです。
+UFOは、いわば異世界のニール・アームストロングとバズ・オルドリンのような存在なのです。
+（00:01:54）</p>
+<p>彼らは医師のような存在で、地球にやって来て、遺伝子操作を仕事にしているようです。誘拐事件からそう聞いています。
+そして、その根拠に基づいて私たち調査官の役割は、彼らが何をしているのかを調査すること、そしておそらく、彼らが次にそれをいつ行うのかを予測し、それを阻止すること、あるいは彼らがそれをやっている最中に彼らを捕獲すること、少なくとも一つの目的として、適切なタイミングで彼らの肩を叩き、「ねえ、何らかの方法でこれについて話し合うことはできないだろうか？」と言うことだと思います。
+（00:02:23）</p>
+<p>ジョン、あなたは地球外生命体説に対して常に懐疑的だったのではないでしょうか？
+はい、少なくとも伝統的な形についてはそうです。
+非常に多くの困難があります。
+それらをざっと見ていくと、本当に短いインタビューではカバーしきれないのですが、陰謀説はとても人気がありますが、私たちが知っている陰謀が暴露された経緯とは一致しません。
+（00:02:46）</p>
+<p>人々は論理的に行動していません。
+（00:02:48）</p>
+<hr>
+<p>私は宇宙人のことについて話しているわけではありません。
+つまり、彼らがそこに存在しているとしても、彼らの論理を理解できない可能性があることは認めますが、この状況を考えると、人々は論理的に行動しているとは言えません。それを説明するには長い時間がかかりますが、私たちはそれを何度も見てきました。
+エイリアンの進化は、彼らがよりエイリアンらしくなり、よりエイリアンらしいことをするようになる、ハリウッドの続編が次の映画にさらに多くのことを要求するような、ある種の進化です。
+(00:03:14)</p>
+<p>この全体は、人間の基本的な恐怖を反映しています。
+誘拐や自己コントロールの喪失に対する恐怖があります。
+誘拐された人は皆、身体のコントロールを失ったと報告しています。
+バド・ホプキンスは、人々が自分の体が裏切ったと考えているという事実について言及しています。
+これは非常に基本的な人間の恐怖です。
+ジャック・ヴァレは、彼らが ETH の伝統的なモデルが言うことを行っているのであれば、彼らは非常に操縦が下手だと言っています。なぜなら、彼らは何度も墜落するからです。
+（00:03:39）</p>
+<p>彼らは非常に腕の悪い医者です。なぜなら、私たちが標準で行うことができる手術さえ行うことができないからです。
+彼らは催眠術師としても非常に下手です。なぜなら、金時計を持っている人なら誰でも記憶を呼び起こせるからです。
+倫理観の低い医者でもあります。なぜなら、人々の幸福を気にかけないからです。あるいは、そのようなやり方をすれば、私たちを非常に人間以下の存在、あるいは人間以外の存在と見なすかもしれません。
+（00:04:01）</p>
+<p>ですから、そのような可能性もあると思います。
+それから、クラッシュ・リトリーバー（事故調査）があります。これは矛盾した技術を示しています。この技術を使えば、人間を物理的に壁を通り抜けさせることができます。これは、落雷に打たれてニューメキシコ砂漠のあちこちに跳ね回るような非常に脆弱なものだと報告されています。
+今もう一度言います。おそらくそれは事実でしょう。しかし、もし事実だとしたら、なぜ矛盾しているのかを理解する必要があります。
+（00:04:24）</p>
+<p>このような非常に現実的で実用的な ETH のモデルは、これらの疑問のすべてに答えを出してくれるわけではありません。
+私は、ETH は人間が作り出したものだと考えています。
+それは、現実にある細かい部分を見るのではなく、私たちが抱えている疑問に答えるために作られたものです。
+身の回りの動物たちを見てみると、私たちは彼らの行動を擬人化しています。特にペットなどはそうです。しかし、実際には動物とコミュニケーションを取ることはできません。
+(00:04:49)</p>
+<p>クモや蝶、アリや蛾などとは、確かにコミュニケーションを取る方法がありません。
+彼らが世界をどのように見ているのか、私たちは本当に知らないのです。
+私たちは、ある動物が私たちと同じような行動を取るから、その動物は賢いのだと考えます。そして、動物が私たちを真似しているのだから、賢いに違いないと言います。
+しかし、それは動物にとって最も低いレベルの知能なのかもしれません。
+（00:05:08）</p>
+<p>私たちには想像もできない、理解もできない知性の側面が、私たちを取り巻く世界にはあるのかもしれません。つまり、私たち自身が最も知性があるわけではなく、世界そのものが私たちよりも知性がある側面を含んでいる可能性があるということです。
+（00:05:25）</p>
+<hr>
+<p>（00:05:47）</p>
+<p>ジョン、あなたは私たちが想像すらできないことについて話しています。
+それは想像力の欠如によるものなのか、それとも、より適切な言葉が見つからないのですが、ある種の異星人の論理の観点からの話なので、私たちが想像すらできないことなのでしょうか？
+まず、地球にとって本当に異質なもの、あるいは人類にとって異質なもの、つまり地球上で見失われてしまったものについて話しているのかもしれません。
+（00:06:11）</p>
+<p>地球にとって異質という意味では、もちろん地球外生命体の可能性も受け入れますが、このような伝統的なモデルではありません。
+しかし、私たちが夢にも思わないことについて、もう一度考えてみましょう。
+物事がどのように人々に認識されるのかを説明します。
+例えば、車を見たら、あなたの心はどう反応するでしょうか。あなたの心には、車であると学んだもののモデルがすでに存在しています。
+（00:06:32）</p>
+<p>この物を見て、比較をします。
+頭の中のカードインデックスを調べ、ああ、そうだ、あれはそういうものの一つだった、だからあれは車だ、と考えます。
+しかし、何かが起こったときに脳内にモデルがない場合はどうなるでしょうか？
+私は、特にこのような経験は、非常に本物だと思います。
+人々は本当に何かを経験しているのです。
+しかし、それを「それだ」と言うために、頭の中のカード索引で比較できるものを探し始めると、そこには何もありません。
+（00:06:58）</p>
+<p>興味深いことに、シンシアはクリフォードについて語っています。
+彼は異なる文化圏から来ています。彼が住んでいる場所では、毎晩テレビにスタートレックが放送されているわけではありません。
+彼も同じものを見て、同じ経験をしていますが、彼が思い付いたのは先祖の霊でした。
+それが彼の頭の中にあるモデルだったのです。
+さて、これには問題があります。
+（00:07:18）</p>
+<p>もし頭の中に、カード索引にすでに何かが入っていない場合、それに似たものを見つけ、そのモデルに合うように事実を構築し始めます。
+自分が目撃したと思うものを当てはめ始めます。
+そして、問題となるのは、実際に起こっている非常にリアルな体験をしているにもかかわらず、自分の頭の中にあるものに事実を当てはめているため、目撃者として少し信頼性がなくなるということです。
+（00:07:40）</p>
+<p>ジョン、あなたはUFO遭遇は現実のものだと考えていますが、いわゆる従来のUFOのモデルが想定するよりも、超常現象の観点からのものが多いということですね。
+その通りです。
+私はおそらく、UFO研究者の大半よりも、UFOと相互作用する可能性のある超常現象の分野について、より多く研究してきたと思います。
+（00:08:02）</p>
+<hr>
+<p>UFOのテーマには、超常現象のどの分野が含まれると思いますか？
+可能性として除外すべきではない、あるいは除外すべきではないと考えられる分野は思い当たりません。
+先ほどもお話ししたように、実際には多くの分野がまったく不適切であることが判明するかもしれません。
+しかし、実際に試してみなければ、本当のところはわからないのです。
+キャサリン・ハワードにはすでにインタビューしたと思います。キャサリンは私が長年扱ってきたケースです。
+（00:08:27）</p>
+<p>彼女のケースは超常現象のあらゆる分野に及びます。
+生まれ変わり、啓示、千里眼、超能力について言及しました。
+私と一緒に仕事をしている間にも、私たちの間には多くの偶然の一致があり、それは実際に私たちが出会う前の時代にまで遡ります。
+そして、偶然の一致は、今では超常現象の研究対象として独自に認識されつつあり、それは当然のことだと思います。
+電磁気の影響。
+（00:08:54）</p>
+<p>つまり、キャサリンにインタビューしようとしているときに、テープが故障することがありました。このテーマのように、幽霊研究などを行っていると、かなり奇妙な状況に陥ることがあります。
+そのようなことも起こります。
+電話システム全体が、非常に不適切なタイミングで故障することがありました。
+実際、とても奇妙で、ここでそのすべてを説明するのは非常に難しいです。
+しかし、これらのことはすべて彼女のケースの一部であるようです。</p>
+<p>(00:09:17)</p>
+<p>彼女のケースの一部ではないかもしれません。
+それらは全くの偶然かもしれませんし、全く不適切かもしれません。しかし、この事件を調べ、これはおかしい、これは正しい、これは適切、これは適切ではない、と最初に結論づけるような調査は、この事件をある特定の方向に導こうとしているのです。
+私がしたいのは、可能性についてもっとオープンになり、証人たちに、その根拠に基づいて自ら立証する機会を与えることです。つまり、「その部分については聞かない」とか、「その部分については聞く用意がある」などと言わずに。
+(00:09:42)</p>
+<p>それらすべてに耳を傾けてみましょう。つまり、ほとんどの場合、一般的に超常現象として知られているものに対して、よりオープンになる必要があるということです。
+ご覧いただいたように、これは決して単純なテーマではありません。
+多くの論争があり、さまざまな種類があります。
+そして、これは世界的なテーマであることを決して忘れてはなりません。
+最後のインタビュー対象者であるジョン・スペンサーは、この本の著者であり、UFO、決定的な事例集という本を書きました。この本は、大陸ごとにUFOの世界的なレビューをまとめたもので、各大陸の著名な専門家によるエッセイが掲載されています。
+（00:10:18）</p>
+<p>この本は、この興味深いテーマのグローバルな類似点と相違点を、他のどの本よりも多く示している本です。
+このビデオで使用されているイラストの多くは、この本から引用したものです。
+この本を手にとってパラパラとめくっていくだけで、このテーマの広大さがわかります。この本のUFO現象の側面については、後のBuforaのビデオで取り上げる予定です。
+Buforaの本とこのビデオシリーズが、UFO研究者が何年も前に発見したことを理解する一助となり、これが人類最大の謎であることを理解していただければ幸いです。
+（00:10:52）</p>
+<details class="details_lb9f alert alert--info details_b_Ee" data-collapsed="true"><summary>▼展開</summary><div><div class="collapsibleContent_i85q"><p>The vice chairman of the British UFO Research Association is John Spencer, and he differs with this traditional view.
+Indeed, he believes that the term UFO may be outdated or even totally meaningless.
+What I've said is that I think that we've put artificial boundaries around this term UFO, and we've included certain things in it, and we've said certain things don't apply to it.
+Now, the things that we've included inside this term UFO include, for example, the distant encounters, the nightlights and the daylight disks, and also the close encounters, where we're dealing with people meeting aliens and perceiving interaction with aliens.
+(00:00:41)</p><p>There may be no connection between those two.
+There's a whole world of difference between a passing sighting of something very distant and someone saying, I was inside a flying saucer and I was meeting with the alien pilots or having these abduction experiences.
+And there may be very little way that we can investigate the two in the same way.
+The investigation methods are different, the witness reaction is different, the passions involved are different, possibly the underlying meaning is very different as well.
+(00:01:08)</p><p>Well, John, if you could break down the barriers around the term UFO that you don't like, what exactly would that add to the subject?
+It would mean that we were concentrating on the difference between what people were seeing and what people were experiencing, and that means, I think, that we'd begin to be able to leave the ETH behind, this extraterrestrial hypothesis, and leave us more free to look at other possibilities.
+(00:01:33)</p><p>Well, John, how exactly would that work?
+Well, the traditional view of flying saucers, if we take the ETH, is that the flying saucers are spaceships controlled by alien pilots from other planets, and therefore their appearance here on Earth is quite random, at least as seen from our point of view.
+They are, in effect, a sort of Neil Armstrong and Buzz Aldrin of another world.
+(00:01:54)</p><p>They seem to be like doctors, they're coming here, it seems that their job is one of genetic manipulation, from what we're hearing from the abductions.
+And our role as investigators on that basis would seem to be simply to investigate what they're doing, possibly to try and predict when they're going to do it next, with a view, presumably, to either stopping them doing it, capturing them while they're doing it, is maybe one aim, at the very least, tapping them on the shoulder at an appropriate moment, saying, look, do you think we could discuss this in some way?
+(00:02:23)</p><p>Well, John, I think you've always been rather sceptical about the extraterrestrial hypothesis, haven't you?
+Yes, about it in its traditional form, at least, yes.
+There are so many difficulties.
+If we just go through them very quickly, and we really can't cover it in a short interview like this, but the conspiracy theory that is so popular, it really doesn't gel with the way that conspiracies that we do know have been exposed have unfolded.
+(00:02:46)</p><p>People are not acting in a logical way.
+(00:02:48)</p><hr><p>I'm not talking about the aliens.
+I mean, I accept we may not understand their logic if they exist there, but people are not acting logically, given the circumstances of this, and that would take a long time to explain, but we've looked at it a lot, and I'm not sure that people are.
+The development of the aliens is even a sort of a development where they're getting more alien and doing more alien things, almost like a Hollywood sequel demands more of the next film along, so it's very scripted in that way.
+(00:03:14)</p><p>This whole thing reflects basic human fears.
+You've got the fears of kidnap and loss of personal control.
+Everyone in an abduction situation reports this loss of bodily control.
+Bud Hopkins has referred to the fact that people think their bodies have let them down.
+This is a very basic human fear.
+Jacques Vallée has pointed out that if they are doing what the traditional model of the ETH says they're doing, then they're very bad pilots because they crash a lot.
+(00:03:39)</p><p>They're very bad doctors because they can't even do surgical operations to the standard we could do.
+They're very bad hypnotists because anyone with a gold watch can bring the memories through.
+They're not very ethical doctors in that they're not concerned, if you like, for the well-being of the people, or they may regard us as very sub-human in that way, or sub-whatever they are.
+(00:04:01)</p><p>So I suppose that's a possibility.
+Then you've got crash retrieval, which shows an inconsistent technology, a technology which can move a human being physically through a wall, which is something which is reported to seem very vulnerable to being struck by lightning and bouncing all over the New Mexico desert.
+Now again, maybe that's the case, but if it is the case, we need to be able to understand why it's so inconsistent.
+(00:04:24)</p><p>This kind of very down-to-earth practical model of the ETH simply doesn't answer all those questions.
+I think the ETH is a human construct.
+It's constructed to answer the questions we've got rather than looking at the real details that are there.
+If we look at animals in the world around us, I know that we personify their actions, particularly pets, for example, but actually we can't really communicate with animals.
+(00:04:49)</p><p>We certainly have no way of communicating with spiders and butterflies and ants and moths and such.
+We really don't know how they view the world.
+We think that certain animals are intelligent because they do things the way that we would do things, and we then say, oh, that must be intelligent because they're copying us.
+Actually, that may be their lowest level of intelligence.
+(00:05:08)</p><p>There may be whole aspects to intelligence to the world around us that we have no real idea of, that we can't even dream of, and that may mean that in fact we are not the most intelligent, that the world itself may contain aspects which are more intelligent than us.
+(00:05:25)</p><hr><p>Now on that basis, if we can't understand the animals that have grown up in the world around us, can we really believe that we can understand the totally alien culture with totally alien objectives coming to this planet?
+I don't believe we can.
+In the book Perspectives, I said we needed a new model to view the subject with, and I think we still need that new model.
+(00:05:47)</p><p>Now, John, you talk about things that we can't even dream of.
+Now, is that through lack of imagination, or are we talking about things that we can't dream of because they're from the perspective of some sort of alien logic, for want of a better term?
+Well, firstly, we may be talking about something which is truly alien to the Earth, or maybe just alien to humanity, things that we've lost touch with around the Earth.
+(00:06:11)</p><p>In the sense that it may be alien to the Earth, of course, I'm accepting a possibility of something extraterrestrial, but not this kind of traditional model.
+But let me come back and look at what I say we can't even dream of.
+Let me explain how things are perceived by people.
+If you see a car, for example, what your mind does, it has a model in the mind already of something that you've learnt is a car.
+(00:06:32)</p><p>You see this thing and you make comparisons.
+You go into the card index in your head and you say, oh, yes, that was one of those, therefore that is a car.
+But what happens if you don't have a model in the brain when something happens to you?
+I believe these experiences, particularly the close encounters, are very genuine.
+People genuinely are experiencing something.
+But when they start searching in the card index in their head for something to compare it to in order to say it was that, there's nothing there.
+(00:06:58)</p><p>It's interesting, Cynthia, I think, speaks about Clifford.
+Now, he comes from a different culture. He doesn't have Star Trek on TV every night where he lives.
+And he sees the same things, he's having the same experiences, but what he came up with was the spirits of his ancestors.
+So that was his model that was in his mind.
+Now, there is a problem with this.
+(00:07:18)</p><p>If you haven't got something in the head already, in your card index already, you find the thing that it was like, and then you begin to construct the facts to fit the model.
+You begin to adapt what you think you saw.
+And the problem then is that you've got this very genuine experience, which is genuinely happening, but you become slightly unreliable as a witness because what you're doing is you're adapting the facts to fit what you've got in your head.
+(00:07:40)</p><p>So, John, you're taking the view that UFO encounters are real, but more from a paranormal perspective than the so-called traditional model of UFOs supposes.
+Exactly that, in fact, yes.
+I mean, I've probably done more research than most UFO researchers into areas around the paranormal, which may be interactive with UFOs.
+(00:08:02)</p><hr><p>What other areas of the paranormal do you feel that the subject of UFOs includes?
+I can't think of any that it may not or should not encompass as a possibility.
+And as I said to you, many of them may in fact turn out to be quite inappropriate.
+But until we actually try it, we won't really know.
+You've interviewed Catherine Howard, I think, already, and Catherine's a case that I've dealt with for many years.
+(00:08:27)</p><p>Now, her case involves whole areas of the paranormal.
+I've mentioned reincarnation, revelation, clairvoyance, ESP.
+Even while working with me, there are many, many coincidences between us, which actually stretch back to before the time we ever even met.
+And, I mean, coincidence is now becoming recognised as a paranormal area in its own right for study, and I think rightly so as well.
+Electromagnetic effects.
+(00:08:54)</p><p>I mean, I've had tape failures when I'm trying to interview Catherine in quite bizarre circumstances, as does happen in this subject, doing ghost research and such.
+It happens there too.
+I've had telephone systems, whole telephone systems, collapsing at very inappropriate moments, which is actually very strange, very difficult to explain all of that here.
+But all of these things seem to be part of her case.
+(00:09:17)</p><p>They may not be part of her case.
+They may be quite random, they may be quite inappropriate, but any research which looks at the case and starts by saying, this is not right, this is right, or this is appropriate, this isn't appropriate, is beginning to channel that case down a certain road.
+And what I want to do is be much more open about the possibilities and give the witnesses a chance, in a way, to prove the case on their own grounds, without saying, well, I'm not going to listen to that bit, or I'm prepared to listen to that bit.
+(00:09:42)</p><p>Let's try listening to all of those bits, and that means, in most cases, we must be more open to what is generally known as the paranormal.
+Well, as we have seen, this is a far from simple subject.
+It has much controversy and much variety.
+And we should never forget that it is a global subject.
+Our last interviewee, John Spencer, is the author of this book, UFOs, the Definitive Casebook, which is a world review of UFOs, continent by continent, with essays from prominent experts on each continent.
+(00:10:18)</p><p>It is a book which, more than most, shows the global similarities and variations of this intriguing subject.
+Many of the illustrations used in this video were taken from the book.
+Just leafing through the book shows the enormous scope of the subject, facets of the UFO phenomenon that we will be covering in later Bufora videos.
+We hope that Bufora books and this series of videos will help you to appreciate what UFO researchers discovered years ago, that this is mankind's greatest mystery.
+(00:10:52)</p></div></div></details>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="動画1053">動画(10:53)<a class="hash-link" aria-label="Direct link to 動画(10:53)" title="Direct link to 動画(10:53)" href="https://ouchaku.github.io/ds/en/blog/2024/07/28/eth_fault#%E5%8B%95%E7%94%BB1053">​</a></h2>
+<p>Investigating UFOs: paranormal connection, inconsistent technology, difficulties concerning the ETH</p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PMtssusdGjY?si=RAc0U_bUeXrRvheh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin"></iframe>
+<p><a href="http://www.youtube.com/watch?v=PMtssusdGjY" target="_blank" rel="noopener noreferrer">www.youtube.com/watch?v=PMtssusdGjY</a></p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="動画概要欄">動画概要欄<a class="hash-link" aria-label="Direct link to 動画概要欄" title="Direct link to 動画概要欄" href="https://ouchaku.github.io/ds/en/blog/2024/07/28/eth_fault#%E5%8B%95%E7%94%BB%E6%A6%82%E8%A6%81%E6%AC%84">​</a></h3>
+<p>6,100 views  Jul 27, 2024
+UFO researcher John Spencer talks about the subject of UFOs and the difficulties understanding the phenomenon.</p>
+<p>Interview from 1992.</p>
+<p>Also watch: “Kathryn Howard talks about her UFO experience in southern Sweden, April 6, 1969”    • Kathryn Howard talks about her UFO ex...
+Read the book “UFOs - The Definitive Casebook - Sightings, Abductions and Close Encounters” by John Spencer: <a href="https://archive.org/details/ufos-the-" target="_blank" rel="noopener noreferrer">https://archive.org/details/ufos-the-</a>...</p>
+<p>(2024-07-28)</p>]]></content>
+        <category label="UFO" term="UFO"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kathryn Howard の証言：UFO 目撃し、直後に OBE して月のクレータへ]]></title>
+        <id>https://ouchaku.github.io/ds/en/blog/2024/07/28/kathryn_howard_ufo</id>
+        <link href="https://ouchaku.github.io/ds/en/blog/2024/07/28/kathryn_howard_ufo"/>
+        <updated>2024-07-28T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[前置き]]></summary>
+        <content type="html"><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="前置き">前置き<a class="hash-link" aria-label="Direct link to 前置き" title="Direct link to 前置き" href="https://ouchaku.github.io/ds/en/blog/2024/07/28/kathryn_howard_ufo#%E5%89%8D%E7%BD%AE%E3%81%8D">​</a></h2>
+<p>本日の別記事、</p>
+<p><a href="https://ouchaku.github.io/ds/en/blog/2024/07/28/eth_fault">John Spencer：ETH（ET仮説） では UFO を説明できない理由</a></p>
+<p>で Kathryn Howard の体験が言及されていたので取り上げる。</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="whisper-ailarge-v2-model--deeplnew-model">Whisper AI(large-v2 model) + DeepL(new model)<a class="hash-link" aria-label="Direct link to Whisper AI(large-v2 model) + DeepL(new model)" title="Direct link to Whisper AI(large-v2 model) + DeepL(new model)" href="https://ouchaku.github.io/ds/en/blog/2024/07/28/kathryn_howard_ufo#whisper-ailarge-v2-model--deeplnew-model">​</a></h2>
+<p>私は他の2人と一緒にスウェーデン南部へ行き、イングランドに似た牧草地の田舎を歩いていたのです。まさにこのような美しい日のことです。ピクニックに行く予定でした。今から22年以上前のことです。私たちは腰を下ろし、美しい場所を見つけ、腰を下ろして話し始めました。</p>
+<p>私たちは若く、世界やビアフラ、飢餓や飢えた子供たちといった状況について話しました。ベトナムについても話しました。私はとても とても動揺しました。アメリカ人として、自分の国がこのような惨禍を引き起こしていることを恥じ、とても憤りを感じました。</p>
+<p>これは1969年、4月の第1週のことです。正確な日付は覚えていません。メモを取っていなかったのです。前夜にテレビで見た状況のせいで、私は泣き出しました。その瞬間、なぜか私は泣き出しました。ハリーはその経験がありませんでしたが、マルカーと私は何かを見上げました。</p>
+<p>何だったのかはわかりませんが、私たちの頭上すぐ近くに、そこから3つのものが落ちてくる物体がありました。それは金属製で、窓もなければ、人の姿もなく、音もなく、ただそこにありました。空中に浮いているようには見えなかったし、完全に静止しているようにも見えましたが、それはほんの2秒間だけで、その後、その物体は中に戻っていきました。</p>
+<p>楕円形をしていて、まっすぐ地球から離れて飛び去っていきました。私はまっすぐ上を見上げて、それを見続けようとしました。マルキーに「それ見た？ 」と尋ねると、彼は「見た」と答えました。私たちはとてもショックを受けました。</p>
+<p>なぜなら、このようなものは見たことがなかったし、私自身もこのようなものに興味を持ったことがなかったからです。私は「あれは飛行機ではない」と言いました。なぜなら、飛行機は地球の周りを回る必要があるのに、あれは地球からまっすぐ飛んで行ったからです。</p>
+<p>それから私たちは頭を回し、見回しました。すると、そこには「空」という言葉が存在しないことに気づきました。青という色もなくなっていました。ただ無限の空間が広がっているだけで、青という色はなく、すべてが拡大されて見えました。</p>
+<p>人間の心、地球、空間、意識、すべてが拡大されて見えたのです。そして、私たちは、宇宙空間で、目の前に自然のままの大きさで立体的に見える月を見ました。数か月後、彼らが月に着陸し、月の写真を持って帰ってきたので、それ以外には表現しようがありませんでした。それなしでは、私が見たものを表現することはできなかったでしょう。それはその年の7月の月面着陸のことですか？はい、6月か7月ですね。そして、私たちはクレーターを見ました。
+（00:03:22）</p>
+<p>それはその年の7月の月面着陸のことですか？はい、6月か7月だったと思います。クレーターとその深さ、大きさを見ました。月の色は灰色ではなく、砂の色に近い濃い色に見えました。宇宙空間を旋回しているように見え、立ち上がりたい衝動に駆られ、実際に立ち上がって歩いたときの感動は、地球を歩いているという実感が得られ、本当に素晴らしいものでした。</p>
+<p>自分が逆さまになっているように感じ、あらゆる方向を向いているように感じ、言葉では表現できないような重力を感じたのですが、重力の正体は知っていましたし、重力が私を包み込んでいるのを感じました。それが、私の足を地につなぎとめていた唯一のものでした。</p>
+<p>これらのことは誰にでも明らかなことですが、普通の人々は、このような途方もない方法でそれを体験することはありません。私は立ち上がり、歩き始めました。まるで糸で操られている人形のように感じました。空間全体に浸透する音が聞こえました。</p>
+<p>聴診器を録音スタジオに持ち込んで1万倍に拡大したような音でした。心臓の鼓動のような音でした。エコー音があり、それが入ってきて、それから沈黙とギャップがあり、また音が聞こえました。私は何が起こっているのか正確に理解したような気がしました。なんてことだ！宇宙のリズムが脈打っている。</p>
+<p>宇宙のリズムが脈打っているようでした。そして私は戻って座り、両腕で膝を抱えて外を眺めました。すると、地球がとても大きく見えることに気づきました。これを表現する唯一の方法は、同時に2つの異なることが起こっていると言うことです。今、この心でそれを理解するのはとても難しいです。</p>
+<p>しかし、私はここに座って友人と話をしています。あなたと話しているのと同じ方法で。あなたと話しているのと同じような身体的な特徴を持ちながら、同時に文字通り、同じ目を使って地球を遠くから見ていたような感覚でした。</p>
+<p>まるでボウリングのボールの上のアリになったような、それでいてピンヘッドの上にいる巨人になったような感覚でした。さて、あなたには何が起こったと思いますか？私にとって起こったことは、私の空間に何かが侵入し、彼らの空間に私を連れて行ったことだと思います（00:06:45）</p>
+<details class="details_lb9f alert alert--info details_b_Ee" data-collapsed="true"><summary>▼展開</summary><div><div class="collapsibleContent_i85q"><p>I was in southern Sweden with two other people and we were walking in the countryside in the meadows very much like England beautiful day like this exactly and we had planned to take a picnic this was 22 more than 22 years ago and we sat down we found a beautiful spot and we sat down and we started to talk we were very young and talking about the world and situations like Biafra and the hunger and starving children and we talked about Vietnam and I was very upset because as an American I was ashamed that my country was causing such devastation this was about 1969 1969 in April first week of April I don't know the exact date I didn't write it down and we I started to cry because of the situation what we had seen on the television the night before and at that very moment that I started to cry for some reason Harry did not have the experience but Malker and I looked up something made us look up I don't know what and there was this object very close above us that had three things coming down out of it it was metallic no windows no bodies and soundless just there and it didn't even seem to hover it seemed to just be completely still but it was only two seconds and then these things went back up inside of it it was oval shaped and it just shot straight out away from the earth and I looking straight up kept trying to see it and I said to Malky did you see that and he said yes and we were so shocked because we've never had anything like this before and I've never had any interest in anything of this nature either and I said that couldn't have been an airplane because an airplane has to go around the earth and this thing went straight away from the earth and then we turned our heads and we looked and noticed that the word sky did not exist there was no color blue anymore it was just in infinite space colorless infinite space everything seemed to be enlarged everything the human mind the earth the space the consciousness and then we saw the moon in its natural size three-dimensional right in front of us in the space and it was it's just impossible to describe except that a few months later they landed on the moon and they came with all photographs over the moon and that was the only way I was able to describe what I saw I never could have done it without. That was in July of that year the moon landing? Yes, June or July yes and we saw the without.
+(00:03:22)</p><p>That was in July of that year the moon landing? Yes, June or July yes and we saw the craters and the depth of the craters and the size we saw the color of the moon which I found not to be gray but to be like more like sand a darker shade of sand and it seemed to be revolving in space and then I felt this urge to stand up which I did and that was the most spectacular feeling to stand up and walk on the earth and really feel myself walking on the earth you know to feel this I felt that I was upside down I felt that I was in every direction and I seemed to experience gravity in a way I can't describe either but it was just I knew what gravity was and I felt it holding me that that was the only thing that kept my feet on the earth and all of these things are obvious to anyone but people don't normally go around and experience it on such an enormous way and I stood up I started walking I felt like a puppet on strings and then there was a sound that came that permeated the whole space and it was very similar to if you took a stethoscope and you put it into a recording studio and you magnified it 10,000 times it sounded like that like a heartbeat you know it's it had all that echo sound and it came in and then there was a silence a gap and then it came again and I said like I knew exactly what was happening oh my god it's the rhythm of the universe pulsating and then I went back and I sat down and put my arms around my knees like this and was looking out and then I noticed that the earth seemed to get very large so you the only way I can describe this is to say that it was two different things at the same time and that's what's so hard to comprehend with this mind now how one can do that but I was sitting here talking to my friend the same way I'm talking to you with the same physical attributes but at the same time I was literally somehow seeing the earth from a distance with these same eyes it was like being an ant on a bowling ball but at the same time being a giant on the top of a pinhead okay what is it that you think happened to you I feel that what happened to me was that it was a an object that came into my space and brought me into their space(00:06:45)</p></div></div></details>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="コメント">コメント<a class="hash-link" aria-label="Direct link to コメント" title="Direct link to コメント" href="https://ouchaku.github.io/ds/en/blog/2024/07/28/kathryn_howard_ufo#%E3%82%B3%E3%83%A1%E3%83%B3%E3%83%88">​</a></h2>
+<p>たぶん、彼女のこの体験は以下が原因だろう。</p>
+<p>ピクニック途中で休憩し、会話していた時</p>
+<ol>
+<li>
+<p>付近に植生していた幻覚性の植物の影響(*1)</p>
+</li>
+<li>
+<p>会話中に摂った おやつ（or 食事）に幻覚性の食材（幻覚性きのこの類）が紛れ込んでいた</p>
+</li>
+<li>
+<p>当時、若者の間で流行っていた LSD 摂取のフラッシュバック(*2)</p>
+</li>
+</ol>
+<p>で幻覚を見た。</p>
+<p>その根拠が下。</p>
+<ol>
+<li>
+<p>3人一緒にいて、彼女を含めた 2人は UFO を目撃したが、残りのひとりは目撃しなかった。これは体質差だろう。</p>
+</li>
+<li>
+<p>以下の証言は幻覚としてなら、十分辻褄があう。</p>
+</li>
+</ol>
+<blockquote><p>私は立ち上がり、歩き始めました。まるで糸で操られている人形のように感じました。空間全体に浸透する音が聞こえました。聴診器を録音スタジオに持ち込んで1万倍に拡大したような音でした。</p></blockquote>
+<ol start="3">
+<li>差し迫ったアポロ月着陸が全米で話題になっていた時に、その情景を先行して体験したのも幻覚としてならあり得る。</li>
+</ol>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="1">(*1)<a class="hash-link" aria-label="Direct link to (*1)" title="Direct link to (*1)" href="https://ouchaku.github.io/ds/en/blog/2024/07/28/kathryn_howard_ufo#1">​</a></h3>
+<p>山で野イチゴなどを採取していたら、Bigfoot や妖精に出会ったという話が多いが、その理由の一つはその野イチゴなどの付近に自生していた幻覚薬物の影響ではないか。</p>
+<p><a href="http://news21c.blog.fc2.com/blog-entry-16808.html" target="_blank">Joshua Cutchin : Bigfoot は（妖精と同様に）野イチゴの周辺に多く出没。</a> (2020-09-27)</p>
+<p><a href="http://news21c.blog.fc2.com/blog-entry-16835.html" target="_blank">Joshua Cutchin : Missing-411 事例と妖精伝説は共通点が多い。</a> (2020-10-01)</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="2">(*2)<a class="hash-link" aria-label="Direct link to (*2)" title="Direct link to (*2)" href="https://ouchaku.github.io/ds/en/blog/2024/07/28/kathryn_howard_ufo#2">​</a></h3>
+<p>彼女の証言、</p>
+<blockquote><p>私たちは若く、世界やビアフラ、飢餓や飢えた子供たちといった状況について話しました。ベトナムについても話しました。私はとても とても動揺しました。アメリカ人として、自分の国がこのような惨禍を引き起こしていることを恥じ、とても憤りを感じました。</p></blockquote>
+<p>から、彼女たちはベトナム反戦運動に同調していたことがわかる。</p>
+<p>当時、全米では CIA がベトナム反戦運動を飼い慣らすために若者をロック音楽やヒッピー運動、LSD ブーム(*3)で骨抜きにする計画を実施中だった。</p>
+<p>この CIA が先導した「飼いならされた反体制運動」に馴化された彼女たちも LSD に馴染んでいた可能性がある。</p>
+<p>LSD はその効果が一旦、消えた後にフラッシュバックすることがある。彼女たちが前夜、LSD を摂取していたら翌日の昼間にフラッシュバックすることはありえる。</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="3">(*3)<a class="hash-link" aria-label="Direct link to (*3)" title="Direct link to (*3)" href="https://ouchaku.github.io/ds/en/blog/2024/07/28/kathryn_howard_ufo#3">​</a></h3>
+<p>あまり指摘されていないようだが、Terrence McKenna の幻覚薬物による意識革命は、この CIA の仕組んだ「飼いならされた反体制運動」(*4)にピッタリ沿っている。</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="4">(*4)<a class="hash-link" aria-label="Direct link to (*4)" title="Direct link to (*4)" href="https://ouchaku.github.io/ds/en/blog/2024/07/28/kathryn_howard_ufo#4">​</a></h3>
+<blockquote><p>半世紀前のアメリカの「反体制ヒッピー運動、peace and love 運動」にも、大勢の若いアメリカ人が「引き込まれた」が、これは CIA によって巧みに仕組まれたものであることが今は明らかになっている。CIA はこれにより、ベトナム戦争反対勢力を実質的に（LSD と sex を餌にし、綺麗事で盛大に飾り立てることで）無力化させることに成功した。</p><p>つまり、CIA は若者の牙を抜き、LSD でラリって集まって騒がしい歌を聴くだけの従順な羊の大群として躾けた。こうやって「体制に操られた反体制運動」…という滑稽な図式がめでたく完成した。</p><p>今でも「俺/あたし も昔はヤンチャで Woodstock Festival とかにも行ってきたよ。あの頃は良かったなぁ」と懐かしむ老人（元・大学教員/ジャーナリスト/作家 とかも含まれる）が大勢いるが、彼らはこういった状況には無知。</p><p>理想主義者は単純なゆえ、毎回、こうやって簡単に操られ、騙される。</p><p>ref: <a href="http://news21c.blog.fc2.com/blog-entry-22203.html" target="_blank">❏ Texas : 非番の警官が二足歩行する怪物を目撃 ⇒ この謎を推測</a> (2024-04-29)</p></blockquote>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="動画645">動画(6:45)<a class="hash-link" aria-label="Direct link to 動画(6:45)" title="Direct link to 動画(6:45)" href="https://ouchaku.github.io/ds/en/blog/2024/07/28/kathryn_howard_ufo#%E5%8B%95%E7%94%BB645">​</a></h2>
+<p>Kathryn Howard talks about her UFO experience in southern Sweden, April 6, 1969</p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ua0m4i4pUI?si=A7mXQjfjxZYD9DY9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin"></iframe>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="動画概要欄">動画概要欄<a class="hash-link" aria-label="Direct link to 動画概要欄" title="Direct link to 動画概要欄" href="https://ouchaku.github.io/ds/en/blog/2024/07/28/kathryn_howard_ufo#%E5%8B%95%E7%94%BB%E6%A6%82%E8%A6%81%E6%AC%84">​</a></h3>
+<p>15,800 views  Nov 25, 2022
+THIS VIDEO IS FOR EDUCATIONAL PURPOSE ONLY!
+FAIR USE PRINCIPLES UNDER SECTION 107 OF THE COPYRIGHT ACT.</p>
+<p>(2024-07-28)</p>]]></content>
+        <category label="UFO" term="UFO"/>
+        <category label="OBE" term="OBE"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[周囲に光点群を伴うスパイダーマンに似た怪奇生物の目撃事例 ⇒正体を推測]]></title>
+        <id>https://ouchaku.github.io/ds/en/blog/2024/07/28/spider_man</id>
+        <link href="https://ouchaku.github.io/ds/en/blog/2024/07/28/spider_man"/>
+        <updated>2024-07-28T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[前置き]]></summary>
+        <content type="html"><![CDATA[<a href="https://ouchaku.github.io/ds/img/20240728_spiderman.jpg" target="_blank"><img alt="20240728_spiderman.jpg" border="0" src="https://ouchaku.github.io/ds/img/20240728_spiderman.jpg" width="90%"></a>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="前置き">前置き<a class="hash-link" aria-label="Direct link to 前置き" title="Direct link to 前置き" href="https://ouchaku.github.io/ds/en/blog/2024/07/28/spider_man#%E5%89%8D%E7%BD%AE%E3%81%8D">​</a></h2>
+<p>Chris Holm がタイトルのような目撃事例を取り上げている。この正体を推測する。</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="該当箇所">該当箇所<a class="hash-link" aria-label="Direct link to 該当箇所" title="Direct link to 該当箇所" href="https://ouchaku.github.io/ds/en/blog/2024/07/28/spider_man#%E8%A9%B2%E5%BD%93%E7%AE%87%E6%89%80">​</a></h2>
+<p>48:00--52:00</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="whisper-ailarge-v2-model--deeplnew-model">Whisper AI(large-v2 model) + DeepL(new model)<a class="hash-link" aria-label="Direct link to Whisper AI(large-v2 model) + DeepL(new model)" title="Direct link to Whisper AI(large-v2 model) + DeepL(new model)" href="https://ouchaku.github.io/ds/en/blog/2024/07/28/spider_man#whisper-ailarge-v2-model--deeplnew-model">​</a></h2>
+<p>あなたの絵の1つを見ていたのですが、誰かが夜中に目を覚ましたら、エイリアン、ある種のETが誰かの部屋の隅の壁にくっついていたというものでした。それは誰かが調査したスケッチから作られたもので、あなたはそれを漫画やアニメのようなものに仕上げました。とても面白いです。ええ、もちろん。それが面白い生命を与えていると私は言いたいだけです。
+（00:47:51）</p>
+<p>とてもクールですね。ええ、もちろん。私はそのイラストを一番下に持っていますので、それをポップアップさせて、それについてお話しましょう。
+（00:47:57）</p>
+<hr>
+<p>これは調査員のスケッチから来ています。右側が調査員のスケッチです。彼の母親は、廊下の片隅に緑色の灰色の男のようなものが寄りかかっているのを見たという話を詳しく彼に話しました。彼はまるでスパイダーマンのようにそこに倒れていたのです。母親はそう説明し、それを見たとき、当然のことながら、飛び上がるほど驚いたのです。
+（00:48:23）</p>
+<p>私もそれを見たことがあります。そして彼女が反応すると、それは消えてしまいました。彼女は最初、灰色の男のようなものだと説明していました。彼はスパイダーマンのように部屋の隅に突っ立っていました。片手を天井に、もう片方の手を反対側の壁に置いていて、足は上に大きく開いて広がっていました。
+彼はただ突っ立っていて、何をしているのかわかりませんでした。そして、これは興味深いのですが、彼は取り囲まれていました。彼はただそこに立ち往生して、何をするでもなくじっとしていたのです。
+（00:48:57）</p>
+<p>そして、これは興味深いのですが、彼はキラキラした光に包まれていました。まるでサッカーをしていてぶつかったときに、光の帯が見えるような感じです。私がそれを表現する最も良い方法は、銀色のきらめきのようなもので、星を見たような、あるいはその類いのものだと思います。
+彼女がこの存在の周りに見たものは、まさにそれでした。私は、彼が何者なのかわかりません。
+(00:49:27)</p>
+<p>おそらく、彼は何らかの異次元の移動中だったのだと思います。そして、最終的に完全に意識を失う前に捕まってしまいました。これは、私たちが目撃した謎のひとつです。同じようなことが私の母にも起こりました。母が廊下を歩いていたときのことです。これは私たちがまだ幼い頃、私と兄弟が4歳くらいの頃の話です。私たちは寝室で寝ていました。そして、彼女が私たちがいる寝室がある廊下を歩いていくと、私たちは眠っていました。
+（00:50:04）</p>
+<p>そして、彼女が廊下を歩いていくと、光の存在のようなものを見ました。膝から下は消えてしまいましたが、それ以外の部分は、光に包まれた存在、光でできているようなものでした。
+そして、それは私たちの子供部屋の寝室を覗き込んでいました。そして、また母が、私たちの寝室、子供の寝室を覗き込んでいました。
+（00:50:24）</p>
+<p>そして、また母が、びっくりして飛び跳ねると、それは消えてしまいました。 私たちが、まるで何事も起こっていないような状態にあるとき、何かがあるのだと思います。私たちが眠っているとき、何かをしているとき、次元を浮遊しているとき、あるいは何かをしているときだと思います。そして、私たちの一部は、純粋な偶然によって、私たちが表現できる限り、これらの異次元的な存在に遭遇します。より適切な言葉が見つかるまでは、異次元的な侵入者と呼んでいます。彼らは、私たちの現実の姿をただ通り抜けていくように、ただスキッとして通り抜けていくのです。それはとても興味深いことです。私は、それについてどう考えたらいいのかわかりません。
+（00:51:16）</p>
+<p>私ができることは、あなたと同じように、ただその話を聞き、メモを取り、とりあえず目録に記入しておくだけです。そうそう、クリス、私が何歳だったかは言いませんが、ほんの数年前、夜中に目が覚めたら、寝室の隅にまったく同じきらめきが見えました。今では、いつも寝室の一角にリモートビューアーがいると関連付けています。
+（00:51:41）</p>
+<p>今では、いつもリモートビューアーとしてしばらくの間、夜中に自分自身をリモートビューしていたのだと思います。 そこに実体があった可能性もありますが、自分自身だったと理解しました。ええ、それは私が自分自身をリモートビューイングしていたのだと思います。でも、それはきらきら光る光で、まさにあなたがこのアートワークに描いたものと同じでした。
+（00:51:57）</p>
+<hr>
+<p>ええ、ええ。そして、その事例について、私の母の体験に関連して言えば、彼女は自分自身をリモートビューイングしていた可能性が非常に高いです。あるいは、それは彼女が子供たちを見守っていた一瞬だったのかもしれません。私たちはそれをどう解釈するのでしょうか？ロマンチックな考えですが、私はそれがそうだったと思っています。つまり、彼女は天使の姿で、ほんの少しだけ自分の姿を見せ、子供たちを見守っていたのだと思います。そう考えると、少し安心します。でも、本当のところは誰にもわかりません。
+（00:52:31）</p>
+<details class="details_lb9f alert alert--info details_b_Ee" data-collapsed="true"><summary>▼展開</summary><div><div class="collapsibleContent_i85q"><p>I was seeing one of your pictures of, it looks like somebody had woken up at night, and there was an alien, some kind of ET, clinging to the walls in the corner of somebody's room, and that was from a sketch from an investigation that somebody did, and you were able to make it into, it looks like a comic book or something, like a cartoon, it gives it an interesting life is all I'm saying. Super cool. Yeah, sure, sure. I got that it gives it an interesting life is all I'm saying.
+(00:47:51)</p><p>Super cool. Yeah, sure, sure. I got that illustration in the bottom, so we'll go ahead and pop it up and talk about it. Oh, yeah.
+(00:47:57)</p><hr><p>This came from an investigator sketch. On the right is the investigator sketch. It was, his mother had detailed him a story of seeing a green, gray-like man propped up in the corner of one of the hallways. He was just sprawled up there like Spider-Man. That's how she described it, and then when she saw that, she of course had an initial reaction, which of course is a jump scare. I've when she saw that, she of course had an initial reaction, which of course is a jump scare.
+(00:48:23)</p><p>I've seen that. And then when she reacted, it blinked out of existence. Now, she had described it initially as sort of a gray man. He was stuck in the corner like Spider-Man. He had one hand on the roof, one on the other opposing wall, and then his feet were sprawled up, spread out as well.
+He was just stuck up there doing whatever. And he had, and this was interesting, he was surroundedHe was just stuck up there doing whatever.
+(00:48:57)</p><p>And he had, and this was interesting, he was surrounded by sparkles, like if you ever were playing football and you got hit, you see ribbons, you see ribbons of light. That's how I could best describe them, as sort of like silver sparkles and stuff, like seeing stars if you ever get knocked out or something of that nature.
+That's what she had seen surrounding this entity. So he very well, I don't know what to make of it.
+(00:49:27)</p><p>Either he was probably in some sort of interdimensional transit of something of that nature. And then getting caught before he finally blipped out for good. And it's just, it's sort of one of the mysteries that we see. Because something like that similarly happened to my mother, where she was walking down the hallway one time. And this was when we were little kids, when we were like, me and my siblings were like four years old and stuff of that nature, where we were in our bedrooms and we were sleeping. And then she walked down the hallway where we were in our bedrooms and we were sleeping.
+(00:50:04)</p><p>And then she walked down the hallway and she saw what looked like a being of light. And from the knees down, it faded out. But the rest of it up was sort of like, it was like a being enveloped in light, like it was made of light.
+And it was looking into our bedroom, into the kid's bedroom. And then when my mom, again,And it was looking into our bedroom, into the kid's bedroom.
+(00:50:24)</p><p>And then when my mom, again, jumped scared, it blinked out of existence. So there's something where we're sort of like in this non-assuming state. I guess it's when we sleep, I guess we're doing something, we're floating through dimensions or whatever. And some of us just by pure chance just happen to happen on these interdimensional, as we can best describe it, until we find a better word, interdimensional interlopers, that they just happen to be skedaddling through, just going through the the visages of our reality. And it's rather interesting. And I don't know what to make of it.
+(00:51:16)</p><p>All I can do is just like yourself, just hear about it, take it down and like, okay, just put it in the catalog for right now. Oh yeah, Chris, when I was about, I'm not gonna say how old I was, just a few years ago, I woke up at night and I had those exact same sparkles in the corner of my bedroom. Now I always associated that now that I've been a remote in the corner of my bedroom.
+(00:51:41)</p><p>Now I always associated that now that I've been a remote viewer for a while, I think that was me remote viewing myself at night. It could have very well been an entity there, but I figured it was me. Yeah, I think that it was me remote viewing myself, but it was sparkly lights, exactly like what you have put on this artwork here.
+(00:51:57)</p><hr><p>Yeah, yeah. And in that instance, relating back to my mother's encounter, she very well could have been remote viewing herself, or perhaps it was a sliver in time where she was looking in on her kids. What do we make of it? Romantically, I like to think that's what it was, that she was catching a sliver of herself in angelic form, just peeking out, just checking in on the kids. And that gives me comfort, but who knows, who knows.
+(00:52:31)</p></div></div></details>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="コメント">コメント<a class="hash-link" aria-label="Direct link to コメント" title="Direct link to コメント" href="https://ouchaku.github.io/ds/en/blog/2024/07/28/spider_man#%E3%82%B3%E3%83%A1%E3%83%B3%E3%83%88">​</a></h2>
+<p>「周囲に光点群を伴う」という点が重要。「周囲に光点群を伴う」という証言から、この謎の怪奇生物の目撃証言は外界に実在した存在ではなく、目撃者の脳の一時的不調に起因する現象だろうと思える。</p>
+<p>たとえば、鉄棒の逆上がりなどで眼の前に飛び交うキラキラした光点群が見えることがあるが、これは脳への血流の一時的な急変化だろうとされている。</p>
+<p>また、閃輝暗点という視界に三角形やギザギザした模様が見える体験があるが、これも脳に起因するとされている。</p>
+<blockquote><p>閃輝暗点(せんきあんてん)とは、突然、視界にギザギザした光や模様が見える現象で、「光視症」と呼ばれるものの一種です。</p><p>突然見え方がおかしくなりますが、長くても20分〜30分程度で程度で消えていき、症状が治まった後に片頭痛が起こることがあります。</p><p>...</p><p>物を見る中枢(視覚野)が脳の後ろにあるのですが、その部分の血液の流れが一時的に変化(収縮・拡張)して起こるとされています。</p><p>閃輝暗点は視界に異常を生じるので、目の異常だと思われがちですが、眼球の異常ではなく、「脳の異常」です。</p><p>通常、症状は一過性のため、症状が治まると脳の状態も正常に戻ると言われています。</p><p>ref: 閃輝暗点の原因って？放置するとよくない？症状や予防も解説 | コラム – 経堂こうづき眼科
+<a href="https://www.kozuki-eyeclinic.com/blog/scintillating-scotoma/" target="_blank" rel="noopener noreferrer">https://www.kozuki-eyeclinic.com/blog/scintillating-scotoma/</a></p></blockquote>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="動画15150">動画(1:51:50)<a class="hash-link" aria-label="Direct link to 動画(1:51:50)" title="Direct link to 動画(1:51:50)" href="https://ouchaku.github.io/ds/en/blog/2024/07/28/spider_man#%E5%8B%95%E7%94%BB15150">​</a></h2>
+<p>SLEEP PARALYSIS HOME INVADERS, HUMAN-SPIDER HYBRIDS &amp; LOST GIANTS</p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qu5xVUtJv5E?si=0a58fqfq56bA0Ni3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin"></iframe>
+<p><a href="http://www.youtube.com/watch?v=qu5xVUtJv5E" target="_blank" rel="noopener noreferrer">www.youtube.com/watch?v=qu5xVUtJv5E</a></p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="動画概要欄">動画概要欄<a class="hash-link" aria-label="Direct link to 動画概要欄" title="Direct link to 動画概要欄" href="https://ouchaku.github.io/ds/en/blog/2024/07/28/spider_man#%E5%8B%95%E7%94%BB%E6%A6%82%E8%A6%81%E6%AC%84">​</a></h3>
+<p>700 views  Streamed live 6 hours ago  #Shapeshifter #Interdimensional #ShadowPeople
+July 27, 2024 - Chris Holm</p>
+<p>On this episode, Jessica goes "On the Hunt" with Chris Holm to explore his terrifying experiences with what he calls the "invaders," who rummaged through his home as he laid stuck in a sleep paralysis one fateful night. They discuss his numerous lifelong supernatural, cryptid, and paranormal experiences.</p>
+<p>Chris is the host and producer of Conspire a Theory Podcast - a paranormal, fandom, hot topic comedy show that has raunchy humor and skeptical insight.</p>
+<p>(2024-07-28)</p>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jeff Kripal：UFO/abduction は不可解。我々には理解不能だ ⇒ この理解の壁を破る]]></title>
+        <id>https://ouchaku.github.io/ds/en/blog/2024/07/28/ufo_mystery</id>
+        <link href="https://ouchaku.github.io/ds/en/blog/2024/07/28/ufo_mystery"/>
+        <updated>2024-07-28T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[履歴]]></summary>
+        <content type="html"><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="履歴">履歴<a class="hash-link" aria-label="Direct link to 履歴" title="Direct link to 履歴" href="https://ouchaku.github.io/ds/en/blog/2024/07/28/ufo_mystery#%E5%B1%A5%E6%AD%B4">​</a></h2>
+<p>(2024-07-28) 追加。タイトル変更。ついでに和訳を入替。</p>
+<p>(2022-07-04) <a href="http://news21c.blog.fc2.com/blog-entry-19668.html" target="_blank">Jeff Kripal : UFO/abduction 体験者の証言を詳しく聞けば聞くほど、より不可解になる。我々に理解できるかどうか疑問</a> (2022-07-04)</p>
+<hr style="height:10px;border-width:3px;color:orange;background-color:blue">
+<p>(2022-07-04 begin)</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="前置き">前置き<a class="hash-link" aria-label="Direct link to 前置き" title="Direct link to 前置き" href="https://ouchaku.github.io/ds/en/blog/2024/07/28/ufo_mystery#%E5%89%8D%E7%BD%AE%E3%81%8D">​</a></h2>
+<p>Jeff Kripal は Rice Univ. の宗教学教授（Mircea Eliade が率いた Univ. of Chicago で宗教学を履修）。超常現象に関する本、 "the Impossible The Paranormal" も書いている。</p>
+<p>Charles Fort や Jacques Vallee を扱った本、"Ahthors of the Impossilbe" も書いている。さらに Whitley Strieber との共著、"The Super Natural: A New Vision of the Unexplained " もある。</p>
+<blockquote><p>DeepL 訳</p><p>ジェフリー・ジョン・クリパール（1962年生まれ）は、アメリカの大学教授である。テキサス州ヒューストンのライス大学でJ.ニュートン・レイザー哲学・宗教思想講座を担当している。</p><p>神秘主義文学におけるエロスと倫理の比較研究、アメリカにおけるアジア宗教の反文化的翻訳、グノーシス主義からニューエイジ宗教に至る西洋秘教の歴史などを研究している。</p><p>ref: Jeffrey J. Kripal - Wikipedia - <a href="https://en.wikipedia.org/wiki/Jeffrey_J._Kripal" target="_blank"></a><a href="https://en.wikipedia.org/wiki/Jeffrey_J._Kripal" target="_blank" rel="noopener noreferrer">https://en.wikipedia.org/wiki/Jeffrey_J._Kripal</a></p></blockquote>
+<blockquote><a href="https://blog-imgs-153-origin.fc2.com/n/e/w/news21c/202207044_Jk.jpg" target="_blank"><img alt="202207044_Jk.jpg" border="0" height="554" src="https://blog-imgs-153-origin.fc2.com/n/e/w/news21c/202207044_Jk.jpg" width="659"></a><p>Jeffrey Kripal on how to think about the UFO phenomenon | Rice News | News and Media Relations | Rice University - <a href="https://news.rice.edu/news/2021/jeffrey-kripal-how-think-about-ufo-phenomenon" target="_blank"></a><a href="https://news.rice.edu/news/2021/jeffrey-kripal-how-think-about-ufo-phenomenon" target="_blank" rel="noopener noreferrer">https://news.rice.edu/news/2021/jeffrey-kripal-how-think-about-ufo-phenomenon</a></p></blockquote>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="手抜き">手抜き<a class="hash-link" aria-label="Direct link to 手抜き" title="Direct link to 手抜き" href="https://ouchaku.github.io/ds/en/blog/2024/07/28/ufo_mystery#%E6%89%8B%E6%8A%9C%E3%81%8D">​</a></h2>
+<p>超常現象/UFO/abduction の体験者の話を詳しく聞けば聞くほど、より不可解になる。我々に理解できるかどうか疑問だ。</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="whisper-ailarge-v2-model--deeplnew-model">Whisper AI(large-v2 model) + DeepL(new model)<a class="hash-link" aria-label="Direct link to Whisper AI(large-v2 model) + DeepL(new model)" title="Direct link to Whisper AI(large-v2 model) + DeepL(new model)" href="https://ouchaku.github.io/ds/en/blog/2024/07/28/ufo_mystery#whisper-ailarge-v2-model--deeplnew-model">​</a></h2>
+<p>(2024-07-28 差替)</p>
+<p>人々はさまざまな理由で秘密を守ります。その多くは理解できるものです。
+そして、この経験が、私が超常現象の研究に打ち込むきっかけになったと思います。なぜなら、私はそれを「隠された秘密」と呼んでいるように、本質的には目に見える秘密だと思うからです。
+そして、私は長年にわたって体験者に衝撃を受けてきました。
+長い経験から、彼らが最初に話してくれる話は全体ではないことを学びました。
+(00:14:33)</p>
+<p>実際に、話の内容は彼らが話してくれたことよりもずっと奇妙なのです。
+また、彼らが話す2回目や3回目の話は、真実ではないことも知っています。
+話が進むにつれ、ますます奇妙になっていくのです。インタビューで述べたように、実際に意味が分かることはありません。
+率直に言って、知的においしいと感じますが、同時に謙虚な気持ちにもなります。
+そして、これが私がこの経験から得た本当の教訓だと思います。
+（00:15:05）</p>
+<p>私たちはそれを理解できるとは思えませんし、理解できる能力があるかどうかもわかりません。
+おそらく、理解できないでしょう。
+私たちが想像できる以上に奇妙なことです。</p>
+<hr>
+<p>People keep secrets for all kinds of reasons, many of which are quite understandable.
+And so I think that experience really keyed me in to this later work on the paranormal, because I think it's essentially a secret in plain sight, as I call it.
+And I've really been struck with experiencers over the years.
+I learned through long experience that the story they tell me at first sitting is not the whole story.
+(00:14:33)</p>
+<p>That actually the story is way stranger than what they just told me.
+And I also know the second or third version they give me is not.
+It just gets weirder and weirder. And as I said in interviews, it actually never makes sense.
+So I just find that intellectually delicious, frankly, but also humbling.
+And so I think that's a real thing I've taken away from all of this.
+(00:15:05)</p>
+<p>I'm not sure we'll ever understand it, and I'm not even sure we're capable of understanding.
+I suspect we're not.
+Stranger than we can suppose.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="動画4137">動画(41:37)<a class="hash-link" aria-label="Direct link to 動画(41:37)" title="Direct link to 動画(41:37)" href="https://ouchaku.github.io/ds/en/blog/2024/07/28/ufo_mystery#%E5%8B%95%E7%94%BB4137">​</a></h2>
+<p>Jeff Kripal Discusses Anomalous Archives with SMiles Lewis</p>
+<iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" frameborder="0" height="315" src="https://www.youtube.com/embed/8IsyRGg-rQI" title="YouTube video player" width="560"></iframe>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="動画概要欄">動画概要欄<a class="hash-link" aria-label="Direct link to 動画概要欄" title="Direct link to 動画概要欄" href="https://ouchaku.github.io/ds/en/blog/2024/07/28/ufo_mystery#%E5%8B%95%E7%94%BB%E6%A6%82%E8%A6%81%E6%AC%84">​</a></h3>
+<p>Jan 1, 2021  Jeff Kripal Discusses Anomalous Archives with SMiles Lewis as part of the Anomaly Archives' Streamathon-2020 emergency fundraiser series.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="コメント-1">コメント 1<a class="hash-link" aria-label="Direct link to コメント 1" title="Direct link to コメント 1" href="https://ouchaku.github.io/ds/en/blog/2024/07/28/ufo_mystery#%E3%82%B3%E3%83%A1%E3%83%B3%E3%83%88-1">​</a></h2>
+<p>Jeff Kripal は UFO/abduction 体験者の証言を詳しく聞けば聞くほど、より不可解になるとし、その典型例として「Joe Simonton の UFO 遭遇事件」を別のインタビューで挙げていた。</p>
+<p>その「Joe Simonton の UFO 遭遇事件」については下の過去記事で取り上げた。</p>
+<blockquote><p>・ 1961年に起きた有名な Joe Simonton の UFO 遭遇事件を振り返って、この事件の「奇妙で不合理で馬鹿げている」測面に注目する。（この事件がつくり話や捏造だという類の主張ではない）</p><p>・UFO やアブダクション、異星人の現象を調べると、この事件のような「奇妙で不合理で馬鹿げている」点がかなり共通して見られる。さらに目撃事例ごとにUFO の外観、異星人の姿、行動様式がバラバラであまりに共通点が少なすぎる。</p><p>・物的証拠（着陸痕跡、撮影記録、レーダー反応）がある事例や、複数の信頼できる目撃者がいる事例もあるから、幻覚や夢、捏造だとも言いがたい。</p><p>・これらを統一的に説明するものとして「精神-物質歪曲仮説」 (the Distortion theory) （訳注：訳語はいいかげんw）をソースブログでは紹介している。</p><p>...
+...
+...</p><p>・この事件について Joseph Allen Hynek 博士は Robert Friend 少佐に「目撃者は嘘は言っていないが、それは朝食を用意している間に見た明晰夢だろう」と述べたという。</p><p>・私（ソースブログの著者：Jose Antonio Caravaca) は Hynek の「ある種の夢の体験だ」という説に一部、同意する。</p><p>・Simonton は物質的で、現実で、触れ実体のあるもののように見えるモノに、確かに遭遇した。そのモノは（我々には未知の）異次元の知性体が Simonton の心に働きかけることで生じているのだろう。</p><p>・この事件には Simonton の心的内容が反映しており、それがこの UFO にまつわる「奇妙で不合理で馬鹿げている」要素を構成している。たとえば UFO の内部にグリルがあって搭乗員がクッキーを作っていたり、水を欲しがったりする点だ。</p><p>・このような「奇妙で不合理で馬鹿げている」要素は、 Simonton の心と「未知の知性体」の結びつきが生み出した歪曲作用によるものに違いない。</p><p>・普通の夢は、説明不能で、馬鹿げていて、理解不能な要素を含んでいる。まして、目撃者の無意識と「人類とは違った知性体の心」の結合が、随意に物体を創りだしたらどうなるか、想像するにあまりある。</p><p>・この私の仮説は、未知の知性体からの影響をうけた目撃者の無意識が、共同創造者となって異常な現象（超常現象、UFO、未知動物など）を、気まぐれのように、創り出しているというものだ。</p><p>・これらの「奇妙で不合理で馬鹿げた」出来事は歪曲作用によるものだが、その歪曲作用自体は目撃者と未知の知性体の間の次元を超えたコミュニケーションの効果によって生じるのだろう。</p><p>ref: <a href="http://news21c.blog.fc2.com/blog-entry-7441.html" target="_blank">UFO 現象を統一的に説明する精神-物質歪曲仮説（全体＋訂正）</a> (2016-10-13)</p></blockquote>
+<p></p><h3>コメント 2</h3>
+上で引用した Jose Antonio Caravaca の「精神-物質歪曲仮説」 (the Distortion theory) や、 Jacques Vallee の「未知の知性体がさまざまな外見を装って古代から人間の意識に介入している」という仮説を、私は UFO 現象を説明する最も優れた仮説だとみなしていた、去年のはじめまでは。<p></p>
+<p>去年中頃、UFO を扱った Blog 開設 10年を期に UFO 現象をいったんゼロから見直しすることにした。その結果、UFO 現象や宗教的神秘体験の中核部分は「意識障害」で説明できるという結論に至った。それにより、Jacques Vallee や Jose Antonio Caravaca の仮説を完全に放棄することとなった。</p>
+<p>Jacques Vallee や Jose Antonio Caravaca の仮説は</p>
+<blockquote><p>・物的証拠（着陸痕跡、撮影記録、レーダー反応）がある事例や、複数の信頼できる目撃者がいる事例もあるから、幻覚や夢、捏造だとも言いがたい。</p></blockquote>
+<p>という点に惑わされている。これらの物的証拠の大半は orb などの自然現象で説明ができる。orb は地表で着陸痕跡を生じうるし、写真にもレーダーにも写る。</p>
+<p>残された「複数の目撃者の事例」を説明するために私は共鳴作用という仮説を採用した。</p>
+<p>まだまだ細部で謎が幾つも残っているが UFO 現象の謎の中核はこれで説明しうると思っている、今のところは。</p>
+<p>(2022-07-04 end)</p>
+<hr style="height:10px;border-width:3px;color:orange;background-color:blue">
+<p>(2024-07-28 begin)</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="前置き-1">前置き<a class="hash-link" aria-label="Direct link to 前置き" title="Direct link to 前置き" href="https://ouchaku.github.io/ds/en/blog/2024/07/28/ufo_mystery#%E5%89%8D%E7%BD%AE%E3%81%8D-1">​</a></h2>
+<p>Jeff Kripal が</p>
+<blockquote><p>私たちはそれを理解できるとは思えませんし、理解できる能力があるかどうかもわかりません。
+おそらく、理解できないでしょう。
+私たちが想像できる以上に奇妙なことです。</p></blockquote>
+<p>と「お手上げ」状態を告白し、Jacques Vallee や Jose Antonio Caravaca が</p>
+<ul>
+<li>未知の知的存在による（人間には「奇妙で不合理で馬鹿げている」ようにしか見えない）介入を提唱</li>
+</ul>
+<p>しているのには、理由がある。彼らは無自覚のうちに暗黙の大前提を置いている。その大前提とは</p>
+<ul>
+<li>大前提：それらの不可解な体験や現象を証言した 体験者/目撃者 の意識はその体験の間、一貫して正常だった</li>
+</ul>
+<p>というもの。その大前提に立っている限り、</p>
+<blockquote>
+<p>私たちはそれを理解できるとは思えませんし、理解できる能力があるかどうかもわかりません。おそらく、理解できないでしょう。</p>
+</blockquote>
+<p>という見通しから逃れるすべはない。私はその暗黙の大前提を破棄する。</p>
+<p>(2024-07-28 end)</p>]]></content>
+        <category label="UFO" term="UFO"/>
+        <category label="mystery" term="mystery"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[1961-04-18, Wisconsin：Joe Simonton UFO 事例の詳細]]></title>
         <id>https://ouchaku.github.io/ds/en/blog/2024/07/27/Joe Simonton</id>
@@ -15,7 +512,7 @@
         <summary type="html"><![CDATA[前置き]]></summary>
         <content type="html"><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="前置き">前置き<a class="hash-link" aria-label="Direct link to 前置き" title="Direct link to 前置き" href="https://ouchaku.github.io/ds/en/blog/2024/07/27/Joe%20Simonton#%E5%89%8D%E7%BD%AE%E3%81%8D">​</a></h2>
 <p>Joe Simonton の UFO 遭遇事件に関する詳細な解説動画を記録しておく。</p>
-<p>若干、喋りが冗長過ぎるし、話題も寄り道が多く、主題がぼやけているが、それでも具体的な周辺情報や新たな情報（催眠関連）が含まれている。</p>
+<p>この解説動画は若干、喋りが冗長過ぎるし、話題も寄り道が多く、主題がぼやけているが、それでも具体的な周辺情報や新たな情報（催眠関連）が含まれている。</p>
 <p>折り畳み状態で 文字起こし＋和訳 を添付しておく。</p>
 <h2 class="anchor anchorWithStickyNavbar_LWe7" id="関連の過去記事">関連の過去記事<a class="hash-link" aria-label="Direct link to 関連の過去記事" title="Direct link to 関連の過去記事" href="https://ouchaku.github.io/ds/en/blog/2024/07/27/Joe%20Simonton#%E9%96%A2%E9%80%A3%E3%81%AE%E9%81%8E%E5%8E%BB%E8%A8%98%E4%BA%8B">​</a></h2>
 <p><a href="http://news21c.blog.fc2.com/blog-entry-5196.html" target="_blank">1961年4月18日、ウィスコンシン州：「Joe Simonton の UFO 遭遇事件」の本人の証言動画</a> (2015-03-09)</p>
@@ -24,7 +521,7 @@
 <p><a href="http://news21c.blog.fc2.com/blog-entry-7441.html" target="_blank">UFO 現象を統一的に説明する精神-物質歪曲仮説（全体＋訂正）</a> (2016-10-13)</p>
 <p><a href="http://news21c.blog.fc2.com/blog-entry-19668.html" target="_blank">Jeff Kripal : UFO/abduction 体験者の証言を詳しく聞けば聞くほど、より不可解になる。我々に理解できるかどうか疑問</a> (2022-07-04)</p>
 <h2 class="anchor anchorWithStickyNavbar_LWe7" id="注目箇所コメント">注目箇所＋コメント<a class="hash-link" aria-label="Direct link to 注目箇所＋コメント" title="Direct link to 注目箇所＋コメント" href="https://ouchaku.github.io/ds/en/blog/2024/07/27/Joe%20Simonton#%E6%B3%A8%E7%9B%AE%E7%AE%87%E6%89%80%E3%82%B3%E3%83%A1%E3%83%B3%E3%83%88">​</a></h2>
-<p>以下のデータ（23匹の鶏の死亡）は、強烈な EMF 異常が発生していたことを示唆している。だとすれば、この不可解な事件は EMF 異常による Joe Simonton の意識障害として説明できる。</p>
+<p>以下のデータ（23個体の鶏の死亡）は、強烈な EMF 異常が発生していたことを示唆している。だとすれば、この不可解な事件は EMF 異常による Joe Simonton の意識障害として説明できる。</p>
 <blockquote><p>UFOが着陸したケースなど、多くの場合とは異なり、地面には損傷がありませんでした。
 放射能も検出されませんでした。
 この出来事は、わずか5分程度しか続きませんでした。
@@ -243,7 +740,14 @@ Because Joe's become one of his close friends, and he's kind of become Joe's pub
 <a href="https://ouchaku.github.io/ds/img/20240727_js_03.jpg" target="_blank"><img alt="20240727_js_03.jpg" border="0" src="https://ouchaku.github.io/ds/img/20240727_js_03.jpg" width="90%"></a>
 <a href="https://ouchaku.github.io/ds/img/20240727_js_04.jpg" target="_blank"><img alt="20240727_js_04.jpg" border="0" src="https://ouchaku.github.io/ds/img/20240727_js_04.jpg" width="90%"></a>
 <a href="https://ouchaku.github.io/ds/img/20240727_js_05.jpg" target="_blank"><img alt="20240727_js_05.jpg" border="0" src="https://ouchaku.github.io/ds/img/20240727_js_05.jpg" width="90%"></a>
-<a href="https://ouchaku.github.io/ds/img/20240727_js_06.jpg" target="_blank"><img alt="20240727_js_06.jpg" border="0" src="https://ouchaku.github.io/ds/img/20240727_js_06.jpg" width="90%"></a>
+<blockquote><p>「...アイルランドでは、妖精にさらわれた場合、妖精の宮殿で食べ物を口にすることは決して許されない、ということはよく知られています。さもないと、二度と戻ってくることができず、
+妖精の一員になってしまうからです。興味深いことに、空軍のために行われた分析では、シモントンに与えられたパンケーキに塩が使われていたことは言及されていませんでした。
+実際、ウェンツはジェントリー（アイルランドの妖精）に詳しいアイルランド人から、「彼らは塩味のものなど口にせず、新鮮な肉と純粋な水を食べる」と聞いたそうです。</p><p>ジャック・ヴァレ著『マゴニアへのパスポート』</p><hr><p>" ... for it is well known in Ireland that if you are taken away by the fairies, you must never taste food in their palace. Otherwise, you never come back;
+you become one of them. It is interesting that the analysis performed for the Air Force did not mention the presence of salt in the pancakes given to Simonton.
+Indeed, Wentz was told by an Irishman who was quite familiar with the Gentry [Irish faeries] that 'they never taste anything salt, but eat fresh meat and drink pure water.'"</p><p>Jacques Vallee, Passport to Magonia</p><a href="https://ouchaku.github.io/ds/img/20240727_js_06.jpg" target="_blank"><img alt="20240727_js_06.jpg" border="0" src="https://ouchaku.github.io/ds/img/20240727_js_06.jpg" width="90%"></a></blockquote>
+<blockquote><p>「テレサ・ベインは、オランダ領フリースラント諸島に古くから住む小人族であるオーネンバン族について、少女や子供たちをさらう傾向があると述べています。
+しかし、オーネンバン族には優しい一面もあります。というのも、彼らは建築や農作業を手伝ったり、『飲み水やパンケーキを持ってきて、畑の農作業を手伝う』ことでも知られているからです。」</p><p>ジョシュア・カッチン著『トロイの饗宴』</p><hr><p>"Theresa Bane ... describes the oennerbanske, a race of dwarfs native to the Netherlands Fries Islands, prone to stealing young girls and children.
+The oennerbanske have a gentler side, however, as they are also known for helping and building construction and 'assisting the farms in the field by bringing them fresh water to drink and pancakes to eat.'"</p><p>Joshua Cutchin, A Trojan Feast</p></blockquote>
 <a href="https://ouchaku.github.io/ds/img/20240727_js_07.jpg" target="_blank"><img alt="20240727_js_07.jpg" border="0" src="https://ouchaku.github.io/ds/img/20240727_js_07.jpg" width="90%"></a>
 <h2 class="anchor anchorWithStickyNavbar_LWe7" id="動画15711">動画(1:57:11)<a class="hash-link" aria-label="Direct link to 動画(1:57:11)" title="Direct link to 動画(1:57:11)" href="https://ouchaku.github.io/ds/en/blog/2024/07/27/Joe%20Simonton#%E5%8B%95%E7%94%BB15711">​</a></h2>
 <p>We Found Missing Evidence from the Weirdest UFO Encounter | Episode 21 | Haunted Objects Podcast</p>
@@ -4314,7 +4818,7 @@ Because that's like a thing like. Weird stuff in his brain man. It's like all of
         <summary type="html"><![CDATA[履歴]]></summary>
         <content type="html"><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="履歴">履歴<a class="hash-link" aria-label="Direct link to 履歴" title="Direct link to 履歴" href="https://ouchaku.github.io/ds/en/blog/2024/07/26/symmetrical_ancient_egyptian_csulpture#%E5%B1%A5%E6%AD%B4">​</a></h2>
 <p>(2024-07-26) 追加。</p>
-<p>(2024-02-11) 完成。<a href="http://news21c.blog.fc2.com/blog-entry-21901.html" target="_blank">❏ </a> (2024-02-11)</p>
+<p>(2024-02-11) 完成。<a href="http://news21c.blog.fc2.com/blog-entry-21901.html" target="_blank">❏ 古代エジプトの彫刻には精密な 3次元測定技術と加工技術が使われていた ⇒ この謎を解く</a> (2024-02-11)</p>
 <p>(2021-05-03) 追加。<a href="http://news21c.blog.fc2.com/blog-entry-17850.html" target="_blank">古代エジプトの彫刻には精密な 3次元測定技術と加工技術が使われていた　（＋追加2）</a> (2021-05-03)</p>
 <p>(2020-11-18) 追加。<a href="http://news21c.blog.fc2.com/blog-entry-17082.html" target="_blank">古代エジプトの彫刻には精密な 3次元測定技術と加工技術が使われていた　（＋追加）</a> (2020-11-18)</p>
 <p>(2017-08-08) 作成。<a href="http://news21c.blog.fc2.com/blog-entry-9048.html" target="_blank">古代エジプトの彫刻には精密な 3次元測定技術と加工技術が使われていた</a> (2017-08-08)</p>
@@ -10203,737 +10707,5 @@ No, I'm messing around. Obviously, I have I'm just an idiot. Can we go all the w
 <p>(2024-07-22)</p>]]></content>
         <category label="creligion" term="creligion"/>
         <category label="reincarnation" term="reincarnation"/>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DeepL の新モデルの翻訳性能をざっとチェック]]></title>
-        <id>https://ouchaku.github.io/ds/en/blog/2024/07/21/deepl_cmp</id>
-        <link href="https://ouchaku.github.io/ds/en/blog/2024/07/21/deepl_cmp"/>
-        <updated>2024-07-21T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[はじめに]]></summary>
-        <content type="html"><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="はじめに">はじめに<a class="hash-link" aria-label="Direct link to はじめに" title="Direct link to はじめに" href="https://ouchaku.github.io/ds/en/blog/2024/07/21/deepl_cmp#%E3%81%AF%E3%81%98%E3%82%81%E3%81%AB">​</a></h2>
-<p>最近、DeepL の新モデルが登場し、ChatGPT-4 よりも上だと DeepL 社は主張している。</p>
-<p>全く期待せずに翻訳性能をざっとチェックした結果が下。確かに以下の例だと ChatGPT-4o よりも優れている。</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="原文">原文<a class="hash-link" aria-label="Direct link to 原文" title="Direct link to 原文" href="https://ouchaku.github.io/ds/en/blog/2024/07/21/deepl_cmp#%E5%8E%9F%E6%96%87">​</a></h2>
-<p>He ended up with cancer of the spine.
-He did not want to die at home.
-And as he was laying on the gurney waiting to be loaded into the ambulance, he told me, he said, baby, he said, the story is true.</p>
-<p>He said, don't let anybody try to tell you any different.
-He said, the incident happened, there was a spacecraft, and I kissed him, and that's the last I got to talk to my dad.
-(00:01:23)</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="deepl-old-model">DeepL old model<a class="hash-link" aria-label="Direct link to DeepL old model" title="Direct link to DeepL old model" href="https://ouchaku.github.io/ds/en/blog/2024/07/21/deepl_cmp#deepl-old-model">​</a></h2>
-<p>彼は結局、背骨のガンを患った。
-彼は家で死にたくなかった。
-担架に寝かされて救急車に乗せられるのを待っているとき、彼は私に言ったんだ。</p>
-<p>誰にも違うことを言わせないでくれ、と。
-そして私は父にキスをし、それが父と話をした最後となった。
-(00:01:23)</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="deepl-new-model">DeepL new model<a class="hash-link" aria-label="Direct link to DeepL new model" title="Direct link to DeepL new model" href="https://ouchaku.github.io/ds/en/blog/2024/07/21/deepl_cmp#deepl-new-model">​</a></h2>
-<p>彼は最終的に脊髄がんで亡くなった。
-彼は自宅で死にたくなかった。
-そして、救急車に乗せられるのを担架の上で待っていたとき、彼は私に言った。
-「ベイビー、あの話は本当なんだ。</p>
-<p>他の人が違うことを言おうとしても、信じちゃいけないよ。あの出来事は実際に起こったんだ。宇宙船があったんだ。そして、私は彼にキスをした。それが、父と最後に話した言葉だ。
-（00:01:23）</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="比較用chatgpt-4o">（比較用）ChatGPT-4o<a class="hash-link" aria-label="Direct link to （比較用）ChatGPT-4o" title="Direct link to （比較用）ChatGPT-4o" href="https://ouchaku.github.io/ds/en/blog/2024/07/21/deepl_cmp#%E6%AF%94%E8%BC%83%E7%94%A8chatgpt-4o">​</a></h2>
-<p>彼は最終的に脊椎の癌になった。
-彼は自宅で死にたくなかった。
-そして、担架に横たわりながら救急車に乗せられるのを待っていた時に、彼は私にこう言った。「ベイビー、話は本当だ」と。</p>
-<p>「誰にも違うと言わせるな。事件は本当に起こったんだ、宇宙船もあったんだ」と言って、私は彼にキスをした。それが私が父と話した最後だった。
-（00:01:23）</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="原文の参照元">原文の参照元<a class="hash-link" aria-label="Direct link to 原文の参照元" title="Direct link to 原文の参照元" href="https://ouchaku.github.io/ds/en/blog/2024/07/21/deepl_cmp#%E5%8E%9F%E6%96%87%E3%81%AE%E5%8F%82%E7%85%A7%E5%85%83">​</a></h2>
-<p><a href="http://news21c.blog.fc2.com/blog-entry-22294.html" target="_blank">❏ 心理学教授の「1965年に Roswell の金属シートを実際に手にした」という証言の謎を解く （完結）</a> (2024-05-22)</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="chatgpt-4o-による-deepl-の和訳性能の評価">ChatGPT-4o による DeepL の和訳性能の評価<a class="hash-link" aria-label="Direct link to ChatGPT-4o による DeepL の和訳性能の評価" title="Direct link to ChatGPT-4o による DeepL の和訳性能の評価" href="https://ouchaku.github.io/ds/en/blog/2024/07/21/deepl_cmp#chatgpt-4o-%E3%81%AB%E3%82%88%E3%82%8B-deepl-%E3%81%AE%E5%92%8C%E8%A8%B3%E6%80%A7%E8%83%BD%E3%81%AE%E8%A9%95%E4%BE%A1">​</a></h2>
-<p>ついでに ChatGPT-4o に DeepL の和訳を評価させたが、大きく進化したと判定している。</p>
-<div class="theme-admonition theme-admonition-note admonition_xJq3 alert alert--secondary"><div class="admonitionHeading_Gvgb"><span class="admonitionIcon_Rf37"><svg viewBox="0 0 14 16"><path fill-rule="evenodd" d="M6.3 5.69a.942.942 0 0 1-.28-.7c0-.28.09-.52.28-.7.19-.18.42-.28.7-.28.28 0 .52.09.7.28.18.19.28.42.28.7 0 .28-.09.52-.28.7a1 1 0 0 1-.7.3c-.28 0-.52-.11-.7-.3zM8 7.99c-.02-.25-.11-.48-.31-.69-.2-.19-.42-.3-.69-.31H6c-.27.02-.48.13-.69.31-.2.2-.3.44-.31.69h1v3c.02.27.11.5.31.69.2.2.42.31.69.31h1c.27 0 .48-.11.69-.31.2-.19.3-.42.31-.69H8V7.98v.01zM7 2.3c-3.14 0-5.7 2.54-5.7 5.68 0 3.14 2.56 5.7 5.7 5.7s5.7-2.55 5.7-5.7c0-3.15-2.56-5.69-5.7-5.69v.01zM7 .98c3.86 0 7 3.14 7 7s-3.14 7-7 7-7-3.12-7-7 3.14-7 7-7z"></path></svg></span>ChatGPT-4o</div><div class="admonitionContent_BuS1"><p>DeepL の新モデルの翻訳結果は非常に自然で読みやすいですね。特に以下の点で優れていると感じます：</p><ol>
-<li>
-<p>感情の表現: 「信じちゃいけないよ」という部分は、話し手の感情をうまく捉えています。これにより、会話のリアリティと感情がよく伝わります。</p>
-</li>
-<li>
-<p>文脈の理解: 「そして、救急車に乗せられるのを担架の上で待っていたとき、彼は私に言った。」という部分は、元の英文の意味を正確に捉えています。従来のモデルでは係り受け構文が難しかった点が改善されています。</p>
-</li>
-<li>
-<p>自然な日本語: 全体的に翻訳された日本語が非常に自然で、違和感が少ないです。文の流れもスムーズで読みやすいです。</p>
-</li>
-</ol><p>全体として、DeepL の新モデルは非常に高い翻訳性能を持っていると評価できます。特に、感情やニュアンスをうまく捉えた翻訳ができる点で、従来モデルから大きく進化していると感じます。</p></div></div>
-<p>(2024-07-21)</p>]]></content>
-        <category label="AI" term="AI"/>
-        <category label="tech" term="tech"/>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hill-Norton（UK 元・海軍大将）の証言]]></title>
-        <id>https://ouchaku.github.io/ds/en/blog/2024/07/21/hill_norton</id>
-        <link href="https://ouchaku.github.io/ds/en/blog/2024/07/21/hill_norton"/>
-        <updated>2024-07-21T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[前置き]]></summary>
-        <content type="html"><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="前置き">前置き<a class="hash-link" aria-label="Direct link to 前置き" title="Direct link to 前置き" href="https://ouchaku.github.io/ds/en/blog/2024/07/21/hill_norton#%E5%89%8D%E7%BD%AE%E3%81%8D">​</a></h2>
-<p>Hill-Norton の UFO に関する証言は過去記事でも取り上げたが、比較的長い証言を見かけたので記録しておく。</p>
-<p>なお、最近になって DeepL の New Model が登場したのでそれを使って和訳した。</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="関連">関連<a class="hash-link" aria-label="Direct link to 関連" title="Direct link to 関連" href="https://ouchaku.github.io/ds/en/blog/2024/07/21/hill_norton#%E9%96%A2%E9%80%A3">​</a></h2>
-<p><a href="http://news21c.blog.fc2.com/blog-entry-21555.html" target="_blank">❏ Peter Hill_norton （元・国防参謀総長、元・NATO軍事委員会の委員長）の証言</a> (2023-11-11)</p>
-<p><a href="http://news21c.blog.fc2.com/blog-entry-12185.html" target="_blank">元・海軍元帥、「NATO 軍事委員会議長」の証言：Rendlesham/Bentwaters 事件の UFO は本物、政府は隠蔽している。</a> (2018-07-31)</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="動画924">動画(9:24)<a class="hash-link" aria-label="Direct link to 動画(9:24)" title="Direct link to 動画(9:24)" href="https://ouchaku.github.io/ds/en/blog/2024/07/21/hill_norton#%E5%8B%95%E7%94%BB924">​</a></h2>
-<p>Admiral of the Fleet Lord Hill-Norton on the UFO landing at Rendlesham Forest near RAF Bentwaters</p>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rFbeyzSiC14?si=IyKL8NmAe5Pr7PXM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin"></iframe>
-<p><a href="http://www.youtube.com/watch?v=rFbeyzSiC14" target="_blank" rel="noopener noreferrer">www.youtube.com/watch?v=rFbeyzSiC14</a></p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="コメント">コメント<a class="hash-link" aria-label="Direct link to コメント" title="Direct link to コメント" href="https://ouchaku.github.io/ds/en/blog/2024/07/21/hill_norton#%E3%82%B3%E3%83%A1%E3%83%B3%E3%83%88">​</a></h2>
-<p>過去記事で述べたかどうか判然としないが、Hill-Norton の証言が本音だとすると（元皇太子の発言などを考慮すると、たぶんその筈）、 Bob Dean の証言（NATO 本部勤務時代、NATO が纏めた UFO に関する極秘資料を閲覧したというアレ）はやはり嘘だった…ということになる。</p>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="関連-1">関連<a class="hash-link" aria-label="Direct link to 関連" title="Direct link to 関連" href="https://ouchaku.github.io/ds/en/blog/2024/07/21/hill_norton#%E9%96%A2%E9%80%A3-1">​</a></h3>
-<p><a href="http://news21c.blog.fc2.com/blog-entry-18624.html" target="_blank">John Ramirez（元・CIA 高級職員）: Bob Dean の "cosmic top secret" 資格を否定　（途中1）</a> (2021-11-04)</p>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="動画概要欄">動画概要欄<a class="hash-link" aria-label="Direct link to 動画概要欄" title="Direct link to 動画概要欄" href="https://ouchaku.github.io/ds/en/blog/2024/07/21/hill_norton#%E5%8B%95%E7%94%BB%E6%A6%82%E8%A6%81%E6%AC%84">​</a></h3>
-<p>6,000 views  Jul 19, 2024</p>
-<p>"UFO Landings-Rendlesham Forest, 1980" <a href="https://www.ufocasebook.com/Rendlesha" target="_blank" rel="noopener noreferrer">https://www.ufocasebook.com/Rendlesha</a>...</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="whisper-ailarge-v2-model--deeplnew-model">Whisper AI(large-v2 model) + DeepL(New Model)<a class="hash-link" aria-label="Direct link to Whisper AI(large-v2 model) + DeepL(New Model)" title="Direct link to Whisper AI(large-v2 model) + DeepL(New Model)" href="https://ouchaku.github.io/ds/en/blog/2024/07/21/hill_norton#whisper-ailarge-v2-model--deeplnew-model">​</a></h2>
-<p>ヒル・ノートン卿は元海軍大将で、1971年から1973年にかけて国防参謀本部長を務めた人物であり、空想癖のある人物ではありません。
-残念ながら、UFOについて語る人はすぐにゴミ扱いされてしまいます。このインタビューが多くの家庭のテレビで放映されれば、視聴者は「あの年老いた男はついに正気を失ってしまった」と思うでしょう。しかし、残念なのは、何かが起こっているということです。ここ数年、世界中の国々で、数十万、いや、数十万という目撃例があります。
-(00:00:34)</p>
-<p>しかし、残念なのは、何かが起こっているということです。ここ数年、世界中の国々で数十万、いや、数十万という目撃例があり、そのうちの5～10％についてはいまだに説明がつかないことを誰もが認めています。付け加えるなら、これらの目撃例の多くは、経験豊富な警察官や航空機パイロット、そして、幻覚を見たり、テレビ番組に出るためにくだらない作り話をしたりすることのない常識的な人々によるものです。可能性をすべて排除したら、不可能の可能性について考え始める必要がある、と言ったのは誰だったか思い出せない。
-(00:00:59)</p>
-<p>私はそれが秘密兵器だとは思わない。なぜなら、もしそうなら、私はそれを知っているだろうし、もし知っていたら、それを話すことは許されないだろうからだ。ですから、私はこの問題には地球外生命体の解決策がある可能性があると考えるほかありません。
-それがどのように機能するのかは私にはわかりませんが、とにかく、それが事実と一致する唯一の解決策または理論のように思えるのです。
-（00:01:20）</p>
-<p>ベントウォーター家の事件は広く報道されたので、私はこの事件に非常に興味を持っています。この事件については本も出版され、ケーブルテレビのニュースやその他の人々が録音したテープも聴きました。また、この事件に関して牧師たちとある程度やり取りもしました。私が関わったのはこの一件だけです。端的に言えば、2つのうちの1つのことが起こったのだと思います。
-（00:01:41）</p>
-<p>何かが我々の領空に入り、ベントウォーターズに着陸したか、あるいはアメリカ空軍の将校や上級下士官が幻覚を見ていたかのどちらかです。いずれの説明においても、政府が繰り返し述べてきたこととは逆に、防衛上の理由があるはずです。
-あなたはどちらの説を信じますか？
-私自身は、何かがそこに着陸した可能性をほぼ確実視することは、非常に難しいと思います。
-どこから来たものなのか？
-（00:02:11）</p>
-<p>私には全く分かりません。分かっていたら良かったのですが。世界中の政府が、フランスを除いて、これらの問題に関する情報を秘密にしてきたことは疑う余地がありません。なぜなら、その多くは、情報公開法に基づいて米国に流出しており、そうでなければ公開されることはなかったからです。
-ベントウォーター事件についてはかなり詳しく、6冊の本を読み、事件に関わった多くの人々にインタビューしました。そして、慎重に考えた末、以前にも何度か公の場で発言したことですが、サフォークで起きたあの夜の出来事については、2つの説明しか考えられません。
-（00:02:50）</p>
-<p>まず一つ目は、当時基地の副司令官であったホルト大佐や、多くの兵士、つまり航空兵たちを含む関係者が、地球の大気圏外から何かが彼らの空軍基地に落下したと主張したことだ。
-（00:03:11）</p>
-<hr>
-<p>彼らはそのそばに行き、それを調べ、写真を撮った。翌日、彼らはそれが落下した場所で調査を行い、放射性物質を検出しました。
-彼らはこのことを報告しました。ホルト大佐は覚書を書き、それを我が国の防衛省に送りました。私の知る限り、少なくとも1回は英国のテレビ番組に出演し、その覚書で述べたことを繰り返し述べています。
-（00:03:41）</p>
-<p>そして、彼が述べたことは、私が今説明した通りです。これは、ホルト大佐の報告どおりに実際に起こったという一つの説明です。もう一つの説明は、実際には起こらなかったというものです。その場合、ホルト大佐と彼の部下全員が幻覚を見ていたと考えるしかありません。
-私の立場は明確です。どちらの説明も防衛上極めて重要な意味を持ちます。この件はすでに報告され、主張されており、私自身もこの国の防衛省の大臣たちにこの件を持ち出しましたが、大臣たちは、自分たちが知らされたことは防衛上重要な意味を持つものではないと否定しています。
-（00:04:24）</p>
-<p>確かに、常識的な人であれば、どちらの説明も、防衛上の関心事であるに違いない。サフォークにあるアメリカ空軍基地の大佐と彼の部下たちが、核兵器を搭載した航空機が基地に駐機しているのに幻覚症状を起こしているというのは、防衛上の関心事であるに違いない。
-もし、彼が言うことが実際に起こったのであれば、なぜ彼はそれをでっち上げたのか、そして、この国の防衛基地に、確かに人工物ではなく、宇宙から来た車が侵入したことも、間違いなく防衛上の関心事であるに違いない。
-（00:05:08）</p>
-<p>そして、大臣、特に国防省が、サフォーク州で12月の夜に起こったことは防衛上の関心事ではないと言うのは、まったく意味がありません。それは真実ではないのです。
-この国や他の1、2カ国において、私の名前がUFO問題とかなり大きく結び付けられるようになって以来、私はしばしば、元統合参謀本部議長、元NATO軍事委員会議長という経歴から、情報漏洩があったのではないか、あるいはUFOに関する事実を隠蔽しようとする政府の理由は何なのかと考えるようになりました。
-(00:06:02)</p>
-<p>そして、多くの説明がしばしば提示されてきましたが、最も頻繁で、おそらく最ももっともらしいのは、関係各国政府、主に米国政府と私の母国政府、が真実を語れば、 それは、私たちの大気圏に、私たちが配備できるものよりも技術的に何マイルも進んだ物体があり、それがこちらに来るのを止める手段がなく、それが敵対的な場合、私たちには防御手段がないという真実を公表すれば、私は... すみません、ここで止めさせていただきます。
-（00:06:45）</p>
-<p>そのまま続けます。私が思うに、政府がそうした事実を公表すれば、人々がパニックを起こし、大騒ぎして、あの有名なニューヨークの日にあったような、火星人が着陸したというデマが流れたときのように、電話交換機をパンクさせるだろう、と恐れているからだと思います。
-（00:07:04）</p>
-<hr>
-<p>人々は狂乱し、飛び跳ね回るだろう。私はそれを全く信じていません。私はそれを印刷物でも言いました。ティモシー・グッドの本に書いた序文でも言いました。私は、21世紀の現代人がそのような情報でパニックを起こすとは信じていません。
-結局のところ、彼らは50年前に2つの日本の都市が核兵器によって破壊されたことを我慢してきたのです。我慢したのではなく、我慢という言葉は適切ではありません。彼らは火星に車を着陸させることを当然のこととして受け止めています。彼らは、遠い惑星に車を着陸させる何年も前から、正確な着陸時刻を予測しています。
-(00:07:43)</p>
-<p>なぜパニックになる必要があるのでしょうか？彼らはこの国や宝くじやロトにずっと興味がある。彼らは肩をすくめて、当然のこととして受け止める。とにかく、私の経験では、彼らは政治家を信用していない。だから、それが最もありそうな説明だと思う。もちろん、他にも理由はあるが、私はそれで納得せざるを得ないだろう。
-最後に一つだけ質問してよろしいでしょうか...
-（00:08:08）</p>
-<p>素晴らしい。
-準備ができました。ベントウォーターズ事件について、よろしければ...
-ベントウォーターズ事件は、私たちの領空への明らかな侵入と、実際に私たちの国への着陸が、軍で責任ある仕事を担当する真面目な人々によって目撃された典型的なケースのように思えます。そしてベントウォーターズは、ある意味では、今後このような問題に対処しないための基準となるでしょう。
-（00:09:22）</p>
-<p>ありがとうございます。
-（00:09:24）</p>
-<hr>
-<p>Lord Hill Norton is an Admiral of the Fleet and was Chief of the Defence Staff between 1971 and 1973, and is not a man given to fanciful notions.
-Well, unfortunately, anybody who talks about UFOs is rubbish at once, and I don't doubt that when this interview appears on television screens in many people's homes, they'll think, poor old chap, he's really lost his marbles at last. But it's a shame, because there is something going on. There have been tens, if not hundreds of thousands of sightings in countries all over the world in the last few years, poor old chap, he's really lost his marbles at last.
-(00:00:34)</p>
-<p>But it's a shame, because there is something going on. There have been tens, if not hundreds of thousands of sightings in countries all over the world in the last few years, and everybody admits that between 5 and 10% of them have never been explained. And if I may add, many of these sightings are by experienced police officers, airline pilots, and sensible people who don't hallucinate and don't make up silly stories to get themselves on the box. I can't remember who it was who said that when you've eliminated all the possibilities, you've got to start looking at the impossibilities.
-(00:00:59)</p>
-<p>I don't believe it's a secret weapon, because I think if it were, I would know about it, and if I did know about it, I wouldn't be allowed to tell you. So I'm bound to feel that there may be a possibility of an extraterrestrial solution to this problem.
-I simply don't know how it possibly works, but it's the only solution or theory anyway that seems to me to fit the facts.
-(00:01:20)</p>
-<p>Well, I've taken a good deal of interest in the Bentwaters incident, because it was so widely publicized. Books have been written about it, I've listened to tapes made by cable news and people like that, and I've had a certain amount of dealings with ministers over this particular incident, the only one I have, and I think in a nutshell, one of two things happened.
-(00:01:41)</p>
-<p>Either something entered our airspace, landed at Bentwaters, or United States Air Force officers and senior non-commissioned officers were hallucinating, and in either explanation, there must be a defense interest in it, contrary to what the government has repeatedly said.
-Which of those two alternatives do you prefer?
-I myself think it's very difficult indeed to discount the almost certainty that something landed there.
-Something from where?
-(00:02:11)</p>
-<p>I've no idea. I wish I had. I don't doubt at all that governments all over the world, with the possible exception of the French, have kept information available to them about these matters secret, because much of it is now flowing out in the United States under their Freedom of Information Act, which wouldn't have been released otherwise.
-I know a good bit about the Bentwaters incident, and I've read half a dozen books, I've interviewed a number of the people who took part in it, and what I have decided, after careful thought, and I have said it in public more than once before, there are only two explanations for what happened that night in Suffolk.
-(00:02:50)</p>
-<p>The first is that what the people concerned, including Colonel Holt, who was at the time the deputy commander of the base, and a lot of his soldiers, or airmen, they claimed that something from outside the Earth's atmosphere landed at their Air Force base.
-(00:03:11)</p>
-<hr>
-<p>They went and stood by it, they inspected it, they photographed it. The following day they took tests on the ground where it had been and found radioactive traces.
-They reported this. Colonel Holt wrote a memorandum which was sent to our Ministry of Defence. He has appeared on British television at least once, to my knowledge, possibly more often, in which he has repeated, effectively, what he said in that memorandum.
-(00:03:41)</p>
-<p>And what he said is what I have just described. That is one explanation, that it actually happened, as Colonel Holt reported. The other explanation is that it didn't. And in that case, one is bound to assume that Colonel Holt and all his men were hallucinating.
-My position is perfectly clear. Either of those explanations is of the utmost defence interest. It has been reported and claimed, and I myself have raised it with ministers at the Defence Ministry in this country, who deny that anything they have been informed is of defence interest.
-(00:04:24)</p>
-<p>Surely, to any sensible person, either of those explanations must be, cannot fail to be, of defence interest. That the Colonel of an American Air Force base in Suffolk and his many men are hallucinating when there are nuclear-armed aircraft on the base must be of defence interest.
-If, indeed, what he says took place did take place, and why on earth would he make it up, then surely the entry of a vehicle from outer space, certainly not man-made, to a defence base in this country also cannot fail to be of defence interest.
-(00:05:08)</p>
-<p>And it simply isn't any good, ministers, and the Ministry of Defence in particular, saying that nothing that took place that December night in Suffolk is of defence interest. It simply isn't true.
-Since my name has become connected with UFO matters in quite a big way in this country, and in one or two other countries too, I have frequently been a wire person of my background, a former Chief of the Defence Staff, a former Chairman of the NATO Military Committee, why I think there is a cover-up, or what the reasons may be for governments wishing to cover up the facts about UFOs.
-(00:06:02)</p>
-<p>And a number of explanations have often been put forward, of which the most frequent and perhaps the most plausible is that the governments concerned, which are primarily that of the United States and that of my own country, believe that if they told the truth, which is that there are objects in our atmosphere, which are technically miles in advance of anything that we can deploy, that we have no means of stopping them coming here, and that we have no defence against them should they be hostile, that I believe... Sorry, I have to stop.
-(00:06:45)</p>
-<p>I'll go straight on. That, I believe, is because governments fear that if they did disclose those facts, people would panic, people would rush about, jam the switchboard like they did on that famous day in New York when there was a spoof, Martians have landed.
-(00:07:04)</p>
-<hr>
-<p>People would go mad and they'll jump up and down. I don't believe that at all. I've said so in print. I've said it in the foreword I wrote to one of Timothy Good's books. I do not believe that people today, in the 21st century, are going to panic at that sort of information.
-After all, they have put up with the introduction of nuclear weapons, the destruction of two Japanese cities 50 years ago. They put up, not put up with, it's the wrong word, they take as a matter of course that we can land vehicles on Mars. They land to the precise instant forecast years before vehicles on distant planets.
-(00:07:43)</p>
-<p>Why should they panic? They are much more interested in this country and doing the pools or the lottery. They shrug their shoulders and take it as a matter of course. Anyway, they don't trust politicians, in my experience. So, I believe that that is the most likely explanation. There are, of course, others, but I think I'll have to settle for that.
-If I can ask you one closing...
-(00:08:08)</p>
-<p>Wonderful.
-OK, we're ready. On the Bentwaters incident, if you wouldn't mind...
-It seems to me that the Bentwaters incident is a classic case where an apparent intrusion into our airspace and indeed a landing in our country was witnessed by serious-minded people in the military, responsible people doing a responsible job. And Bentwaters is, in a sense, a benchmark for how not to deal with these matters in the future.
-(00:09:22)</p>
-<p>Thank you.
-(00:09:24)</p>
-<p>(2024-07-21)</p>]]></content>
-        <category label="UFO" term="UFO"/>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Oak Ridge 国立研究所による「Roswell金属破片」の分析結果報告書の結論]]></title>
-        <id>https://ouchaku.github.io/ds/en/blog/2024/07/21/metal_analysis</id>
-        <link href="https://ouchaku.github.io/ds/en/blog/2024/07/21/metal_analysis"/>
-        <updated>2024-07-21T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[前置き]]></summary>
-        <content type="html"><![CDATA[<a href="https://ouchaku.github.io/ds/img/20240721_specimen.jpg" target="_blank"><img alt="20240721_specimen.jpg" border="0" src="https://ouchaku.github.io/ds/img/20240721_specimen.jpg" width="90%"></a>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="前置き">前置き<a class="hash-link" aria-label="Direct link to 前置き" title="Direct link to 前置き" href="https://ouchaku.github.io/ds/en/blog/2024/07/21/metal_analysis#%E5%89%8D%E7%BD%AE%E3%81%8D">​</a></h2>
-<p>結論だけ。テキスト抽出＋和訳。</p>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="関連">関連<a class="hash-link" aria-label="Direct link to 関連" title="Direct link to 関連" href="https://ouchaku.github.io/ds/en/blog/2024/07/21/metal_analysis#%E9%96%A2%E9%80%A3">​</a></h3>
-<p><a href="https://ouchaku.github.io/ds/en/blog/2024/07/21/synopsis_analysis">Oak Ridge 国立研究所による「Roswell金属破片」の分析結果報告書：pdf → テキスト抽出 → 和訳</a></p>
-<p><a href="https://ouchaku.github.io/ds/en/blog/2024/07/21/roswell_metal_analysys_result">国立研究所で Roswell の墜落 UFO 由来とされる破片を分析 →普通の地球の物質と判明</a></p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="出典">出典<a class="hash-link" aria-label="Direct link to 出典" title="Direct link to 出典" href="https://ouchaku.github.io/ds/en/blog/2024/07/21/metal_analysis#%E5%87%BA%E5%85%B8">​</a></h2>
-<p><a href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/ORNL-Synopsis_Analysis_of_a_Metallic_Specimen.pdf?ver=V1rMXfRV-VUb2gjTd4DzVg%3D%3D" target="_blank" rel="noopener noreferrer">https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/ORNL-Synopsis_Analysis_of_a_Metallic_Specimen.pdf?ver=V1rMXfRV-VUb2gjTd4DzVg%3D%3D</a></p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="結論">結論<a class="hash-link" aria-label="Direct link to 結論" title="Direct link to 結論" href="https://ouchaku.github.io/ds/en/blog/2024/07/21/metal_analysis#%E7%B5%90%E8%AB%96">​</a></h2>
-<p>AAROは、この歴史的な標本が地球外起源であり、ビスマスベースのテラヘルツ波ガイドとして機能できるとする主張を立証または反証するために必要な要件を、ORNLが独自に評価することを確保しました。</p>
-<p>この試料の起源、保管状況、最終的な用途は依然として不明ですが、化学組成と構造、特性に関する最新の堅牢な分析では、その起源が地球外であることを示す結果は得られていません。</p>
-<p>また、調査対象となった物質がテラヘルツ波ガイドとして機能する可能性のある純粋な単結晶ビスマス層を有していたことを示すデータもありません。</p>
-<p>この物質が過去に意図的または実際に使用されたかどうかは不明ですが、ORNLは、すべてのデータが、この物質が今日の基準では珍しい元素の混合を用いて製造されたものであることを示しているものの、機械的および熱的ストレス要因による損傷を受けたものであるという高い確信を持っています。</p>
-<p>Conclusion</p>
-<p>AARO secured ORNL to independently assess the requirements necessary to confirm or contest public claims that this historical specimen is of non-terrestrial origin and that it is capable of functioning as a bismuth-based terahertz waveguide. Although the origin, chain of custody, and ultimate purpose of this specimen remain unclear, a modern and robust analysis of its chemical and structural composition and properties does not indicate that its origin is non-terrestrial, nor do the data indicate that the material examined ever had the pure single-crystalline bismuth layer that could possibly have acted as a terahertz waveguide. The intended or actual past use of the material remains undetermined, but ORNL has a high level of confidence that all data indicate the material was manufactured terrestrially—albeit using an uncommon mixture of elements by today’s standards—and then incurred damage caused by mechanical and heat stressors.</p>
-<p>(2024-07-21)</p>]]></content>
-        <category label="roswell" term="roswell"/>
-        <category label="UFO" term="UFO"/>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[国立研究所で Roswell の墜落 UFO 由来とされる破片を分析 →普通の地球の物質と判明]]></title>
-        <id>https://ouchaku.github.io/ds/en/blog/2024/07/21/roswell_metal_analysys_result</id>
-        <link href="https://ouchaku.github.io/ds/en/blog/2024/07/21/roswell_metal_analysys_result"/>
-        <updated>2024-07-21T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[前置き]]></summary>
-        <content type="html"><![CDATA[<a href="https://ouchaku.github.io/ds/img/20240721_specimen.jpg" target="_blank"><img alt="20240721_specimen.jpg" border="0" src="https://ouchaku.github.io/ds/img/20240721_specimen.jpg" width="90%"></a>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="前置き">前置き<a class="hash-link" aria-label="Direct link to 前置き" title="Direct link to 前置き" href="https://ouchaku.github.io/ds/en/blog/2024/07/21/roswell_metal_analysys_result#%E5%89%8D%E7%BD%AE%E3%81%8D">​</a></h2>
-<blockquote><p>All-Domain Anomaly Resolution Office (AARO) は、マグネシウムと亜鉛を主成分とし、ビスマスとその他の微量元素の帯状層を持つ積層材料標本の測定を複数回実施しました。この材料標本の起源と目的については、長年にわたり議論されてきた歴史があります。この材料標本は、1947年頃に発生した未確認異常現象（UAP）の墜落現場から回収されたと主張されています。さらに、この試料の物理化学的特性により、この物質は「慣性質量減少」（すなわち、浮遊や反重力機能）が可能であると主張されています。これは、ビスマスとマグネシウムの層がテラヘルツ波の導波路として機能しているためである可能性があります。</p><p>...</p><p>AARO は ORNL(Oak Ridge National Labs) に、</p><p>(1) この試料が地球起源であるかどうか、</p><p>(2) この試料に含まれるビスマスがテラヘルツ波の導波路として機能する可能性があるかどう</p><p>かを評価するよう依頼しました。</p></blockquote>
-<p>その分析・評価結果の pdf 資料が公表された。この pdf 資料をやや詳しく解説した動画を取り上げる。</p>
-<p>問題の pdf 資料そのものについては別記事で扱う予定。</p>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="関連">関連<a class="hash-link" aria-label="Direct link to 関連" title="Direct link to 関連" href="https://ouchaku.github.io/ds/en/blog/2024/07/21/roswell_metal_analysys_result#%E9%96%A2%E9%80%A3">​</a></h3>
-<p><a href="https://ouchaku.github.io/ds/en/blog/2024/07/21/synopsis_analysis">Oak Ridge 国立研究所による「Roswell金属破片」の分析結果報告書：pdf → テキスト抽出 → 和訳</a></p>
-<p><a href="https://ouchaku.github.io/ds/en/blog/2024/07/21/metal_analysis">Oak Ridge 国立研究所による「Roswell金属破片」の分析結果報告書の結論</a></p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="動画2318">動画(23:18)<a class="hash-link" aria-label="Direct link to 動画(23:18)" title="Direct link to 動画(23:18)" href="https://ouchaku.github.io/ds/en/blog/2024/07/21/roswell_metal_analysys_result#%E5%8B%95%E7%94%BB2318">​</a></h2>
-<p>Metallic Specimen Revealed: Oak Ridge National Lab's Surprising Findings.</p>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E9HPUxD1ZyY?si=s3U2vcmF1exa2j34" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin"></iframe>
-<p><a href="http://www.youtube.com/watch?v=E9HPUxD1ZyY" target="_blank" rel="noopener noreferrer">www.youtube.com/watch?v=E9HPUxD1ZyY</a></p>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="動画概要欄">動画概要欄<a class="hash-link" aria-label="Direct link to 動画概要欄" title="Direct link to 動画概要欄" href="https://ouchaku.github.io/ds/en/blog/2024/07/21/roswell_metal_analysys_result#%E5%8B%95%E7%94%BB%E6%A6%82%E8%A6%81%E6%AC%84">​</a></h3>
-<p>28,900 views  Jul 15, 2024  ✪ Members first on July 14, 2024  #uaps #uap #alien
-In this video, we dive into the latest analysis from Oak Ridge National Laboratory on a metallic specimen claimed to be of extraterrestrial origin. Chris Lehto reviews the findings and discusses the implications of the report. Join us to explore whether this material holds secrets of the unknown or if it can be explained by earthly science. Don't miss this detailed breakdown of a long-debated mystery.</p>
-<p>Read the Full AARO report here:
-<a href="https://www.aaro.mil/Portals/136/PDFs" target="_blank" rel="noopener noreferrer">https://www.aaro.mil/Portals/136/PDFs</a>...</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="whisper-ailarge-v2-model--deeplnew-model">Whisper AI(large-v2 model) + DeepL(new model)<a class="hash-link" aria-label="Direct link to Whisper AI(large-v2 model) + DeepL(new model)" title="Direct link to Whisper AI(large-v2 model) + DeepL(new model)" href="https://ouchaku.github.io/ds/en/blog/2024/07/21/roswell_metal_analysys_result#whisper-ailarge-v2-model--deeplnew-model">​</a></h2>
-<p>米国防総省のUFO調査部門である代替ドメイン異常解決局（Aero）は、オークリッジ国立研究所の金属標本の分析結果を公表しました。
-すぐに確認してください。
-Aeroは当初から、基本的に最初の1分間で、あらゆる種類の地球外知的生命体の関与を完全に懐疑的に見ています。
-彼らが公表してきたものはすべて、人間以外の知性または地球外生命体の関与の主張を否定するためのものでした。
-（00:00:38）</p>
-<p>期待しすぎないように、でも、これから何が起こるのか、興味深いですね。
-グリーンウォルドが投稿した、DODの分析によると、地球外生命体の同盟国とされるものの分析はオークリッジ国立研究所で行われた。
-興味深い点があります。
-ショーン・カークパトリック博士は、かつてAeroのトップを務めており、おそらく当時、契約を担当していたと思われます。
-つまり、ショーン・カークパトリックは極めて懐疑的で、UFOコミュニティから酷評されていた人物ですが、その後エアロを退職し、オークリッジ国立研究所に採用されたのです。
-(00:01:17)</p>
-<p>オークリッジ国立研究所に採用されたのです。
-驚きですね。
-ジョンはさらに興味深い指摘をしています。エアロ社の調査結果に反論し、この特定のケースに関する大規模な隠蔽を明らかにできる人物は、スターズ・アカデミー、スターズ・メディア・アース・ファイルズ、ハル・パトフ博士、CRADAに主任研究者として記載されていたルー・エリゾンド氏です。
-グリーンウォルドが言うように、彼らが反論できるのであれば、そうしてほしい。あるいは、2024年の今、エアロの調査結果に同意するのであれば、そう言ってほしい。そうすれば、私たちは皆、この特定の話題から先に進むことができるだろう。
-（00:01:56）</p>
-<p>この問題は長年にわたって続いており、私たちが知っている資料の所有権をめぐって、文字通り何万ドルもの金がやり取りされてきました。なぜなら、陸軍もオークリッジとは独立して調査を行っていたからです。
-ジョンは、この件を終わらせるか、隠蔽を白日の下にさらすか、いずれにせよ決断する時だと言っています。それでは、この報告書に目を通し、これが実際に真実ではないことを決定づけるきっかけとなるのか、それともグリーンウォルドが言うように隠蔽を白日の下にさらすきっかけとなるのか、見ていきましょう。
-（00:02:27）</p>
-<p>お越しいただきありがとうございます。
-「いいね」ボタンを押していただけると、チャンネルの運営に役立ちます。また、今後のコンテンツの配信をご希望の方は、ぜひチャンネル登録をお願いします。
-クリス・ラド、ラド・ファイルへようこそ。
-金属試料の概要分析。
-それほど長いレポートではありません。
-オークリッジ国立研究所。
-はじめに。
-オールドメイン・アノマリー・リゾリューション・オフィスは、主にマグネシウムと亜鉛で構成され、ビスマスと他の同位元素の帯を持つ層状物質試料の一連の測定を後援しました。
-（00:03:06）</p>
-<p>この物質標本は、その起源と目的について長年にわたる議論の的となっているが、1947年頃に発生した未確認の異常現象の墜落現場から回収されたと主張されている。
-ということは、これはロズウェル事件のものなのか？
-ロズウェル事件で回収されたとされる物質。
-さらに、この標本の物理化学的性質から、この物質は慣性質量減少を起こすことが可能であると主張されている。
-つまり、ビスマスとマグネシウムの層がテラヘルツ波の導波路として作用することで、IEの浮上や反重力機能が可能になる可能性がある。
-（00:03:42）</p>
-<p>では、テラヘルツ信号処理はどこまで進んでいるのでしょうか？
-（00:03:47）</p>
-<hr>
-<p>これは2022年2月8日の記事です。
-そして、テラヘルツ通信システムの完全な展開において、導波路は極めて重要な役割を果たします。
-でも、かなり制限されているよね？
-信号の伝送以外にも、革新的なテラヘルツ導波管には、多機能な信号処理機能を提供することが求められています。
-つまり、信号の伝送はできるけど、多機能な信号処理機能を実現するには、まだ革新的なテラヘルツ導波管が必要ということですね。
-（00:04:17）</p>
-<p>基本的には、まだそこまで到達していません。
-では、先ほどの報告書に戻りますが、米国陸軍戦闘能力開発司令部（DEFCON）は、スターズ・アカデミーと共同研究開発協定（CRADA）を締結し、この広く議論されている標本に関連する破壊的技術の可能性を評価しました。
-ル・アルゾンドは、基本的にこのCRADAの研究調査官の1人でした。
-（00:04:48）</p>
-<p>2022年に設立されたAEROは、UAP事件の過去の記録を調査し、その結果を公表することを議会から義務付けられています。
-はい、議会から義務付けられています。国防総省ではなく、国防総省が運営しているようですが。
-標本の長い保管履歴は確認できませんが、標本に対する一般市民とメディアの関心は、科学的方法に従った透明性のある調査を保証しました。
-つまり、標本に対する一般市民とメディアの関心です。
-（00:05:15）</p>
-<p>TTSA DEFCON CRADAに続いて、5回、AEROは科学技術パートナーであるオークリッジ国立研究所を確保しました。オークリッジ国立研究所は米国エネルギー省国立研究所17カ所のうちの1つで、80年にわたる世界トップクラスの材料科学の専門知識を活用し、標本を独自に評価し、徹底的な特性評価研究を実施しました。
-こちらが実際に吹き飛ばされた標本です。
-材料特性評価の専門家であるオークリッジには、多様な専門知識を持つスタッフと強力な機器群が備わっており、個々の研究所の能力を超える厳密な科学的調査が可能です。
-(00:05:55)</p>
-<p>したがって、この標本とその性質を公平に分析し、科学的整合性を維持する上で、非常に適格な機関である。
-ちょうどカーパトリックを雇った、公平に、ちょうどカーパトリックを雇った。
-AEROは、オークリッジに、この標本が地球起源であるかどうか、そして標本に含まれるビスマスがテラヘルツ波の導波路として作用する可能性があるかどうかを評価するよう依頼した。
-それが彼らの依頼内容だった。
-ジョン・グリーンウォルドが言ったように、実際にオークリッジに仕事を依頼した時、AEROはショーン・カークパトリックが運営していたのでしょう。
-（00:06:30）</p>
-<p>DEVCOM、地上車両システムセンターは、オークリッジに金属標本、単一親サンプル、2023年2月から採取された3つの副サンプルへのアクセスを提供しました。
-カークパトリックがまだそこにいた時期ですね。
-オークリッジの材料科学分析では、顕微鏡、分光法、分光分析などの複数の方法を用いて、サンプルの構造、化学組成、同位体比を評価しました。
-その結果は、以前のDEVCOM分析と一致し、ビスマス層の構造と組成はテラヘルツ波の導波路として必要な要件を満たしていないことを示しました。
-（00:07:08）</p>
-<p>さらに、すべてのデータが、その物質が地球起源であることを強く裏付けています。
-つまり、それが事実だと思います。
-つまり、彼らの分析によると、その物質は地球起源であり、テラヘルツ波の導波路として実際に機能することさえできないという結論に達したのです。
-（00:07:27）</p>
-<hr>
-<p>分析方法、すべての分析、物質の利用は、STARSアカデミーによって承認され、監督されていました。
-そして、オークリッジ研究所が試料を受け取る前に、すべての分析はエアロとDEVCOMによって事前に承認されていました。
-わかりました。
-形態と微細構造の特徴は、光学顕微鏡、つまり標準的な顕微鏡分析、コンピュータ断層撮影、別名CTスキャン、つまり試料を傷つけることなく3D画像を作成するX線画像手順を使用して調査されました。
-（00:07:59）</p>
-<p>走査型電子顕微鏡。
-彼らは、エネルギー分散型X線分光法という手法を用いて、より高い解像度で2D画像を生成し、微細構造と元素組成の分析を可能にした。
-エネルギー分散型X線分光法では、高エネルギー電子ビームを試料の薄い箔に通し、結晶構造、結晶粒、特徴的な形態、欠陥、元素組成を、すべてナノメートルからサブナノメートルの解像度で分析する。
-（00:08:34）</p>
-<p>わかりました。
-また、バルク化学、元素、同位体組成の分析も行いました。質量分析技術を使用して同位体を調べ、サンプル内の元素とその存在量、同位体組成を特定しました。
-それが、それが地球起源であると判断した理由だと思います。
-トレーサブルな品質管理基準とメソッドブランクをすべての分析で実行し、十分な整合性と機器性能を監視しました。
-（00:09:04）</p>
-<p>わかりました。
-その結果、形態と構造データは複数の画像アプローチで一貫しており、この物質はさまざまな点で融合したり分岐したりする明確な層から構成されていることが示されています。
-界面には亀裂やその他の特徴が見られ、オークリッジ国立研究所は、これらはもともと一体であった物質と一致しているが、熱や機械的な力による長期にわたる負荷によって歪んだものであると断定しました。
-図2はCTを使用して構築された試料の画像です。
-（00:09:34）</p>
-<p>右下に見えるのは、熱による損傷を受けたと思われる端の部分です。
-走査型電子顕微鏡を用いた化学組成分析によると、マグネシウムと亜鉛が試料中に最も多く含まれる元素であることが判明しました。それぞれ、試料全体の約97.5%と2%を占めています。
-（00:10:02）</p>
-<p>マグネシウムが97.5%、亜鉛が2%です。
-表1で検出された微量元素は、鉛とビスマスで、鉄とマンガンもわずかに検出されました。
-さらに、最も感度の高い分析手法である誘導結合プラズマ質量分析法（ICP-MS）により、カドミウム、タリウム、金、モリブデン、スズ、バリウムが微量に存在することが明らかになりました。
-検出された元素の量が検量線の下限を下回ったり、検出限界を下回ったりした場合は、その元素は表1に表示されませんでした。
-（00:10:43）</p>
-<p>それでは、後方散乱電子像、電子像、エネルギー分散型X線分光法、EDSマップを、1つのサブサンプルから取得します。
-これは炭素マップで、埋め込まれたエポキシ樹脂を示しています。
-マグネシウムマトリックスがはっきりと見えます。
-マグネシウムの母材と、その亀裂が実際に確認できます。
-実際の固体母材に亀裂があることが確認できます。
-（00:11:11）</p>
-<hr>
-<p>亜鉛マップは、亜鉛含有量が高い領域と低い領域を示しています。
-鉛とビスマスのマップの上部には、同じ層が見えます。
-結晶構造は、固体がいかにして作られるかを示しています。
-つまり、すべての固体には何らかの内部結晶構造があるということですね？
-私は大学で材料科学を専攻していました。
-空軍士官学校でです。
-材料科学を本格的に学んだのはもう24年も前のことですが、それが私の専門分野です。</p>
-<p>（00:11:44）</p>
-<p>TEM電子顕微鏡により、試料中のマグネシウムの結晶構造は一般的なマグネシウム合金の構造と一致することが明らかになりました。
-つまり、マグネシウムの破壊方法は一般的なマグネシウム合金構造に通常見られるものだということです。
-レーザーアブレーションにより、亜鉛成分のバンド構造と、そのバンドに層状に存在する鉛とビスマスの共在が明らかになりました。
-ビスマスが豊富な部分は明確な結晶構造を欠いており、非晶質マトリックスの中に非常に微細な結晶ポケットで構成されているように見えます。
-（00:12:20）</p>
-<p>そのため、純粋な単結晶ビスマスが薄い単層構造になっている場合、導波路として機能する可能性があると考えられています。導波路とは、電気やエネルギーのフィールドを乱したり、方向付けたりする材料で、この場合はテラヘルツ波です。
-つまり、極薄の単層構造になっているビスマスがテラヘルツ波として作用できる可能性があるという議論です。
-これは推測に基づく議論です。
-（00:12:46）</p>
-<p>非常に小さいマイクロスケールの波長を持つ電磁波です。
-熱ストレスの疑いを含む試料へのダメージにより、試料の元の構造を明確に述べることはできませんが、現在の試料の調査された層におけるビスマスの非晶質およびナノ結晶の外観は、材料内に純粋な結晶質のビスマス層が存在しなかったことを示している可能性が高いです。 オークリッジの分析によると、材料の非晶質およびナノ結晶の外観は、
-（00:13:16）</p>
-<p>オークリッジ研究所の分析によると、ビスマスの非晶質およびナノ結晶の外観は、純粋な結晶層が存在しないことを示しています。
-さらに、このような理論上のビスマスに基づく導波路の構造は、異なる誘電率を持つ物質の間に単層で存在することが必要であると仮定されています。
-しかし、材料全体に複数のビスマス層が存在しても、この導波路機能を達成したり改善したりできるとは仮定されていません。
-(00:13:46)</p>
-<p>実際、複数の層は、その機能に干渉する可能性があります。
-したがって、試料内の不純物ビスマスの層状構造は、導波路として機能することを妨げる可能性が高いと考えられます。
-つまり、完璧な結晶構造の中には導波路として機能する薄い層が存在しないだけでなく、層状になっているというのです。
-そして、ビスマス層は、この種のテラヘルツ波導波路の選択肢を妨げるだろうと彼らは主張しています。
-（00:14:12）</p>
-<p>そして、彼らはここで、最終的に、仮定上のビスマス使用法に基づいて、ビスマスが導波路として機能するために必要な誘電特性が、試料中のビスマスが鉛と共存し混合されているため、この材料では破壊されているだろうという結論に達しました。これらの調査結果に基づき、オークリッジ国立研究所は、この材料がビスマスベースのテラヘルツ導波路として機能した可能性は極めて低いと決定しました。
-（00:14:36）</p>
-<p>OK、これは側面からのもので、基本的に、ビスマスに含まれる青色の層は、ビスマスが複数層重なっているため、テラヘルツ波の導波路として使用されるのを妨げる、ということを意味しています。
-（00:14:49）</p>
-<hr>
-<p>彼らの主張です。
-同位体分析の最終セクションを用意してください。
-マルチコレクターICP分析により、試料のマグネシウムと鉛の同位体組成は、地球上で製造・使用されている他の物質と一致することが示されました。
-これが今ご覧になっている図です。ちょっと待って、図7を表示します。
-同位体は、質量が異なる同じ元素のさまざまな形態であり、その割合が化学的性質に影響を与え、同位体が発見された物質の歴史に関する情報を明らかにします。
-（00:15:24）</p>
-<p>すべての元素には同位体があり、さまざまな同位体の量の比率は同位体シグネチャと呼ばれ、化学分析における指紋のようなものです。
-そのため、彼らは同位体比を探しており、興味深い同位体比は、地球外物質の指標、指紋となる可能性があります。
-この試料のマグネシウム同位体比は分画されていますが、これはおそらく、この物質が受けたと思われる機械的および熱的歪みのためと考えられますが、通常の地球組成の範囲内であり、分画の予想トレンドラインに正確に一致しています。
-（00:16:00）</p>
-<p>図6の分画の予想トレンドラインを参照しています。
-彼らはそう言っているのです。
-それは壊れていたので、壊れた分画線に沿って落ちていくのです。
-彼らは、それが本質的に壊れていたので、それを説明しているのです。
-それが、奇妙な同位体比を生み出している理由です。
-それぞれの恒星系は、その地域の星形成領域から受け継いだマグネシウム同位体組成を持っています。
-図6は、太陽系内で生成されたさまざまな物質のマグネシウム同位体シグネチャを示しています。
-（00:16:34）</p>
-<p>下図の直線は、質量に基づく同位体シフトの種類を定義する、動的および平衡質量分画傾向線です。
-分画は、化学反応や物理的プロセス（例えば
-製造や採掘）によって発生し、天然および人工材料とその構成成分の寿命の間は通常発生します。
-図6の物質（試料を含む）は、分画傾向線上またはその付近に位置しており、その出発組成はかつて同じであり、分画の結果、系統的に変化したことを強く示唆しています。
-（00:17:16）</p>
-<p>物質が太陽系外から来た場合、マグネシウム同位体シグネチャは、図6の上部グラフのほぼどこにでもプロットされる可能性があります。
-しかし、この試料のデータは、太陽系特有の既知の組成に対する予想される分画傾向線内に正確にプロットされています。
-これがその議論です。地球と他の物質がここにありますね。
-そして、私にとって興味深いのは、隕石が地球のすぐそばにあることです。
-(00:17:46)</p>
-<p>つまり、隕石は太陽系から来たに違いないのです。
-隕石が地球と同じ場所にあるのはそのためです。
-ご存知のように、私たちが理解している限りでは、そして議論もあると思いますが、オウムアムアは太陽系外天体としては初めてのものでした。
-それが、エイヴィ・ローブがIM2を探していた理由です。
-つまり、別の隕石が地球に衝突したとしても、その速度や方向、どこから来たのかに基づいて、太陽系外のものかもしれない、と彼は言ったのです。
-（00:18:13）</p>
-<p>ですから、その同位体は別の場所にプロットされるはずです。
-つまり、この線上にはない。
-彼らはマグネシウムの同位体比を言っている。つまり、マグネシウムの同位体同盟。
-（00:18:25）</p>
-<hr>
-<p>他の同位体はどうですか？
-違いがあるのでしょうか？
-それから、サンプルAの分画。
-サンプルAを置くと、分画の線上にぴったりと当てはまる。
-興味深い。
-より複雑ではなく、彼らは続ける。
-標本の鉛同位体シグネチャは、一般的な鉛と完全に一致しています。
-地球上や地球物質に自然界に存在する組成です。
-これが今ご覧になっている図です。
-（00:18:53）</p>
-<p>月の物質とも明確に区別されており、この物質が地球で生成された可能性が高いことを示しています。
-鉛の同位体比はさらに決定的であり、基本的に月のものよりも地球由来の同位体比に近いということです。
-ご覧になっているのはこれですね？
-同位体比207対206、これは204対206です。
-X軸は鉛204と鉛206の関係、縦軸は鉛207と鉛206の関係を表しています。
-（00:19:28）</p>
-<p>ここで興味深いのは、月の砂が左側に大きく偏っていることです。
-つまり、鉛206に関連する鉛204の同位体は基本的にゼロということです。
-鉛204は基本的にゼロです。
-206に関連する207の地球由来の物質よりも少ない量です。
-ですから、このサンプルはチャートと一致していません。
-彼らは、彼らが調査しているサンプルは、地球由来の物質の中心に一致していると言っています。
-（00:20:02）</p>
-<p>鉛の同位体比に基づいて、彼らはそう言っています。
-それは地球由来の物質と一致しています。
-さて、ここで簡単に結論を言います。
-Aeroは、オークリッジ国立研究所に、この歴史的な標本が地球外起源であり、ビスマスベースのテラヘルツ波ガイドとして機能できるとする主張を立証または反証するために必要な要件を独自に評価するよう依頼しました。
-この試料の起源、保管状況、最終的な目的については依然として不明ですが、その化学的・構造的組成と性質を最新の強力な分析法で調べた結果、その起源が地球外であるとは考えられず、また、調査した物質にテラヘルツ波ガイドとして作用する可能性のある純粋な単結晶ビスマス層が存在していたというデータもありません。
-(00:20:48)</p>
-<p>この物質が過去に意図的または実際に使用されたかどうかは不明ですが、オークリッジ研究所は、現在の基準では珍しい元素の混合物が使用されているものの、この物質は地球上で製造されたものであると、また、機械的および熱的ストレスによって損傷を受けたものであると、すべてのデータが示していることに高い信頼性を置いています。
-なるほど、興味深い結論ですね。
-私が重要だと思うのは、現在の基準では珍しい元素の混合物を使用しているものの、と彼らは言っていることです。
-（00:21:18）</p>
-<p>つまり、現代の基準からすると珍しい元素の混合であるとしても、それがどこから来たのか、どのように製造されたのか、まだわからないということのようです。
-彼らはそれを分析しなかったんですね？
-彼らは分析しました。ビスマス結晶構造を通してテラヘルツ波導波路として実際に使用可能かどうか、ですね。しかし、それは不可能だということがわかった。
-そして、それは地球上の物質から作られたものであると決定した。つまり、基本的に地球上で作られたものである。
-（00:21:46）</p>
-<p>しかし、彼らの見解では、それは非常に特殊で、非常に狭い範囲のものであるように見えますね？
-（00:21:49）</p>
-<hr>
-<p>それは何か他の用途に使われた可能性はあるのでしょうか？
-それは何のために使われたのでしょうか？
-それは何から作られたのでしょうか？
-彼らはそれを特定できなかった。
-それは興味深いですね。
-彼らはそれを特定できなかったが、同位体比は地球上の元素の通常値であるとし、テラヘルツ波ガイドとして使用できるとは考えていないと述べた。
-ショーン・カルパチェクがアロー社を退社後、再び就職したオークリッジ研究所によると、彼らはそれが未確認飛行物体（UAP）の材料であるとは考えておらず、テラヘルツ波ガイドとして使用できるとは信じていない。
-(00:22:21)</p>
-<p>しかし、ジョン・グリーンウォルドが言ったように、ルー・アルゾンダの反応を聞くのは非常に興味深いでしょう。
-彼の本に載るのでしょうか？
-これについて何かありますか？
-スターズ・アカデミーについてはどうですか？
-トム・デロング、ハル・プトフ、その人たち全員。
-とても興味があるので、最終的な答えを聞くことはできますか？
-彼らはこの分析を否定するのか、それとも支持するのか？
-いずれにしても、私たちは知るでしょう。
-ご視聴ありがとうございました。
-(00:22:45)</p>
-<p>いいねボタンを押してください。
-本当に助かりますし、無料です。
-今後の動画公開通知を受け取るために、ぜひチャンネル登録もお願いします。
-この動画も気に入っていただけるかもしれません。
-チャンネルをサポートしたい方は、こちらの素晴らしい方々に参加して、限定ボーナスコンテンツを入手し、こちらのボタンをクリックしてください。patreon.comスラッシュクリス・スラト、またはYouTubeメンバーになってください。
-議論を続けたい場合は、UAP Society Discordにアクセスしてください。
-(00:23:13)</p>
-<p>リンクはすべて説明文に記載されています。
-良い一日を。</p>
-<p>(00:23:18)</p>
-<hr>
-<p>So Aero, the alternate domain anomaly resolution office, so the US DOD's UFO investigation arm has just released the analysis of a metallic specimen synopsis from Oak Ridge National Laboratory.
-Go through it shortly.
-Just be advised Aero has from the get-go, basically minute one has been totally skeptical of any sort of ET alien involvement.
-Everything they have released has been to debunk any claims of non-human intelligence or extraterrestrial involvement.
-(00:00:38)</p>
-<p>So don't get your hopes up, but it'll be interesting to see what happens from this.
-Greenwald posted, DOD analysis on an alleged extraterrestrial ally was done by Oak Ridge National Labs.
-Interesting point here, Dr.
-Sean Kirkpatrick, former head of Aero, most likely was in charge of contracting at the time.
-So Sean Kirkpatrick, who seems extremely skeptical and has been much demised by the UFO community, he has since retired from Aero and was hired by Oak Ridge National Labs, and you cannot make this stuff up.
-(00:01:17)</p>
-<p>It was hired by Oak Ridge National Labs.
-Amazing.
-John makes a further interesting point that those who can refute these findings by Aero and reveal a massive coverup in relation to this specific case are to the Stars Academy, to the Stars Media Earth Files, Dr.
-Hal Putoff and Lou Elizondo, who was the principal investigator listed on the CRADA.
-So as Greenwald says, I hope they do refute it if they can, or if they agree now in 2024 with Aero's findings, I hope they say so, and we can all move on from this specific story.
-(00:01:56)</p>
-<p>It has lingered for many years and literally tens of thousands of dollars have exchanged hands with the ownership of the material that we know of, because the Army also did independent from Oak Ridge investigated it.
-So John says, time to put this to rest or blow the coverup wide open, whichever it is, so we'll go through the report now and see, could this be a flashpoint to actually determine that it's not real or blow open the coverup wide open as Greenwald says.
-(00:02:27)</p>
-<p>Thanks for being here.
-Please hit the like button, really helps the channel and subscribe for future content.
-Chris Lado, welcome to Lado Files.
-Synopsis analysis of a metallic specimen.
-Not that long of a report.
-Oak Ridge National Laboratory.
-Introduction.
-The All Domain Anomaly Resolution Office sponsored a series of measurements on a layered material specimen primarily composed of magnesium and zinc with bands of bismuth and other co-located trace elements.
-(00:03:06)</p>
-<p>The material specimen, whose origin and purpose are of long and debated history is claimed to be recovered from an unidentified anomalous phenomena crash in or around 1947.
-So could this be from Roswell?
-Claimed Roswell crash material.
-Furthermore, the specimen physiochemical properties are claimed to make the material capable of inertial mass reduction.
-So IE levitation or anti-gravity functionality, possibly attributable to the materials bismuth and magnesium layers acting as a terahertz waveguide.
-(00:03:42)</p>
-<p>So where are we at in terahertz signal processing?
-(00:03:47)</p>
-<hr>
-<p>This is a article from 8 February, 2022.
-And waveguides play a pivotal role in the full deployment of terahertz communication systems.
-But we're pretty limited, right?
-Besides signal transporting, innovative terahertz waveguides are required to provide versatile signal processing functionality.
-So it sounds like you can do some signal transporting, but we still need innovative terahertz waveguides do any sort of versatile signal processing functionality.
-(00:04:17)</p>
-<p>We're still not there yet, basically.
-So back to the report previously, US Army Combat Capabilities Development Command, DEFCON, established a Cooperative Research and Development Agreement, so that's a CRADA, to the Stars Academy, to evaluate the feasibility of exploiting any potential disruptive technology associated with this widely discussed specimen.
-So we'll see, Lew Alzondo was basically one of the investigating officers in that CRADA, Cooperative Research and Development Agreement.
-(00:04:48)</p>
-<p>AERO, founded in 2022, is congressionally mandated to explore historical records of UAP incidents and publicly report its findings.
-Yes, congressionally mandated, not by the DOD, but it seems to be run by the DOD.
-Although the long chain of custody for the specimen cannot be verified, public and media interest in the specimen warranted transparent investigation that adhered to the scientific method.
-So public and media interest in the specimen.
-(00:05:15)</p>
-<p>Subsequent to the TTSA DEFCON CRADA, say that five times, AERO secured science and technology partner Oak Ridge National Laboratory, one of 17 US Department of Energy National Laboratory, to independently assess and perform thorough characterization studies on the specimen, leveraging Oak Ridge's 80-year history of world-leading material science expertise.
-Here is the actual specimen blown out.
-Oak Ridge, an expert in materials characterization, has the diverse staff expertise and co-located powerful instrumentation suites to allow rigorous scientific inquiry beyond the capabilities of most individual laboratories.
-(00:05:55)</p>
-<p>Therefore, it's a highly qualified institution to maintain scientific integrity in its unbiased analysis of this specimen and its property.
-That just hired Kirkpatrick, unbiased, just hired Kirkpatrick.
-AERO tasked Oak Ridge with assessing whether the specimen is of terrestrial origin and the bismuth in the specimen could act as a terahertz waveguide.
-So that's what they asked.
-And as John Greenwald said, when they actually tasked Oak Ridge, AERO was probably run by Sean Kirkpatrick.
-(00:06:30)</p>
-<p>DEVCOM, Ground Vehicle Systems Center, provided Oak Ridge access to the metallic specimen, a single parent example, and three previously derived subsamples, all from the same material, beginning in February 2023.
-So that's when Kirkpatrick was still there as well.
-Oak Ridge material science analysis evaluated the sample structure, chemical composition, and isotope ratios via multiple methods, including microscopy, spectroscopy, and spectrometry.
-Results align with previous DEVCOM analysis, indicating that the structure and composition of the bismuth layers do not meet the requirements necessary to serve as terahertz waveguide.
-(00:07:08)</p>
-<p>Furthermore, all data strongly support that the material is terrestrial in origin.
-So I think those are the facts.
-So basically their findings are that it is terrestrial in origin and it could not actually even work as a terahertz waveguide based on their analysis.
-(00:07:27)</p>
-<hr>
-<p>So methods, all analysis and materials utilization were authorized and overseen by to the STARS Academy.
-And all analysis were pre-approved by Aero and DEVCOM before Oak Ridge received the specimen.
-Okay.
-So morphology and microstructural characteristics were investigated using the following techniques, optical microscopy, so standard microscope analysis, computerized tomography, aka a CT scan, that's x-ray imaging procedure that produces a 3D image of the sample without damaging it.
-(00:07:59)</p>
-<p>A scanning electron microscope.
-So they used energy dispersive x-ray spectroscopy technique that produces 2D images at higher resolution to allow analysis of microstructure and elemental makeup, they use a scanning transmission electron microscope.
-So energy dispersive x-ray spectroscopy, they pass high energy electron beam through a thin foil of the sample, allowing analysis of the crystal structure, grain, feature morphology and defects, as well as an elemental makeup, all with nanometer to sub nanometer resolution.
-(00:08:34)</p>
-<p>Okay.
-They also did analysis of the bulk chemical, elemental and isotopic composition, so they looked at the isotopes using mass spectrometry techniques, and that's really to identify the elements, their abundance within a sample and their isotopic composition.
-So I'm guessing that's how they determined that it was terrestrial in nature.
-Traceable quality control standards and method blanks were run throughout all analysis to monitor ample integrity and instrument performance.
-(00:09:04)</p>
-<p>Okay.
-So the results, morphology and structure data are consistent across multiple imaging approaches, showing that the material consists of distinct layers that merge and diverge at various points throughout the material.
-Interfaces showed fractures and other features that Oak Ridge determined are consistent with the material that was originally whole, but was strained by heat exposure and mechanical forces, possibly for extended periods.
-Figure two shows images of the specimen constructed using CT.
-(00:09:34)</p>
-<p>So I think they're showing here, the bottom right, the edge with probable heat damage, looks like heat damage here, and the layer nature of the material is what they wanted to show.
-As far as the chemical composition analysis using scanning electron microscope, determined that magnesium and zinc are the primary elements present in the specimen, comprising approximately 97.5% and 2% of the material respectively.
-(00:10:02)</p>
-<p>So it's 97.5% magnesium and 2% zinc.
-Minor elements detected in table one were lead and bismuth with lesser trace amounts of iron and manganese.
-Inductively coupled plasma mass spectrometry, the most sensitive analysis technique performed additionally revealed the presence of small amounts of cadmium, thallium, gold, molybdenum, tin and barium.
-If a detected element abundance fell beneath the lower bound of the calibration curve or below the method detection limit, then the element was not displayed in table one.
-(00:10:43)</p>
-<p>So backscattered electron image, electron image and energy dispersive x-ray spectrometry, EDS maps from one sub sample.
-This is the carbon map indicates the embedded epoxy.
-The magnesium matrix is clearly visible, it says.
-So you can actually see the matrix of magnesium along with the cracks in the matrix.
-So actually seeing the cracks in the actual solid matrix, so how it's formed.
-(00:11:11)</p>
-<hr>
-<p>The zinc maps shows regions of higher and lower zinc content, so in the layers.
-And at the top of the lead and bismuth maps, co-located layers are visible.
-So crystalline structures now, how the solids actually made.
-So all solids have some sort of internal crystal structure, right?
-I was a material science major in university, so at the Air Force Academy.
-It's been obviously 24 years since I really studied material science, but that is my major.
-(00:11:44)</p>
-<p>So TEM electron microscope revealed that the crystalline structure of magnesium in the specimen was consistent with common magnesium alloy structures.
-So they say that the way the magnesium is broken out is normal for common magnesium alloy structures.
-Laser ablation revealed banding of zinc components along with layered co-location of lead and bismuth in the bands.
-The bismuth rich portions of the specimen lack to clear crystalline structure instead appearing to consist of highly nanocrystalline pockets in an otherwise amorphous matrix.
-(00:12:20)</p>
-<p>So pure single crystalline bismuth in a single thin layer has been postulated to have the ability to function as a waveguide, a material that can disrupt or direct an electric or energy field, in this case, terahertz waves.
-So that's the argument is that the bismuth in a super fine thin layer is able to act as a terahertz wave.
-This is the speculative argument.
-(00:12:46)</p>
-<p>So electromagnetic waves with micro scale wavelengths, very small.
-Although the damage to the specimen, including suspected heat stress, precludes a definitive statement describing the specimen's original structure, the amorphous and nanocrystalline appearance of the bismuth in the examined layers of the current specimens likely indicates that a pure crystalline layer of bismuth was never present within the material. So Oak Ridge analysis says the amorphous and nanocrystalline appearance of the material.
-(00:13:16)</p>
-<p>So Oak Ridge analysis says the amorphous and nanocrystalline appearance of the bismuth indicates that a pure crystalline layer, so that one perfect crystal layer of bismuth thin layer was never present in the material.
-They continue, moreover, the postulated structure of such a theoretical bismuth based waveguide requires it to be in a single layer between a material possessing a different dielectric constant.
-However, multiple bismuth layers throughout a material have not been postulated to be capable of achieving or improving this waveguide functionality.
-(00:13:46)</p>
-<p>In fact, multiple layers could instead interfere with such such functionality.
-Thus, the layered nature of the impure bismuth within the specimen likely precludes it from acting as a waveguide.
-So they say is not only is there no thin layers in a perfect crystalline structure that could act as waveguides, but it's layered.
-And they say layers of bismuth, they argue, would interfere with this sort of terahertz waveguide option.
-(00:14:12)</p>
-<p>And they finish here, finally, based on the postulated hypothetical uses of bismuth, the dielectric properties necessary for bismuth to function as a waveguide would have been disrupted in this material because the bismuth in the specimen is co-located and mixed with lead. Based on these findings, Oak Ridge determined that this material is highly unlikely to have ever functioned as a bismuth based terahertz waveguide.
-(00:14:36)</p>
-<p>OK, and this is from the side is basically saying that the layers of blue here in bismuth, right, there's multiple layers of bismuth, and so that would interfere with it being used as a terahertz waveguide.
-(00:14:49)</p>
-<hr>
-<p>It's their argument.
-Get a final section on isotope analysis.
-So multi-collector ICP analysis showed that the specimen's magnesium and lead isotope composition is consistent with other materials manufactured and used terrestrially.
-So this is the figure you see right here, show figure seven in a minute.
-Isotopes are varying forms of the same element with differing mass and their proportions affect the chemical properties and reveal information about the history of the material within which the isotopes are found.
-(00:15:24)</p>
-<p>All elements have isotopes and the ratio between the amounts of various isotopes is called the isotopic signature, which is akin to a fingerprint in chemical analysis.
-So that's why they look for isotopic ratios and some interesting isotopic ratio could be an indicator, a fingerprint of an extraterrestrial item.
-The magnesium isotopic signature of the specimen is fractionated, possibly owing to the mechanical and heat strain that the material appears to have undergone, but falls within normal terrestrial compositions and precisely within the expected trend lines of fractionation.
-(00:16:00)</p>
-<p>The reference here to figure six, expected trend line of fractionation.
-So that's what they say.
-It was broken and so it's falling right along the broken fractionation line.
-So they're explaining it because it was essentially fractured.
-That's why it's coming up with a weird isotopic ratio.
-Each star system has a magnesium isotopic composition that was inherited from its local star forming region.
-Figure six shows the magnesium isotopic signature of various materials originating within our solar system.
-(00:16:34)</p>
-<p>The straight lines in the bottom graphic representation are the kinetic and equilibrium mass fractionation trend lines, which define the types of isotopic shifts incurred on the basis of mass.
-Fractionation occurs due to chemical reactions and physical processes, e.g.
-manufacturing and mining, and is normal during the lifespan of natural and manufactured materials and their components.
-The materials in figure six, including the specimen, fall on or near the fractionation trend lines, strongly indicating that their starting compositions were once the same and have been systematically changed as a result of mass fractionation.
-(00:17:16)</p>
-<p>If a material originated outside our solar system, its magnesium isotopic signature could plot nearly anywhere in the top graphic representation of figure six.
-Instead, the specimen's data plots precisely within the expected fractionization trend lines for known compositions specific to our solar system.
-So that's the argument. You can see Earth here as well as other materials.
-And interesting to me is meteorites is right here with Earth.
-(00:17:46)</p>
-<p>So it must be coming from our solar system.
-That's why meteorites would be in the same place as Earth.
-You know, Oumuamua, as far as we understand, and I guess there's some controversy, Oumuamua was the first extrasolar object.
-And that's why Avi Loeb was looking for IM2.
-So another meteor crashed into Earth, he said, could be extrasolar based on its speed direction, where it's coming from.
-(00:18:13)</p>
-<p>So its isotope should plot somewhere else.
-So not on this line.
-They're saying isotopic ratio of magnesium, so the magnesium isotope alliance.
-(00:18:25)</p>
-<hr>
-<p>What about other isotopes?
-Would that make a difference?
-And then this fractionization of sample A.
-So they put sample A, it says it falls right on the line of fractionation.
-So it is interesting.
-Less complexly, they continue.
-The lead isotopic signature of the specimen is fully consistent with common lead.
-Compositions that exist naturally on Earth and within terrestrial material.
-So this is the figure you're looking at now.
-(00:18:53)</p>
-<p>Distinctly separate from even lunar materials, indicating it is extremely likely that the material originated on Earth.
-So they say that the lead isotope ratio was even more conclusive and basically aligns more with terrestrial Earth-based isotopic ratios than even the moon.
-I think you're seeing here, right?
-So isotopic ratio 207 to 206, and this is 204 to 206.
-So the x-axis is lead 204 related to lead 206, and the vertical axis is lead 207 related to lead 206.
-(00:19:28)</p>
-<p>And what's interesting here is the lunar glasses are way over here on the left.
-So they have basically zero isotopes of 204 related to 206.
-So basically zero of 204.
-They do have, and they have less than Earth-based materials of 207 related to 206.
-So they're not aligned with the chart and they say sample that they're looking at is aligned right here.
-So in line with right in the middle of terrestrial objects.
-(00:20:02)</p>
-<p>That's what they say based on the lead isotopic ratio.
-It aligns with terrestrial material.
-Okay, short conclusion here.
-Aero secured Oak Ridge National Laboratory to independently assess the requirements necessary to confirm or contest public claims that this historical specimen is of non-terrestrial origin and that it is capable of functioning as a bismuth-based terahertz waveguide.
-Although the origin, chain of custody, and ultimate purpose of the specimen remain unclear, a modern and robust analysis of its chemical and structural composition and properties does not indicate that its origin is non-terrestrial, nor do the data indicate that the material examined ever had the pure singling crystalline bismuth layer that could possibly have acted as a terahertz waveguide.
-(00:20:48)</p>
-<p>The intended or actual past use of the material remains undetermined, but Oak Ridge has a high level of confidence that all data indicate the material was manufactured terrestrially, albeit using an uncommon mixture of elements by today's standards, and that incurred damage caused by mechanical and heat stressors.
-Okay, so interesting conclusion there.
-What I found important is they say, albeit using an uncommon mixture of elements by today's standards.
-(00:21:18)</p>
-<p>So it sounds like they still don't know where it came from or how the material was manufactured if it's an uncommon mixture of elements by today's standards.
-So they didn't analyze that, right?
-They analyzed, could it actually be used as a terahertz waveguide through that bismuth crystalline structure, right, which they found that could not be the case.
-And they determined it was made through terrestrial materials, so made basically on earth.
-(00:21:46)</p>
-<p>But seems kind of specific, kind of narrow in their view, right?
-(00:21:49)</p>
-<hr>
-<p>Could it have been used for anything else?
-What was it used for?
-What was it made?
-So they couldn't identify it.
-So that's interesting.
-They couldn't identify it, but they did say that the isotopic ratios seem normal for terrestrial elements, and they don't think it could be used as a terahertz waveguide.
-So according to Oak Ridge, which again, Sean Karpaczek went to work for after he left Arrow, they don't think it is a UAP material, and certainly they don't believe it could be used for terahertz waveguide.
-(00:22:21)</p>
-<p>But as John Greenwald said, it'd be very interesting to hear responses from Lew Alzonda.
-Will it be in his book?
-Anything about this?
-What about to the Stars Academy?
-Tom DeLonge, Hal Puthoff, all those guys.
-So curious to hear, can we get a final answer?
-Do they refute this analysis or do they support it?
-And either way, we'll know.
-Thank you for watching.
-(00:22:45)</p>
-<p>Please hit the like button.
-It really helps, and it's free.
-Consider subscribing to get future notifications of when I release videos.
-And you might like this video.
-If you want to support the channel, join these great people over here, get exclusive bonus content, then click this button here, patreon.com forward slash Chris Slato, or become a YouTube member.
-If you want to continue the discussion, go to UAP Society Discord.
-(00:23:13)</p>
-<p>Links are all in the description.
-Have a great rest of your day.
-Peace.
-(00:23:18)</p>
-<p>(2024-07-21)</p>]]></content>
     </entry>
 </feed>
