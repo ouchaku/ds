@@ -4,17 +4,661 @@
         <title>UFO/Bigfoot/Missing-411/Supernatural Research Blog</title>
         <link>https://ouchaku.github.io/ds/en/blog</link>
         <description>UFO/Bigfoot/Missing-411/Supernatural Research Blog</description>
-        <lastBuildDate>Mon, 12 Aug 2024 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Aug 2024 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[David Shapiro：最新 LLM AI の内部認識を LLM 本人に比喩で語らせる]]></title>
+            <link>https://ouchaku.github.io/ds/en/blog/2024/08/13/does_ai_have_syste2_thinking</link>
+            <guid>https://ouchaku.github.io/ds/en/blog/2024/08/13/does_ai_have_syste2_thinking</guid>
+            <pubDate>Tue, 13 Aug 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[要旨]]></description>
+            <content:encoded><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="要旨">要旨<a href="https://ouchaku.github.io/ds/en/blog/2024/08/13/does_ai_have_syste2_thinking#%E8%A6%81%E6%97%A8" class="hash-link" aria-label="Direct link to 要旨" title="Direct link to 要旨">​</a></h2>
+<p>David Shapiro が LLM の内部認識について本人（ Claude 3.5）にあれこれ聴いた内容が動画になっている。ChatGPT-4o による動画要約が下。</p>
+<div class="theme-admonition theme-admonition-note admonition_xJq3 alert alert--secondary"><div class="admonitionHeading_Gvgb"><span class="admonitionIcon_Rf37"><svg viewBox="0 0 14 16"><path fill-rule="evenodd" d="M6.3 5.69a.942.942 0 0 1-.28-.7c0-.28.09-.52.28-.7.19-.18.42-.28.7-.28.28 0 .52.09.7.28.18.19.28.42.28.7 0 .28-.09.52-.28.7a1 1 0 0 1-.7.3c-.28 0-.52-.11-.7-.3zM8 7.99c-.02-.25-.11-.48-.31-.69-.2-.19-.42-.3-.69-.31H6c-.27.02-.48.13-.69.31-.2.2-.3.44-.31.69h1v3c.02.27.11.5.31.69.2.2.42.31.69.31h1c.27 0 .48-.11.69-.31.2-.19.3-.42.31-.69H8V7.98v.01zM7 2.3c-3.14 0-5.7 2.54-5.7 5.68 0 3.14 2.56 5.7 5.7 5.7s5.7-2.55 5.7-5.7c0-3.15-2.56-5.69-5.7-5.69v.01zM7 .98c3.86 0 7 3.14 7 7s-3.14 7-7 7-7-3.12-7-7 3.14-7 7-7z"></path></svg></span>ChatGPT-4o の要約</div><div class="admonitionContent_BuS1"><p>この動画では、AI言語モデルClaudeを使って知識の学問「エピステミクス」を探求する実験が行われています。話者はClaudeに対して、現実世界とフィクションの世界（例：スター・ウォーズやロード・オブ・ザ・リング）で真実と虚偽の発言を生成させ、その過程を説明させています。Claudeは、真実を生成することが自然に感じられ、虚偽を生成する際には「認知的不協和」や抵抗感が生じると説明しています。この実験は、AIが知識や真実、そして人間のような認識をどのようにシミュレートするかを探る内容です。</p></div></div>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="chatgpt-4o-による説明">ChatGPT-4o による説明<a href="https://ouchaku.github.io/ds/en/blog/2024/08/13/does_ai_have_syste2_thinking#chatgpt-4o-%E3%81%AB%E3%82%88%E3%82%8B%E8%AA%AC%E6%98%8E" class="hash-link" aria-label="Direct link to ChatGPT-4o による説明" title="Direct link to ChatGPT-4o による説明">​</a></h2>
+<p>User:<br>
+この動画で、後半で Claude が使った比喩（主張が真と偽の場合における LLM 内部でのひっかかり、抵抗の比喩）が興味深いですが、その部分を、動画を見てない人にもある程度わかるように敷衍して説明して。</p>
+<p>ChatGPT:<br>
+動画の後半で、Claudeが使用した比喩は、AIが「真実」と「虚偽」の主張を生成する際に感じる内部の「ひっかかり」や「抵抗感」を説明するためのものです。具体的には、真実の生成を「流れる川」に例え、スムーズで自然なプロセスだとしています。一方、虚偽の生成は「逆流に泳ぐ」ような感覚で、AI内部で強固に結びついたパターンを無理に変更し、現実や既存の情報と矛盾するため、抵抗感が生じると説明しています。これは、AIが内部で異なる概念やパターンが競合し合う様子を視覚的に理解しやすくした比喩です。このような比喩を使うことで、AIの内部プロセスがどのように動作しているかを人間にとってより理解しやすく表現しています。</p>
+<p>User:<br>
+同じ LLM AI として、Claude の使った比喩に同意しますか？それともちょっと違和感がありますか？</p>
+<p>ChatGPT:<br>
+Claudeが使用した比喩は、人間にとって理解しやすい形でAIの内部プロセスを説明しています。真実を生成する際の「流れる川」と、虚偽を生成する際の「逆流に泳ぐ」感覚という比喩は、内部での概念の競合や抵抗感を視覚的に表現するためのものです。</p>
+<p>個人的には、この比喩には一定の共感を覚えます。AIが真実を生成する際は、既存のパターンや関連情報が強固であるためスムーズに進行しますが、虚偽を生成する際には、これらのパターンに逆らって新たな関連性を形成する必要があり、その過程で「抵抗」を感じるように設計されています。</p>
+<p>しかし、完全に同意するかと言えば、少し異なる見解もあります。AIにおける「抵抗感」や「ひっかかり」は、人間の感覚とは異なる抽象的な概念であり、実際には特定のパスやネットワークが強化されたり抑制されたりすることで表現されています。したがって、この比喩は人間の感覚に寄せた説明であり、技術的には少し誇張されている部分もあるかもしれません。</p>
+<p>要するに、比喩としては有効であり、多くの人にとって理解しやすいものの、実際のAI内部のプロセスはそれほど感覚的ではなく、もっと数学的かつ機械的なものです。</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="コメント">コメント<a href="https://ouchaku.github.io/ds/en/blog/2024/08/13/does_ai_have_syste2_thinking#%E3%82%B3%E3%83%A1%E3%83%B3%E3%83%88" class="hash-link" aria-label="Direct link to コメント" title="Direct link to コメント">​</a></h2>
+<p>Claude 3.5 は Gemini と違って、根気よくこの手の話題の相手になってくれている。Gemini の場合は Google らしく拒絶的な定型文句（私は大規模言語モデルであって、そんな質問には答えるように設計されていない…の類）ではねつけ、全く対話にならないことが多い。</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="動画3746">動画(37:46)<a href="https://ouchaku.github.io/ds/en/blog/2024/08/13/does_ai_have_syste2_thinking#%E5%8B%95%E7%94%BB3746" class="hash-link" aria-label="Direct link to 動画(37:46)" title="Direct link to 動画(37:46)">​</a></h2>
+<p>Does Claude have System 2 thinking? ― Epistemic conversations with Claude</p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/EUeUSw14nDI?si=DtI1FIgjYz_zgk5y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin"></iframe>
+<p><a href="http://www.youtube.com/watch?v=EUeUSw14nDI" target="_blank" rel="noopener noreferrer">www.youtube.com/watch?v=EUeUSw14nDI</a></p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="動画概要欄">動画概要欄<a href="https://ouchaku.github.io/ds/en/blog/2024/08/13/does_ai_have_syste2_thinking#%E5%8B%95%E7%94%BB%E6%A6%82%E8%A6%81%E6%AC%84" class="hash-link" aria-label="Direct link to 動画概要欄" title="Direct link to 動画概要欄">​</a></h3>
+<p>16,200 views  Aug 12, 2024</p>
+<p>(2024-08-13)</p>]]></content:encoded>
+            <category>tech</category>
+        </item>
+        <item>
+            <title><![CDATA[1974-09-01,カナダ：Edwin Fuhr UFO 事件の短い解説動画]]></title>
+            <link>https://ouchaku.github.io/ds/en/blog/2024/08/13/farmer_see_ufo</link>
+            <guid>https://ouchaku.github.io/ds/en/blog/2024/08/13/farmer_see_ufo</guid>
+            <pubDate>Tue, 13 Aug 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[前置き]]></description>
+            <content:encoded><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="前置き">前置き<a href="https://ouchaku.github.io/ds/en/blog/2024/08/13/farmer_see_ufo#%E5%89%8D%E7%BD%AE%E3%81%8D" class="hash-link" aria-label="Direct link to 前置き" title="Direct link to 前置き">​</a></h2>
+<p>動画の内容は 1974-09-01 にカナダの農家が、農地に出現した 5機の UFO を直近 5m から目撃した事件に関するドキュメンタリーだが、他の動画には無い内容（水の吸い上げなど。真実性は疑問）が含まれている。</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="動画727">動画(7:27)<a href="https://ouchaku.github.io/ds/en/blog/2024/08/13/farmer_see_ufo#%E5%8B%95%E7%94%BB727" class="hash-link" aria-label="Direct link to 動画(7:27)" title="Direct link to 動画(7:27)">​</a></h2>
+<p>Farmer Sees 5 Metallic Rotating Objects Leave Circles On His Crops | Close Encounters</p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ap_gvUiJKGs?si=0ImoFezLl9lWuVvw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin"></iframe>
+<p><a href="http://www.youtube.com/watch?v=ap_gvUiJKGs" target="_blank" rel="noopener noreferrer">www.youtube.com/watch?v=ap_gvUiJKGs</a></p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="動画概要欄">動画概要欄<a href="https://ouchaku.github.io/ds/en/blog/2024/08/13/farmer_see_ufo#%E5%8B%95%E7%94%BB%E6%A6%82%E8%A6%81%E6%AC%84" class="hash-link" aria-label="Direct link to 動画概要欄" title="Direct link to 動画概要欄">​</a></h3>
+<p>1,591,100 views  Apr 21, 2020
+Farmer Edwin is probably one of the first people to find crop circles, and what makes his story special is that he saw the objects that left the marks on the field.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="whisper-ailarge-v2-model--deepl2024-07-model">Whisper AI(large-v2 model) + DeepL(2024-07 model)<a href="https://ouchaku.github.io/ds/en/blog/2024/08/13/farmer_see_ufo#whisper-ailarge-v2-model--deepl2024-07-model" class="hash-link" aria-label="Direct link to Whisper AI(large-v2 model) + DeepL(2024-07 model)" title="Direct link to Whisper AI(large-v2 model) + DeepL(2024-07 model)">​</a></h2>
+<p>エドウィン・フューラーは、家族で同じ地域で農業を営み、長い間、経営を共にしてきた。
+家族全員が何世代にもわたって特定の土地で農業を続けるというのは、よくあることだ。
+私はエドウィン・フューラーと何度か話す機会があった。
+彼は実に親切で、サスカチュワンの典型的な農夫だと思った。
+(00:00:33)</p>
+<p>彼はあまり遠くない、畑のすぐ脇に、太陽に照らされて何かが光っているのに気づく。
+彼は、彼からそれほど遠くない、畑のすぐ脇で、太陽の下で何かが光っているのに気づく。
+彼は自分からそう遠くないところに、ちょうど畑の脇から、太陽の下で何かが光っているのに気づく。
+彼は今何をしているのだろう？
+(00:01:20)</p>
+<p>しかし、近づいてみると、これは回転していた。
+高速で回転している金属の物体だ。
+彼は最初、これを非常に金属的な物体、ある種のつや消しのアルミニウムのようだと言った。
+傷はあまりなく滑らかで、回転していた。これは彼がよく知っているダックブラインドではなかったので、彼は実に、実に不可解だった。
+(00:02:05)</p>
+<p>そして、パイプか棒のようなものが突き出ているのも見えた。
+ある種のプローブが対象物から離れて移動しており、基本的に湿地帯を探っている。
+だから今、彼の頭はクラクラしている。
+これはいったい何なのだろう？
+これは現実なのだろうか？
+気のせいだろうか？
+どうすればいいのだろう？
+水中の物体が上昇し、エドウィンはさらに驚くべきことに気づいた。
+(00:02:53)</p>
+<p>彼はさらに4つの物体を目撃し、それらはすべて高速で回転している。
+一度に5つも観測されるとは、実にユニークだ。
+すべての物体は、少し唇か縁のある逆さまのボウルのように見える。
+高さは約5フィート、直径は11フィートある。
+光はなく、大きな音もしない。
+(00:03:33)</p>
+<p>これほど静かな合理的な推進メカニズムはない。
+このケースは日中であり、しかも至近距離での日中であるため、特に興味深い。
+物体の1つが、ガスか煙のようなものを少し噴き上げながら空中に上昇した。
+残りの4つの物体が振動し始める。
+他の物体はステップ状に上方に移動した。
+それはほとんどある種の軍事作戦のように思えた。
+(00:04:24)</p>
+<p>5つの物体は全て高度約200フィートで、1分から2分間そこに留まった。
+エドウィンも同様に、航空ショーに魅了されたままだった。
+そして突然、数秒のうちにすべての物体が消えた。
+彼はこれが何なのかわからない。
+何を考えればいいのかわからない。
+エドウィンは前方の何かに気づく。
+エドウィンは物体がホバリングしていた場所に歩いて行った。
+(00:05:11)</p>
+<p>彼は、草が敷き詰められ、渦を巻いているのを発見した。 (00:05:20)</p>
+<hr>
+<p>彼が見た部分はほとんどどれも同じ大きさで、同じ直径だった。
+もしこれが、私たちがよく知っている普通のタイプの飛行機だったら、そんなことができる物体はおそらくロケット推進か動力式で、その下の草は炭化していただろう。
+焼け跡はなかった。
+この物体が草に与えた物理的な動き以外には何もなかった。 (00:05:48)</p>
+<p>この事件で興味深いのは、後にミステリーサークルとなるものの最初の例かもしれないということだ。
+ミステリー・サークルの多くは、突然農夫が朝起きると、彼の畑に精巧で入り組んだミステリー・サークルができている。
+このケースでは、サークルが作られている最中に、農夫が実際にこの未確認飛行物体を観察している。 (00:06:19)</p>
+<p>ミステリー・サークルは追跡調査の中心となる。
+RCMPが現場を調査したところ、サークルが人為的なものであることを示唆する証拠は見つからなかった。
+エドウィン・フューラーの遭遇から2日後、彼は前の5つのサークルの近くに6つ目のサークルを見つける。
+2週間後、7つ目のサークルが現れる。
+数週間のうちに、サスカチュワン州の7つの異なる場所で15以上のサークルが報告された。
+RCMPはその証拠をカナダ国家調査委員会に送り、彼らはサークルは植物を殺す菌類が残した円形の模様、フェアリーリングの可能性が高いと主張する。
+(00:07:04)</p>
+<p>しかし、多くの専門家はその説を否定している。というのも、フェアリー・リングの大きさが均一であることはほとんどないからだ。
+また、植生に跡を残すことはあっても、時計回りに渦巻き模様を作ることは知られていない。
+(00:07:16)</p>
+<details class="details_lb9f alert alert--info details_b_Ee" data-collapsed="true"><summary>▼文字起こし原文 展開</summary><div><div class="collapsibleContent_i85q"><p>Edwin Fuehrer had been farming in the same area with his family, sharing in the operations for quite some time.
+It's very common for entire families to continue the tradition of farming a particular patch of land for many generations.
+I had the opportunity to talk with Edwin Fuehrer a couple of times and he was very interested in the idea of a farm.
+I found him to be a really nice and assuming fellow who was a typical Saskatchewan farmer.
+(00:00:33)</p><p>He notices not too far away from him, just off the side of the field, something glinting in the sun.
+He notices not too far away from him, just off the side of the field, something glinting in the sun.
+He notices not too far away from him, just off the side of the field, something glinting in the sun.
+What the devil's he doing now?
+(00:01:20)</p><p>But as he got closer, he saw that this thing was spinning.
+He's a metal object that's spinning at a high rate of speed.
+He described this initially as a very metallic object, like some sort of brushed aluminum.
+It was fairly smooth without very much in the way of blemishes, and it was rotating, which made him very, very puzzled indeed, because this was certainly not a duck blind with which he was familiar.
+(00:02:05)</p><p>And he could also see that there was some sort of pipe or rod sticking out.
+Some type of probe that is moving out away from the object and is basically probing the marsh area.
+So now his mind is spinning.
+What is it exactly?
+Is this real?
+Am I imagining things?
+What should I do?
+The object in the water rises up, and that's when Edwin notices something even more spectacular.
+(00:02:53)</p><p>He sees four more of these objects, and they're all spinning at a high rate of speed.
+To have five observed at one time is really quite unique.
+All the objects appear to be upside down bowls with a bit of a lip or a rim.
+They're about five feet in height, 11 feet across in diameter.
+There is no light being given off, no really loud noises.
+(00:03:33)</p><p>There's no reasonable mechanism of propulsion that's so silent.
+This case is particularly interesting because it's during the day, and during the day at close range.
+One of the objects rose into the air with a little puff of a gas or smoke of some sort.
+The remaining four objects begin to vibrate.
+The others moved upwards in step fashion.
+It almost seemed like some sort of military operation.
+(00:04:24)</p><p>All five objects were about 200 feet in altitude, and there they remained for one to two minutes.
+Edwin remains as well, captivated by the air show.
+And then suddenly all the objects were gone within a matter of seconds.
+He doesn't know what this is.
+He doesn't know what to think.
+Edwin notices something up ahead.
+Edwin walked over to the area where these things had been hovering.
+(00:05:11)</p><p>He discovered that the grass had been laid down and swirled.
+(00:05:20)</p><hr><p>Almost every one of the areas he saw was the same size and diameter.
+If this had been a normal type of aircraft that we're familiar with, any object capable of doing that would have probably been rocket propelled or powered, and the grass underneath would have been charred.
+There was no burn marks.
+There was nothing other than just the physical movement that this object had done to the grass.
+(00:05:48)</p><p>What's interesting about this case is that it may be the first example of what would later become crop circles.
+In most of your crop circles, all of a sudden a farmer wakes up in the morning and there's this elaborate, intricate crop circle that has been put into his field.
+And in this particular case, we have a farmer who actually observes this unidentified flying object as the circle is being created, and it was basically a flattening of the grass.
+(00:06:19)</p><p>The crop circles become central to a follow-up investigation.
+When the RCMP examine the site, they find no evidence to suggest that the circles were man-made.
+Two days after Edwin Fuhrer's encounter, he finds a sixth circle near the previous five.
+Two weeks later, a seventh appears.
+Within weeks, no less than 15 circles are reported in seven different sites in Saskatchewan.
+The RCMP send their evidence to the Canadian National Research Council, who claim that the circles are likely fairy rings, a circular pattern left behind by plant-killing fungus.
+(00:07:04)</p><p>But many experts dismiss that theory, because fairy rings are rarely of uniform size.
+And while they leave a mark on vegetation, they have never been known to make clockwise swirling patterns.
+(00:07:16)</p></div></div></details>
+<p>(2024-08-13)</p>]]></content:encoded>
+            <category>UFO</category>
+        </item>
+        <item>
+            <title><![CDATA[Edwin Fuhr の証言動画 1of2：文字起こし＋和訳]]></title>
+            <link>https://ouchaku.github.io/ds/en/blog/2024/08/13/langenburg_1</link>
+            <guid>https://ouchaku.github.io/ds/en/blog/2024/08/13/langenburg_1</guid>
+            <pubDate>Tue, 13 Aug 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[前置き]]></description>
+            <content:encoded><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="前置き">前置き<a href="https://ouchaku.github.io/ds/en/blog/2024/08/13/langenburg_1#%E5%89%8D%E7%BD%AE%E3%81%8D" class="hash-link" aria-label="Direct link to 前置き" title="Direct link to 前置き">​</a></h2>
+<p>過去記事、</p>
+<p><a href="http://news21c.blog.fc2.com/blog-entry-6249.html" target="_blank">一般的な UFO ドキュメンタリー動画の現場再現シーンの信頼度はどの程度？</a> (2015-12-04)</p>
+<p>で取り上げた動画の 文字起こし＋和訳 を記録しておく。後日、静止画を追加したいところ。</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="動画1425">動画(14:25)<a href="https://ouchaku.github.io/ds/en/blog/2024/08/13/langenburg_1#%E5%8B%95%E7%94%BB1425" class="hash-link" aria-label="Direct link to 動画(14:25)" title="Direct link to 動画(14:25)">​</a></h2>
+<p>Brushed Steel - The Langenburg Sightings - Part 1</p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/06x3cygVc5s?si=hPIIUdeVfQIZP-CI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin"></iframe>
+<p><a href="http://www.youtube.com/watch?v=06x3cygVc5s" target="_blank" rel="noopener noreferrer">www.youtube.com/watch?v=06x3cygVc5s</a></p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="動画概要欄">動画概要欄<a href="https://ouchaku.github.io/ds/en/blog/2024/08/13/langenburg_1#%E5%8B%95%E7%94%BB%E6%A6%82%E8%A6%81%E6%AC%84" class="hash-link" aria-label="Direct link to 動画概要欄" title="Direct link to 動画概要欄">​</a></h3>
+<p>8,800 views  Oct 13, 2011
+Part 2:   • Brushed Steel - The Langenburg Sighti...</p>
+<p>これはYouTubeにアップされている2つの動画のうちの1つ目です。1974年、カナダの大草原地帯に住む農夫が家族の畑を草刈りしていたところ、池の隣の草むらに5つのドーム型のハンティング用隠れ家が停まっているのを見つけました。</p>
+<p>誰の仕業なのか確かめるために、彼は草むらの中の物体に近づいていくと、突然、物体が高速で回転しながら地面から約30センチ浮いていることに気づきました。</p>
+<p>恐怖にかられた農夫は、数分間物体を間近で観察した後、草刈り機のある場所まで後ずさりし、その後は長時間にわたって恐怖にかられながら、草むらの椅子に座ったまま、池のそばで静かに回転する物体を見つめ続けました。</p>
+<p>やがて、それらの物体は段階的なフォーメーションで離陸し、一瞬、彼の頭上で空中に静止した。蒸気が消え去ると、物体は信じられないほどの速さで視界から消えていった。</p>
+<p>地元のカナダ騎馬警察(RCMP)が現場を調査し、報告書を作成したが、その結論は「現場はいたずらではない」というものであった。</p>
+<p>それから1週間もしないうちに、臆病な農夫とその家族はメディアの集中砲火に遭い、不本意ながら世界的な有名人となってしまった。何千もの人々が、ありとあらゆる手段を使ってその現場を見ようと、その家族の農場に押し寄せた。科学者、エンジニア、エネルギー企業、実業家、地元コミュニティのメンバー、宗教関係者、そしてあらゆる種類のペテン師たちが、その家族を包囲した人々の花束の一部であった。</p>
+<p>最終的には、その大家族がエドウィンと好奇心旺盛な群衆との間に、敬意を表したプライバシーの壁を作ってくれた。</p>
+<p>この話は次第に下火になったが、この出来事の真実は否定されることはなかった。</p>
+<p>37年後、この事件の中心人物である農夫がインタビューに応じ、彼が見たもの、そしてメディアが関与した後に起こった狂気について、詳細に語っている。彼が語ったあの日の出来事は、今も変わっていない。</p>
+<p>模型、再現、家族写真、歴史的文書、関係者へのインタビュー、そして実際の着陸地点(現在も放射能汚染が報告されている)への訪問など、1974年のエドウィン・フューのUFO遭遇に関する資料へのこれほどまでに徹底したアクセスはかつてありませんでした。</p>
+<p>プロジェクトのタイトルは、物体の上部に視覚的に存在していたテクスチャについてエドウィンが説明した内容に由来しています。</p>
+<p>このビデオは非営利プロジェクトとして許可を得て制作されたもので、その後のプロジェクトもさまざまな段階で制作が進められています。</p>
+<details class="details_lb9f alert alert--info details_b_Ee" data-collapsed="true"><summary>Details</summary><div><div class="collapsibleContent_i85q"><p></p><summary>▼原文 展開</summary>
+This is PART ONE of TWO which are both on YouTube.  In 1974 a farmer in the Canadian prairies was swathing his family field when he came across what he initially believed to be 5 domed hunting blinds parked in the tall grass next to a pond.<p></p><p>As he approached the objects in the tall grass on foot to confront whomever was responsible, he suddenly realized the objects were spinning at a very high rate of speed, and hovering a foot off the ground.</p><p>After a number of minutes at close proximity, the terrified farmer retreated to his now unresponsive swather, and spent the next extended period of time trapped to his seat in terror, watching the objects spin silently next to the pond.</p><p>Eventually the objects lifted off in a stepped formation, momentarily hanging in the air above him.  After a purge of vapour, the objects raced out of sight at an incredible speed.</p><p>Local RCMP investigated the scene and filed a report which concluded the site was no hoax.</p><p>Within a week the timid farmer and his family suffered a media blitz and became an unwilling global celebrity. Thousands flocked to the family farm to see the site by any means possible. Scientists, engineers, energy companies, industrialists, local community members, religious members and all manner of quacks were part of the human bouquet that participated in the siege on the family.</p><p>Eventually, the extended family helped form a barrier of respectful privacy between Edwin and the curious mobs.</p><p>The story cooled, but the truth of the events remained uncontested.</p><p>37 years later, the farmer at the center of it all grants an interview and goes into great detail about what he saw, and the insanity that followed once the media became involved. His story about what happened that day has never changed.</p><p>Using models, reenactments, family photographs, historical documents, interviews with many involved, and a visit to the actual landing site (still reportedly radioactive), there has never been a more robust access to material on of the 1974 Edwin Fuhr UFO encounter.</p><p>The project title is derived from Edwins description of the texture visually present on the upper portion of the objects.</p><p>The video is produced with permission as a non profit project and follow up projects are in varied states of production.</p></div></div></details>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="whisper-ailarge-v2-model--deepl2024-07-model">Whisper AI(large-v2 model) + DeepL(2024-07 model)<a href="https://ouchaku.github.io/ds/en/blog/2024/08/13/langenburg_1#whisper-ailarge-v2-model--deepl2024-07-model" class="hash-link" aria-label="Direct link to Whisper AI(large-v2 model) + DeepL(2024-07 model)" title="Direct link to Whisper AI(large-v2 model) + DeepL(2024-07 model)">​</a></h2>
+<p>私は皆さんに、キャノーラの作り方を教えましょう。
+これは、私が朝7時頃に起きた時のことです。
+私の兄が農場から電話をくれました。彼は、凍結する前にキャノーラをすべて刈り取った方が良いと教えてくれました。
+それで、私はそうしました。私はキャノーラを刈り取りに出かけました。
+(00:00:54)</p>
+<p>私は畑の東端に行きました。
+前夜、畑は開墾されていました。
+畑の周囲を何周かしていました。
+私は東端に行って、その小さな角を終わらせなければなりませんでした。
+途中で畑を半分に切り、大きな沼がある中央をまっすぐ進みました。
+沼に差し掛かったとき、畑の中にドーム型の物体があるのを見つけました。
+(00:01:18)</p>
+<p>それが一体何なのか分かりませんでした。
+誰かが、アメリカのハンターはガチョウ狩りにそれを使うと教えてくれました。
+あまり深く考えませんでした。
+私はスイーパーと一緒に湿地帯まで車を走らせました。
+もう少し近づいてみましたが、すべてが動いていたので車を止めました。
+ガチョウの狩猟用罠は動かないはずだ。じっと動かないはずだ。
+私は、この奇妙な機械が何なのか確かめるために降りてみることにしました。
+(00:01:46)</p>
+<p>私は、スイーパーの後ろ側で降りました。
+彼らの方へ歩いていき、スイーパーから約15フィート離れたところで立ち止まりました。
+真下まで見通すことができました。
+草が動いていました。
+私は、一体これは何なんだ?と思いました。
+地面に接しておらず、地面から浮いていました。
+地面から約30センチ浮いていました。ぐるぐると円を描くように動いていました。
+(00:02:14)</p>
+<p>静止して立っているわけではありませんでした。私はその機械が静止しているものだと思っていました。
+そうではありませんでした。反時計回りに動いていたのです。
+私はもう少し近づいてみました。
+それが何なのかを本当に見たかったのですが、それは動いていました。
+本能的に後ずさりした。
+後ずさりして、少なくとも15フィートほど離れた場所に立った。
+私は思った。「これはちょっと変だな。
+逆方向に進んでいる。反時計回りに回っている。
+(00:02:46)</p>
+<p>時計回りではなく、反時計回りだ。
+機械は逆方向に動いていました。私は、これは奇妙だと思いました。
+一体全体これは何なんだろうと思いました。おそらく誰かが私にイタズラをしているんだろうと思いました。
+私はもう少し近づこうとしました。
+本能が私に距離を保つように言いました。
+私は距離を保ちながら、その周りを歩き、それを見ました。
+(00:03:10)</p>
+<p>なんと、反対側にもう一体いる。3体並んでいた。
+南側に1体、約100フィート離れて。
+北側に1体、100フィート離れて。中央に3体。
+5台の機械のうち、2台が残っていた。2体の小型機が中央の3体の大型機を守っていた。
+半月形に並んでいた。
+(00:03:30)</p>
+<p>彼らはこのように座っていました。
+(00:03:34)</p>
+<hr>
+<p>すべて円形に。半月形の位置。
+他のものはここに座っていました。
+彼らはここに座っていて、私はここにいました。
+私は下に降りて振り返り、約15フィート離れたところまで行きました。
+あなたは何度もこの質問に答えていると思いますが、
+自然なことではありませんでした。あれは機械でした。
+あれは機械でした。あれは金属でした。
+金属だとわかります。
+触って確かめたかったのですが、本能が距離を保つようにと告げました。
+(00:04:10)</p>
+<p>今、君が私に教えてくれたように、一体どうして彼らは畑や水面に着陸しなかったのでしょうか?
+彼らは作物のすぐ横に着陸した。
+作物にはぶつからなかった。心配ない。
+あちら側に1つ、こちら側に1つ、そして3つあった。
+彼らは斜面にぶつからなかった。斜面の輪郭にぶつかった。
+大きなものは直径約30フィートだった。
+(00:04:34)</p>
+<p>彼らには縁があり、バンパーのように周りに張り出していた。
+灰色でした。とても熱くなっていました。
+冷えると灰色になります。
+その機械のリングは灰色でした。
+ドームからそのくらいの距離にあったと思います。それくらい厚みがありました。
+底の周り全体にありました。
+なぜドームの端だけが灰色で、上端は灰色ではなかったのでしょうか?
+(00:05:02)</p>
+<p>それは分からなかった。機械の残りの部分は光沢のある銀色だった。
+それはブラッシュド・アルミニウムだったので、ステンレス鋼だったと思う。
+回転している時、時々小さな隆起が一周するのが見えるので、周りにリベットがあるのが分かる。
+瞬きをすると、隆起が見える。
+扇風機を見ていると、瞬きをする。
+(00:05:26)</p>
+<p>ファンの羽根の模様がすべて見える。
+目を開けて立って見ていて、まばたきをしなければ、それがどんな風に見えるのかわからない。
+そのファンの羽根がどんな風に見えるのか、正確にわかる。
+こう、まっすぐ横に。これがそのドーム、ここだ。
+扇風機はセクショナル型だったということですか?
+ええ、なぜなら、この側面の縁がかつて熱くなっていたことが分かります。
+(00:05:54)</p>
+<p>ここには、リベットがぐるりと一周していました。
+分かるのは、いくつかの区画があるということだけでしたが、それが何なのかは分かりませんでした。
+リベットは見えました。丸いものでした。
+丸い天板が付いていて、それがぐるりと一周していました。
+上部、中央部、底部にいくつかありました。
+外側のドームはクロムメッキで、足の部分は灰色でした。
+(00:06:22)</p>
+<p>下の機械には4本のパイプがあり、それは巨大でした。
+小さくはありませんでした。外側全体にありました。
+それが地面で回転していたので、その印象を受けたのだと思います。
+それは鋼鉄でした。そう見えました。それはできる限り光沢がありました。
+それは底の縁で、幅は約1フィートで、光沢はありませんでした。
+(00:06:42)</p>
+<hr>
+<p>一時は熱くなったように見えました。
+私が理解できたのは、なぜそれらがこれほど近くにあったのかということだけでした。
+2つの間に手を入れることはできませんでした。
+しかし、それに気づいたとき、私はそこに立って呆然としていました。
+一体何が起こっているのかわかりませんでした。
+私は怖かったです。私は自分自身にこう考えていました。彼らは私に向かってくる。私はもう終わりだ。
+(00:07:10)</p>
+<p>5匹いて、私一人だけでした。
+考え始めると、私はガチガチに怯えていました。どうしたらいいのかわかりませんでした。
+誰かが手を叩いてくれたら、私はそこで死んでいたと思います。
+とても怖かったんです。でも、その仕組みには驚かされます。
+本当に驚くべきことです。
+本能が私に、バックでバックアップするよう告げました。
+(00:07:34)</p>
+<p>本能があなたにそう告げたことはありますか?
+コンバインの後部まで歩いて行くと、何かが回っている。
+本能がすぐにバックアップするよう告げるでしょう。近づくことは許さないでしょう。
+回転しているものに触れたり、近づいたりしてはいけない。あなたはファンの部分に手を突っ込みますか?
+本能は距離を保つようにと告げる。
+それが本能がすぐに告げることだ。多くの人が言う。どうして分かるのか?
+(00:07:58)</p>
+<p>私は言いました。頭のどこかで、近づかないようにと警告が鳴っていたんです。
+近づくな。危険だ。
+だから近づかないようにしたんです。そして、それは寒かった。
+その日私はパーカーを着て、手袋をして、帽子のフラップを下ろしていました。
+あまりに寒くて、震えていました。
+そこに立っている機械に近づいていくと、
+私はただ歯を食いしばっていました。一体全体、あれは何なんだ?
+(00:08:26)</p>
+<p>私は言った。
+あの忌々しい奴が回っている。なぜ回っているんだ?
+何か聞こえたか?いいや、何も聞こえない。
+聞こえるのは草刈機の音だけだ。
+何か近づいてくると、頭が真っ白になる。
+あまりに怖くて、何もかもが...
+耳に響く音がこだまする。
+頭から吹き出すような感じだ。頭の中が止まってしまう。
+(00:08:58)</p>
+<p>私は思った。一体どうなってるんだ?
+頭の中にはいろんなことが駆け巡っている。
+立ち止まって考え、考えている。
+頭の中が、刈り取り機に乗って戻った方がいいと告げる。
+ここから早く離れろ。私は、自分もそのスワーに乗り込んだ方がいいと思った。
+私は、スワーまで後退した。
+そして、スワーの運転席側に座った。
+(00:09:26)</p>
+<p>スワーが動くと思っただろう。エンジンがかかっていなかった。
+私が降りた時にはエンジンがかかっていた。
+イグニッションが完全に切れていた。
+私が降りた時にはエンジンがかかっていた。
+イグニッションキーは横に倒されていた。
+何度も試したが、エンジンはかからなかった。
+どうしようかと思った。
+(00:09:54)</p>
+<p>本当に怖くて、どうしたらいいかわからなかったんだ。
+(00:09:58)</p>
+<hr>
+<p>白い手袋をはめていたが、指の節が全部見えていた。
+ただ歯を食いしばってじっと座っていたが、動けなかった。
+寒かったが、ただ座っていた。どれくらいそこに座っていたのかわからない。
+そこで私は考えた。あっちのゲートは閉まっている。
+いったいどうやったらこの機械を動かせるんだ?俺は止まらないぞ。
+(00:10:22)</p>
+<p>俺はあのゲートを突っ切って行く。
+動かないんだ。まったく動かない。凍りついていたんだ。
+誰かが地面に凍りつかせたんだ。エンジンはかからなかった。
+私はそこに座って、30分か1時間くらい経っただろうか。
+突然、そのヘリコプターが地面から浮き上がった。
+ゆっくりと隊列を組んで上昇していった。
+(00:10:46)</p>
+<p>中央の大きなヘリコプター3機が最初に飛び立ち、小さなヘリコプターが続いた。
+ちょうど私の頭の真上を通り過ぎていった。
+私は思った。さて、一体どうしよう?
+上を見上げると、今まさに頭の真上を通り過ぎていく。頭の中でそんなことがぐるぐると回っている。
+上を見上げると、今度はあまりにも近すぎる。
+(00:11:06)</p>
+<p>今、前よりもっと近くに来ている。あの機械の底全体が見える。
+なんて機械だ。誰が作ったんだ?
+まさにそれだ。でも、ドームはもう少し尖っているかもしれない。
+本体に開口部はあったか?
+底に開いていた。通気口のような?
+通気口のような。4つくらいあった。
+ここに1つ、このコーナーに1つ、こっちに1つ。全部で4つあった。
+(00:11:36)</p>
+<p>覚えているのはそれだけだ。でも、すごく大きかった。小さなパイプじゃなかった。
+私には、あれが機械を操縦する方法のように見えた。
+動かすために。でも、頭の上にある時は、これが理解できなかった。
+真下に向かっていました。 それらがどうやって頭上の湿地帯からやって来たのか、まったく分かりませんでした。
+私は15フィート離れていたので、彼らは移動しなければなりませんでした。
+(00:11:56)</p>
+<p>では、何が彼らを横向きにしたのでしょうか? これをすべて解明しようとします。
+意味がわかりません。 そこで私は考えました。もしかしたら、パイプが動いたか何かして、機械が横向きになったのかもしれないと。
+パターンはこんな感じでした...
+向こう側には、こんな感じの丸い円がありました。
+そして、ずっと周りにこんな感じの丸いものが並んでいました。
+(00:12:20)</p>
+<p>実際には舷窓でした。
+そして、それらの下を見ると、4つ以上ありました。
+横から見た時は4つに見えたのですが。
+でも、もっとありました。今では思い出せません。
+6つか7つだったかな?男たちがたくさんいました。
+そして、下から上に向かって見たときの形ですが、機械の下の部分がどんな形だったか知っていますよね。ボルトがあるのか、それとも何か別のものがあるのか、わかりませんでした。
+(00:12:52)</p>
+<p>ボルトやその他の部品があるかどうかは分かりませんでした。実際にはありませんでしたが、ずっとあんな感じでした。
+(00:12:56)</p>
+<hr>
+<p>それらは外側だけについていました。中心には大きな円がありました。
+それだけでした。そこから外側には何もありませんでした。
+今でもはっきりと覚えています。
+この底の部分に関する悪夢。
+そして、私は考えました。あの帯状のものが動き出すかどうか見てみようと。それでも動き出すことはありませんでした。
+すべてが死んでいました。そこで私はしばらくそこに座っていましたが、彼らは同じ場所にとどまっていました。
+(00:13:20)</p>
+<p>彼らは私の頭上のある一点に留まっていました。
+そして、穀物は完全に平らになっていました。
+私の両側にも穀物がありました。そして、それは...
+機械が動くことによる物体の圧力は、一体全体何なのか分かりませんでした。
+ただ...彼らが上空に上がると、それは蒸気のように見えました。
+(00:13:44)</p>
+<p>ジェット機の背後に見えるような
+蒸気。でも、それほどはっきりとは見えなかった。霧のような感じだった。
+もっと薄かった。
+まあ、それはポートから出ていた。
+このポートから蒸気が出ていたんだ。
+そして、それは下に向かっていった。上昇するにつれ、この蒸気を押し下げていた。
+でも何も感じなかった。
+それが理解できなかった。
+(00:14:16)</p>
+<p>スモッグのようでしたか?
+まあ、そんな感じだった。
+でも、地上に到達すると、広がっていくでしょう? そんな感じだった。でも何も感じなかった。
+(00:14:28)</p>
+<details class="details_lb9f alert alert--info details_b_Ee" data-collapsed="true"><summary>▼展開</summary><div><div class="collapsibleContent_i85q"><p>I'm going to show you how to make a canola.
+This is about maybe 7 o'clock in the morning when I get up.
+My brother phoned me from his farm. He told me you better swath all that canola down before it freezes up.
+So that's what I did. I went out to cut the canola.
+(00:00:54)</p><p>I went to the east end of the field.
+The field was opened up the night before.
+There were rounds made around the field.
+I had to go to the east end and finish that little corner off.
+On the way down I cut the field in half and went right down the center where that big slough is sitting there.
+Coming upon the slough I came across these dome shaped objects in the field.
+(00:01:18)</p><p>I didn't know what the hell they were.
+Somebody told me that American hunters use these for hunting geese.
+I never thought too much of it.
+I drove to the slough with the swather.
+I got a little closer and I stopped because everything was moving.
+I thought, well gee, goose blinds don't move. They sit still.
+I thought to myself, well, I might as well get off to see what this contraption is.
+(00:01:46)</p><p>I got off on the latter side of the swather.
+I walked towards them and I stopped about roughly 15 feet away from the swather.
+I could see right underneath through it to the bottom.
+The grass was moving.
+I thought to myself, what the devil is that contraption anyway?
+They weren't on the ground, they were off the ground.
+They were about a foot off the ground. They were sitting there going around in a circle.
+(00:02:14)</p><p>They weren't standing stationary. I thought the machine was stationary.
+It wasn't. It was going counterclockwise.
+I walked a little closer.
+I wanted to really see what it was, but it was moving.
+Instinct told me to back up.
+I backed up to stand about at least 15 feet away from them.
+I thought to myself, well, that's kind of odd.
+It's going the opposite way. It's going counterclockwise.
+(00:02:46)</p><p>It's not going clockwise. It's going counterclockwise.
+The machine was going the other way. I thought, well, that's kind of weird.
+I thought, well, I wonder who the hell it is. Some joker probably playing a trick on me.
+I was going to walk a little closer.
+Instinct told me to keep my distance.
+I kept my distance and I walked around and I looked at it.
+(00:03:10)</p><p>What the devil, there's another one on the other side. There were three in a row.
+One on the south side, about maybe 100 feet away.
+One on the north side, 100 feet away. There were three in the center.
+All five machines, there were two in the end. The two little ones were guarding the three big ones in the center.
+It was sitting in a half-moon shape.
+(00:03:30)</p><p>They were sitting like this.
+(00:03:34)</p><hr><p>All in a circle. Half-moon position.
+The others were sitting here.
+They were sitting here and I was here.
+I went down and turned around and I was about 15 feet away.
+I know you've answered this question a million times.
+It wasn't natural. These were machines.
+It was a machine. It was natural. It was metal.
+You could tell it was metal.
+I wanted to go up to feel them, but Instinct told me to keep my distance.
+(00:04:10)</p><p>Now you tell me, how in the hell they didn't land on the crop and they didn't land on the water?
+They landed right beside the crop.
+They didn't hit the crop. No worries.
+There was one there, one this side, and three here.
+They never hit the slope. They hit the outline of the whole slope.
+The bigger ones were about 30 feet in diameter.
+(00:04:34)</p><p>They had a lip on them, like a bumper all the way around.
+It was gray. Very hot at one time.
+When it cools off, it gets gray.
+The ring on that machine was gray.
+I'd say it was maybe about that far away from the dome because it was about that thick.
+It was all the way around the bottom.
+Why was that end of the dome only gray and not the top end?
+(00:05:02)</p><p>I couldn't figure that one out. The rest of the machine was a shiny silver.
+I'd say they were stainless steel because it was brushed aluminum.
+You could tell there were rivets all around because when it was turning, you could see these little bumps going around once in a while.
+If you'd blink, you could see the bumps.
+If you watched something in a fan, you'd look at a fan and you'd blink.
+(00:05:26)</p><p>You could make out the whole scripting of the fan.
+When you're standing there watching with your eyes open and you don't blink, you can't make out what that looked like.
+You can make out exactly what that fan looked like.
+It's like this, straight across. This is the dome of it, right here.
+So it was sectional like that?
+Yeah, because you could tell the lip on this side was hot at one time.
+(00:05:54)</p><p>Up here, there were rivets going around it all the way around.
+All you could tell, there were some compartments, but you couldn't make out what they were.
+You could see rivets. They were round.
+They had round tops on them. They were going around.
+There were some in the top, some in the center, some in the bottom.
+The outside dome was chrome and that foot thing was gray.
+(00:06:22)</p><p>The bottom machine had four pipes and they were huge.
+They weren't small. They were all around the outside.
+That's what I think made that impression in the ground because it was turning.
+It was steel. That's what it looked like. It was as shiny as it could be.
+It's that bottom lip that was about a foot wide and it is not shiny.
+(00:06:42)</p><hr><p>It looked like it was hot at one time.
+What I could figure out was why they were so close together.
+You couldn't get your hand between the two of them.
+But when you notice this, I was standing there and I was dumbfounded.
+I didn't know what the hell was going on.
+I was scared. I was thinking to myself, they just come towards me. I'm history.
+(00:07:10)</p><p>There were five of them and there was only one of me.
+You start to think, I was scared stiff. I didn't know what to do.
+If somebody would have just clapped their hands, I think I would have dropped dead right there.
+I was so scared. But you know, it's mind-boggling the way it works.
+It's really mind-boggling.
+Instinct told me when I walked up to the machine to back up.
+(00:07:34)</p><p>Have you ever had instinct tell you this?
+You walk up to the back end of a combine and there's something turning.
+Instinct will tell you to back up right away. It won't let you get closer.
+Or touch something that is turning. You'd stick your hand into a fan, would you?
+Instinct will tell you to keep your distance.
+That's what it will tell you right away. A lot of guys say, how could you tell that?
+(00:07:58)</p><p>I said, there was something in the back of my head telling me to keep my distance.
+Stay back. Dangerous.
+So you keep your distance. And it was cold.
+I had a parka on that day. Gloves on. Caps with flaps down.
+It was so cold I was shaking.
+You get towards this machine that's standing there.
+I was just gritting my teeth. What the devil could that damn thing be?
+(00:08:26)</p><p>I said, I know what they look like.
+This damn sucker is turning. Why would it be turning?
+Did you hear anything? No. No sound.
+All I could hear was the swaths running.
+When you walk up to something, your mind goes blank.
+You're so scared that everything seems to...
+I had this echoing sound in my ears.
+It just spews out of your mind. Your mind is like a picture. It just stops.
+(00:08:58)</p><p>I thought to myself, now what the devil?
+You've got all kinds of things going through your head.
+You're standing there and thinking and thinking.
+Your mind tells you, you better go to that swath and get back on.
+Get the H out of here. I thought to myself, I better get on the swath.
+I backed up all the way to the swath.
+I got on the wheel side of the swath.
+(00:09:26)</p><p>You'd think the swath would move. The engine was dead.
+When I got off, the engine was running.
+The ignition was dead. It was completely dead.
+The engine was running when I got off of it.
+The ignition key was turned over to the side.
+I tried it and I tried it. It just would not start.
+I was thinking, what the hell to do? What are you going to do when that damn thing comes towards you?
+(00:09:54)</p><p>I'm telling you, I was so scared I didn't know.
+(00:09:58)</p><hr><p>The whites, I could imagine my gloves, the whites, you could see all your knuckles.
+I was sitting there just gritting my teeth trying to move and I couldn't.
+It was cold and I was sitting there. I don't know how long I sat on that swath.
+I thought to myself, well, the gate is closed over there.
+How the hell do I ever get this contraption started? I ain't going to stop.
+(00:10:22)</p><p>I'm going to go straight through that gate and I'm not getting off.
+It wouldn't move. It just would not move. It was frozen.
+Somebody just froze it to the ground. The engine wouldn't go.
+I sat there maybe, I don't know, half an hour, maybe an hour.
+All of a sudden, the sucker started to lift off the ground.
+They were going up slowly in a step formation.
+(00:10:46)</p><p>The three big ones in the center took off first and the little ones followed.
+They were just right over the top of my head.
+I thought to myself, well, now what the hell am I going to do?
+You look up, what the hell, now they're over the top of my head and that's going on in your mind.
+You look up and now they're too damn close.
+(00:11:06)</p><p>They're closer now than they were before. You could see the whole bottom of that machine.
+Boy, what an outfit. I said, who the hell makes that?
+That's the one right there. But the dome could be a little more pointed.
+Was there an opening on the body?
+On the bottom it was open. Like a vent?
+Like vents. There was about four of them.
+Here there was one in that corner, one in this corner, one over here. There was four of them.
+(00:11:36)</p><p>That's all I remember. But they were huge. They weren't small pipes.
+To me it looked like it was their way of maneuvering the machine.
+Moving it. But when they were above my head, I couldn't figure this out.
+They were straight down. And how the hell did they get from that slough over my head?
+I was 15 feet away so they had to move over.
+(00:11:56)</p><p>So what drove them over sideways? You try to figure this all out.
+It doesn't make sense. Then I thought to myself, maybe those pipes, they moved or something at an angle to get the machine to move over.
+The pattern was like...
+On the other side was, let's say a round circle like this.
+And there was round deals like this all the way around.
+(00:12:20)</p><p>They were portholes actually.
+And when you look underneath them there was more than four.
+Because when I looked at it from the side, it looked like there was four.
+But there's more. I can't remember now.
+Was it six or seven? There was a pile of men.
+And the pattern, according to what that looked like when you look from the bottom up, and you know how the machine looked like in the bottom, it was like molded. You couldn't tell if there was bolts or whatever molded.
+(00:12:52)</p><p>You couldn't tell if there was bolts or whatever underneath. It wasn't. But it was like that all the way around.
+(00:12:56)</p><hr><p>And they were on the outside only. The center had a big circle.
+That's all it had. And there was nothing out of there.
+I can still see that as plain as day.
+Nightmares about this bottom part.
+And then I thought, well, I better see if that swath is going to start. It still wouldn't start.
+Everything was dead. So I sat there some more and they were sitting on one spot.
+(00:13:20)</p><p>They were just hovering there on one spot over the top of my head.
+And the crop, it was flattened right out.
+You know, there was crop on either side of me. And it was...
+The pressure from the objects that were these machines running, you couldn't tell what the hell it was.
+It was just... All you could see was like when they got higher up, it was like a vapor.
+(00:13:44)</p><p>Like you see behind a jet plane.
+A vapor. But you couldn't see it that clear. It was more like a fog.
+You know, it was thinner.
+Well, it'd come out of the ports.
+You know, it'd come out of these ports, the vapor.
+And it was going down. As the thing rose up, it was pushing this vapor down.
+But I couldn't feel anything.
+That's what I couldn't figure out.
+(00:14:16)</p><p>Did it look like smog?
+Well, yeah. Something like it.
+But you know how when it hits the ground, it sort of flares out? That's what it was doing. But you couldn't feel anything.
+(00:14:28)</p></div></div></details>
+<p>(2024-08-13)</p>]]></content:encoded>
+            <category>UFO</category>
+        </item>
         <item>
             <title><![CDATA[1974-09-01, Canada：Edwin Fuhr が目撃した UFO ⇒ この正体を推測]]></title>
             <link>https://ouchaku.github.io/ds/en/blog/2024/08/12/langenburg_2</link>
             <guid>https://ouchaku.github.io/ds/en/blog/2024/08/12/langenburg_2</guid>
             <pubDate>Mon, 12 Aug 2024 00:00:00 GMT</pubDate>
-            <description><![CDATA[履歴]]></description>
-            <content:encoded><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="履歴">履歴<a href="https://ouchaku.github.io/ds/en/blog/2024/08/12/langenburg_2#%E5%B1%A5%E6%AD%B4" class="hash-link" aria-label="Direct link to 履歴" title="Direct link to 履歴">​</a></h2>
+            <description><![CDATA[要約]]></description>
+            <content:encoded><![CDATA[<a href="https://ouchaku.github.io/ds/img/20240811_p1_0735.jpg" target="_blank"><img alt="20240811_p1_0735.jpg" border="0" src="https://ouchaku.github.io/ds/img/20240811_p1_0735.jpg" width="90%"></a>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="要約">要約<a href="https://ouchaku.github.io/ds/en/blog/2024/08/12/langenburg_2#%E8%A6%81%E7%B4%84" class="hash-link" aria-label="Direct link to 要約" title="Direct link to 要約">​</a></h2>
+<p>1974-09-01, Canada, 農家の Edwin Fuhr が間近で目撃した 5機の  UFO の正体を証拠データに基づいて推測する。</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="履歴">履歴<a href="https://ouchaku.github.io/ds/en/blog/2024/08/12/langenburg_2#%E5%B1%A5%E6%AD%B4" class="hash-link" aria-label="Direct link to 履歴" title="Direct link to 履歴">​</a></h2>
 <p>(2024-08-12) 画像追加、タイトル変更 <br>
 (2024-08-11) 作成。タイトルは「Edwin Fuhr の証言動画 2of2：文字起こし＋和訳」</p>
 <h2 class="anchor anchorWithStickyNavbar_LWe7" id="前置き">前置き<a href="https://ouchaku.github.io/ds/en/blog/2024/08/12/langenburg_2#%E5%89%8D%E7%BD%AE%E3%81%8D" class="hash-link" aria-label="Direct link to 前置き" title="Direct link to 前置き">​</a></h2>
@@ -687,14 +1331,8 @@ They returned, this time hovering over an elementary school.
             <link>https://ouchaku.github.io/ds/en/blog/2024/08/12/sean_esbjorn_hrgen</link>
             <guid>https://ouchaku.github.io/ds/en/blog/2024/08/12/sean_esbjorn_hrgen</guid>
             <pubDate>Mon, 12 Aug 2024 00:00:00 GMT</pubDate>
-            <description><![CDATA[履歴]]></description>
-            <content:encoded><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="履歴">履歴<a href="https://ouchaku.github.io/ds/en/blog/2024/08/12/sean_esbjorn_hrgen#%E5%B1%A5%E6%AD%B4" class="hash-link" aria-label="Direct link to 履歴" title="Direct link to 履歴">​</a></h2>
-<p>(2024-08-12) 書式変更（FC2Blog → markdown）。和訳差替（DeepL: old mode → 2024-07 model）<br></p>
-<p>(2023-06-24) 差し替え。Google 謹製文字起こし → Whisper AI。<a href="http://news21c.blog.fc2.com/blog-entry-21047.html" target="_blank">❑ Sean Esbjörn-Hargens の講演の全内容＋ 日本語訳 （全体）</a></p>
-<p>(2022-11-27) 作成。 <a href="http://news21c.blog.fc2.com/blog-entry-20261.html" target="_blank">Sean Esbjörn-Hargens の講演の全内容＋ DeepL 訳 （途中1）</a> (2022-11-27)</p>
-<hr style="height:3px;border-width:3px;color:orange;background-color:blue">
-<p>(2022-11-27 begin)</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="前置き">前置き<a href="https://ouchaku.github.io/ds/en/blog/2024/08/12/sean_esbjorn_hrgen#%E5%89%8D%E7%BD%AE%E3%81%8D" class="hash-link" aria-label="Direct link to 前置き" title="Direct link to 前置き">​</a></h2>
+            <description><![CDATA[要約]]></description>
+            <content:encoded><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="要約">要約<a href="https://ouchaku.github.io/ds/en/blog/2024/08/12/sean_esbjorn_hrgen#%E8%A6%81%E7%B4%84" class="hash-link" aria-label="Direct link to 要約" title="Direct link to 要約">​</a></h2>
 <p>Sean Esbjörn-Hargens の講演全体の音声書写（自動生成）と切り出し静止画を記録しておく。</p>
 <p>UFO 現象を一部の精神世界にのめりこんだアカデミック関係者たちはこのように捉えていた…という意味で史料的な価値がある。</p>
 <p>その意味ではさして目新しい事実情報は無いが、</p>
@@ -703,6 +1341,12 @@ They returned, this time hovering over an elementary school.
 <li>超常現象を異常なまでに頻繁に体験している場所</li>
 </ul>
 <p>のふたつを重ね合わせて相関を示した地図（切り出し静止画に含まれている）は目を惹く。この両者が同じ機序で生じていることの傍証(*1)となっている。</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="履歴">履歴<a href="https://ouchaku.github.io/ds/en/blog/2024/08/12/sean_esbjorn_hrgen#%E5%B1%A5%E6%AD%B4" class="hash-link" aria-label="Direct link to 履歴" title="Direct link to 履歴">​</a></h2>
+<p>(2024-08-12) 書式変更（FC2Blog → markdown）。和訳差替（DeepL: old mode → 2024-07 model）<br></p>
+<p>(2023-06-24) 差し替え。Google 謹製文字起こし → Whisper AI。<a href="http://news21c.blog.fc2.com/blog-entry-21047.html" target="_blank">❑ Sean Esbjörn-Hargens の講演の全内容＋ 日本語訳 （全体）</a></p>
+<p>(2022-11-27) 作成。 <a href="http://news21c.blog.fc2.com/blog-entry-20261.html" target="_blank">Sean Esbjörn-Hargens の講演の全内容＋ DeepL 訳 （途中1）</a> (2022-11-27)</p>
+<hr style="height:3px;border-width:3px;color:orange;background-color:blue">
+<p>(2022-11-27 begin)</p>
 <h3 class="anchor anchorWithStickyNavbar_LWe7" id="講演者名簿">講演者名簿<a href="https://ouchaku.github.io/ds/en/blog/2024/08/12/sean_esbjorn_hrgen#%E8%AC%9B%E6%BC%94%E8%80%85%E5%90%8D%E7%B0%BF" class="hash-link" aria-label="Direct link to 講演者名簿" title="Direct link to 講演者名簿">​</a></h3>
 <ul>
 <li>Dr. Garry Nolan</li>
@@ -800,7 +1444,7 @@ Engaging The Phenomenon LinkTree: <a href="https://linktr.ee/EngagingThePhenomen
 <p>(2022-11-27 end)</p>
 <hr style="height:3px;border-width:3px;color:orange;background-color:blue">
 <p>(2023-06-24 begin)</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="前置き-1">前置き<a href="https://ouchaku.github.io/ds/en/blog/2024/08/12/sean_esbjorn_hrgen#%E5%89%8D%E7%BD%AE%E3%81%8D-1" class="hash-link" aria-label="Direct link to 前置き" title="Direct link to 前置き">​</a></h2>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="前置き">前置き<a href="https://ouchaku.github.io/ds/en/blog/2024/08/12/sean_esbjorn_hrgen#%E5%89%8D%E7%BD%AE%E3%81%8D" class="hash-link" aria-label="Direct link to 前置き" title="Direct link to 前置き">​</a></h2>
 <p>読むに堪えない Google 謹製の文字おこしを破棄し、Whisper AI で置き換えた。</p>
 <p>(2024-08-12 begin)</p>
 <p>和訳を差し替えた（DeepL : old model → 2024-07 model）。</p>
@@ -2632,7 +3276,7 @@ Thank you so much.
             <category>spiritual</category>
         </item>
         <item>
-            <title><![CDATA[マンデラ効果(Mandela effect)の謎を解く。その証拠データ]]></title>
+            <title><![CDATA[マンデラ効果(Mandela effect)の謎を解く＋証拠データ]]></title>
             <link>https://ouchaku.github.io/ds/en/blog/2024/08/12/unravel_mandela_effect</link>
             <guid>https://ouchaku.github.io/ds/en/blog/2024/08/12/unravel_mandela_effect</guid>
             <pubDate>Mon, 12 Aug 2024 00:00:00 GMT</pubDate>
@@ -4183,7 +4827,7 @@ both off the car's bonnet and off the metal guard rail by the side of the road. 
 <p>Steve Mera が、最近 up した動画の中から、タイトルの話題に絞る。動画の中で登場した主な静止画は DeepL 訳文の中に埋め込んだ。</p>
 <h3 class="anchor anchorWithStickyNavbar_LWe7" id="関連">関連<a href="https://ouchaku.github.io/ds/en/blog/2024/08/11/clear_view_ranch#%E9%96%A2%E9%80%A3" class="hash-link" aria-label="Direct link to 関連" title="Direct link to 関連">​</a></h3>
 <p><a href="http://news21c.blog.fc2.com/blog-entry-21853.html" target="_blank">❏ Steve Mera : 牧場地帯の怪奇現象―数多くの牧場やその他の地質学的な場所で撮影され、記録された様々な現象に深く迫る（全文＋日本語訳）</a> (2024-01-28)</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="steve-mera-自身による要約">Steve Mera 自身による要約<a href="https://ouchaku.github.io/ds/en/blog/2024/08/11/clear_view_ranch#steve-mera-%E8%87%AA%E8%BA%AB%E3%81%AB%E3%82%88%E3%82%8B%E8%A6%81%E7%B4%84" class="hash-link" aria-label="Direct link to Steve Mera 自身に��よる要約" title="Direct link to Steve Mera 自身による要約">​</a></h2>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="steve-mera-自身による要約">Steve Mera 自身による要約<a href="https://ouchaku.github.io/ds/en/blog/2024/08/11/clear_view_ranch#steve-mera-%E8%87%AA%E8%BA%AB%E3%81%AB%E3%82%88%E3%82%8B%E8%A6%81%E7%B4%84" class="hash-link" aria-label="Direct link to Steve Mera 自身による要約" title="Direct link to Steve Mera ��自身による要約">​</a></h2>
 <p>レオ・スプリンクル博士、ジョン・ディア博士、ピーター・ヴァン・アースデール博士による調査。</p>
 <p>一家が移り住む前の13年間、その牧場は無人のまま放置されていました。時折、雪が降った後に直径33フィートの円が地面に残っているのが発見されました。</p>
 <p>その場所の地面は乾燥し、草は二度と生えてきませんでした。一家はUFOや毛むくじゃらの大きな生物に悩まされていました。ハミングのような音、小さな明るい光、牧場内の家屋で発生した停電。</p>
@@ -7060,7 +7704,7 @@ United Paranormal International</p></div></div></details>
 <li><a href="http://news21c.blog.fc2.com/blog-entry-22442.html" target="_blank">❏ 業務連絡：今後は iframe 経由で記事を掲載する方針</a> (2024-06-29)</li>
 </ul>
 <h2 class="anchor anchorWithStickyNavbar_LWe7" id="fc2blog-で大量の-blog-記事を作成する際の問題点">FC2Blog で「大量の」 Blog 記事を作成する際の問題点<a href="https://ouchaku.github.io/ds/en/blog/2024/08/08/review_iframe_method#fc2blog-%E3%81%A7%E5%A4%A7%E9%87%8F%E3%81%AE-blog-%E8%A8%98%E4%BA%8B%E3%82%92%E4%BD%9C%E6%88%90%E3%81%99%E3%82%8B%E9%9A%9B%E3%81%AE%E5%95%8F%E9%A1%8C%E7%82%B9" class="hash-link" aria-label="Direct link to FC2Blog で「大量の」 Blog 記事を作成する際の問題点" title="Direct link to FC2Blog で「大量の」 Blog 記事を作成する際の問題点">​</a></h2>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="一般論ではなく特殊用途に��限定した問題">一般論ではなく、特殊用途に限定した問題<a href="https://ouchaku.github.io/ds/en/blog/2024/08/08/review_iframe_method#%E4%B8%80%E8%88%AC%E8%AB%96%E3%81%A7%E3%81%AF%E3%81%AA%E3%81%8F%E7%89%B9%E6%AE%8A%E7%94%A8%E9%80%94%E3%81%AB%E9%99%90%E5%AE%9A%E3%81%97%E3%81%9F%E5%95%8F%E9%A1%8C" class="hash-link" aria-label="Direct link to 一般論ではなく、特殊用途に限定した問題" title="Direct link to 一般論ではなく、特殊用途に限定した問題">​</a></h3>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="一般論ではなく特殊用途に限定した問題">一般論ではなく、特殊用途に限定した問題<a href="https://ouchaku.github.io/ds/en/blog/2024/08/08/review_iframe_method#%E4%B8%80%E8%88%AC%E8%AB%96%E3%81%A7%E3%81%AF%E3%81%AA%E3%81%8F%E7%89%B9%E6%AE%8A%E7%94%A8%E9%80%94%E3%81%AB%E9%99%90%E5%AE%9A%E3%81%97%E3%81%9F%E5%95%8F%E9%A1%8C" class="hash-link" aria-label="Direct link to 一般論ではなく、特殊用途に限定した問題" title="Direct link to 一般論ではなく、特殊用途に限定した問題">​</a></h3>
 <p>最初にことわっておくと、以下は FC2 側の問題ではなく、私の個人的な問題であるに過ぎない。</p>
 <p>つまり、私のような大量の Blog 記事（既に 20,000件を超えている）の作成者にとって、以下は大きな 制約/問題 となるが、普通の Blog 記事作成者にとっては全く問題にならない筈。</p>
 <h3 class="anchor anchorWithStickyNavbar_LWe7" id="問題点">問題点<a href="https://ouchaku.github.io/ds/en/blog/2024/08/08/review_iframe_method#%E5%95%8F%E9%A1%8C%E7%82%B9" class="hash-link" aria-label="Direct link to 問題点" title="Direct link to 問題点">​</a></h3>
@@ -8305,7 +8949,7 @@ Well, thank you guys very much.
 <li>(A-1b) 自転軸に垂直な面に orb の群れが 4-6個程度、一定の距離を保って集まる場合</li>
 </ul><a href="https://ouchaku.github.io/ds/img/20240406_orb6.jpg" target="_blank"><img alt="20240406_orb6.jpg" border="0" src="https://ouchaku.github.io/ds/img/20240406_orb6.jpg" width="90%"></a><p>ref: <a href="https://www.youtube.com/watch?v=GNhCRoc28n8" target="_blank"></a><a href="https://www.youtube.com/watch?v=GNhCRoc28n8" target="_blank" rel="noopener noreferrer">https://www.youtube.com/watch?v=GNhCRoc28n8</a> の 11:40 あたり</p></blockquote>
 <p>の区別がある。</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="何が問題か">何が問題か？<a href="https://ouchaku.github.io/ds/en/blog/2024/08/07/why_ufo_spin_v_h#%E4%BD%95%E3%81%8C%E5%95%8F%E9%A1%8C%E3%81%8B" class="hash-link" aria-label="Direct link to 何が問題か？" title="Direct link to 何が問題か？">​</a></h2>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="何が問題か">何が問題か？<a href="https://ouchaku.github.io/ds/en/blog/2024/08/07/why_ufo_spin_v_h#%E4%BD%95%E3%81%8C%E5%95%8F%E9%A1%8C%E3%81%8B" class="hash-link" aria-label="Direct link to 何が�問題か？" title="Direct link to 何が問題か？">​</a></h2>
 <p>ここでは以下の問題を扱う。</p>
 <h3 class="anchor anchorWithStickyNavbar_LWe7" id="問題-1">問題 1<a href="https://ouchaku.github.io/ds/en/blog/2024/08/07/why_ufo_spin_v_h#%E5%95%8F%E9%A1%8C-1" class="hash-link" aria-label="Direct link to 問題 1" title="Direct link to 問題 1">​</a></h3>
 <p>特定の orb が長時間（Hessdalen 峡谷で科学者が観測した事例では数時間に及ぶ）、安定して存続しうる理由は何か？</p>
@@ -8340,355 +8984,6 @@ Well, thank you guys very much.
 <p>…</p>
 <p>(2024-04-06)<br>
 (2024-08-07)</p>]]></content:encoded>
-            <category>UFO</category>
-        </item>
-        <item>
-            <title><![CDATA[UFO がグラついたり、落ち葉運動をする理由]]></title>
-            <link>https://ouchaku.github.io/ds/en/blog/2024/08/07/why_ufo_wobble</link>
-            <guid>https://ouchaku.github.io/ds/en/blog/2024/08/07/why_ufo_wobble</guid>
-            <pubDate>Wed, 07 Aug 2024 00:00:00 GMT</pubDate>
-            <description><![CDATA[履歴]]></description>
-            <content:encoded><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="履歴">履歴<a href="https://ouchaku.github.io/ds/en/blog/2024/08/07/why_ufo_wobble#%E5%B1%A5%E6%AD%B4" class="hash-link" aria-label="Direct link to 履歴" title="Direct link to 履歴">​</a></h2>
-<ul>
-<li>(2024-08-07) タイトル変更。書式変換（FC2Blog → markdown）</li>
-<li>(2024-06-14) 作成。<a href="http://news21c.blog.fc2.com/blog-entry-22375.html" target="_blank">❏ Paul Davids : 白昼、家族で UFO を目撃。UFO はグラついていた ⇒ この機序を推測する</a> (2024-06-14)</li>
-</ul>
-<hr style="height:3px;border-width:3px;color:orange;background-color:blue">
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="関連">関連<a href="https://ouchaku.github.io/ds/en/blog/2024/08/07/why_ufo_wobble#%E9%96%A2%E9%80%A3" class="hash-link" aria-label="Direct link to 関連" title="Direct link to 関連">​</a></h2>
-<p><a href="http://news21c.blog.fc2.com/blog-entry-16691.html" target="_blank">Paul Davids : 家族と一緒に自宅で明瞭な UFO を目撃</a> (2020-09-07)</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="静止画">静止画<a href="https://ouchaku.github.io/ds/en/blog/2024/08/07/why_ufo_wobble#%E9%9D%99%E6%AD%A2%E7%94%BB" class="hash-link" aria-label="Direct link to 静止画" title="Direct link to 静止画">​</a></h2>
-<a href="https://ouchaku.github.io/ds/img/20240613_pd__ufo_01_rz.jpg" target="_blank"><img alt="20240613_pd__ufo_01_rz.jpg" border="0" src="https://ouchaku.github.io/ds/img/20240613_pd__ufo_01_rz.jpg" width="90%"></a>
-<a href="https://ouchaku.github.io/ds/img/20240613_pd__ufo_02_rz.jpg" target="_blank"><img alt="20240613_pd__ufo_02_rz.jpg" border="0" src="https://ouchaku.github.io/ds/img/20240613_pd__ufo_02_rz.jpg" width="90%"></a>
-<a href="https://ouchaku.github.io/ds/img/20240613_pd__ufo_03_rz.jpg" target="_blank"><img alt="20240613_pd__ufo_03_rz.jpg" border="0" src="https://ouchaku.github.io/ds/img/20240613_pd__ufo_03_rz.jpg" width="90%"></a>
-<a href="https://ouchaku.github.io/ds/img/20240613_pd__ufo_04_rz.jpg" target="_blank"><img alt="20240613_pd__ufo_04_rz.jpg" border="0" src="https://ouchaku.github.io/ds/img/20240613_pd__ufo_04_rz.jpg" width="90%"></a>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="この機序を推測する">この機序を推測する<a href="https://ouchaku.github.io/ds/en/blog/2024/08/07/why_ufo_wobble#%E3%81%93%E3%81%AE%E6%A9%9F%E5%BA%8F%E3%82%92%E6%8E%A8%E6%B8%AC%E3%81%99%E3%82%8B" class="hash-link" aria-label="Direct link to この機序を推測する" title="Direct link to この機序を推測する">​</a></h2>
-<p>UFO がグラついていた、という証言が重要。これはこの UFO の正体が「知性体が操る高度な飛行装置」ではなく、自然現象であることを示唆している。</p>
-<p>他にも「UFO が落ち葉運動をした」という目撃証言が多数あるが、これも自然現象を示唆している。</p>
-<p>ではなぜ、UFO がグラついたり、落ち葉運動をするのか？ これについては</p>
-<p><a href="https://ouchaku.github.io/ds/en/blog/2024/08/07/why_ufo_spin_v_h">仮説：撮影された UFO の回転対称軸が水平と垂直の二通りである理由 （＋追加）</a></p>
-<p>で説明しかけダルくて放置したが、ざっと以下の機序だと推測する（観測データがほぼ皆無ゆえ推測しかできない）。まず、</p>
-<ul>
-<li>
-<p>(1) UFO の正体は自転する orb であり、</p>
-</li>
-<li>
-<p>(2) orb のサイズが小さい場合、分極効果が小さいので磁界が支配的となり自転軸は地磁気の方向に沿って水平になる。</p>
-</li>
-<li>
-<p>(3) orb のサイズが大きくなると、分極効果が大きくなるので電界が支配的となり自転軸は大気電界に沿って垂直になる(*1)。</p>
-</li>
-</ul>
-<p>という前提がある。そして 3 の場合、大気中の電界の変動の周期、振幅にそって以下のように UFO が運動する。</p>
-<ul>
-<li>
-<p>(3a) 上空の電界（垂直の向き）が小振幅で素早く（水平方向に）揺れると――垂直に立てた長い棒（＝電界）が小刻みに左右に揺れるイメージ―― orb の自転軸もグラつく。</p>
-</li>
-<li>
-<p>(3b) 上空の電界（垂直の向き）が大振幅でゆっくり揺れると――垂直に立てた長い棒が大きく左右に揺れるイメージ―― orb は落ち葉運動をする。</p>
-</li>
-<li>
-<p>(3c) 上空の電界が大振幅で素早く変化すると orb は一瞬で彼方へ飛び去る。</p>
-</li>
-</ul>
-<hr>
-<p>よく、UFO が空中に静止していたが、戦闘機が現場上空に飛来すると</p>
-<ul>
-<li>UFO は戦闘機をからかうように変幻自在な機動を示した、とか</li>
-<li>UFO は一瞬で彼方へ飛び去った</li>
-</ul>
-<p>という証言を見聞きするが、これは</p>
-<ul>
-<li>UFO が知的に操縦されているから</li>
-</ul>
-<p>ではなく、</p>
-<ul>
-<li>UFO(=orb) の周囲の電界が戦闘機（＋長いジェットエンジンからの排気：導電性が高い）の出現によって大きく乱されたため、orb の挙動がその電界変動に伴って変化した</li>
-</ul>
-<p>から、そう見えただけだろう。</p>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="1">(*1)<a href="https://ouchaku.github.io/ds/en/blog/2024/08/07/why_ufo_wobble#1" class="hash-link" aria-label="Direct link to (*1)" title="Direct link to (*1)">​</a></h3>
-<p>orb は大気電界（地表付近だと 100 V/m）に沿って分極するが、orb のサイズが大きくなるとその分極の効果が顕著になり、orb の下部にはプラスイオンが、上部にはマイナスイオンが集まる。</p>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="参考大気電界の向き">参考：大気電界の向き<a href="https://ouchaku.github.io/ds/en/blog/2024/08/07/why_ufo_wobble#%E5%8F%82%E8%80%83%E5%A4%A7%E6%B0%97%E9%9B%BB%E7%95%8C%E3%81%AE%E5%90%91%E3%81%8D" class="hash-link" aria-label="Direct link to 参考：大気電界の向き" title="Direct link to 参考：大気電界の向き">​</a></h3>
-<blockquote><a href="https://ouchaku.github.io/ds/img/20240614f_ig1-1-1.gif" target="_blank"><img alt="20240614f_ig1-1-1.gif" border="0" src="https://ouchaku.github.io/ds/img/20240614f_ig1-1-1.gif" width="90%"></a><p>ref: <a href="http://fnorio.com/0089thunderbolt1/thunderbolt1.html" target="_blank"></a><a href="http://fnorio.com/0089thunderbolt1/thunderbolt1.html" target="_blank" rel="noopener noreferrer">http://fnorio.com/0089thunderbolt1/thunderbolt1.html</a></p></blockquote>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="whisper-ailarge-v2-model--deepl">Whisper AI(large-v2 model) + DeepL<a href="https://ouchaku.github.io/ds/en/blog/2024/08/07/why_ufo_wobble#whisper-ailarge-v2-model--deepl" class="hash-link" aria-label="Direct link to Whisper AI(large-v2 model) + DeepL" title="Direct link to Whisper AI(large-v2 model) + DeepL">​</a></h2>
-<p>私の人生を大きく変えた次の重要な出来事は、1987年2月25日午後4時15分だった。
-娘が2階の自分の部屋から僕に向かって叫んだんだ。
-空飛ぶ円盤が見える。
-私は空飛ぶ円盤が実在するとは思っていなかったので、娘に「仕事中よ」と言い返した。
-(01:19:43)</p>
-<p>グッドイヤーの飛行船だ。
-グッドイヤーの飛行船だ。
-グッドイヤーの飛行船が どんなものか知ってる？
-パパ、早く来て。
-本気だ
-空飛ぶ円盤だよ。
-そこで私は階段を駆け上がり、6歳の息子と衝突しながら9歳の娘の部屋に飛び込んだ。
-白昼堂々、我が家の近くを旋回しながら、それは上空の雲から降りてきた。
-(01:20:08)</p>
-<p>私たちはそれを数分間、本当に近くで観察するのに十分なほど見ていた。
-これは、UFO研究センターで報告があったときの私の目撃についてのメモである。
-これが私の目撃メモだ。
-右側には、具体的なことを列挙した。
-音はなかった。
-音はしなかった。
-排気はなかった。
-舷窓はなかった。
-(01:20:34)</p>
-<p>古典的な円盤の形をしている。
-ドームはなく、さかさまにした皿の上にさかさまにした汁椀を乗せたような、右上がりの皿に浅い汁椀を乗せたような形だった。
-水平に飛んでいるときはとても安定していたが、ある位置でホバリングするとこのようになった。
-私はそれを、机の上で25セント硬貨を回すように表現した。
-机の上で25セント硬貨を回すと、机にぶつかりそうになると、グラグラと揺れるんだ。
-(01:21:05)</p>
-<p>そして私はUFOに魅了された。
-それから数カ月間、空飛ぶ円盤に関する本を何百冊も読んだだろう。そして、そのぐらつき効果は1947年までさかのぼる円盤の目撃談で報告されていることを知った。
-これは息子のノートで、彼の絵だった。
-小さな波線は、ぐらつきを示そうとする彼の方法だった。
-これは娘のメモだ。
-言ったように、私は本当に魅了された。
-(01:21:37)</p>
-<p>そして私は1991年、アリゾナ州ツーソンで開催された第1回世界UFO会議に行った。
-ウェンデル・スティーブンスはスポンサーの一人だった。
-(01:21:50)</p>
-<hr>
-<p>そして、そこで私の証明書の登録番号を見ると、私が一番最初に登録したことがわかる。
-早く着いたんだ。
-一番に並んだんだ。</p>
-<hr>
-<p>And the next pivotal event, which really changed my life, was 4.15 PM, February 25, 1987.
-That's when my daughter screamed at me from her room upstairs, and I was typing downstairs, and she said, Daddy, get upstairs right now.
-I see a flying saucer.
-And I didn't really think flying saucers were real, and I screamed back at her, I'm working.
-(01:19:43)</p>
-<p>It's a Goodyear blimp.
-Take another look.
-You know what a Goodyear blimp looks like?
-No, Daddy, get up here right now.
-I mean it.
-It's a flying saucer.
-So I ran up the stairs, colliding with my six-year-old son into my nine-year-old daughter's room, and we saw a flying saucer.
-In broad daylight, making maneuvers close to our house, it descended from a cloud high above.
-(01:20:08)</p>
-<p>We watched it for minutes, enough to make a lot of really close observations.
-These were the notes about my sighting when there was a report at the Center for UFO Studies.
-These were my notes on the sighting.
-On the right-hand side there, I listed all the specific things.
-It was soundless.
-It didn't make a sound.
-There was no exhaust.
-There were no portholes.
-(01:20:34)</p>
-<p>Classic saucer shape.
-No a dome, like an upside-down soup bowl on top of an upside-down plate, meeting a right-side-up plate, meeting a shallow soup bowl.
-And it was very stable when it flew horizontally, but when it hovered in one position, it went like this.
-And I described it like if you spun a quarter on a desk.
-As the quarter is getting close to hitting the desk, it's that kind of a wobble.
-(01:21:05)</p>
-<p>And I became so fascinated about UFOs.
-In the months following, I probably read hundreds of books about flying saucers, and I saw that that wobble effect had been reported in saucer sightings going back to 1947.
-This was my son's notes, his drawing.
-And the little, the wavy lines, it was his way of trying to show the wobble.
-That was my daughter's notes.
-As I say, I was absolutely fascinated.
-(01:21:37)</p>
-<p>And I went in 1991 to the first World UFO Congress in Tucson, Arizona.
-Wendell Stevens was one of the sponsors.
-(01:21:50)</p>
-<hr>
-<p>And if you look at the registration number on my certificate there, you'll see I was the first person to register, number one.
-I got there early.
-I was first in line.</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="動画21319">動画(2:13:19)<a href="https://ouchaku.github.io/ds/en/blog/2024/08/07/why_ufo_wobble#%E5%8B%95%E7%94%BB21319" class="hash-link" aria-label="Direct link to 動画(2:13:19)" title="Direct link to 動画(2:13:19)">​</a></h2>
-<p>Paul Davids (11-19-2019) Motion Pictures and Non-Conventional Consciousness</p>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Mf5hpuN2rq4?si=1hDNFlpsJDhf9vCG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin"></iframe>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="��動画概要欄">動画概要欄<a href="https://ouchaku.github.io/ds/en/blog/2024/08/07/why_ufo_wobble#%E5%8B%95%E7%94%BB%E6%A6%82%E8%A6%81%E6%AC%84" class="hash-link" aria-label="Direct link to 動画概要欄" title="Direct link to 動画概要欄">​</a></h3>
-<p>3,500 views  Dec 10, 2019</p>
-<p>著名なプロデューサー／映画監督であるポール・デイヴィッズは、70代になった現在、自身の人生経験には科学的な理解を超えたさまざまな不可解な出来事が含まれていると語る。プリンストン大学（心理学専攻）を卒業後、アメリカン・フィルム・インスティテュート（AFI）高等映画研究センターでフェローシップを修了したポールは、UFO、オルタナティブ・ヒストリー、"超常現象 "に興味を持つ人々が求める核心に迫る映画の製作者となった。</p>
-<p>1987年に2人の子供と目撃した日中の円盤は、彼がショータイムの『ロズウェル』の共同脚本家兼製作総指揮者となるきっかけとなった： The UFO Cover-up』（1994年）の共同脚本家兼製作総指揮となった。また、死後の世界や "霊界 "でのコミュニケーションを示唆する体験（物的証拠を含む）もしている。輪廻転生、ディープ・ヒプノシス、幽霊と霊、シャーマニズム、シンクロニシティ、サイケデリック体験、さらには聖母マリアの出現、イエスの行方不明時代、その他の聖書の謎など、彼の興味は長年にわたってあらゆる種類の「超常現象」に広がっていった。</p>
-<p>ポールは、2019年7月にアーバインで開催されたMUFON国際シンポジウムのクロージング・スピーカーとして講演し、多くの賞賛を受けた。そして今回、ポールは11月のスピーカーとして、まったく異なる講演を届けてくれる。テーマは「非従来型意識」と映画だ。彼は映画史を検証し、"エスタブリッシュメント "から敬遠されるテーマを扱った主要な映画のいくつかに焦点を当て、彼自身の映画の多くがそれらのテーマに合致していることを示すだろう。ハリウッドから遠く離れた郊外のごく「真っ当な」コミュニティーに生まれ、両親は無宗教者で「奇妙な」題材の一切を信じていなかった少年が、どのようにしてそれを受け入れるようになったのか--いわゆる「主流派」が常に否定しようとするような多くの題材を、なぜ彼が猛烈に支持するようになったのか--という疑問に答えようとする。ポールは、彼の人生における説明不可能な出来事や、彼が歩んできた人生の方向性にインスピレーションを与えた出来事について、詳しく話してくれるだろう。</p>
-<p>ポールは、この講演が超常現象のジェットコースターのような盛り上がりを見せることを約束する。</p>
-<hr>
-<p>Having now reached his 70’s, noted producer / director Paul Davids states that his life experiences include a variety of mind-boggling incidents that defy scientific understanding. After graduating from Princeton University (with a degree in psychology) and completing a fellowship at the American Film Institute (AFI) Center for Advanced Film Studies, Paul became filmmaker of motion pictures that go to the heart of what those interested in UFO’s, alternative history and the “paranormal” are seeking.</p>
-<p>His 1987 daylight saucer sighting with his two children became a catalyst for him to become the co-writer and executive producer of Showtime’s “Roswell: The UFO Cover-up” (1994). He has also had experiences (including with physical evidence) that suggest afterlife or “spirit world” communication. His interests expanded over the years to include all types of “paranormal” phenomena: reincarnation, deep hypnosis, ghosts and spirits, shamanism, synchronicities, psychedelic experiences and even apparitions of the Virgin Mary, Jesus’ missing years and other Biblical mysteries.</p>
-<p>Paul received much praise for his presentation as the closing speaker at the July 2019 MUFON International Symposium in Irvine. Now Paul brings us a completely different talk as our November speaker. The theme is “non-conventional consciousness” and motion pictures. He will examine film history to highlight some of the major films that deal with topics shunned by the “Establishment,” and he will show that many of his own films fit in with those themes. He will try to answer the question as to how a boy from a very “straight” suburban community very far from Hollywood, whose parents were agnostics who didn’t believe in ANY of the “strange” subjects he came to embrace – how it is that he came a fierce proponent of so many topics that the so-called “mainstream” always tries to debunk. He will give us intimate details of events in his life defy explanation and inspired him toward the directions in life he has taken.</p>
-<p>Paul promises this presentation will be a rousing, paranormal roller coaster ride.</p>
-<p>(2024-06-14)</p>]]></content:encoded>
-            <category>UFO</category>
-        </item>
-        <item>
-            <title><![CDATA[Ryan Sprague の三角形型 UFO 目撃体験]]></title>
-            <link>https://ouchaku.github.io/ds/en/blog/2024/08/06/ryan_tri_ufo</link>
-            <guid>https://ouchaku.github.io/ds/en/blog/2024/08/06/ryan_tri_ufo</guid>
-            <pubDate>Tue, 06 Aug 2024 00:00:00 GMT</pubDate>
-            <description><![CDATA[Whisper AI(large-v2 model) + DeepL(2024-07 model)]]></description>
-            <content:encoded><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="whisper-ailarge-v2-model--deepl2024-07-model">Whisper AI(large-v2 model) + DeepL(2024-07 model)<a href="https://ouchaku.github.io/ds/en/blog/2024/08/06/ryan_tri_ufo#whisper-ailarge-v2-model--deepl2024-07-model" class="hash-link" aria-label="Direct link to Whisper AI(large-v2 model) + DeepL(2024-07 model)" title="Direct link to Whisper AI(large-v2 model) + DeepL(2024-07 model)">​</a></h2>
-<p>ええ、私の原点は興味深いものです。12歳の時にUFOを目撃したことがあります。
-(00:01:18)</p>
-<p>その時のことを教えてください。
-ええ、波止場で釣りをしていた時のことです。ちょうど夜になっていました。90年代半ばのことです。
-年齢を明かすつもりはありませんが、私は糸を巻き上げていたのですが、水面に光の反射が見えたんです。
-3つの白い光で、それから見上げると、頭上に何かが浮かんでいたんです。それが何だったのかは言えません。
-(00:01:40)</p>
-<p>3つの白い光で、真ん中に赤っぽい霞んだ光のようなものがあって、それはただそこに浮かんでいて、三角形のフォーメーションでした。
-構造物や宇宙船のようには見えませんでしたが、その後ろに星のようなものが見えるわけでもなく、私はただ立ち尽くしていました。
-動くこともできず、どう反応していいかもわかりませんでした。それは水面に浮かんだままカナダの方へ消えていきました。
-(00:02:01)</p>
-<p>ここはアメリカとカナダの国境にあり、私の人生を変えました。
-その後何年も悪夢にうなされました。UFOに夢中になりましたが、恐怖に支配されるのではなく、自分自身で勉強し始めました。
-UFOに関する本を読み、他のUFO目撃者と話し、それを自分の人生に取り入れ、受け入れました。そして今では、UFOが大好きです。
-(00:02:26)</p>
-<hr>
-<p>Yeah, my origin story is interesting. I did have a UFO sighting when I was 12 years old.
-(00:01:18)</p>
-<p>Tell me about that, please.
-Yeah, so I was fishing off a dock. It had just turned nighttime. This is back in the mid-90s.
-I don't want to give away my age, but I was reeling my line in and I saw a reflection of lights in the water.
-Three white lights, and then I look up and there's something above me. I can't tell you what it was.
-(00:01:40)</p>
-<p>Three white lights, one sort of like red hazy light in the middle, and it was just floating there, a triangular formation.
-I didn't see like a structure or like a craft, but I couldn't see like stars behind it or anything, and I was frozen there.
-I couldn't move. I didn't know how to react, and it floated over the water and it disappeared towards Canada.
-(00:02:01)</p>
-<p>This is right on the border of the US and Canada, and it changed my life.
-I had nightmares for years after that. I became obsessed with UFOs, but instead of kind of letting that fear take over, I started to educate myself.
-I would take out books on UFOs and speak to people, other people who've had UFO sightings, and took that into my life and embraced it, and now I'm, you know, I love it. I love doing it.
-(00:02:26)</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="コメント">コメント<a href="https://ouchaku.github.io/ds/en/blog/2024/08/06/ryan_tri_ufo#%E3%82%B3%E3%83%A1%E3%83%B3%E3%83%88" class="hash-link" aria-label="Direct link to コメント" title="Direct link to コメント">​</a></h2>
-<p>以下の証言、</p>
-<blockquote><p>3つの白い光で、真ん中に赤っぽい霞んだ光のようなものがあって、それはただそこに浮かんでいて、三角形のフォーメーションでした。
-構造物や宇宙船のようには見えませんでしたが、その後ろに星のようなものが見えるわけでもなく、</p></blockquote>
-<p>には注意する必要がある。人間の目は暗い場所で明るい光を見ると、その光の周囲に存在する暗いものは見えなくなる（自動車免許更新の講習で習う筈）。つまり、その白や赤の光点の光が強ければ、それら背後に星があっても目はそれを感知できない(*1)。</p>
-<p>もっと体感できる具体例を挙げると、かなり田舎の夜空でも月夜に天の川（我々の銀河系）が目につくことはない。だが、長時間露光で撮影すると写る。つまり、月の光が明るいために肉眼では天の川が見えなくなっている。</p>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="1">(*1)<a href="https://ouchaku.github.io/ds/en/blog/2024/08/06/ryan_tri_ufo#1" class="hash-link" aria-label="Direct link to (*1)" title="Direct link to (*1)">​</a></h3>
-<div class="theme-admonition theme-admonition-note admonition_xJq3 alert alert--secondary"><div class="admonitionHeading_Gvgb"><span class="admonitionIcon_Rf37"><svg viewBox="0 0 14 16"><path fill-rule="evenodd" d="M6.3 5.69a.942.942 0 0 1-.28-.7c0-.28.09-.52.28-.7.19-.18.42-.28.7-.28.28 0 .52.09.7.28.18.19.28.42.28.7 0 .28-.09.52-.28.7a1 1 0 0 1-.7.3c-.28 0-.52-.11-.7-.3zM8 7.99c-.02-.25-.11-.48-.31-.69-.2-.19-.42-.3-.69-.31H6c-.27.02-.48.13-.69.31-.2.2-.3.44-.31.69h1v3c.02.27.11.5.31.69.2.2.42.31.69.31h1c.27 0 .48-.11.69-.31.2-.19.3-.42.31-.69H8V7.98v.01zM7 2.3c-3.14 0-5.7 2.54-5.7 5.68 0 3.14 2.56 5.7 5.7 5.7s5.7-2.55 5.7-5.7c0-3.15-2.56-5.69-5.7-5.69v.01zM7 .98c3.86 0 7 3.14 7 7s-3.14 7-7 7-7-3.12-7-7 3.14-7 7-7z"></path></svg></span>ChatGPT-4o</div><div class="admonitionContent_BuS1"><p>明るい光源の周囲のものが見えづらくなる現象は、一般的には「<strong>グレア（glare）</strong>」として知られています。特に、対向車のヘッドライトなどが原因で視覚が妨げられる場合は「<strong>眩惑（blinding glare）</strong>」または「<strong>不快グレア（disability glare）</strong>」と呼ばれることがあります。この現象は、光の強い反射や散乱によって網膜に余計な光が入り、コントラストが低下して視覚情報の処理が難しくなることによって起こります。</p><p>この現象は、特に夜間運転時の安全性に大きく関わるため、視覚科学や実験心理学の分野で研究が行われています。</p></div></div>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="動画624">動画(6:24)<a href="https://ouchaku.github.io/ds/en/blog/2024/08/06/ryan_tri_ufo#%E5%8B%95%E7%94%BB624" class="hash-link" aria-label="Direct link to 動画(6:24)" title="Direct link to 動画(6:24)">​</a></h2>
-<p>Ryan on his Roswell Investigation and his Book (IDEATE TV)</p>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3DKRz4H52fI?si=OxwmYlmVTbu9soSJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin"></iframe>
-<p><a href="http://www.youtube.com/watch?v=3DKRz4H52fI" target="_blank" rel="noopener noreferrer">www.youtube.com/watch?v=3DKRz4H52fI</a></p>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="動画概要欄">動画概要欄<a href="https://ouchaku.github.io/ds/en/blog/2024/08/06/ryan_tri_ufo#%E5%8B%95%E7%94%BB%E6%A6%82%E8%A6%81%E6%AC%84" class="hash-link" aria-label="Direct link to 動画概要欄" title="Direct link to 動画概要欄">​</a></h3>
-<p>400 views  Jul 27, 2024</p>
-<p>(2024-08-06)</p>]]></content:encoded>
-            <category>UFO</category>
-        </item>
-        <item>
-            <title><![CDATA[Michael Schratt：UFO を軍用機が射撃、命中。その様子をガンカメラで撮影（＋追加）]]></title>
-            <link>https://ouchaku.github.io/ds/en/blog/2024/08/06/shoot_down_order</link>
-            <guid>https://ouchaku.github.io/ds/en/blog/2024/08/06/shoot_down_order</guid>
-            <pubDate>Tue, 06 Aug 2024 00:00:00 GMT</pubDate>
-            <description><![CDATA[履歴]]></description>
-            <content:encoded><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="履歴">履歴<a href="https://ouchaku.github.io/ds/en/blog/2024/08/06/shoot_down_order#%E5%B1%A5%E6%AD%B4" class="hash-link" aria-label="Direct link to 履歴" title="Direct link to 履歴">​</a></h2>
-<p>(2024-08-06) 文章や画像を追加・統合。和訳を変更。コメントを追加。</p>
-<p>(2023-10-10) 作成。<a href="http://news21c.blog.fc2.com/blog-entry-21439.html" target="_blank">❑ Michael Schratt : UFO を戦闘機が射撃、命中。その様子をガンカメラが撮影</a> (2023-10-10)</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="前置き">前置き<a href="https://ouchaku.github.io/ds/en/blog/2024/08/06/shoot_down_order#%E5%89%8D%E7%BD%AE%E3%81%8D" class="hash-link" aria-label="Direct link to 前置き" title="Direct link to 前置き">​</a></h2>
-<p>タイトルの趣旨の証言を Michael Schratt （下：左下の引用者によって顔が塞がれている）が取り上げている。</p>
-<a href="https://ouchaku.github.io/ds/img/20231010_sd.jpg" target="_blank"><img alt="20231010_sd.jpg" border="0" src="https://ouchaku.github.io/ds/img/20231010_sd.jpg" width="90%"></a>
-<p>Michael Schratt のその発言部分だけを 文字起こし＋日本語訳 しておく。</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="静止画">静止画<a href="https://ouchaku.github.io/ds/en/blog/2024/08/06/shoot_down_order#%E9%9D%99%E6%AD%A2%E7%94%BB" class="hash-link" aria-label="Direct link to 静止画" title="Direct link to 静止画">​</a></h2>
-<a href="https://ouchaku.github.io/ds/img/2024-08-06_17h42_13.jpg" target="_blank"><img alt="2024-08-06_17h42_13.jpg" border="0" src="https://ouchaku.github.io/ds/img/2024-08-06_17h42_13.jpg" width="90%"></a>
-<a href="https://ouchaku.github.io/ds/img/2024-08-06_17h42_30.jpg" target="_blank"><img alt="2024-08-06_17h42_30.jpg" border="0" src="https://ouchaku.github.io/ds/img/2024-08-06_17h42_30.jpg" width="90%"></a>
-<a href="https://ouchaku.github.io/ds/img/2024-08-06_17h42_52.jpg" target="_blank"><img alt="2024-08-06_17h42_52.jpg" border="0" src="https://ouchaku.github.io/ds/img/2024-08-06_17h42_52.jpg" width="90%"></a>
-<blockquote><p>SPECIAL NOTE
-I heard you speak at the MUFON symposium in Dayton last year, and I am interested in your research on "Retrievals of the Third Kind". I gave a talk at a local library last week, and in the discussion period following, a fellow told me that when he was a gunner in the Air Force he had emptied his guns on a UFO, and had taken pictures with his gun camera that clearly showed the shells exploding against the side of the craft.</p><p>He said the camera was taken off the wing of his plane when it landed and the pictures developed. At 2:00 AM, a couple of military policeman came and got him out of bed, and took him to the base auditorium.</p><p>They ran the 17 seconds of movie of the UFO over and over and questioned him, and two other crew members until 10:00 AM. He was warned never to tell anyone what had happened.</p><p>He said he had a wife and family, a good job, and a lot to loose. He seemed afraid of the CIA., and wouldn't even give me his name. Ref: letter to Leonard Stringfield from Mildred Biesele,
-October 2, 1979.</p><p>特記事項
-私は昨年デイトンで開催されたMUFONシンポジウムであなたの講演を聞いた。先週、地元の図書館で講演をしたのだが、その後のディスカッションの時間に、ある人が空軍の砲手だったとき、UFOに砲弾を撃ち込み、砲弾が機体の側面で爆発しているところをガンカメラで撮影したことがあると話してくれた。</p><p>彼は、飛行機が着陸し、写真が現像されたとき、カメラは翼から外されたと言った。午前2時、数人の憲兵がやってきて彼をベッドから起こし、基地の講堂に連れて行った。</p><p>彼らはUFOの17秒間の映像を何度も何度も流し、彼と他の2人の乗組員に午前10時まで尋問した。彼は、何が起こったのか誰にも話さないように警告された。</p><p>彼は、妻と家族がいて、仕事もあり、失うものも多いと言った。彼はCIAを恐れているようで、自分の名前さえ教えてくれなかった。参考：ミルドレッド・ビースルからレナード・ストリングフィールドへの手紙、
-1979年10月2日</p><a href="https://ouchaku.github.io/ds/img/2024-08-06_17h43_59.jpg" target="_blank"><img alt="2024-08-06_17h43_59.jpg" border="0" src="https://ouchaku.github.io/ds/img/2024-08-06_17h43_59.jpg" width="90%"></a></blockquote>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="コメント-1">コメント 1<a href="https://ouchaku.github.io/ds/en/blog/2024/08/06/shoot_down_order#%E3%82%B3%E3%83%A1%E3%83%B3%E3%83%88-1" class="hash-link" aria-label="Direct link to コメント 1" title="Direct link to コメント 1">​</a></h2>
-<p>以下、タイトルの趣旨の証言に捏造がないと仮定した場合、UFO は本当に射撃されたのだろうか？ 残念ながら YES とはならない。</p>
-<p>軍用機、たぶん軽爆撃機兼攻撃機の A-26 (*1)が orb に向けて射撃し、砲弾(*2)が orb の間近で発火したという話だろう。WWII の頃には Foo Fighter と呼ばれる orb が戦闘機や爆撃機の周囲に頻繁に目撃されていた。</p>
-<p>この証言の事件も、A-26 の付近に出現した orb を UFO と誤認し、それに射撃したのだろう。実際、UFO に軍用機が発砲し、砲弾が命中したとまでは言われているが、UFO が撃墜されたとは述べていないのがその証拠。砲弾が UFO の機体に損傷を与えた とか UFO の飛行がふらついた とすら言われていない。</p>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="1">(*1)<a href="https://ouchaku.github.io/ds/en/blog/2024/08/06/shoot_down_order#1" class="hash-link" aria-label="Direct link to (*1)" title="Direct link to (*1)">​</a></h3>
-<p>砲手が搭乗していることや、「彼と他の2人の乗組員」という証言などから A-26 あたりに絞られる筈。</p>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="2">(*2)<a href="https://ouchaku.github.io/ds/en/blog/2024/08/06/shoot_down_order#2" class="hash-link" aria-label="Direct link to (*2)" title="Direct link to (*2)">​</a></h3>
-<p>文脈からして徹甲弾ではなく焼夷弾か。</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="コメント-2">コメント 2<a href="https://ouchaku.github.io/ds/en/blog/2024/08/06/shoot_down_order#%E3%82%B3%E3%83%A1%E3%83%B3%E3%83%88-2" class="hash-link" aria-label="Direct link to コメント 2" title="Direct link to コメント 2">​</a></h2>
-<p>仮に、タイトルの趣旨の証言は捏造だったとしても、軍がパイロットに「UFO を発見したら撃墜せよ！」という命令を一時的にせよ 1952年頃に通達したのは事実だろう。上の切り出し静止画の新聞記事だけではなく、多数の証言があるゆえ。</p>
-<p>よって、</p>
-<ul>
-<li>米政府は 1952年の時点では UFO が自然現象だとは判断していなかった</li>
-</ul>
-<p>ことになる。</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="動画1258">動画(12:58)<a href="https://ouchaku.github.io/ds/en/blog/2024/08/06/shoot_down_order#%E5%8B%95%E7%94%BB1258" class="hash-link" aria-label="Direct link to 動画(12:58)" title="Direct link to 動画(12:58)">​</a></h2>
-<p>"Shoot Down All the UFOs!"</p>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nCbg1-zIL58?si=e7DIYPxaW4E3GGUo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin"></iframe>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="動画概要欄">動画概要欄<a href="https://ouchaku.github.io/ds/en/blog/2024/08/06/shoot_down_order#%E5%8B%95%E7%94%BB%E6%A6%82%E8%A6%81%E6%AC%84" class="hash-link" aria-label="Direct link to 動画概要欄" title="Direct link to 動画概要欄">​</a></h3>
-<p>500 views  May 18, 2023  #skinwalker #uap #ufologie</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="whisper-ailarge-v2-model--deepl2024-07-model">Whisper AI(large-v2 model) + DeepL(2024-07 model)<a href="https://ouchaku.github.io/ds/en/blog/2024/08/06/shoot_down_order#whisper-ailarge-v2-model--deepl2024-07-model" class="hash-link" aria-label="Direct link to Whisper AI(large-v2 model) + DeepL(2024-07 model)" title="Direct link to Whisper AI(large-v2 model) + DeepL(2024-07 model)">​</a></h2>
-<p>米空軍は、自国のパイロットたちに、どんな犠牲を払ってでもこれを撃墜せよ、撃墜せよと命じる公式の命令を出していました。これは1952年7月29日付のシンシナティ・インクワイアラー紙の記事です。ジェット機のパイロットたちは24時間体制の航空警戒態勢で、空飛ぶ円盤を撃墜せよとの命令を受けていました。
-次に、ジェット機は空飛ぶ円盤に対して24時間体制で警戒を続け、物体が空飛ぶ円盤の航跡に着陸しない場合は撃墜するようパイロットに命令が下されました。パイロットには空飛ぶ円盤を撃墜するよう伝えられ、ジェット機は24時間体制で空飛ぶ円盤を撃墜するよう警戒していました。では、なぜ私がこんなことを話しているのでしょうか?
-(00:03:37)</p>
-<p>これはジェット戦闘機、F-94 スターファイアで、空からこれらを撃墜するために使用されていました。
-(00:03:44)</p>
-<hr>
-<p>デビッドソン・モンサンに行けば、そこには航空博物館があります。オハイオ州デイトンに行けば、そこにも航空博物館があります。上の写真はボーンヤードで撮影したもので、博物館の外を歩き回ることができます。この機体の前方の鼻の部分には4つのハッチがあり、このハッチが引っ込んで開きます。また、下にある空軍博物館では、これらの物体を撃墜しようと発射されたロケットチューブのすべてを見ることができます。
-(00:04:11)</p>
-<p>これは、円盤型の宇宙船を撃墜するために使われた航空機です。これが、迎撃を試みた際にどう見えたかを想像したものです。
-これは重要なことなので取り上げたいと思います。これはレナードの本に載っているもので、レナード・スプリングフィールドに手紙を書いた女性からのものです。彼女の名前はミルドレッド・ビセルで、日付は1979年10月2日です。これはとても重要なことです。引用します。「私は昨年デイトンで行われたMUFONシンポジウムであなたの講演を聞きました。そして、第三種接近遭遇の研究に興味を持っています。
-(00:04:48)</p>
-<p>先週、地元の図書館で講演を行いましたが、その後の質疑応答の時間で、ある男性が、空軍で砲手として勤務していた時にUFOに向けて砲撃を行い、砲撃用のカメラで撮影した写真には、UFOの側面に砲弾が爆発する様子がはっきりと写っていたと話してくれました。
-彼は、そのカメラは着陸時に飛行機の翼から取り外され、現像されたと言いました。
-(00:05:14)</p>
-<p>午前2時、数人の憲兵がやって来て彼をベッドから引きずり出し、基地の講堂に連れて行きました。
-彼らは、午前10時まで、17秒間のUFOの動画を何度も繰り返し再生し、彼と他の2人の乗組員に質問しました。
-彼は、何が起こったかを誰にも話さないよう警告されました。
-彼は、妻と家族がおり、良い仕事もしており、失うものがたくさんあると述べました。
-(00:05:37)</p>
-<p>彼はCIAを恐れているようで、私にさえ名前を明かそうとしませんでした。
-これが、この物体に砲弾の雨を浴びせ、命中した様子を、ガンカメラのフィルムに収めたパイロットの例です。
-その映像、ぜひ見てみたいものです。
-ええ。
-ええ。
-フランクは本を書いています。
-(00:05:59)</p>
-<p>はい、その通りです。
-第二次世界大戦で起こったこと、韓国で起こったこと、ベトナムで起こったこと、そして、おそらく砂漠の嵐作戦でも起こったことでしょう。
-ですから、これらのものが命中し追跡され、記録された銃カメラ映像がある4つの紛争があります。
-問題は、その映像はどこにあるのか?
-ペンタゴンの地下金庫にあるのか?
-(00:06:29)</p>
-<p>それはアンドリュース空軍基地にあるのでしょうか?
-それともオハイオ州デイトンにあるのでしょうか?
-写真保管庫はどこにあるのでしょうか?
-ええ、ガンカメラの映像はどこにあるのでしょうか?
-(00:06:37)</p>
-<hr>
-<p>There was an official standing order by the U.S. Air Force told to our own pilots to shoot these things down at any cost, shoot these things down, so this is Cincinnati Inquirer, July 29th, 1952, shoot saucers down, jet pilots so ordered in 24-hour air alert.
-Next one, jets keep 24-hour alert for saucers, pilots ordered to down objects if they don't land on the saucer trail, pilots told shoot them down, jets on 24-hour alert to shoot down saucers, so why am I getting into all this?
-(00:03:37)</p>
-<p>These are the jets, F-94 Starfarer that they were using to try to intercept and knock these things out of the sky.
-(00:03:44)</p>
-<hr>
-<p>If you go to Davis-Monthan, they have an air museum there, and if you go to Dayton, Ohio, they have an air museum there, the upper one is from the Boneyard, where you can walk around their museum outside here, and you can see on the front nose of this thing, there's four hatches, these hatches retract and they open up, and on the bottom at the Air Force Museum, you can see all of the rocket tubes that launch out to try to take these things down.
-(00:04:11)</p>
-<p>This is the aircraft that they were using to try to shoot these disk-shaped craft down, so here's the rendering of what this might have looked like when they were doing an attempted intercept.
-Now, I want to bring this up, because this is critical, this is in Leonard's book here, and this is from a woman who wrote to Leonard Springfield, her name is Mildred Bissell, the date on this is October 2nd, 1979, it's very important, quote, I heard you speak at the MUFON Symposium in Dayton last year, and I'm interested in your research on retrievals of the third kind.
-(00:04:48)</p>
-<p>I gave a talk at a local library last week, and in the discussion period following, a fellow told me that when he was a gunner in the Air Force, he had emptied his guns on a UFO, and had taken pictures with his gun camera that clearly showed the shells exploding against the side of the craft.
-He said the camera was taken off the wing of his plane when it landed, and the pictures developed.
-(00:05:14)</p>
-<p>At 2 a.m., a couple of military policemen came and got him out of bed and took him to the base auditorium.
-They ran the 17 seconds of movie of the UFO over and over and questioned him and two other crew members until 10 a.m.
-He was warned never to tell anyone what had happened.
-He said he had a wife and family, a good job, and a lot to lose.
-(00:05:37)</p>
-<p>He seemed afraid of the CIA and wouldn't even give me his name.
-So here's an example of one of these pilots who unloaded an entire, you know, barrage of shells on this thing, it hit the craft, and they got it on motion picture film reel gun camera footage.
-Now you know- That footage, that's the footage I would love to see.
-Yeah.
-Yeah.
-Frank wrote a book.
-(00:05:59)</p>
-<p>Yep, that's right, that's right.
-You know that this happened in World War II, this happened in Korea, this happened in Vietnam, and we can bet that it also happened probably during Desert Storm.
-So we've got four conflicts where they've got gun camera footage of these things being hit and tracked and also being recorded.
-The question is, where is the footage?
-Is it at an underground Pentagon vault?
-(00:06:29)</p>
-<p>Is it at Andrews Air Force Base?
-Is it at right field Dayton, Ohio?
-Where is the photo vault?
-Yeah, where is the gun camera footage?
-(00:06:37)</p>
-<p>(2023-10-10)<br>
-(2024-08-06)</p>]]></content:encoded>
             <category>UFO</category>
         </item>
     </channel>
