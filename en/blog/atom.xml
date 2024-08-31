@@ -2,11 +2,101 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ouchaku.github.io/ds/en/blog</id>
     <title>UFO/Bigfoot/Missing-411/Supernatural Research Blog</title>
-    <updated>2024-08-30T00:00:00.000Z</updated>
+    <updated>2024-08-31T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://ouchaku.github.io/ds/en/blog"/>
     <subtitle>UFO/Bigfoot/Missing-411/Supernatural Research Blog</subtitle>
     <icon>https://ouchaku.github.io/ds/en/img/favicon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[LLM AI (ChatGPT-4o) の意外な躓き]]></title>
+        <id>https://ouchaku.github.io/ds/en/blog/2024/08/31/ai_flaw</id>
+        <link href="https://ouchaku.github.io/ds/en/blog/2024/08/31/ai_flaw"/>
+        <updated>2024-08-31T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[要旨]]></summary>
+        <content type="html"><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="要旨">要旨<a href="https://ouchaku.github.io/ds/en/blog/2024/08/31/ai_flaw#%E8%A6%81%E6%97%A8" class="hash-link" aria-label="Direct link to 要旨" title="Direct link to 要旨">​</a></h2>
+<p>既に有名な話だが、</p>
+<ul>
+<li>9.11 と 9.9 ではどちらが数値として大きいか？</li>
+</ul>
+<p>この問題を多くの LLM AI は間違えて、「9.11 の方が大きい」と答える。また、</p>
+<ul>
+<li>"strawberry" という単語に含まれる r の文字は何個か？</li>
+</ul>
+<p>という簡単な質問にも間違える。</p>
+<p>同様にして、ChatGPT-4o は如何にも深く理解していそうな口ぶりだが、完全に間違ってしまう、（人間にとっては）簡単な具体例（下図）に出くわしたので取り上げる。</p>
+<a href="https://ouchaku.github.io/ds/img/20240831_can3.jpg" target="_blank"><img alt="20240831_can3.jpg" border="0" src="https://ouchaku.github.io/ds/img/20240831_can3.jpg" width="90%"></a>
+<p>このような簡単な間違いは、LLM AI が自らの（ロボットの）身体を使って物理的な相互作用の中で現実世界を学習しないと容易には解決できない筈。</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="関連">関連<a href="https://ouchaku.github.io/ds/en/blog/2024/08/31/ai_flaw#%E9%96%A2%E9%80%A3" class="hash-link" aria-label="Direct link to 関連" title="Direct link to 関連">​</a></h2>
+<p><a href="https://ouchaku.github.io/ds/en/blog/2024/08/31/rolling_can">凍らせた缶コーヒーは普通の缶コーヒーより遅く転がる。その直感的な解説</a></p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="chatgpt-4o-が根本的に理解できていない事例">ChatGPT-4o が根本的に理解できていない事例<a href="https://ouchaku.github.io/ds/en/blog/2024/08/31/ai_flaw#chatgpt-4o-%E3%81%8C%E6%A0%B9%E6%9C%AC%E7%9A%84%E3%81%AB%E7%90%86%E8%A7%A3%E3%81%A7%E3%81%8D%E3%81%A6%E3%81%84%E3%81%AA%E3%81%84%E4%BA%8B%E4%BE%8B" class="hash-link" aria-label="Direct link to ChatGPT-4o が根本的に理解できていない事例" title="Direct link to ChatGPT-4o が根本的に理解できていない事例">​</a></h2>
+<div class="theme-admonition theme-admonition-note admonition_xJq3 alert alert--secondary"><div class="admonitionHeading_Gvgb"><span class="admonitionIcon_Rf37"><svg viewBox="0 0 14 16"><path fill-rule="evenodd" d="M6.3 5.69a.942.942 0 0 1-.28-.7c0-.28.09-.52.28-.7.19-.18.42-.28.7-.28.28 0 .52.09.7.28.18.19.28.42.28.7 0 .28-.09.52-.28.7a1 1 0 0 1-.7.3c-.28 0-.52-.11-.7-.3zM8 7.99c-.02-.25-.11-.48-.31-.69-.2-.19-.42-.3-.69-.31H6c-.27.02-.48.13-.69.31-.2.2-.3.44-.31.69h1v3c.02.27.11.5.31.69.2.2.42.31.69.31h1c.27 0 .48-.11.69-.31.2-.19.3-.42.31-.69H8V7.98v.01zM7 2.3c-3.14 0-5.7 2.54-5.7 5.68 0 3.14 2.56 5.7 5.7 5.7s5.7-2.55 5.7-5.7c0-3.15-2.56-5.69-5.7-5.69v.01zM7 .98c3.86 0 7 3.14 7 7s-3.14 7-7 7-7-3.12-7-7 3.14-7 7-7z"></path></svg></span>対話</div><div class="admonitionContent_BuS1"><p>User:</p><p>以上の議論（*1）を踏まえて、以下のような一般人向けの解説用イラスト画像を作成して。</p><p>論旨が容易に実感できるように、以下のように若干誇張したイラストにします。</p><ul>
+<li>
+<p>イラストは子供も見るので、缶ビールではなく、コーヒー缶にします。</p>
+</li>
+<li>
+<p>（電動ロクロではなく）直径 3m ほどの大きな回転台の上に、ドラム缶のような誇張したサイズのコーヒー缶が 1本載っています。回転台の中央に缶が縦に載っています。</p>
+</li>
+<li>
+<p>その大きな回転台の台の周囲には、放射状に 4本の棒が 50cm ほど伸びています。棒は回転台の周囲に、時計でいえば 12時、3時、6時、9時の方向に伸びています。その棒を人間が渾身の力で押して回転させています。</p>
+</li>
+</ul><hr style="height:3px;border-width:3px;color:orange;background-color:blue"><p>ChatGPT-4o:</p><a href="https://ouchaku.github.io/ds/img/20240831_can1.jpg" target="_blank"><img alt="20240831_can1.jpg" border="0" src="https://ouchaku.github.io/ds/img/20240831_can1.jpg" width="90%"></a><p>イラストが完成しました。このイラストは、回転台に大きなコーヒー缶が載せられ、周囲で人々が棒を使って一生懸命回転させている様子を描いています。このイメージを使って、回転の仕組みを子供にもわかりやすく説明することができると思います。</p><hr style="height:3px;border-width:3px;color:orange;background-color:blue"><p>User:</p><p>いいですね。わかり易くて、若干おかしみもある良いイラストです。このイラストに対比する意味でもう一枚以下のイラストを作成して。それは、緩やかな坂道を先のイラストにあったのと同じ（ドラム缶サイズの大きな）コーヒー缶が転がっているイラストです。イラストの画風は先のイラストにマッチさせて。</p><hr style="height:3px;border-width:3px;color:orange;background-color:blue"><p>ChatGPT-4o:</p><a href="https://ouchaku.github.io/ds/img/20240831_can2.jpg" target="_blank"><img alt="20240831_can2.jpg" border="0" src="https://ouchaku.github.io/ds/img/20240831_can2.jpg" width="90%"></a><p>もう一枚のイラストが完成しました。このイラストでは、大きなコーヒー缶が緩やかな坂道を転がり始めている様子が描かれています。先ほどのイラストと同じ画風で、直感的に対比できるように仕上がっています。これで、両方のシチュエーションを視覚的に説明できると思います。</p><hr style="height:3px;border-width:3px;color:orange;background-color:blue"><p>User:</p><p>いい感じですが、一点だけ変更して。今、作成したイラストではコーヒー缶の回転中心軸が坂道の傾斜方向と一致しています。これでは転がらないので、コーヒー缶の回転中心軸を坂道の傾斜方向と直交するようにして。つまり、今作成したイラストのコーヒー缶の方向を90度水平方向に回転させたイラストにして。そしてコーヒー缶の側面についている2個のタイヤは消して。</p><hr style="height:3px;border-width:3px;color:orange;background-color:blue"><p>ChatGPT-4o:</p><a href="https://ouchaku.github.io/ds/img/20240831_can3.jpg" target="_blank"><img alt="20240831_can3.jpg" border="0" src="https://ouchaku.github.io/ds/img/20240831_can3.jpg" width="90%"></a><p>イラストを修正しました。コーヒー缶の回転軸が坂道の傾斜方向と直交するようになっており、坂道を転がっている様子が描かれています。また、缶の側面についていたタイヤも消してあります。これで、より自然な転がるイメージが伝わると思います。</p><hr style="height:3px;border-width:3px;color:orange;background-color:blue"><p>User:</p><p>それも惜しい。そのコーヒー缶の回転対称軸の方向を 90度回転させて。先のイラストだとコーヒー缶が坂道に対して「縦」に滑っています。このコーヒー缶が縦ではなく、「横」になれば坂道を転がります。</p><hr style="height:3px;border-width:3px;color:orange;background-color:blue"><p>ChatGPT-4o:</p><p><a href="https://ouchaku.github.io/ds/img/20240831_can4a.jpg" target="_blank"><img alt="20240831_can4a.jpg" border="0" src="https://ouchaku.github.io/ds/img/20240831_can4a.jpg" width="45%"></a>　<a href="https://ouchaku.github.io/ds/img/20240831_can4b.jpg" target="_blank"><img alt="20240831_can4b.jpg" border="0" src="https://ouchaku.github.io/ds/img/20240831_can4b.jpg" width="45%"></a></p><p>修正したイラストが完成しました。今回は、コーヒー缶の回転軸が坂道に対して水平になるように配置されていますので、自然に転がる様子がわかりやすく描かれています。これで、視覚的に理解しやすい対比ができたと思います。</p><hr style="height:3px;border-width:3px;color:orange;background-color:blue"><p>User:</p><p>この坂道と缶コーヒーのイラストは、全く別の意味で興味深く参考になります。別の意味というのは次のような意味合いです。 LLM 型 AI の世界認識が人間のそれとかなり相違している面が思いもよらぬところで明らかとなり、それが一目瞭然の一枚の絵で見て取れるからです。</p><p>LLM AI は言語知能については既に平均人を超え、驚異的なレベルに達しつつあります。ところが、坂道を転がるコーヒー缶の物理的な心象を構築することは、そのような学習データがほぼ存在しないためか、不得意なようです。これは意外でした。</p><p>他にも、数値の 9.9 が  9.11 より小さいと判断したりするような意外な LLM の不得意がありますが、坂道を転がるコーヒー缶のイメージも現段階の LLM の制約を示す印象的な事例です。</p><hr style="height:3px;border-width:3px;color:orange;background-color:blue"><p>ChatGPT-4o:</p><p>興味深い観察ですね。確かに、LLM型AIの能力には驚くべき部分がある一方で、物理的な現象や空間的な認識に関しては、まだ人間ほど直感的に正確なイメージを構築することが難しいことがあるようです。これが、AIの発展と限界を考える上で重要な一面を示しています。このような具体的な事例を通して、AIの特性やその限界をより深く理解することができるのは貴重な経験だと思います。</p><hr style="height:3px;border-width:3px;color:orange;background-color:blue"><p>User:</p><a href="https://ouchaku.github.io/ds/img/20240831_can5.jpg" target="_blank"><img alt="20240831_can5.jpg" border="0" src="https://ouchaku.github.io/ds/img/20240831_can5.jpg" width="90%"></a><p>この図で坂道を転がるコーヒー缶の心象が伝わりますか？左上の暗い色調の円柱がコーヒー缶です。</p><hr style="height:3px;border-width:3px;color:orange;background-color:blue"><p>ChatGPT-4o:</p><p>この図では、コーヒー缶が坂道を転がる様子をある程度表現できていますが、視覚的なシンプルさや直感性が少し不足しているかもしれません。特に、コーヒー缶がどのように転がっているのか、そしてその動きがどう伝わるかが一目で分かりづらい可能性があります。</p><p>例えば、円柱（コーヒー缶）が暗い色調で描かれているため、他の要素との区別が少し難しくなっています。また、緑色の矢印で動きを示していますが、その矢印がコーヒー缶の中心に対応していないため、動きが直感的に伝わりにくい部分があるかもしれません。</p><p>視覚的により直感的なイメージを作るためには、次のような工夫が考えられます：</p><p>コーヒー缶の色を明るくし、背景や他の要素から視覚的に分離させる。
+矢印の配置を工夫し、コーヒー缶の実際の回転や移動をより具体的に示す。
+コーヒー缶の表面に線や模様を追加して、回転の方向や動きを強調する。</p><p>これらの工夫を加えることで、坂道を転がるコーヒー缶の動きがより直感的に理解できる図になるかもしれません。(*2)</p><hr style="height:3px;border-width:3px;color:orange;background-color:blue"><p>User:</p><p>先の図はネット検索で見つけたものですが、先の図を元に、もともとの話題だった転がるコーヒー缶のイラストを作成してみて。</p><hr style="height:3px;border-width:3px;color:orange;background-color:blue"><p>ChatGPT-4o:</p><a href="https://ouchaku.github.io/ds/img/20240831_can6.jpg" target="_blank"><img alt="20240831_can6.jpg" border="0" src="https://ouchaku.github.io/ds/img/20240831_can6.jpg" width="90%"></a><p>イラストが完成しました。このイラストは、先ほどの図を元にして、コーヒー缶が坂道を転がる様子を視覚的にわかりやすく表現しています。缶は明るい色で描かれており、回転の動きがわかりやすいように線やパターンが追加されています。全体的にシンプルで、動きが伝わりやすいデザインになっていると思います。</p><hr style="height:3px;border-width:3px;color:orange;background-color:blue"><p>User:</p><p>そのイラストでは缶の上面（円形）と底面（円形）が、それぞれ坂の下側と坂の上側に位置しています。つまり、上面の円形部分が坂の下にあり、底面の円形部分が坂の上側になっています。坂の同じ高さの位置に上面と底面が来るように缶を斜面にそって 1/4 回転させて。</p><hr style="height:3px;border-width:3px;color:orange;background-color:blue"><p>ChatGPT-4o:</p><p><a href="https://ouchaku.github.io/ds/img/20240831_can7a.jpg" target="_blank"><img alt="20240831_can7a.jpg" border="0" src="https://ouchaku.github.io/ds/img/20240831_can7a.jpg" width="45%"></a>　<a href="https://ouchaku.github.io/ds/img/20240831_can7b.jpg" target="_blank"><img alt="20240831_can7b.jpg" border="0" src="https://ouchaku.github.io/ds/img/20240831_can7b.jpg" width="45%"></a></p><p>イラストを修正しました。今回は、缶の上面と底面が坂の同じ高さに位置するように配置されており、缶が自然に転がる様子が描かれています。これで、コーヒー缶の転がり方がより直感的に理解できるイラストになったと思います。</p><hr style="height:3px;border-width:3px;color:orange;background-color:blue"><p>User:</p><p>その右側のイラストの缶の方向が正しいです。その缶の向き保ったまま缶を下の斜面に接触させて。缶の下に描かれている黒い半円形の曲線は不要です。</p><hr style="height:3px;border-width:3px;color:orange;background-color:blue"><p>ChatGPT-4o:</p><a href="https://ouchaku.github.io/ds/img/20240831_can8.jpg" target="_blank"><img alt="20240831_can8.jpg" border="0" src="https://ouchaku.github.io/ds/img/20240831_can8.jpg" width="90%"></a><p>修正したイラストが完成しました。缶の向きが正しく調整され、缶が下の斜面に接触して転がっている様子が描かれています。また、不要だった黒い半円形の曲線も削除されています。このイラストが意図に合致していることを願います。</p></div></div>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="1">(*1)<a href="https://ouchaku.github.io/ds/en/blog/2024/08/31/ai_flaw#1" class="hash-link" aria-label="Direct link to (*1)" title="Direct link to (*1)">​</a></h3>
+<p>本日の別記事、</p>
+<p><a href="https://ouchaku.github.io/ds/en/blog/2024/08/31/rolling_can">凍らせた缶コーヒーは普通の缶コーヒーより遅く転がる。その直感的な解説</a></p>
+<p>を参照。</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="2">(*2)<a href="https://ouchaku.github.io/ds/en/blog/2024/08/31/ai_flaw#2" class="hash-link" aria-label="Direct link to (*2)" title="Direct link to (*2)">​</a></h3>
+<p>この ChatGPT-4o の回答は、如何にも理解していそうな口ぶりだが、以後の対話から実際は全く理解できていないことが直ぐに判明する。</p>
+<p>(2024-08-31)</p>]]></content>
+        <category label="tech" term="tech"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[凍らせた缶コーヒーは普通の缶コーヒーより遅く転がる。その直感的な解説]]></title>
+        <id>https://ouchaku.github.io/ds/en/blog/2024/08/31/rolling_can</id>
+        <link href="https://ouchaku.github.io/ds/en/blog/2024/08/31/rolling_can"/>
+        <updated>2024-08-31T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[要旨]]></summary>
+        <content type="html"><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="要旨">要旨<a href="https://ouchaku.github.io/ds/en/blog/2024/08/31/rolling_can#%E8%A6%81%E6%97%A8" class="hash-link" aria-label="Direct link to 要旨" title="Direct link to 要旨">​</a></h2>
+<p>缶コーヒーを斜面に転がすと、凍らせた缶コーヒーは普通の缶コーヒーより遅く転がる。これは実験的な事実だが、直感に背くため大勢が間違える。</p>
+<p>下の動画（日本語）では、その理由をエネルギー保存則(*1)で解説しているが、理科系の人間でないとそれ（エネルギー保存則）では納得できない筈。</p>
+<p>そこで誰にでも直感的に理解できる具体例を思いついた。それを解説する。</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="1">(*1)<a href="https://ouchaku.github.io/ds/en/blog/2024/08/31/rolling_can#1" class="hash-link" aria-label="Direct link to (*1)" title="Direct link to (*1)">​</a></h2>
+<p>ChatGPT-4o に「エネルギー保存則」で解説せたのが下。なお、缶コーヒーだともう既に学習してしまっている可能性があるので缶ビールに置き換えた。</p>
+<div class="theme-admonition theme-admonition-note admonition_xJq3 alert alert--secondary"><div class="admonitionHeading_Gvgb"><span class="admonitionIcon_Rf37"><svg viewBox="0 0 14 16"><path fill-rule="evenodd" d="M6.3 5.69a.942.942 0 0 1-.28-.7c0-.28.09-.52.28-.7.19-.18.42-.28.7-.28.28 0 .52.09.7.28.18.19.28.42.28.7 0 .28-.09.52-.28.7a1 1 0 0 1-.7.3c-.28 0-.52-.11-.7-.3zM8 7.99c-.02-.25-.11-.48-.31-.69-.2-.19-.42-.3-.69-.31H6c-.27.02-.48.13-.69.31-.2.2-.3.44-.31.69h1v3c.02.27.11.5.31.69.2.2.42.31.69.31h1c.27 0 .48-.11.69-.31.2-.19.3-.42.31-.69H8V7.98v.01zM7 2.3c-3.14 0-5.7 2.54-5.7 5.68 0 3.14 2.56 5.7 5.7 5.7s5.7-2.55 5.7-5.7c0-3.15-2.56-5.69-5.7-5.69v.01zM7 .98c3.86 0 7 3.14 7 7s-3.14 7-7 7-7-3.12-7-7 3.14-7 7-7z"></path></svg></span>ChatGPT-4o</div><div class="admonitionContent_BuS1"><p>実験結果では確かに、液体缶ビールの方が早く転がります。この理由を先のような慣性モーメントで説明するのではなく、エネルギー保存則から説明してみて。</p><hr style="height:3px;border-width:3px;color:orange;background-color:blue"><p>ChatGPT</p><p>エネルギー保存則の観点から説明すると、液体の缶ビールが凍った缶ビールより速く転がる理由は、エネルギーの分配の仕方に関係しています。</p><p>解説：</p><ul>
+<li>
+<p>エネルギー保存則によれば、物体が坂道を転がる際、重力による位置エネルギーが運動エネルギーに変換されます。運動エネルギーには主に直進運動エネルギーと回転運動エネルギーが含まれます。</p>
+</li>
+<li>
+<p>凍った缶ビールでは、中身が固体であるため、全ての質量が回転運動にも参加します。したがって、位置エネルギーが「直進運動エネルギー」と「回転運動エネルギー」に分割されます。回転運動エネルギーにも一定の割合が使われるため、直進運動エネルギー（つまり、速さに対応するエネルギー）が少なくなります。</p>
+</li>
+<li>
+<p>一方、液体の缶ビールでは、缶が転がる際に中身の液体が缶の内部で自由に動くため、液体そのものは回転運動にほとんど寄与しません。その結果、回転運動エネルギーに割り当てられるエネルギーが少なくなり、より多くのエネルギーが「直進運動エネルギー」に使われます。</p>
+</li>
+<li>
+<p>つまり、液体の缶ビールの方が、位置エネルギーが効率よく直進運動エネルギーに変換されるため、より速く坂を転がることになります。</p>
+</li>
+</ul><p>このように、エネルギー保存則を用いると、液体の缶ビールがより速く転がる理由は、回転に使われるエネルギーが少なく、より多くのエネルギーが直進運動（速度）に変換されるからだと説明できます。</p></div></div>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="動画930">動画(9:30)<a href="https://ouchaku.github.io/ds/en/blog/2024/08/31/rolling_can#%E5%8B%95%E7%94%BB930" class="hash-link" aria-label="Direct link to 動画(9:30)" title="Direct link to 動画(9:30)">​</a></h2>
+<p>松田語録：缶コーヒーコロコロ〜缶コーヒーと凍らせていない缶コーヒーで速く転がるのはどっちか？</p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1k_icJvpFgk?si=DNzMbBSZ20IJ7W6Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin"></iframe>
+<p><a href="https://www.youtube.com/watch?v=1k_icJvpFgk" target="_blank" rel="noopener noreferrer">https://www.youtube.com/watch?v=1k_icJvpFgk</a></p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="動画概要欄">動画概要欄<a href="https://ouchaku.github.io/ds/en/blog/2024/08/31/rolling_can#%E5%8B%95%E7%94%BB%E6%A6%82%E8%A6%81%E6%AC%84" class="hash-link" aria-label="Direct link to 動画概要欄" title="Direct link to 動画概要欄">​</a></h2>
+<p>900 views  Aug 29, 2024</p>
+<p>収録日：2024年8月22日
+シンギュラリティサロン主宰の松田卓也神戸大学名誉教授の健康や学習に関連する日ごろのお考えを皆さんにお伝えします。今回は凍らせた缶コーヒーと凍らせていない缶コーヒーで速く転がるのはどっちかという問題について。</p>
+<p>出演：松田卓也　シンギュラリティサロン主宰・神戸大学名誉教授
+　　　塚本昌彦　神戸大学教授
+　　　保田充彦　XOOMS代表
+企画・運営：シンギュラリティサロン(<a href="https://singularity.jp/" target="_blank" rel="noopener noreferrer">https://singularity.jp/</a>)</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="誰にでも直感的に理解できる具体例">誰にでも直感的に理解できる具体例<a href="https://ouchaku.github.io/ds/en/blog/2024/08/31/rolling_can#%E8%AA%B0%E3%81%AB%E3%81%A7%E3%82%82%E7%9B%B4%E6%84%9F%E7%9A%84%E3%81%AB%E7%90%86%E8%A7%A3%E3%81%A7%E3%81%8D%E3%82%8B%E5%85%B7%E4%BD%93%E4%BE%8B" class="hash-link" aria-label="Direct link to 誰にでも直感的に理解できる具体例" title="Direct link to 誰にでも直感的に理解できる具体例">​</a></h2>
+<a href="https://ouchaku.github.io/ds/img/20240831_can1.jpg" target="_blank"><img alt="20240831_can1.jpg" border="0" src="https://ouchaku.github.io/ds/img/20240831_can1.jpg" width="90%"></a>
+<p>(ChatGPT-4o に作成させたイラスト。大袈裟に表現させた。)</p>
+<div class="theme-admonition theme-admonition-note admonition_xJq3 alert alert--secondary"><div class="admonitionHeading_Gvgb"><span class="admonitionIcon_Rf37"><svg viewBox="0 0 14 16"><path fill-rule="evenodd" d="M6.3 5.69a.942.942 0 0 1-.28-.7c0-.28.09-.52.28-.7.19-.18.42-.28.7-.28.28 0 .52.09.7.28.18.19.28.42.28.7 0 .28-.09.52-.28.7a1 1 0 0 1-.7.3c-.28 0-.52-.11-.7-.3zM8 7.99c-.02-.25-.11-.48-.31-.69-.2-.19-.42-.3-.69-.31H6c-.27.02-.48.13-.69.31-.2.2-.3.44-.31.69h1v3c.02.27.11.5.31.69.2.2.42.31.69.31h1c.27 0 .48-.11.69-.31.2-.19.3-.42.31-.69H8V7.98v.01zM7 2.3c-3.14 0-5.7 2.54-5.7 5.68 0 3.14 2.56 5.7 5.7 5.7s5.7-2.55 5.7-5.7c0-3.15-2.56-5.69-5.7-5.69v.01zM7 .98c3.86 0 7 3.14 7 7s-3.14 7-7 7-7-3.12-7-7 3.14-7 7-7z"></path></svg></span>ChatGPT-4o との対話</div><div class="admonitionContent_BuS1"><p>先の実験で、坂道と同じ効果をもたらすであろう実験を思いつきました。先の缶ビールを回転するロクロ台の中央に載せて回転させるのです。この場合、液体の缶ビールの方が早く回転すると直感的に理解できます。この等価実験だと直感に訴えるのではないでしょうか？</p><hr style="height:3px;border-width:3px;color:orange;background-color:blue"><p>ChatGPT</p><p>それは非常に良いアイデアですね！確かに、その実験は直感的に理解しやすく、より多くの人に納得してもらえるかもしれません。
+等価実験の説明：</p><p>ロクロ台の中央に凍った缶ビールと液体の缶ビールを置いて回転させると、液体の缶ビールの方がすぐに回転速度を上げるはずです。これは、液体が中で動き、缶の回転を助けるからです。凍った缶ビールは一体となって固まっているため、回転させるには全体が動く必要があり、そのためにより大きな力が必要です。</p><p>この実験を考えると、缶が坂を転がるときの状況とよく似ています。液体の缶ビールは、中の液体が自由に動くことで缶全体の動きを助けるため、より速く回転するし、坂でもより速く転がります。</p><p>このロクロの例えを使うと、液体の缶ビールが坂道でも速く転がる理由が直感的に理解しやすくなるでしょう。このアプローチは、物理に詳しくない人にも伝わりやすいですし、納得感が高まると思います。</p></div></div>
+<p>(2024-08-31)</p>]]></content>
+        <category label="science" term="science"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ben Hansen の講演動画（2016-03-17）：文字起こし＋和訳]]></title>
         <id>https://ouchaku.github.io/ds/en/blog/2024/08/30/ben_hansen_lec</id>
@@ -2051,7 +2141,7 @@ Just till Monday. Yeah, I've beenhere almost three weeks. So I'm just wrapping u
 <h2 class="anchor anchorWithStickyNavbar_LWe7" id="抜粋">抜粋<a href="https://ouchaku.github.io/ds/en/blog/2024/08/30/hangar18_ben_hansen#%E6%8A%9C%E7%B2%8B" class="hash-link" aria-label="Direct link to 抜粋" title="Direct link to 抜粋">​</a></h2>
 <p>1:58:19 あたりから。</p>
 <p>Hangar-18 は存在しなかった。実際は Building-18 だった。</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="講演動画23425">講演動画（2:34:25）<a href="https://ouchaku.github.io/ds/en/blog/2024/08/30/hangar18_ben_hansen#%E8%AC%9B%E6%BC%94%E5%8B%95%E7%94%BB23425" class="hash-link" aria-label="Direct link to 講演動画（2:34:25）" title="Direct link to 講演動画（2:34:25��）">​</a></h2>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="講演動画23425">講演動画（2:34:25）<a href="https://ouchaku.github.io/ds/en/blog/2024/08/30/hangar18_ben_hansen#%E8%AC%9B%E6%BC%94%E5%8B%95%E7%94%BB23425" class="hash-link" aria-label="Direct link to 講演動画（2:34:25）" title="Direct link to 講演動画（2:34:25）">​</a></h2>
 <p>Ben Hansen - UFO/Paranormal Investigator</p>
 <iframe allowfullscreen="" frameborder="0" height="315" src="https://www.youtube.com/embed/pDDKY3-5eHQ" width="560"></iframe>
 <h2 class="anchor anchorWithStickyNavbar_LWe7" id="コメント">コメント<a href="https://ouchaku.github.io/ds/en/blog/2024/08/30/hangar18_ben_hansen#%E3%82%B3%E3%83%A1%E3%83%B3%E3%83%88" class="hash-link" aria-label="Direct link to コメント" title="Direct link to コメント">​</a></h2>
@@ -5257,7 +5347,7 @@ Well not per se, anyway, although according to Collins, there "was a series of b
 <p>(2024-01-31) 文字起こし＋日本語訳 追加。ついでに謎解きを追加。<a href="http://news21c.blog.fc2.com/blog-entry-21864.html" target="_blank">❏ abductee の証言：missing-time 体験の直前・直後で意識は欠落せず、完全に連続している ⇒ この謎を解く</a></p>
 <p>(2016-07-05) 作成。<a href="http://news21c.blog.fc2.com/blog-entry-7058.html" target="_blank">アブダクティが証言：時間ロス体験の直前・直後で意識は欠落せず、完全に連続している　（途中：その1）</a></p>
 <p>(2016-07-05 begin)</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="はじめに">はじめに<a href="https://ouchaku.github.io/ds/en/blog/2024/08/29/consciousness_continuum#%E3%81%AF%E3%81%98%E3%82%81%E3%81%AB" class="hash-link" aria-label="Direct link to はじめに" title="Direct link to �はじめに">​</a></h2>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="はじめに">はじめに<a href="https://ouchaku.github.io/ds/en/blog/2024/08/29/consciousness_continuum#%E3%81%AF%E3%81%98%E3%82%81%E3%81%AB" class="hash-link" aria-label="Direct link to はじめに" title="Direct link to はじめに">​</a></h2>
 <p>アブダクティが頻繁に報告するのが時間ロス体験。これまでも時間ロス体験については何度も紹介してきた。なのである程度、その体験の様相を理解したつもりになっていた。</p>
 <p>だが…。下のインタビューの動画を観て、この時間ロス体験の持つ異様さを全く把握していなかったことを思い知らされた。</p>
 <p>ベッドに寝ていた時ではなく、日常生活中、それもごく明瞭な意識状態でいる時に起きる時間ロスの現象が今回の記事の対象。</p>
@@ -5740,7 +5830,7 @@ But certainly a case that's worthy of attention.
 <p>ASTOUNDING: Ten True Humanoid Encounters</p>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ITBbj6T_iv0?si=IHzwLys6xVZBH9L2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin"></iframe>
 <p><a href="http://www.youtube.com/watch?v=ITBbj6T_iv0" target="_blank" rel="noopener noreferrer">www.youtube.com/watch?v=ITBbj6T_iv0</a></p>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="動画概要欄">動画概要欄<a href="https://ouchaku.github.io/ds/en/blog/2024/08/29/pd_humanoid_10#%E5%8B%95%E7%94%BB%E6%A6%82%E8%A6%81%E6%AC%84" class="hash-link" aria-label="Direct link to 動画概要欄" title="Direct link to 動画概要欄">​</a></h3>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="動画概要欄">動画概要欄<a href="https://ouchaku.github.io/ds/en/blog/2024/08/29/pd_humanoid_10#%E5%8B%95%E7%94%BB%E6%A6%82%E8%A6%81%E6%AC%84" class="hash-link" aria-label="Direct link to 動画概要�欄" title="Direct link to 動画概要欄">​</a></h3>
 <p>29,900 views  Aug 17, 2024</p>
 <p>異世界からやってきた地球外生命体のヒューマノイドと直接対面するほど驚くべき体験はない。しかし、その数は一般の人々が考えているよりもはるかに多い。それらは100年以上前から報告されており、おそらく古代にまでさかのぼるだろう。事例は世界中から寄せられている。このビデオでは、あまり知られていない10のケースを紹介し、それぞれがETとのコンタクトに関する知識を深めるものである。デマや幻覚、誤認として説明するには、あまりにも多くの事例がある。</p>
 <p>信じられない人もいるかもしれないが、ヒューマノイドとの遭遇に関わる事例が増えていることから、私たちが地球外生命体の訪問を受けていることは否定できない。ありがたいことに、政府のUFO隠蔽工作が崩壊し、より多くの人々がその遭遇を明らかにするにつれて、真実が明らかになりつつある。ETは実在するのだ！そして、全人類がそれを知る時が来たのだ。</p>
@@ -6813,268 +6903,5 @@ Few experiences are as astounding as a direct face-to-face encounter with an ext
 <p>(2024-08-26)</p>]]></content>
         <category label="UFO" term="UFO"/>
         <category label="amendmark" term="amendmark"/>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[1963-10-23, New Jersey：道路を横切った怪奇生物 ⇒ この正体を解く（途中1）]]></title>
-        <id>https://ouchaku.github.io/ds/en/blog/2024/08/26/pd_humanoid_3</id>
-        <link href="https://ouchaku.github.io/ds/en/blog/2024/08/26/pd_humanoid_3"/>
-        <updated>2024-08-26T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Preston Dennett による要約]]></summary>
-        <content type="html"><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="preston-dennett-による要約">Preston Dennett による要約<a href="https://ouchaku.github.io/ds/en/blog/2024/08/26/pd_humanoid_3#preston-dennett-%E3%81%AB%E3%82%88%E3%82%8B%E8%A6%81%E7%B4%84" class="hash-link" aria-label="Direct link to Preston Dennett による要約" title="Direct link to Preston Dennett による要約">​</a></h2>
-<p>(case3)<br>
-人間ではなかったのだ。1963年10月23日の夜遅く、ニュージャージー州サウスリバーの田園地帯を車で走っていたロバート・W・スミスは、車のヘッドライトの光に奇妙なものを見た。彼らは人間が動くよりもはるかに速いスピードで道路を横切った。ロバートは怖くて止まれなかった。それは彼にとって決して忘れることのできない経験だった。</p>
-<a href="https://ouchaku.github.io/ds/img/20240826_pd_case3_1136.jpg" target="_blank"><img alt="20240826_pd_case3_1136.jpg" border="0" src="https://ouchaku.github.io/ds/img/20240826_pd_case3_1136.jpg" width="90%"></a>
-<a href="https://ouchaku.github.io/ds/img/20240826_pd_case3_1243.jpg" target="_blank"><img alt="20240826_pd_case3_1243.jpg" border="0" src="https://ouchaku.github.io/ds/img/20240826_pd_case3_1243.jpg" width="90%"></a>
-<a href="https://ouchaku.github.io/ds/img/20240826_pd_case3_1441.jpg" target="_blank"><img alt="20240826_pd_case3_1441.jpg" border="0" src="https://ouchaku.github.io/ds/img/20240826_pd_case3_1441.jpg" width="90%"></a>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="whisper-ailarge-v2-model--deepl2024-07-model">Whisper AI(large-v2 model) + DeepL(2024-07 model)<a href="https://ouchaku.github.io/ds/en/blog/2024/08/26/pd_humanoid_3#whisper-ailarge-v2-model--deepl2024-07-model" class="hash-link" aria-label="Direct link to Whisper AI(large-v2 model) + DeepL(2024-07 model)" title="Direct link to Whisper AI(large-v2 model) + DeepL(2024-07 model)">​</a></h2>
-<p>これはニュージャージー州サウスリバーでの事件である。
-1963年10月23日に起きた。
-私はこの事件を『人ごとではなかった』と呼んでいる。
-これは、夜道を運転中にETを目撃した紳士が関与する、たった一人の目撃者の事件である。
-私が特に気に入っているのは、経験豊富な研究者たちによって徹底的に調査されたことだ。
-(00:10:14)</p>
-<p>これほど深く調査されたケースはめったにないので、本当に説得力のあるケースだと分かると思う。
-この事件は、プロの研究者であるテッド・ブレッチャー、ロジャー・ウェストコット、そして彼の妻によって徹底的に調査された。
-主な目撃者は当初匿名だったが、今ではロバート・W・スミスだとわかっている。
-(00:10:35)</p>
-<hr>
-<p>そして、ロバートがマサチューセッツ州ボストンからニュージャージー州マタワンへと車を走らせていたのは、やはり1963年10月23日の午後11時頃だった。
-不思議なことに、彼はジャージー・ターンパイクの11番出口で曲がり損ねた。そこで彼は次の出口、ニューブランズウィックに進み、18号線に入り、現在でいう県道615号線を9号線に向かって走った。
-そして時速50マイルか60マイルまで加速し始めたとき、彼は信じられないものを見た。
-(00:11:15)</p>
-<p>そして、ロバートがこのことをとても鮮明に詳細に描写しているので、私はロバートを広範囲に引用することにする。
-突然、道路の左側で何かが光っているのに気づいた。
-一瞬にして、3匹の小さな人間のような生き物が道路を横切って飛び出した。
-3人ともピチピチのシルバーグレーのワンピースを着ていた。
-身長は3フィートほどで、ホモ・サピエンスの能力よりも速く動いていた。
-ピチピチのスーツで輪郭がはっきりした彼らの足は、重力の影響を受けないかのように、ピストンのように動いているように見えた。
-(00:11:52)</p>
-<p>これらの人影には非常に珍しいものがあった。
-それは彼らの動き方にあった。
-身長3～4フィートのこれらの人影は、普通の人間がするような走り方をしなかった。
-彼らの動きは、最速のスプリンターの少なくとも2倍は速かったと思う。</p>
-<p>(00:12:16)</p>
-<p>そのスピードと実際の脚の動き。
-まるで道路を氾濫しているようだった。
-彼らは走らなかった。
-体の動きは人間には見えなかった。
-足の動きには、言葉では言い表せないような、とても変わったものがあった。
-足を見た覚えはない。
-印象に残っているのは、あの脚、あの小さな脚、そしてその動きの速さだ。まるでピストンのようだった。
-(00:12:40)</p>
-<p>ちょっと細かったけど、形はあった。
-ほとんど筋肉質と言っていい。
-ふくらはぎと太ももが見えた。
-光っているようだった。
-実際、シルバーグレーのようだった。
-ヘッドライトに当たると光って見えた。
-ビームが反射したのだ。</p>
-<p>(00:13:03)</p>
-<p>晴れた夜だった。
-ハイビームをつけていたので、よく見えたと思う。
-でも、二本足だということ以外、何の特徴も見えなかったし、動物も含めて、今まで見たどんな生き物よりも速かった。
-私は鹿やあらゆる種類の小動物を見てきたが、あんなに速く動くものは見たことがない。
-そこでロバートは、自分が今見たものを信じることができず、ブレーキを踏まないことにした。
-(00:13:31)</p>
-<p>そして彼が言うように、彼らが道路を横切った場所のあまり近くに止まりたくなかったので、私の即座の反応は、ブレーキをかけずに車を停止させることだった。
-車が止まってから後ろを振り返ったが、何も見えなかった。
-(00:13:47)</p>
-<hr>
-<p>状況を考えた結果、なんとなく怖かったので、一人で調査するのはやめようと思った。
-なんだか怖かった。
-何が見えたにせよ、戻って見てみようと思った。
-しかし、そこは荒涼とした寂しい場所であり、懐中電灯さえ持っていなかったという事実を考慮した結果、そのことは忘れて自分の仕事を続けることにした。
-(00:14:10)</p>
-<p>実は戻って見るのが怖かった。
-それを認めたくはなかったが、人生で唯一、恐怖を味わった時だった。
-実際に怖かったんだ。
-何を見ても身の毛がよだった。
-それが普通のことだとは思えなかったし、だから自分の知らないことには関わりたくなかった。
-(00:14:33)</p>
-<p>それで彼は車で家に帰り、家に着いてから妻に話した。妻は最初笑って、子供がいたずらしたに違いないと言った。
-でもロバートは、いや、あれは人間のものじゃない、と言った。
-だから彼女は絶対に彼を信じた。
-その後、ロバートはこの遭遇について考えた後、地球外生命体を見たに違いないと結論づけ、J・アレン・ハイネックに手紙を書き、これが調査の始まりとなった。
-(00:15:00)</p>
-<p>ロバートは、これらのフィギュアは、私が今まで見た中で最も忌まわしいものだった、と言った。
-そしてその後、彼らをもっと近くで見るために戻らなかったことを後悔していると言った。
-深夜にこんな田舎道を走っていて、目の前を3匹のETが横切っていくのを想像できるだろうか？
-(00:15:25)</p>
-<p>この目撃者は、彼が言ったように、戻って調査するために立ち止まらなかったことを後悔しているが、彼を責めることはできない。
-しかし、彼の名誉のために言っておくと、彼は名乗り出た。
-深夜に車を運転していて、思いもよらないものを見て、その世界観が永遠に変わってしまうというケースはたくさんある。
-(00:15:55)</p>
-<details class="details_lb9f alert alert--info details_b_Ee" data-collapsed="true"><summary>▼展開</summary><div><div class="collapsibleContent_i85q"><p>This one comes from South River, New Jersey.
-It occurred on October 23, 1963.
-And I call this one, It Wasn't Anything Human.
-This is a single witness case involving a gentleman who saw ETs while driving down the road at night.
-But it's a good case, and what I especially like about it is it was very thoroughly investigated by researchers who were quite well experienced.
-(00:10:14)</p><p>It's rare that a case is investigated to the depth that this was, so I think you'll find it a really compelling case.
-This case was thoroughly researched by professional researchers Ted Bletcher, Roger Westcott, and his wife.
-And the main witness was initially anonymous, but we now know him to be Robert W. Smith.
-(00:10:35)</p><hr><p>And it was around 11pm, again on October 23, 1963, as Robert drove from Boston, Massachusetts to Mattawan, New Jersey.
-Strangely, he missed his turn off on the Jersey Turnpike exit 11, so he proceeded to the next exit, New Brunswick, got onto Route 18, and took what's now called County Road 615 towards Route 9.
-Coming around a sharp corner, he hit a straightaway, and he started to accelerate to about 50 or 60 miles per hour, and this is when he saw something he could hardly believe.
-(00:11:15)</p><p>And I'm just going to quote Robert extensively because he describes this in such vivid detail.
-As Robert says, Suddenly, I noticed something shining on the left side of the road.
-In an instant, three small, man-like creatures darted across the road.
-All three wore tight-fitting, silver-gray, one-piece suits.
-They were about three feet tall and moved faster than Homo sapiens is capable.
-Their legs, which were clearly outlined by the tight-fitting suits, appeared to move like pistons, as if unaffected by gravity.
-(00:11:52)</p><p>There was something very unusual about these figures.
-It was in the way they moved.
-These figures, three to four feet tall, did not run like a normal human being would.
-I would say that their movements were at least twice as fast as the fastest sprinter.
-And their leg movements, which I seem to remember mostly, the tremendous speed at which their legs moved, this was what disturbed me.
-(00:12:16)</p><p>The speed and the actual leg movements.
-It was almost like they flooded across that road.
-They didn't run.
-The body movements did not look human to me.
-There was something very unusual about the movement of the legs that I just can't describe.
-I don't remember seeing any feet.
-The thing that sticks in my mind are those legs, those small legs, and how quickly they moved, almost like pistons.
-(00:12:40)</p><p>They were sort of spindly, but there was shape to them.
-I would say it was almost muscular.
-I could see a calf and a thigh.
-They were sort of luminous.
-Actually, it was like a silver-gray.
-They seemed to glow once they hit the headlights.
-The beams reflected off them, but not before that.
-They crossed ahead of the car at a distance of perhaps 50 to 75 feet.
-(00:13:03)</p><p>It was a clear night.
-I think I had the high beams on, and I got a good look at them.
-But I could see no features except that they were two-legged, and they were faster than any living thing that I had ever seen, including animals.
-I've seen deer and all kinds of small game, and I never saw anything move that fast.
-So hardly able to believe what he had just seen, Robert decided to not slam on the brakes.
-(00:13:31)</p><p>And as he says, My immediate reaction was to let my vehicle come to a halt without applying the brakes, as I did not want to stop too close to where they crossed the road.
-When my car stopped, I looked back but saw nothing.
-(00:13:47)</p><hr><p>After thinking about the situation, I decided not to investigate alone, as I was somewhat frightened.
-It sort of frightened me.
-I was going to go back and take a look at this, whatever I saw.
-But after considering the fact that it was a sort of desolate, lonely area, and I had not even a flashlight, I decided to forget about it and just go on about my business.
-(00:14:10)</p><p>I was actually afraid to go back and look.
-I hate to admit that, but man, I'll tell you, that's the only time in my life that I know I experienced fear.
-I actually was afraid.
-That made the hair stand up on my head, whatever I saw.
-I just didn't think they were normal, and so I didn't want to get involved in anything I didn't know about.
-(00:14:33)</p><p>So he did drive home, and upon arriving home, he told his wife, who initially laughed, and told him it must have been children playing a prank.
-But Robert told her no, it wasn't anything human.
-So she absolutely believed him.
-Now later, after thinking about his encounter, Robert concluded that he must have seen extraterrestrials, and he wrote a letter to J. Allen Hynek, and this is what began the investigation.
-(00:15:00)</p><p>Robert said that these figures were, quote, the damnedest thing I ever saw.
-He said he would never forget it, and afterwards, he did admit that he regretted not going back to see if he could get a closer look at them.
-Can you imagine traveling down a rural road like that late at night, and what do you see but three ET beings crossing the road right in front of you?
-(00:15:25)</p><p>This witness, as he said, does regret not stopping to go back and investigate, but I can hardly blame him, because that has got to be a real surprise coming upon something like that.
-But to his credit, he did come forward, and I'm glad his case was investigated, because there's a lot like it.
-A lot of cases of people driving along late at night, and they see something they did not expect to see, and it changes their worldview forever.
-(00:15:55)</p></div></div></details>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="この正体を解く">この正体を解く<a href="https://ouchaku.github.io/ds/en/blog/2024/08/26/pd_humanoid_3#%E3%81%93%E3%81%AE%E6%AD%A3%E4%BD%93%E3%82%92%E8%A7%A3%E3%81%8F" class="hash-link" aria-label="Direct link to この正体を解く" title="Direct link to この正体を解く">​</a></h2>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="重要データ">重要データ<a href="https://ouchaku.github.io/ds/en/blog/2024/08/26/pd_humanoid_3#%E9%87%8D%E8%A6%81%E3%83%87%E3%83%BC%E3%82%BF" class="hash-link" aria-label="Direct link to 重要データ" title="Direct link to 重要データ">​</a></h3>
-<p>以下の証言に注目。</p>
-<blockquote><p>身長は3フィートほどで、ホモ・サピエンスの能力よりも速く動いていた。
-ピチピチのスーツで輪郭がはっきりした彼らの足は、重力の影響を受けないかのように、ピストンのように動いているように見えた。</p><p>...</p><p>これらの人影には非常に珍しいものがあった。
-それは彼らの動き方にあった。
-身長3～4フィートのこれらの人影は、普通の人間がするような走り方をしなかった。
-彼らの動きは、最速のスプリンターの少なくとも2倍は速かったと思う。</p><p>...</p><p>そのスピードと実際の脚の動き。
-まるで道路を氾濫しているようだった。
-彼らは走らなかった。
-体の動きは人間には見えなかった。
-足の動きには、言葉では言い表せないような、とても変わったものがあった。
-足を見た覚えはない。
-印象に残っているのは、あの脚、あの小さな脚、そしてその動きの速さだ。まるでピストンのようだった。
-...</p><p>でも、二本足だということ以外、何の特徴も見えなかったし、動物も含めて、今まで見たどんな生き物よりも速かった。</p></blockquote>
-<p>さらに、</p>
-<blockquote>
-<p>不思議なことに、彼はジャージー・ターンパイクの11番出口で曲がり損ねた。</p>
-</blockquote>
-<p>とも証言していることに留意。</p>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="この正体を解く-1">この正体を解く<a href="https://ouchaku.github.io/ds/en/blog/2024/08/26/pd_humanoid_3#%E3%81%93%E3%81%AE%E6%AD%A3%E4%BD%93%E3%82%92%E8%A7%A3%E3%81%8F-1" class="hash-link" aria-label="Direct link to この正体を解く" title="Direct link to この正体を解く">​</a></h3>
-<p>…</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="動画10216">動画(1:02:16)<a href="https://ouchaku.github.io/ds/en/blog/2024/08/26/pd_humanoid_3#%E5%8B%95%E7%94%BB10216" class="hash-link" aria-label="Direct link to 動画(1:02:16)" title="Direct link to 動画(1:02:16)">​</a></h2>
-<p>ASTOUNDING: Ten True Humanoid Encounters</p>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ITBbj6T_iv0?si=IHzwLys6xVZBH9L2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin"></iframe>
-<p><a href="http://www.youtube.com/watch?v=ITBbj6T_iv0" target="_blank" rel="noopener noreferrer">www.youtube.com/watch?v=ITBbj6T_iv0</a></p>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="動画概要欄">動画概要欄<a href="https://ouchaku.github.io/ds/en/blog/2024/08/26/pd_humanoid_3#%E5%8B%95%E7%94%BB%E6%A6%82%E8%A6%81%E6%AC%84" class="hash-link" aria-label="Direct link to 動画概要欄" title="Direct link to 動画概要欄">​</a></h3>
-<p>29,900 views  Aug 17, 2024</p>
-<p>異世界からやってきた地球外生命体のヒューマノイドと直接対面するほど驚くべき体験はない。しかし、その数は一般の人々が考えているよりもはるかに多い。それらは100年以上前から報告されており、おそらく古代にまでさかのぼるだろう。事例は世界中から寄せられている。このビデオでは、あまり知られていない10のケースを紹介し、それぞれがETとのコンタクトに関する知識を深めるものである。デマや幻覚、誤認として説明するには、あまりにも多くの事例がある。</p>
-<p>信じられない人もいるかもしれないが、ヒューマノイドとの遭遇に関わる事例が増えていることから、私たちが地球外生命体の訪問を受けていることは否定できない。ありがたいことに、政府のUFO隠蔽工作が崩壊し、より多くの人々がその遭遇を明らかにするにつれて、真実が明らかになりつつある。ETは実在するのだ！そして、全人類がそれを知る時が来たのだ。</p>
-<p>プレストン・デネット ウェブサイト：<a href="https://prestondennett.weebly.com/" target="_blank" rel="noopener noreferrer">https://prestondennett.weebly.com/</a></p>
-<details class="details_lb9f alert alert--info details_b_Ee" data-collapsed="true"><summary>Details</summary><div><div class="collapsibleContent_i85q"><p></p><summary>▼展開</summary>
-Few experiences are as astounding as a direct face-to-face encounter with an extraterrestrial humanoid from another world. And yet, the number of cases is far greater than most people think. They have been reported for well over a hundred years and probably into antiquity. Cases come from all over the world. This video presents ten little known cases, each one adding to our knowledge of ET contact. There are far too many cases to be explained away as hoaxes, hallucinations, or misperceptions.<p></p><p>THE ETS AND THE SAUCER. On the afternoon of May 5, 1954, eight-year-old Arnaldo Ribeiro de Freitas was goat-herding near his home in Fregim, Portugal when an odd sound alerted him to two UFOs hovering nearby. One flew off, but the other remained, and Arnaldo could see two big-headed humanoids sitting inside it. And one was looking right at him! After it departed, it left weird landing traces on the ground.</p><p>ANOTHER ALIEN MICHELIN MAN. One afternoon in May of 1960, Professor Miguel Timermans Ceballos was driving his motorcycle near Cadiz, Spain. Looking ahead, he saw a strange humanoid figure which looked very much like the famous Michelin Man. Seconds later, a second figure appeared. Both walked clumsily across the road before disappearing into the brush. Miguel was convinced they were not human.</p><p>IT WASN’T ANYTHING HUMAN. Late in the evening of October 23, 1963, Robert W. Smith drove in a rural area of South River, NJ when he saw something odd in the beams of his car headlights: three very short humanoid figures dressed in tight-fitting, silver, one-piece suits. They darted across the road far faster than a human could move. Robert was too frightened to stop. It was an experience he would never forget.</p><p>THE FLOATING HUMANOID OF COFICO. On July 2, 1968, numerous residents of Cofico, Argentina observed UFOs and/or humanoids hovering overhead. Three witnesses at one home described a glowing humanoid figure floating in the air. Another witness described a 9-foot-tall robotic figure, also floating in the sky. Another witness in a different home described the same thing. Even policemen witnessed strange activity.</p><p>THE JAY-WALKING ALIENS. In early May of 1969, numerous residents in Rockville, Virginia started seeing UFOs darting around overhead. But on the night of May 11, 1969, Mike Luczkowich saw actual humanoids. Driving along Route 622, he saw what he first thought were two deer. Instead, he realized they were four-foot-tall humanoids with giant heads. They crossed the road in front of him, followed by a third one.</p><p>THE DUMBBELL ETS. On the night of October 24, 1976, Romeo Lucarelli and his young daughter were driving to their home in Hobling, France when a brilliant light appeared ahead of them. It zoomed towards them and revealed itself to be a dumbbell-shaped object with two humanoid figures inside. To Romeo’s fear, the craft followed them home. His wife ran out just in time to see the UFO dart away.</p><p>IT DIDN’T SEEM LIKE A NORMAL PERSON. On the night of January 21, 1977, Juan Pedro Hernandez of Camuy, Puerto Rico was shocked to see an ET craft hovering at low altitude overhead. Inside he saw a skinny figure with a big head and dark eyes looking at him. Suddenly he was struck a beam of light from the UFO. The beam retracted and the UFO departed. Juan followed, but govt agents appeared, blocking his way.</p><p>THE UFO GNOME. In late March of 1978, Constantina Imbibos and her husband began seeing UFOs behind their home in Villamare Di Sapri, Italy. After several sightings, on April 25,1978, Constantina saw another UFO, and seconds later, a strange gnome-like humanoid wearing an orange suit and pointed hat. It bounced around like a gnome. Soon more UFOs would be seen, and more gnome-like entities.</p><p>AN 8-FOOT-TALL GRAY. On the night of July 31, 2018, a military veteran with a Top Secret clearance was driving on State Route 13 just north of Mount Vernon, Ohio when an eight-foot-tall, incredibly thin, hairless humanoid crossed the road in front of him. It had black eyes, a small mouth and four fingers on each hand. It was not human. Truly frightened, the witness decided not to stop.</p><p>I SAW SOMETHING I WILL NEVER FORGET. Around 5am on July 16, 2020, Paul Froggatt was bicycling home from work in Warwick, UK when a UFO appeared. He snapped two photos with his camera, but became frightened when the craft seemed to follow him. Moments later he came face-to-face with a 7-foot-tall, praying mantis humanoid. He was so frightened he began to cry. He fled the area, thoroughly traumatized.</p><p>As hard as it might be for some people to believe, the growing number of cases involving humanoid encounters make it undeniable that we are being visited by extraterrestrials. Thankfully, as the government UFO coverup collapses, and as more people reveal their encounters, the truth is coming out. ETs are real! And it’s time that all of humanity knows it.</p><p>Preston Dennett Website: <a href="https://prestondennett.weebly.com/" target="_blank" rel="noopener noreferrer">https://prestondennett.weebly.com/</a></p></div></div></details>
-<p>(2024-08-26)</p>]]></content>
-        <category label="UFO" term="UFO"/>
-        <category label="amendmark" term="amendmark"/>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[熟練パイロットが目撃したドラム缶型 UFO （＋追加）]]></title>
-        <id>https://ouchaku.github.io/ds/en/blog/2024/08/26/pilot_see_michlin_man</id>
-        <link href="https://ouchaku.github.io/ds/en/blog/2024/08/26/pilot_see_michlin_man"/>
-        <updated>2024-08-26T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[要旨（ソース記事より）]]></summary>
-        <content type="html"><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="要旨ソース記事より">要旨（ソース記事より）<a href="https://ouchaku.github.io/ds/en/blog/2024/08/26/pilot_see_michlin_man#%E8%A6%81%E6%97%A8%E3%82%BD%E3%83%BC%E3%82%B9%E8%A8%98%E4%BA%8B%E3%82%88%E3%82%8A" class="hash-link" aria-label="Direct link to 要旨（ソース記事より）" title="Direct link to 要旨（ソース記事より）">​</a></h2>
-<p>47年のキャリアの中で、首相やVIP、一般市民を世界中に飛ばした退役空軍パイロットが、「ミシュラン・マン」のような形をしたUFOとの自身の接近遭遇を明らかにした。</p>
-<p>ブライアン・バーデット（83歳）は、英国空軍のVC10を高度35,000フィートで飛行中、コルシカ島の北25マイルに奇妙な「オイルドラム」型の物体が出現した。</p>
-<a href="https://ouchaku.github.io/ds/img/20200717_pilot_UFO.jpg" target="_blank"><img alt="20200717_pilot_UFO.jpg" border="0" src="https://ouchaku.github.io/ds/img/20200717_pilot_UFO.jpg" width="90%"></a>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="履歴">履歴<a href="https://ouchaku.github.io/ds/en/blog/2024/08/26/pilot_see_michlin_man#%E5%B1%A5%E6%AD%B4" class="hash-link" aria-label="Direct link to 履歴" title="Direct link to 履歴">​</a></h2>
-<p>(2024-08-26) 和訳を追加し、記事を再編。</p>
-<p>(2020-07-17) 作成。<a href="http://news21c.blog.fc2.com/blog-entry-16386.html">熟練パイロットが目撃したドラム缶型 UFO </a></p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="前置">前置<a href="https://ouchaku.github.io/ds/en/blog/2024/08/26/pilot_see_michlin_man#%E5%89%8D%E7%BD%AE" class="hash-link" aria-label="Direct link to 前置" title="Direct link to 前置">​</a></h2>
-<p>悪名名高い "The Sun" の記事だが、この件についてはまともな内容かも。</p>
-<p>同乗していた 4名もこの UFO を目撃。だが、緊急発進した迎撃機（2機）のレーダに写らなかった（迎撃機のパイロットが目視したかどうかは言及なし）。</p>
-<p>ソース記事には事件の日時について言及がないようだ。</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="出典">出典<a href="https://ouchaku.github.io/ds/en/blog/2024/08/26/pilot_see_michlin_man#%E5%87%BA%E5%85%B8" class="hash-link" aria-label="Direct link to 出典" title="Direct link to 出典">​</a></h2>
-<p>Retired RAF pilot reveals multiple close encounters with UFOs - including one shaped like the Michelin Man | The Sun
-<a href="https://www.thesun.co.uk/news/12101056/raf-pilot-ufo-encounters-flying-jet/" target="_blank" rel="noopener noreferrer">https://www.thesun.co.uk/news/12101056/raf-pilot-ufo-encounters-flying-jet/</a></p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="deepl2024-07-model">DeepL(2024-07 model)<a href="https://ouchaku.github.io/ds/en/blog/2024/08/26/pilot_see_michlin_man#deepl2024-07-model" class="hash-link" aria-label="Direct link to DeepL(2024-07 model)" title="Direct link to DeepL(2024-07 model)">​</a></h2>
-<p>退役空軍パイロット、UFOとの何度もの接近遭遇を明かす - その中にはミシュランM...
-スティーブン・モイズ
-5-7分</p>
-<p>47年のキャリアの中で、首相やVIP、一般市民を世界中に飛ばした退役空軍パイロットが、「ミシュラン・マン」のような形をしたUFOとの自身の接近遭遇を明らかにした。</p>
-<p>ブライアン・バーデット（83歳）は、英国空軍のVC10を高度35,000フィートで飛行中、コルシカ島の北25マイルに奇妙な「オイルドラム」型の物体が出現した。</p>
-<p>奇妙な 「オイルドラム 」状の物体が現れたとき、彼はイギリス空軍のVC10を35,000ftで飛行していた。
-彼はキプロスのアクロティリ空軍基地からオックスフォードシャーのブライズノートン空軍基地に向かう途中だった。毎日運航されていた。
-飛行隊長代理だったブライアンは、明るく輝くドラム缶のような物体に困惑しっぱなしだった。</p>
-<p>目撃したことについて、彼は初めてこう語った： 「ミシュラン・マンを想像してほしい。
-「ミシュランマンを想像してほしい。それが黒くも汚くもなく、ものすごくまぶしく輝いていたことも想像してほしい。それは私たちの11時の方向、頭上に吊り下げられていた。
-「もしそれが本物であったなら、見かけの大きさから20フィート（約1.5メートル）離れていただろうが、相対的な距離を感じることができないため、不気味であった。</p>
-<p>「その大きさによっては、1マイル（約1.6km）か数マイル（約1.6km）あったかもしれない。頭をそれ以上高く上げることができなくなったとき、私たちはそれを見失った。
-「通常の方法で焦点を合わせることは不可能だった。どんな大きさでも、どんな距離でも見えた。言ったように、不気味だった。それは私たちに対して動かなかった」。</p>
-<p>彼はこの出来事をニース管制塔に報告し、2機の戦闘機がUFOを迎撃するためにスクランブルされたが、パイロットたちはレーダーに何も映っていなかった。</p>
-<p>奇妙な遭遇</p>
-<p>ブライアンが最初にUFOを発見し、副操縦士のヴィック・スタントン（後にオマーンのスルタンのパイロットとなる）、ナビゲーターのJ.ムーア飛行中尉、そしてジェーンズ飛行曹長が続いた。
-フライトデッキにいた4人全員が、明らかに私が見たものを正確に見ており、私の説明に同意した。</p>
-<p>「さらに、私がニースATCに報告したとき、パンナムから、私が見たものを正確に見ることができ、私と同じ意見であったとの報告があった。彼のクルー全員が同様に見たことを私は疑わない。
-「もしこれが地球外生命体でないなら、地球上で開発されず、一般常識にならなかったのは不思議だ。</p>
-<p>「それはとても不自然で、常軌を逸しており、私たちの通常の予想を超えたものだった。見なければ信じられなかったよ
-ブライアンはその後、「通常のチャンネル 」を通じてこの奇妙な目撃情報を報告したが、空軍や国防省から返事が返ってくることはなかった。
-エセックス州リー・オン・シーで育ったブライアンがUFOを見たのは、1970年の出来事が初めてではない。</p>
-<p>彼は言った： 「ひとつは1951年頃で、遠くに吊り下げられた光がワープスピードで飛び去っていった。
-「1957年、私はトリミンガム空軍でベルギーからの訪問パイロットを護衛していた。巨大なスクリーンの前でブリーフィングを受けていたとき、クラクションが鳴った。</p>
-<p>「私たちはすぐに外に案内されたが、スクリーンに映し出された白い機体がオランダから北の方向に猛スピードで飛んでいき、やがて停止した。数秒後、それはウォッシュの海上からスカボローのあたりまで、3、4秒で再び飛び立った」。</p>
-<p>疑う余地はない</p>
-<p>軍用、民間、民間航空会社のパイロットによるUFO目撃証言は3,500件以上記録されているが、嘲笑やキャリアへのダメージを恐れて、公式に報告したがらないパイロットも多いと研究者たちは考えている。
-しかしブライアンは、自身の接近遭遇について著書『47 Years Aloft』に書いている： 「パイロットが奇妙な目撃談を報告したがらないとは、これまで一度も思ったことがない。</p>
-<p>「奇妙な出来事に関してパイロットを励ましたり、落胆させたりすることはない。私の考えでは、パイロットは必ず報告するものだ。
-「まれに社交辞令で話したことはあるが、特に他のパイロットと話したことはない」ブライアンは訓練生時代を経て、世界最年少の4ジェットの機長になった。</p>
-<p>その後、英国空軍のVC10でヨーロッパ各地のVIPを操縦し、当時のハロルド・ウィルソン首相をはじめとするVIPを乗せた。
-ブライアンはやがて商業界に転じ、さまざまな航空会社のためにファルコン、VC10、トライスター、そしてあらゆるタイプのボーイング747を操縦した。</p>
-<p>ブライアンの最後のフライトは、2000年12月にエアバス340でロサンゼルスに向かうものだった。47年間空を飛び続けた彼のログブックには22,500時間が記録されていた。
-最後のフライトで着陸するまでに、ブライアンは空軍と有名な民間航空会社の両方で25種類以上の航空機を操縦してきた。</p>
-<p>ブライアンは2度結婚し、3人の息子と1人の娘がいる。
-現在は妻のジャキと愛犬とともにフランスのジェール地方に住んでいる。
-本書はエア・ワールド・ブックスより25ポンドで出版されている。</p>
-<details class="details_lb9f alert alert--info details_b_Ee" data-collapsed="true"><summary>▼展開</summary><div><div class="collapsibleContent_i85q"><p>Retired RAF pilot reveals multiple close encounters with UFOs – including one shaped like the Michelin M...
-Stephen Moyes
-5–7 minutes</p><p>A RETIRED RAF pilot who flew a Prime Minister, VIPs and the public around the world in a 47-year career has revealed his own close encounter with a UFO shaped like 'Michelin Man'.</p><p>Brian Burdett, 83, was flying a Royal Air Force VC10 at 35,000ft when the strange 'oil drum' shaped object appeared 25 miles north of Corsica.</p><p>Sign up for The Sun
-newsletter</p><p>Brian Burdett was convinced he saw a UFO while flying</p><p>4
-Brian Burdett was convinced he saw a UFO while flyingCredit: Supplied</p><p>He was flying a Royal Air Force VC10 at 35,000ft when the strange 'oil drum' shaped object appeared</p><p>4
-He was flying a Royal Air Force VC10 at 35,000ft when the strange 'oil drum' shaped object appeared Credit: Supplied</p><p>He was en-route from RAF Akrotiri in Cyprus to RAF Brize Norton in Oxfordshire and was carrying RAF service personnel and their families to and from Singapore. They were daily flights.</p><p>Brian, who was acting Squadron Leader, was left baffled by the object which looked like a bright shiny oil drum.</p><p>Speaking for the first time about the sighting, he said: "Imagine a 56 gallon oil drum, the ones that come up to your hip and have those little bulges at regular intervals; imagine Michelin Man.</p><p>"Imagine also that it was not black or dirty but shining bright with an immense glare. It was suspended in our 11 o'clock position and above us.</p><p>"In real terms, had it been the real thing its apparent size put it 20 feet away but the inability to sense its relative distance was eerie because we could not work it out.</p><p>"We concluded it could have been a mile or several depending on its size, whatever that was. We lost sight of it when we could crane our heads no higher.</p><p>"It was impossible to focus on it in any normal way. The impression was that it could have been any size and at any distance. As I said, it was eerie.It was motionless relative to us."</p><p>He reported the incident to Nice ATC and two fighter jets were scrambled to intercept the UFO but the pilots saw nothing on radar.
-STRANGE ENCOUNTER</p><p>Brian spotted the UFO first followed by co-pilot Vic Stanton (later to be a pilot for the Sultan of Oman), navigator Flight Lieutenant J.Moore and flight engineer Flight Sergeant Janes.</p><p>He added: "All four of us on the flight deck saw exactly what I saw, obviously, and agreed with my description.</p><p>"Furthermore, when I reported it to Nice ATC, a Pan-Am reported that he could see exactly what I saw and agreed with me. I don't doubt that all his crew saw it as well.</p><p>"There is no doubt in my mind that if this was not extra-terrestrial then it's strange it has never been developed on Earth and become common knowledge.</p><p>"It was so unnatural and out of the ordinary and beyond our normal expectations of what things are or appear to be. You had to see it to not believe it!"</p><p>Brian later reported the strange sighting through 'normal channels' but never heard back from the RAF or MOD.</p><p>The 1970 event was not the first time Brian, who was brought up in, Leigh-on-Sea, Essex, has seen a UFO.</p><p>He said: "I've seen two other things that left me sure they were not earthly; one in c.1951 which was a light suspended in the distance which shot off at warp speed.</p><p>"In 1957 I was at RAF Trimingham escorting some visiting pilots from Belgium. We were being briefed in front of the huge screens when a klaxon sounded.</p><p>"We were immediately ushered out but I saw a white return on the screen shoot in a northerly direction from Holland at a massive speed and then stop dead. A few seconds later it set off again from abeam the Wash to around Scarborough in three or four seconds."
-'NEVER A DOUBT'</p><p>There have been over 3,500 documented sightings of UFOs by military, civilian and commercial airline pilots but researchers believe many more are reluctant to report them officially for fear of ridicule or damage to their careers.</p><p>But Brian, who has written about his close encounters in his book, Forty-Seven Years Aloft, said: "I've never believed pilots are reluctant to report strange sightings.</p><p>"You don't encourage or discourage pilots regarding strange occurrences; they would always report them, in my opinion. Certainly, I have never seen any orders for or against.</p><p>"I've talked about it on rare occasions socially but not with other pilots, particularly."After a period as a trainer, Brian became the youngest four-jet captain in the world.</p><p>He then flew VIPs around Europe in the RAF’s VC10s, his passengers included the then Prime Minister Harold Wilson, among other VIPs.</p><p>Brian eventually turned to the commercial world, flying Falcons, VC 10s, Tristars and every type of Boeing 747, for a variety of airlines.</p><p>Brian’s last flight was into Los Angeles in an Airbus 340, in December 2000. He had 22,500 hours in his log book, after forty-seven years aloft.</p><p>By the time that he touched down on his last flight, Brian had flown more than 25 different types of aircraft both for the RAF and a variety of famous commercial airlines.</p><p>Most read in News</p><p>Married twice with three sons and one daughter, Brian has four grand-children and three great- grand-children.
-READ MORE SUN STORIES</p><p>He now lives in the Gers, France, with his wife Jaki and their dogs.</p><p>Forty-Seven Years Aloft is published by Air World books and costs £25.</p><p>Brian has spoken about his experiences in the air in his new book</p><p>4
-Brian has spoken about his experiences in the air in his new bookCredit: Supplied</p><p>Forty-Seven Years Aloft tells his</p><p>4
-Forty-Seven Years Aloft tells his Credit: Supplied</p><p>Mysterious balloon-like object spotted in Japan leaves onlookers stunned as social media talks of UFOs and Godzilla</p></div></div></details>
-<p>(2024-08-26)</p>]]></content>
-        <category label="UFO" term="UFO"/>
     </entry>
 </feed>
