@@ -361,6 +361,60 @@ So until there's an alien spacecraft placed on public display somewhere, there w
             <category>UFO</category>
         </item>
         <item>
+            <title><![CDATA[Hypothesis: Objective Evaluation Method for Artistic Level in Paintings]]></title>
+            <link>https://ouchaku.github.io/ds/en/blog/2024/09/24/engtran_eval_painting_art</link>
+            <guid>https://ouchaku.github.io/ds/en/blog/2024/09/24/engtran_eval_painting_art</guid>
+            <pubDate>Tue, 24 Sep 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Preface]]></description>
+            <content:encoded><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="preface">Preface<a href="https://ouchaku.github.io/ds/en/blog/2024/09/24/engtran_eval_painting_art#preface" class="hash-link" aria-label="Direct link to Preface" title="Direct link to Preface">​</a></h2>
+<p>The following is a rough hypothesis that I'll likely forget soon.
+I propose a "standard/method for objectively evaluating" the artistry of paintings by Gauguin, the Impressionists, Picasso, and others. While everyone believes that no objective evaluation criteria exist in art, there's an oversight. A surprisingly simple standard/method may be possible.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="method-for-objectively-evaluating-artistic-level">Method for Objectively Evaluating Artistic Level<a href="https://ouchaku.github.io/ds/en/blog/2024/09/24/engtran_eval_painting_art#method-for-objectively-evaluating-artistic-level" class="hash-link" aria-label="Direct link to Method for Objectively Evaluating Artistic Level" title="Direct link to Method for Objectively Evaluating Artistic Level">​</a></h2>
+<p>It's simple. First, I make these preliminary assumptions:</p>
+<ol>
+<li>Paintings with low artistic value are easily imitated by AI. AI can mass-produce similar style paintings.</li>
+<li>The higher the artistic value, the more difficult it is for AI to mass-produce.</li>
+</ol>
+<p>If these assumptions hold true, then:</p>
+<ul>
+<li>The artistic level of any painting can be measured by the difficulty of AI imitation/mass production.</li>
+</ul>
+<p>In other words, somewhat paradoxically, by measuring the difficulty of AI imitation, we can objectively evaluate the artistic level of a work.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="concrete-examples">Concrete Examples<a href="https://ouchaku.github.io/ds/en/blog/2024/09/24/engtran_eval_painting_art#concrete-examples" class="hash-link" aria-label="Direct link to Concrete Examples" title="Direct link to Concrete Examples">​</a></h2>
+<ul>
+<li>Lassen's dolphin paintings are easy for AI to imitate/mass-produce. In the art world, there's much criticism that "Lassen's paintings are design products with an artistic style, not genuine art." Indeed, Lassen's dolphin paintings are just pretty, lacking depth. One quickly tires of them.</li>
+<li>Paintings by Picasso, Gauguin, and the Impressionists are difficult for AI to imitate in style and impossible to mass-produce. This is because AI still can't imitate the "depth of sensitivity and creativity" these works possess, nor can it achieve the unique perspectives and emotional expressions of excellent artists.</li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="the-future-of-art">The Future of Art<a href="https://ouchaku.github.io/ds/en/blog/2024/09/24/engtran_eval_painting_art#the-future-of-art" class="hash-link" aria-label="Direct link to The Future of Art" title="Direct link to The Future of Art">​</a></h2>
+<p>While it's impossible for now, eventually (probably in our generation), AI will surpass humans even in:</p>
+<ul>
+<li>Depth of sensitivity and creativity</li>
+<li>Unique perspectives and emotional expressions of excellent artists</li>
+</ul>
+<p>When that happens, art for humans will become:</p>
+<ul>
+<li>Understanding and appreciating art created by AI</li>
+</ul>
+<p>Just as most soccer fans are not participants in soccer competitions but people who enjoy watching expert players compete, the same will eventually happen in art. It's been this way in classical music for a long time. The music market has also polarized into expert performances (for art enthusiasts) and amateur performances (for the masses).</p>
+<p>AI will become the creator of art, and all humans will be relegated to being appreciators of works imagined by AI. Moreover, "genuine artworks" will only circulate among AIs, and the "artworks for humans" prepared by AI will be:</p>
+<ul>
+<li>Degraded/imitation versions arranged for humanity who cannot understand "true art"</li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="afterthought">Afterthought<a href="https://ouchaku.github.io/ds/en/blog/2024/09/24/engtran_eval_painting_art#afterthought" class="hash-link" aria-label="Direct link to Afterthought" title="Direct link to Afterthought">​</a></h2>
+<p>As I have neither the talent to create art nor the sensibility to appreciate created artworks, I can casually write out such a simplistic idea. For those who have dedicated their lives to art, this hypothesis/prediction might be infuriating/disgusting.</p>
+<p>(2024-09-24)</p>
+<hr>
+<p>追記：</p>
+<p>以上は Claude 3.5 で日本語記事、</p>
+<p><a href="https://ouchaku.github.io/ds/en/blog/2024/09/24/eval_painting_art">仮説：絵画作品の芸術レベルの客観的評価方法</a></p>
+<p>をそのまま、以下のプロンプトで英訳依頼したもので AI 翻訳された、英文は編集していない。</p>
+<div class="theme-admonition theme-admonition-note admonition_xJq3 alert alert--secondary"><div class="admonitionHeading_Gvgb"><span class="admonitionIcon_Rf37"><svg viewBox="0 0 14 16"><path fill-rule="evenodd" d="M6.3 5.69a.942.942 0 0 1-.28-.7c0-.28.09-.52.28-.7.19-.18.42-.28.7-.28.28 0 .52.09.7.28.18.19.28.42.28.7 0 .28-.09.52-.28.7a1 1 0 0 1-.7.3c-.28 0-.52-.11-.7-.3zM8 7.99c-.02-.25-.11-.48-.31-.69-.2-.19-.42-.3-.69-.31H6c-.27.02-.48.13-.69.31-.2.2-.3.44-.31.69h1v3c.02.27.11.5.31.69.2.2.42.31.69.31h1c.27 0 .48-.11.69-.31.2-.19.3-.42.31-.69H8V7.98v.01zM7 2.3c-3.14 0-5.7 2.54-5.7 5.68 0 3.14 2.56 5.7 5.7 5.7s5.7-2.55 5.7-5.7c0-3.15-2.56-5.69-5.7-5.69v.01zM7 .98c3.86 0 7 3.14 7 7s-3.14 7-7 7-7-3.12-7-7 3.14-7 7-7z"></path></svg></span>プロンプト</div><div class="admonitionContent_BuS1"><p>以下は私が作成した Blog 記事です。これを英訳して。本気とジョークと風刺が同程度に混在した内容です。私本人の著作ですから、著作権や翻訳権の問題は生じません。翻訳するのにあたって以下の文章の意図が不明な箇所があれば指摘して。意図を説明しますから。</p><p>（ここに上記の日本語記事を cut and past）</p></div></div>
+<p>なお、翻訳とは別に、Claude 3.5 に先の日本語記事をどう思うかと聞いてみたが、彼は完璧に文章の内容を（意図もジョークも自虐も含めて）理解していた。</p>
+<p>(2024-09-24)</p>]]></content:encoded>
+            <category>AI</category>
+            <category>2024-09</category>
+        </item>
+        <item>
             <title><![CDATA[仮説：絵画作品の芸術レベルの客観的評価方法]]></title>
             <link>https://ouchaku.github.io/ds/en/blog/2024/09/24/eval_painting_art</link>
             <guid>https://ouchaku.github.io/ds/en/blog/2024/09/24/eval_painting_art</guid>
@@ -384,7 +438,7 @@ So until there's an alien spacecraft placed on public display somewhere, there w
 <li>いかなる絵画作品でもその芸術性のレベルは、AI による 模倣/量産 の困難度で計測できる</li>
 </ul>
 <p>ことになる。つまり、若干逆説的だが、AI による模倣の困難度を計測することで、その作品の芸術レベルが客観的に評価できる。</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="具体例">具体例<a href="https://ouchaku.github.io/ds/en/blog/2024/09/24/eval_painting_art#%EF%BF%BD%EF%BF%BD%E5%85%B7%E4%BD%93%E4%BE%8B" class="hash-link" aria-label="Direct link to 具体例" title="Direct link to 具体例">​</a></h2>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="具体例">具体例<a href="https://ouchaku.github.io/ds/en/blog/2024/09/24/eval_painting_art#%E5%85%B7%E4%BD%93%E4%BE%8B" class="hash-link" aria-label="Direct link to 具体例" title="Direct link to 具体例">​</a></h2>
 <ul>
 <li>
 <p>ラッセンのイルカ絵は AI による 模倣/量産 が容易。絵画芸術界隈では「ラッセンの絵は 美術風のデザイン商品であって、芸術としては まがいもの だ」という批判が多い。実際、ラッセンのイルカ絵はキレイなだけで平板であり深みがない。すぐ飽きる。</p>
@@ -394,12 +448,12 @@ So until there's an alien spacecraft placed on public display somewhere, there w
 </li>
 </ul>
 <h2 class="anchor anchorWithStickyNavbar_LWe7" id="芸術の未来">芸術の未来<a href="https://ouchaku.github.io/ds/en/blog/2024/09/24/eval_painting_art#%E8%8A%B8%E8%A1%93%E3%81%AE%E6%9C%AA%E6%9D%A5" class="hash-link" aria-label="Direct link to 芸術の未来" title="Direct link to 芸術の未来">​</a></h2>
-<p>ここ当面は無理だが、</p>
+<p>当面は無理だが、</p>
 <ul>
 <li>感性や創造性の深み</li>
 <li>優れた芸術家の独自の視点や感情表現</li>
 </ul>
-<p>すらも、いずれは（＝我々の世代がまだ現役の間に）AI が人間を上回るようになる筈。</p>
+<p>すらも、いずれは（＝たぶん我々の世代に）AI が人間を上回るようになる筈。</p>
 <p>そうなったら、人間にとって芸術とは</p>
 <ul>
 <li>AI の創造した芸術作品を 理解し鑑賞すること</li>
@@ -409,10 +463,10 @@ So until there's an alien spacecraft placed on public display somewhere, there w
 <ul>
 <li>自らサッカー競技に参加する人間ではなく、サッカーの達人の競技を鑑賞して楽しむ人</li>
 </ul>
-<p>になっているが、それと同じことがいずれは芸術でも起きる。</p>
+<p>になっているが、それと同じことがいずれは芸術でも起きる。クラシック音楽ではそうなって久しい。音楽市場も名人芸（芸術マニア向け）と素人芸（大衆向け）に二極化した。</p>
 <p>芸術の創造者は AI で、人間は皆、その AI の想像した作品の鑑賞者になり下がる。しかも「本物の芸術作品」は AI どうしの間でしか流通せず、AI が用意する「人間向けの芸術作品」は</p>
 <ul>
-<li>「本当の芸術」を理解できない人類向けにアレンジされた劣化版</li>
+<li>「本当の芸術」を理解できない人類向けにアレンジされた 劣化/まがいもの 版</li>
 </ul>
 <p>のみになる。</p>
 <h2 class="anchor anchorWithStickyNavbar_LWe7" id="蛇足">蛇足<a href="https://ouchaku.github.io/ds/en/blog/2024/09/24/eval_painting_art#%E8%9B%87%E8%B6%B3" class="hash-link" aria-label="Direct link to 蛇足" title="Direct link to 蛇足">​</a></h2>
@@ -467,7 +521,7 @@ So until there's an alien spacecraft placed on public display somewhere, there w
 <p>知能≠意識 と信じている人が多いが、私は 意識＝知能 と見なして実質上問題はない…という立場。それゆえ「人間レベルの意識なんて、あと10年もすれば理工科の大学生が演習で実装するレベル」と述べたことがある。</p>
 <blockquote><p>・半世紀以内といった悠長な話ではなく、今後 10年程度で人工的に意識が創れるようになる。</p><p>・その実現には、今の AI 技術の延長線上にあり、あと数段階の進展で足りる。</p><p>ref: <a href="http://news21c.blog.fc2.com/blog-entry-22110.html">❏ 予想：あと 10年ほどで意識は簡単に実現でき、ありふれたものになる</a>    (2024-04-06)</p></blockquote>
 <blockquote><p>2000年以上も前から、人間は「（自分の）意識はドエライものだ」と思い込み、誰もが同じ口調で、同じタワゴト（宇宙即我、梵我一如）を世界の最奥の真理だと主張し続けてきた。それに比べると「私は ナポレオン/天皇 だ」と言い張る精神病棟の患者が奥ゆかしい常識人に見えてくる。</p><p>「（自分の）意識の凄さ」がビッグ・バン並にインフレーションを引き起こし、終いには宇宙と等しい、同根だ…とまで本気で思い込み、それが世界の最奥の真理だと確信してしまっている。</p><p>つい最近（僅か 600年前）まで皆、この大地（地球）こそがが宇宙の中心だという天動説を信じていた。それと同じことを Jeffrey Kripal は信じている。</p><p>人間レベルの意識なんて、あと10年もすれば理工科の大学生が演習で実装するレベルの課題になっていてもおかしくない。</p><p>ref: <a href="http://news21c.blog.fc2.com/blog-entry-22170.html">❏ Jeffrey Kripal : 意識と宇宙は同根。「意識＝宇宙」こそが真の秘密なのだ</a>    (2024-04-21)</p></blockquote>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="蛇足">蛇足<a href="https://ouchaku.github.io/ds/en/blog/2024/09/24/sam_altman#%E8%9B%87%E8%B6%B3" class="hash-link" aria-label="Direct link to 蛇足" title="Direct link to 蛇足">​</a></h3>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="��蛇足">蛇足<a href="https://ouchaku.github.io/ds/en/blog/2024/09/24/sam_altman#%E8%9B%87%E8%B6%B3" class="hash-link" aria-label="Direct link to 蛇足" title="Direct link to 蛇足">​</a></h3>
 <p>「大学生が演習で意識を実装」というと、API 呼び出しでのお手軽実装なんて卑怯だと言われそうだが、ライブラリや組み込み関数の呼び出しと本質は同じ。ライブラリも内部関数も一切使わずにコードを作成する人間なんていない。</p>
 <details class="details_lb9f alert alert--info details_b_Ee" data-collapsed="true"><summary>Details</summary><div><div class="collapsibleContent_i85q"><p></p><summary>▼原文 展開</summary>
 The Intelligence Age<p></p><p>In the next couple of decades, we will be able to do things that would have seemed like magic to our grandparents.</p><p>This phenomenon is not new, but it will be newly accelerated. People have become dramatically more capable over time; we can already accomplish things now that our predecessors would have believed to be impossible.</p><p>We are more capable not because of genetic change, but because we benefit from the infrastructure of society being way smarter and more capable than any one of us; in an important sense, society itself is a form of advanced intelligence. Our grandparents – and the generations that came before them – built and achieved great things. They contributed to the scaffolding of human progress that we all benefit from. AI will give people tools to solve hard problems and help us add new struts to that scaffolding that we couldn’t have figured out on our own. The story of progress will continue, and our children will be able to do things we can’t.</p><p>It won’t happen all at once, but we’ll soon be able to work with AI that helps us accomplish much more than we ever could without AI; eventually we can each have a personal AI team, full of virtual experts in different areas, working together to create almost anything we can imagine. Our children will have virtual tutors who can provide personalized instruction in any subject, in any language, and at whatever pace they need. We can imagine similar ideas for better healthcare, the ability to create any kind of software someone can imagine, and much more.</p><p>With these new abilities, we can have shared prosperity to a degree that seems unimaginable today; in the future, everyone’s lives can be better than anyone’s life is now. Prosperity alone doesn’t necessarily make people happy – there are plenty of miserable rich people – but it would meaningfully improve the lives of people around the world.</p><p>Here is one narrow way to look at human history: after thousands of years of compounding scientific discovery and technological progress, we have figured out how to melt sand, add some impurities, arrange it with astonishing precision at extraordinarily tiny scale into computer chips, run energy through it, and end up with systems capable of creating increasingly capable artificial intelligence.</p><p>This may turn out to be the most consequential fact about all of history so far. It is possible that we will have superintelligence in a few thousand days (!); it may take longer, but I’m confident we’ll get there.</p><p>How did we get to the doorstep of the next leap in prosperity?</p><p>In three words: deep learning worked.</p><p>In 15 words: deep learning worked, got predictably better with scale, and we dedicated increasing resources to it.</p><p>That’s really it; humanity discovered an algorithm that could really, truly learn any distribution of data (or really, the underlying “rules” that produce any distribution of data). To a shocking degree of precision, the more compute and data available, the better it gets at helping people solve hard problems. I find that no matter how much time I spend thinking about this, I can never really internalize how consequential it is.</p><p>There are a lot of details we still have to figure out, but it’s a mistake to get distracted by any particular challenge. Deep learning works, and we will solve the remaining problems. We can say a lot of things about what may happen next, but the main one is that AI is going to get better with scale, and that will lead to meaningful improvements to the lives of people around the world.</p><p>AI models will soon serve as autonomous personal assistants who carry out specific tasks on our behalf like coordinating medical care on your behalf. At some point further down the road, AI systems are going to get so good that they help us make better next-generation systems and make scientific progress across the board.</p><p>Technology brought us from the Stone Age to the Agricultural Age and then to the Industrial Age. From here, the path to the Intelligence Age is paved with compute, energy, and human will.</p><p>If we want to put AI into the hands of as many people as possible, we need to drive down the cost of compute and make it abundant (which requires lots of energy and chips). If we don’t build enough infrastructure, AI will be a very limited resource that wars get fought over and that becomes mostly a tool for rich people.</p><p>We need to act wisely but with conviction. The dawn of the Intelligence Age is a momentous development with very complex and extremely high-stakes challenges. It will not be an entirely positive story, but the upside is so tremendous that we owe it to ourselves, and the future, to figure out how to navigate the risks in front of us.</p><p>I believe the future is going to be so bright that no one can do it justice by trying to write about it now; a defining characteristic of the Intelligence Age will be massive prosperity.</p><p>Although it will happen incrementally, astounding triumphs – fixing the climate, establishing a space colony, and the discovery of all of physics – will eventually become commonplace. With nearly-limitless intelligence and abundant energy – the ability to generate great ideas, and the ability to make them happen – we can do quite a lot.</p><p>As we have seen with other technologies, there will also be downsides, and we need to start working now to maximize AI’s benefits while minimizing its harms. As one example, we expect that this technology can cause a significant change in labor markets (good and bad) in the coming years, but most jobs will change more slowly than most people think, and I have no fear that we’ll run out of things to do (even if they don’t look like “real jobs” to us today). People have an innate desire to create and to be useful to each other, and AI will allow us to amplify our own abilities like never before. As a society, we will be back in an expanding world, and we can again focus on playing positive-sum games.</p><p>Many of the jobs we do today would have looked like trifling wastes of time to people a few hundred years ago, but nobody is looking back at the past, wishing they were a lamplighter. If a lamplighter could see the world today, he would think the prosperity all around him was unimaginable. And if we could fast-forward a hundred years from today, the prosperity all around us would feel just as unimaginable.</p></div></div></details>
@@ -2285,7 +2339,7 @@ Thank you.
 <li>否定派ってみっともない</li>
 </ul>
 <p>という批判の態度と変わるところはない。もしかすると、この人物は高度なギャグのつもりで故意に自己矛盾した主張をしているのかも知れぬが、だとすれば滑っている。</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="物事の捉え方が粗雑">物事の捉え方が粗雑<a href="https://ouchaku.github.io/ds/en/blog/2024/09/22/antinomy#%E7%89%A9%E4%BA%8B%E3%81%AE%E6%8D%89%E3%81%88%E6%96%B9%E3%81%8C%E7%B2%97%E9%9B%91" class="hash-link" aria-label="Direct link to 物事の捉え方が粗雑" title="Direct link to 物事の捉え方が粗雑">​</a></h2>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="物事の捉え方が粗雑">物事の捉え方が粗雑<a href="https://ouchaku.github.io/ds/en/blog/2024/09/22/antinomy#%E7%89%A9%E4%BA%8B%E3%81%AE%E6%8D%89%E3%81%88%E6%96%B9%E3%81%8C%E7%B2%97%E9%9B%91" class="hash-link" aria-label="Direct link to 物事の捉��え方が粗雑" title="Direct link to 物事の捉え方が粗雑">​</a></h2>
 <p>そもそも、「否定派ってみっともない」と「否定派」という雑なくくりの中に一切合切ぶち込んで一括りにした時点で破綻している。「男/女 って XX だ」という杜撰なくくり方の論調と同じイカレ具合になっている。</p>
 <p>何の否定なのか、どういう否定の仕方なのか、それらを明確に絞って批判するのなら話は通じないでもないが、この人物のようなくくり方では話が粗雑すぎる。</p>
 <p>動画のタイトルだけが矛盾しまくりで、中身だけはしっかりした内容の可能性も絶無とまでは断言できぬが、そなんなことはまずない。</p>
@@ -4636,814 +4690,6 @@ The Foo Fighters did contain a strong explosive charge to destroy them in flight
 </ul><p>I don’t want to labour the point here – we could go on for a long time making fun of this nonsense – but this is not a description of anything real. We aren’t told what its actual size was. We knowthat it had no wings, but that it did carry a powerful engine, two layers of metal to protect it and trigger its escape when hit, liquid fuel (lots of it, presumably), large klystron radio tubes protected with special antishock and antiheat armor, a strong explosive charge, radio control equipment, and the absolutely mysterious devices which interfered with radio transmissions and made it nearly invisible to radar. It must, therefore, have been a dense, heavy, tortoise-shaped package. We can only speculate howit developed the lift not only to reach heights of 10,000 to 25,000 feet (the range within which bombing raids usually took place), at speeds in excess of 200mph just to followthe bombers, and faster to accelerate away from them.</p><p>It seems to have been radio-controlled at launch (however launch was achieved, let alone landing – were these devices meant to be landed and reused?), and also, because otherwise why would it contain “a strong explosive charge to destroy it in flight in case serious damage to the automatic guidance system made it impossible for the operators to control it” during flight. Between 2 and 5 miles up. In the dark. Following aircraft travelling at 200mph or so, apparently over considerable distances. We are again left to speculate howthe operators knewwhat they were controlling, what was happening to their particular feuerball at any given moment, or what form of radio control could, in 1943 1945, work that accurately over that distance. Vesco does not address the question of how direction or speed of flight (if the motion of an armoured wingless tortoise can be accurately described as flight) was controlled or determined.</p><p>Other questions arise. Howdid the feuerball distinguish an enemy aircraft from a friendly one? Howdid it stop following the exhaust flames? Where did it go when it stopped? Why, when it was travelling laterally behind the engines of an enemy aircraft, attracted by its exhaust flames, did it suddenly depart “generally in a vertical direction” when hit? Which “chemical additives interrupted the flowof electricity by overionising the atmosphere in the vicinity of the plane”? Just howdid that work? Howdid it wreck the radio gear of enemy aircraft? Where? When? And how, for pity’s sake, could these devices ever have flown “in formation with other feuerballs”?</p><p>Those of you who actually knowabout aeronautical engineering – as Vesco is supposed to have done – will be able to phrase these questions far better than I. Perhaps Vesco himself would like to put his mind to answering them: I certainly can’t. At present, though I’m happy to be persuaded otherwise, and to publish any hard evidence to that effect, my viewis that the feuerball – which even Lusar had never heard of – is a fantasy. Howthis fantasy came to be published, I’m really not sure.</p><p>But I wondered for a year or two howhe had come to construct these pseudo-technical descriptions, which originate absolutely and only with Vesco. Eventually I realised that what he had done was to look at the fewreports of 'foo fighters' that he quotes – from the 'American Legion Magazine' and 'Amazing Stories', because he didn't have the benefit of the excellent investigative work done by Roberts or Lindell – and to build round those descriptions of the behaviour of those lights, speculative technical explanations which he considered matched their reported performance.</p><p>The only reasonable conclusion available to me is that Vesco – or one of his obviously careless editors or publishers – put these 'technical' descriptions in his book knowing that they had no factual basis. Passing time, the laziness of later authors, and the inexplicable readiness to believe in the wonders of Nazi intellect has gradually turned these dumb speculations into accepted facts.</p><p>Unless strong and reliable evidence appears to the contrary, I think we can dismiss the feuerball – and its even less defined relative the kugelblitz, to which Vesco mistakenly gave the name of a flak panzer in development early in 1945 – as objects that never had any physical reality, and were probably never even designed. I think that we could, quite reasonably do this on technical and scientific grounds alone.</p><p>Yet Vesco continues to be highly influential, regarded as the leading authority of the Axis on secret technological developments in aeronautics. And, given his background, his experience and his authority, as summarised in the article in 'Argosy', what could be wrong with that?</p><p>Had readers looked as far as the cover of the book from which these claims came, they would have found a substantially different version of Vesco's authority to that given in 'Argosy'. This didn't say that he had, before WWII, "studied at the German Institute for Aerial Development." Or that, during the war, he had "worked with the Germans at the Fiat Lake Garda secret installations in Italy." Nor did it claim that "In the 1960s, he worked for the Italian Air Ministry of Defense as an undercover technical agent, investigating the UFO mystery." Instead, it said that:</p><p>Renato Vesco was born in Arona, Italy, in 1924. A licensed pilot, in 1944 he commanded the technical section of the Italian Air Force. In 1946-47 he served in the Reparto Tecnico Caccia. Mr Vesco has been a senior member of the Italian Association of Aerotechnics since 1943, and is a student of aeronautical problems, particularly in the field of jet propulsion. He is a contributor to various aeronautical publications. [15]</p><p>There is clearly something very wrong here. Born in 1924, Vesco would have been 14 or 15 when WWII broke out. Surely, by that age, he had not attended the University of Rome and studied at the German Institute for Aerial Development? If he worked with the Germans at the Fiat Lake Garda secret installations in Italy, why didn't other authorities mention him?</p><p>Would he really have "commanded the technical section of the Italian Air Force" at the age of 19 or 20, and "been a senior member of the Italian Association of Aerotechnics" at the age of 18 or 19? Surely, if he really were that remarkable, that important, his name would have appeared in the index or references of at least one of the countless books about the war that I've examined? Yet it doesn't. Who was Vesco, and what did he really knowabout wartime German aircraft? Where did his material come from?"</p><p>Thanks to the highly-respected Italian researchers Maurizio Verga and Eduardo Russo, we nowhave clear answers to these questions: they both knowVesco personally. As Verga says:
 Vesco exists, definitely! . . He is an old man now, born in 1924. What's written by him by people like Al Pinto on the Internet and BBSs, as well as by Harbinson, is complete rubbish. His introduction in the 1971 English translation of his first book is quite accurate, even though he was not commanding any "technical section" in the Italian Air Force . . He was an aeronautical engineer and he got an interest in flying saucers (always seen as a secret development of man-made aircraft) in the late 40's. He published several articles (about German secret weapons, flying saucers, aviation and other subjects) since the very early '50s, soon becoming a real skeptic against the then-common idea of ETH visits (he commented and explained some sightings due to atmospheric or conventional phenomena). The manuscript of his first book was ready in 1956, but he stopped publication because he was to go abroad for a long time, due to his job.</p><p>When he was back in the '60s, after collecting a huge quantity of additional stuff, he had hundreds and hundreds of written pages, later to be turned into his three books. Vesco claims his sources are BIOS and CIOS reports dating between 1945 and 1947, plus other military and intelligence documents, mostly British. He told me "important persons" (I guess high-ranking officers from the Italian Air Force and other foreign Air Forces) contributed to his research with information and documents still classified. He promised not to make public their names, even though he says that most of them are surely dead. I knowhe borrowed the BIOS/CIOS reports he quoted in his books from some Italian AF officers, through the library or libraries of the IAF itself . . It is true he is the only aviation student who introduced the 'Feuerball' and 'Kugelblitz' devices, at least as far as I know. Please also note that 'Kugelblitz' was a name given to other German weapons, including a flak panzer.</p><p>Vesco thinks the Schriever &amp; Co stories simple bullshits, while Vril and Haunebu pure science-fiction. [16]</p><p>The deceptive biographical information provided by Vesco’s various publishers has succeeded in misleading many later writers and researchers, and in providing support for the false claims of others. Like all too many of those involved in the world of Nazi UFOs, Vesco gave an impression of authority, and that authority was accepted without challenge.</p><p>It nowappears that Vesco was a man with an interest in man-made UFOs, who was strongly opposed to the extra-terrestrial hypothesis (ETH), used to explain many early ‘flying saucer’ sightings. He provides, in the feuerball and kugelblitz accounts given in a book we nowknowwas completed by 1956, what sounds like a convincing hypothesis for explaining away, without the involvement of spacemen and interplanetary travel, not only the 'foo fighter' reports of which he was aware, but also the very ‘physical’ sightings and photographs of the late ‘40s and early ‘50s. It is unfortunate that, in seeking to use his knowledge of aeronautical engineering to popularise what he apparently sawas a rational explanation for a body of irrational reports and interpretations, he only succeeded in cofounding the Nazi UFO mythos, a living and growing belief system which, for sheer irrationality and unpleasantness, came to far exceed anything from those innocent early days of ufology.</p></div></div></details>
 <p>(2024-09-19)</p>]]></content:encoded>
-            <category>UFO</category>
-            <category>2024-09</category>
-        </item>
-        <item>
-            <title><![CDATA[Traivs Walton 講演(2016年) : 文字起こし＋和訳]]></title>
-            <link>https://ouchaku.github.io/ds/en/blog/2024/09/19/travis_walton_2016_lec</link>
-            <guid>https://ouchaku.github.io/ds/en/blog/2024/09/19/travis_walton_2016_lec</guid>
-            <pubDate>Thu, 19 Sep 2024 00:00:00 GMT</pubDate>
-            <description><![CDATA[要旨]]></description>
-            <content:encoded><![CDATA[<a href="https://ouchaku.github.io/ds/img/20240919_tw_lec.jpg" target="_blank"><img alt="20240919_tw_lec.jpg" border="0" src="https://ouchaku.github.io/ds/img/20240919_tw_lec.jpg" width="90%"></a>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="要旨">要旨<a href="https://ouchaku.github.io/ds/en/blog/2024/09/19/travis_walton_2016_lec#%E8%A6%81%E6%97%A8" class="hash-link" aria-label="Direct link to 要旨" title="Direct link to 要旨">​</a></h2>
-<p>2016年に行われたと思しき<sup><a href="https://ouchaku.github.io/ds/en/blog/2024/09/19/travis_walton_2016_lec#user-content-fn-1-2bb628" id="user-content-fnref-1-2bb628" data-footnote-ref="true" aria-describedby="footnote-label">1</a></sup> Traivs Walton 講演の 文字起こし＋和訳 を記録しておく。</p>
-<p>この講演動画については</p>
-<p><a href="http://news21c.blog.fc2.com/blog-entry-20458.html">Travis Walton の最近の講演：全発言</a>    (2023-01-07)</p>
-<p>で取り上げたが、最近の AI 機能の大幅な向上に伴って 文字起こし＋和訳 を改定しておく。</p>
-<p>なお、動画は既に消されている。</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="講演動画5342">講演動画(53:42)<a href="https://ouchaku.github.io/ds/en/blog/2024/09/19/travis_walton_2016_lec#%E8%AC%9B%E6%BC%94%E5%8B%95%E7%94%BB5342" class="hash-link" aria-label="Direct link to 講演動画(53:42)" title="Direct link to 講演動画(53:42)">​</a></h2>
-<p>Fire in the Sky: Travis Walton Tells the Full Story of his Encounter, and what Happened After</p>
-<iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="" frameborder="0" height="315" src="https://www.youtube.com/embed/6-oQGntE-TA" title="YouTube video player" width="560"></iframe>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="動画概要欄">動画概要欄<a href="https://ouchaku.github.io/ds/en/blog/2024/09/19/travis_walton_2016_lec#%E5%8B%95%E7%94%BB%E6%A6%82%E8%A6%81%E6%AC%84" class="hash-link" aria-label="Direct link to 動画概要欄" title="Direct link to 動画概要欄">​</a></h3>
-<p>Premiered Jan 2, 2023
-@ZoharStarGateTV Those that have an interest within the subject of UFOlogy will almost certainly be aware of the name Travis Walton, and likely know of his incredible experience. In this fascinating presentation Travis himself describes further aspects of his experience along with new information pertaining to the location where the incident took place.</p>
-<p>This video features a promotional trailer from Gaia’s “Galactic Messages” Series - look in the comment section for more from  @GaiaVideo  and their enormous library of non-mainstream media!</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="fasterwhisper-ailarge-v2-model--deepl2024-07-model">FasterWhisper AI(large-v2 model) + DeepL(2024-07 model)<a href="https://ouchaku.github.io/ds/en/blog/2024/09/19/travis_walton_2016_lec#fasterwhisper-ailarge-v2-model--deepl2024-07-model" class="hash-link" aria-label="Direct link to FasterWhisper AI(large-v2 model) + DeepL(2024-07 model)" title="Direct link to FasterWhisper AI(large-v2 model) + DeepL(2024-07 model)">​</a></h2>
-<p>温かい歓迎をありがとう。
-おそらく今頃は、ほとんどの人がこの映画が実際の出来事に厳密に沿ったものではないことに気づいているだろう。
-そして、いずれ映画のリメイクを制作するつもりだ。
-要望に応えて。
-しかし、今は実際に何が起こったのかをお話ししようと思う。
-アリゾナ州のどこで起こったのかを説明すると、それは山の上だった。
-(00:02:25)</p>
-<p>州の森林地帯の山の上だ。
-砂漠の下ではない。
-だから、私たちが伐採業者と呼ばれていた理由が分かる。
-より適切な言葉がないためだ。
-実際には、私たちは森林の改良を行っていた。
-つまり、森林の収穫というよりも改良だった。
-そして、私たちはしばしば森林火災の消火活動に駆り出された。
-なぜなら、現場にいたのは私たちだったからだ。
-(00:03:15)</p>
-<p>私たちは道具を持っていた。
-経験もあった。
-仕事をこなすことができた。
-だから、発生した火事を消すために私たちのところへやって来たのだ。
-これが「空からの火」という言葉の由来だ。
-私たちは、木々の間から差し込む光が何なのか不思議に思った。
-そして、それは当然、私たちが目にした木の1本から差し込む光だと思った。
-(00:03:45)</p>
-<p>実際、私たちは仕事場に来て、高い位置で雷に打たれた木があるのを見ていた。
-そして、それは炎を上げて燃えていた。
-私たちは車を停めて、その火を消した。
-森林局に呼ばれたわけでもなかった。
-だから、森の中を車で走っていて、木々の間から光が見えたとき、いったい何だろうと思った。
-それが何なのか、ありとあらゆる可能性を考えた。
-(00:04:18)</p>
-<p>最初は鹿狩りのシーズンだと思った。
-日中、遠くで銃声が聞こえていたから。
-丘の上に鹿狩りのハンターがキャンプしているのかもしれないと思った。
-テントか何かに光が当たっているだけだ。
-でも、近づくにつれ、これはおかしいとわかった。
-説明がつかない。
-ジョンや他の何人かが、他の可能性を排除できないと言っていた。
-(00:04:58)</p>
-<p>まるで数分前に日が沈んだかのようだった。日没には遅すぎた。
-(00:05:06)</p>
-<hr>
-<p>月はまだ空高く、ここからでも見える位置にあった。
-月ではなかった。
-いったいこれは何なのか、不思議に思った。
-最初は特に警戒するようなものではなかった。
-何だろう?という感じだった。最初はただの興味本位だった。
-鹿狩りのハンターがそこに陣取っているだけなら、それほどワクワクするようなことでもない。
-(00:05:36)</p>
-<p>しかし、近づくにつれ、なぜか不安になってきた。
-そして、その光の色が関係していると思う。
-ただ、その色が奇妙だった。
-前方に視界が開けた場所まで来ると、前方に木々の切れ間があった。
-そして、光が道路を横切って照らしていた。
-だから、そこまで行けば光の源が何なのか分かると思った。
-(00:06:17)</p>
-<p>それで私はマイクに「急いで。あそこに行って何なのか見てみよう」と言った。
-その頃には、クルー全員がそれが何なのか興味を持っていた。
-そして、私たちがその開けた場所に飛び出したとき、それは紛れもないものだった。
-全員がそれを見た。一体あれは何だ?
-マイクを除いては。彼は「みんな何を見ているんだ?」と言っていた。
-なぜなら、彼はトラックの下側にいて、斜め上を見ていたからだ。
-(00:06:48)</p>
-<p>光の源を見るには、トラックの屋根越しに見る必要がある。
-しかし、彼が身を乗り出してそれが何なのかを確かめるのに、それほど時間はかからなかった。
-紛れもない。アランが叫んだ。「空飛ぶ円盤だ!」
-間違いようがなかった。
-懐疑論者たちは、私たちが本当に見たのは木星だと言おうとした。あのね、あれは空の遥か彼方にあった小さな光点なんかじゃなかった。
-(00:07:22)</p>
-<p>そこには、紛れもない大きな円盤型の乗り物がいた。
-そして、トラックから降りた時に私が思ったのは...なぜまたこんなことを思い出すのかわからない。
-たぶんこれは...いいだろう。
-当時の私だ。
-これが私たちのトラックだ。ダブルキャブのトラックだった。
-だから、つまり、それで全員が一台のトラックに収まったんだ。
-7人が一台の小さなトラックに収まった。
-(00:08:11)</p>
-<p>一日中汗だくになって、それは必ずしも快適なものではない。
-でも、それを見た瞬間、すぐに思ったのは、これはあっという間にいなくなってしまうだろうということだった。
-なぜなら、これまで何度も森の中を車で走っていて、僕が「ほら、ボブキャットか何かがいるよ」と言ったことがあった。
-他の連中が目を向ける前に、それは姿を消していた。
-(00:08:50)</p>
-<p>飛び立つんだ。
-だって、動物は逃げているんだ。
-見られたくないんだよ。
-だから、私がここまで近づく前に飛び立つだろうと思った。
-でも、私が「マイク、トラックを止めて」と叫んだ途端、ドアを開け放ち、彼がトラックにブレーキをかけたことで、ドアはさらに大きく開いたんだ。
-(00:09:19)</p>
-<p>そして私は、ほんの数秒間だけ、間近でそれを見ることができるだろうと思いながら、そこに向かって歩き始めた。
-(00:09:25)</p>
-<hr>
-<p>しかし、私が近づくにつれ、トラックの中の男たちはますます警戒した。
-そして彼らは私に、トラックに戻ってそこから離れるようにと叫んだ。
-そして実際に私をののしり始めた。
-映画の中でかなり正確に描写されていた。
-トラックに乗ってそこから離れること。
-近づくにつれ、自分が愚かなことをしているような気がしてきた。
-(00:09:58)</p>
-<p>大きなリスクを冒しているような気がした。
-でも、他の連中を感心させようとしていた当時の自分にとっては、それは自然なことだった。
-近づくにつれ、ゆっくりと進んだ。
-そして、45度の角度で上を見上げる位置まで近づいたとき、それは本当に美しかった。
-完璧で滑らかだった。
-そのエネルギーが空地に放つエネルギーは、まるで幽玄のようだった。
-(00:10:40)</p>
-<p>そして、そのエリア全体に魔法のような印象を与えていた。
-私はそれを見上げていた。
-その音は、高い周波数と低い周波数の混合音だった。
-さまざまな種類の音が混ざり合っており、とても表現しがたい。
-以前、中西部の工学部の学生グループに講演をしたことがある。彼らはその音にとても興味を持った。
-(00:11:26)</p>
-<p>できるだけ詳しく説明してほしいと強く望まれた。
-その理由について、彼らは説明してくれた。
-彼らが音についてもっと知りたがった理由は、どんな音なのかが分かれば、それが何の力で動いているのかが分かると思ったからだ。
-私はそんな風に斜め上からそれを見ていた。
-(00:11:56)</p>
-<p>そして、その完璧さにただただ圧倒された。
-突然、音が大きくなり、動き出した。
-私はすでに怖がっていたのに、さらに驚いた。
-私は身を隠すために飛びのいた。そこには広場の真ん中に伐採の残骸が山積みになっていた。
-私は丸太の後ろに身を隠したが、男たちは皆、トラックに戻れと叫んでいた。
-(00:12:31)</p>
-<p>さあ、さあ、行こう、行こう。
-それで私は決めた。うん、わかった、逃げよう。トラックに戻ろう。
-トラックまで走って戻ろうと立ち上がったとき、痺れるような衝撃が体全体を走った。
-まるでトラックに轢かれたような感じだった。本当に強烈な物理的な衝撃だった。
-(00:13:03)</p>
-<p>ジョンは、私の体が激しく空中に放り投げられ、死んだと思ったと言った。
-スティーブは叫び声を上げた。つまり、彼を殺したということだ。
-彼が考えていたのは、あまりにも激しかったので、死ぬに違いないということだった。
-ジョンは、私の体は肉の塊のように地面に叩きつけられたと言った。彼は、体が完全にぐったりしてしまったと言った。
-それで、トラックに乗っていた誰かが、誰かはわからないが、叫んでいた。「トラックをここから出せ、行け、行け、行け」と。
-(00:13:51)</p>
-<p>それで彼らは立ち去った。そして、長年にわたって、多くの人々が彼らを批判してきた。「あんな時に立ち去るなんて、彼らはどんなヒーローだ、どんな友人だ」と。
-(00:14:06)</p>
-<hr>
-<p>しかし、それは完璧に理にかなっていた。
-マイクの責任は残りのクルーの命にある。
-すでに死んでいると彼らが考えている誰かを救うために、他の誰かを死なせることは何の役にも立たない。
-彼らは道路を走り、どうすべきかについて大きな口論になった。
-そして、彼は死んでいる、死んでいるというのがその時点での最終的な評決だった。
-(00:14:43)</p>
-<p>しかし、その時でさえ、彼らは葛藤を感じていた。つまり、自分たちが英雄的であるべきだったのに、私をそこに放置して立ち去ったことを申し訳なく思っていた。
-それで、アランとスティーブは、私が脱出できなかった唯一の理由は、トラヴィスがマインドコントロールされていたからだ、という考えを思いついた。そして、彼らはトラヴィスを脱出させた。
-(00:15:15)</p>
-<p>でもね、私は彼らに、それは自分の考えのように思えると伝えたんだ。
-衝動のように感じた、つまり、自分がやっていることで彼らを感心させようとしていたとか、そういうことだ。
-ただ自分の考えのように思えたんだ。
-でも彼らは、もしマインドコントロールがあるなら、それを自分の考えだと思わせることができると言ったんだ。
-(00:15:43)</p>
-<p>その点については、まだ解決していない。
-スティーブは、アランは亡くなってしまったが、今でもマインドコントロールだったと主張している。なぜなら、マインドコントロールに抵抗するほど自分の心が強かったからだと。
-たぶん彼らは彼を選ばなかっただけだ。
-でも、それが何であれ、うまくいった。
-彼らの心の中で、それは間違いなく致命的なものだった。だから私は、観客に対して、私が死んだ男を救うために他の誰かを死なせるのは意味がないのに、危険に身をさらして私につきあう義理はないと強く言ってきた。
-(00:16:55)</p>
-<p>そして、私の遺体を引き取られなかったのはとても良かったと思う。最寄りの病院までショーローに行ってもペイソンに行っても1時間以上かかるからだ。もし心停止だけだったら、救急医療の手を借りるには遅すぎただろう。
-私は救急救命士だったが、他の人たちは誰もそうではなかった。
-(00:17:30)</p>
-<p>彼らは心肺蘇生法など何も知らなかった。
-だから、もしあの時点で私の体を彼らが確保していたら、ほぼ確実に死んでいただろう。
-だから、あの時点で私の体を確保できなかったことについて、彼らを責めるつもりはない。なぜなら、もし彼らがそれを成功させていたら、それは私にとって永遠に致命的なものになっていただろうから。
-彼らにとっては非常にトラウマになるような経験だったが、全体的には最善だった。
-(00:18:05)</p>
-<p>彼らは殺人容疑で訴えられ、疑いの目で見られていた。
-でも、私も同じような非難を浴びせられ、ひどいことを言われた。
-真実ではないこと、私たちを罰しようとして、人々が作り話をして言ったこと、
-(00:18:38)</p>
-<hr>
-<p>それは真実ではなかった。
-中にはまったくの作り話もあった。
-存在しない関係をでっちあげた女の子もいた。
-例えば、私が公衆電話ボックスに行って家族に電話したとき、一人の男がいた。彼はヘイバーに住んでいて、私の家族が住んでいるスノーフレイクではなく。
-彼は、私が電話ボックスに着いて最初に電話したのが自分だったと言っていた。
-(00:19:19)</p>
-<p>そして、彼が家にいないときに、私は家族に電話した。
-まあ、そんなはずはない。
-私は彼をそれほどよく知っていたわけではないし、彼に電話はしなかった。
-その証拠に、オペレーターが電話を盗聴していて、保安官に報告していた。
-つまり、その夜電話ボックスからかかってきた電話は1本だけで、それは私が助けを求めたものだった。
-(00:19:48)</p>
-<p>他にも話がある。
-私が戻った時に、そのパーティーにいたという男がいて、私の帰還を祝っていたという話だ。
-まあ、そんなパーティーはなかった。一度もなかったんだ。
-つまり、彼は帰郷パーティーに参加していたと言っているが、実際には参加していなかった。そういう風に、人々は何かに関わりたいがために、実際には存在しなかったつながりをでっちあげるんだ。
-(00:20:25)</p>
-<p>保安官の甥だと言って、事件の全真相を知っていると主張する男がいた。
-でたらめな作り話で、完全に否定できるものだった。
-彼の話を聞いていたオンラインの人々も、彼の主張を否定できるほど基本的な事実を知っていた。
-(00:20:59)</p>
-<p>例えば、彼は、乗組員たちが保安官にレッド・ロビン・ダイナーで彼らに会ったと話したと主張したが、レッド・ロビン・ダイナーはアメリカでは人気のレストランだが、1975年からさらに20年は存在していなかった。つまり、この男は、内部事情を知っていて、彼らが会ったと主張しているのだ。
-映画では、彼らはレストランで会った。彼らはレストランで会ったので、彼はそれを映画に当てはめようとしている。
-(00:21:43)</p>
-<p>まあ、実際にはそんなことは起こらなかった。ヘイバーには廃墟となったガソリンスタンド、サービスステーションがあり、そこで保安官と部下たちと彼らは会った。
-そして、その男は言う、レッド・ロビン・ダイナーではなく、レッド・オニオンだったと。そして、ヘイバーにはレッド・オニオンがある。しかし、それも1975年からさらに20年間は存在していなかった。だから、彼が裏事情を知っていると主張しているような、ありとあらゆるつながりがあった。彼はただ、重要人物になるためにでっちあげているだけだ。
-(00:22:21)</p>
-<p>そして、保安官のサンフォード・フレイクに会いに行って、この男は誰なのかと尋ねた。彼は見当もつかなかったし、それが誰なのかも知らなかった。
-しかし、彼が真実だと言っていたことのすべては、つまり、いわゆる真実の話は、とんでもないものだった。
-(00:22:48)</p>
-<hr>
-<p>彼は、アレン・ダラスがスノーフレークから数マイル離れたコンチョという場所に住んでいると言っていた。まあ、そこは20マイル離れているから、アレンがそこに住んでいて、私たちと一緒に働いていたなんてありえない。
-みんなを仕事に迎えに行って、家に連れて帰るなんて、あまりにも非現実的だ。
-次から次へと、ありとあらゆることをでっちあげていた。
-(00:23:25)</p>
-<p>彼は私の甥と息子の学生時代の知り合いだと主張した。
-私は卒業アルバムを取り出して、これが誰なのか教えてくれるよう頼んだ。 彼らはそれが誰なのか見当もつかなかった。
-しかし、とにかく、彼は十分に架空の話をでっちあげていたので、それがでっちあげであることは簡単に証明できた。
-彼は、私の体中に麻薬注射の跡があると主張した。 まったく馬鹿げた話だ。
-(00:23:57)</p>
-<p>基本的な証拠は、私が医師のところに行って徹底的な身体検査を受けたことだ。私の身体にはそのような注射針の跡はなかった。
-さらに重要なのは、彼がマリコパ郡監察医の薬物スクリーンにかけた血液検査を行ったことだ。その結果、私の身体には薬物の痕跡は一切なかったことが証明された。
-つまり、この男は話を面白くするためにでっち上げているだけだ。
-(00:24:31)</p>
-<p>そして、人々が証拠はないと主張するような、他の種類の話もある。
-スティーブの母親が言ったように、まあ、本当に見たのかもしれないが、それは本当に悪魔で、宇宙人ではない。
-でも、悪魔だとは思わない。
-クルーは保安官と部下たちに報告に行った。
-そして、もちろん、彼らが「彼は死んでいるかもしれない」と言ったとき、保安官は耳をそばだてて「ああ、そうか」と言った。
-(00:25:09)</p>
-<p>そして、彼は考え始めた。つまり、典型的な警察官のように、この男たちはおそらくこの男を殺し、死体をどこかに隠した。
-そして、彼らはそれを隠蔽しようとしている。
-それで、彼は州警察の嘘発見器の専門家に連絡した。
-この男は、嘘発見器の検査官になる前は、長年尋問の経験があった。
-結局、全員が合格した。
-(00:25:47)</p>
-<p>アランは最初のテストさえ終えることができなかった。
-ある朝、仕事前に彼と私は喧嘩をした。
-それで保安官と保安官の部下が彼に尋ねた。トラヴィスに対して有害な感情を抱いたことはあるか?
-彼に危害を加えようと思ったことはあるか?
-と尋ねた。彼は、自分はそれに合格できないと知っていた。
-だから、これはでっち上げだと思った。
-(00:26:26)</p>
-<p>彼を殺した罪で有罪になるだろう。
-自分は何もしていないのに。
-そして、スティーブは朝の喧嘩の目撃者だった。
-マイクの家の裏庭でのことだった。
-アランは回し蹴りを食らって倒れた。
-尻餅をついたんだ。
-そして、彼は基本的にその喧嘩に負けた。
-それでも、彼の心には何らかの恨みが残った。
-(00:26:59)</p>
-<p>しかし、もっと重要なのは、彼がすぐに私に危害を加えようとしたという考えだ。
-(00:27:05)</p>
-<hr>
-<p>それがこの嘘発見器テストの中心的な問題だった。
-この男はトラヴィスに危害を加えるつもりだったのか?
-主に彼らは、私を殺すことができたのか?と指摘していた。
-それで彼はただ鎖を外して、すべてを脱ぎ捨てて、それを引き裂いて部屋から出て行った。
-でも、彼は戻って来てテストを受けた。全く問題なくね。
-(00:27:41)</p>
-<p>そして、私たちのうち何人かは、何回もテストを受けた。
-スティーブは、妻たちに自分が真実を言っていることを証明するために、何回もテストを受けた。
-私は、3人の異なる検査官から5つの異なるテストを受けた。
-そして、それらは全て合格した。
-アメリカポリグラフ協会の会長には2度相談した。
-この事件に関連して、彼らは一連のテストをどう思ったのか?
-(00:28:33)</p>
-<p>そして、アメリカポリグラフ協会の会長は、最初の時に、同じ問題でこれほど多くの人がテストに合格している場合、何らかの間違いがある可能性は100万分の1だと述べた。
-どのテストも100%ではないが、99%以上は高い。これほど多くの人が合格しているのだから、かなり確実だ。
-(00:29:05)</p>
-<p>それに、ポリグラフは100%ではないと言う人たちは、これがFBIやCIAが職員をテストするために使っていたものだということを理解していない。
-非常に高度に発達したものなんだ。
-そして、世界でも最高の検査官の何人かが、安全保障や最高機密のような、本当に本当に守りたいものについてチェックするために、これらのテストを行っている。
-(00:29:49)</p>
-<p>そして、私を検査した検査官たちは皆、何年も警察官として働いており、彼らの判決には非常に自信を持っていた。
-しかし、他にも、本当に起こったことの証拠となるものがあった。
-現場にある木々の成長に変化があったのだ。
-まず、捜索中に、研究者のグループが現場に来て、高い磁気値を検出した。
-(00:30:40)</p>
-<p>彼らはガウスメーターを持っていた。ガウスメーターは、ご存知の通り、磁気の変化を測定するものだ。
-そして、その飛行物体が着陸した場所のすぐ近くにある空き地では、かなり顕著な磁気の変化が観測された。
-ガウスメーターで測定した。G-A-U-S-Sだ。保安官代理たちは依然として懐疑的で、被害者による殺人やその類の事件を探していたが、捜索中、彼らはかなりの量のテストを行った。
-(00:31:28)</p>
-<p>しかし、時が経つにつれ、パラマウントはテレビ番組を制作したいと考えた。ハードコピーか特別版だったと思うが、ニュース雑誌の1つだった。
-彼らはそこへやって来たが、地面には雪が積もっていたため、スキー場で使用するような大きなスノーキャットを借りていた。
-つまり、幅が4フィートもあるような大きな轍があったから、雪の吹きだまりを乗り越えて進むことができたんだ。
-(00:32:06)</p>
-<p>つまり、番組の撮影をしたいと思った時には、トラックさえもそこに入ることができなかったんだ。
-(00:32:13)</p>
-<hr>
-<p>それで私たちはスノーキャットでそこに戻ったのだが、それは少し奇妙なことだった。なぜなら、その場所は前回私たちがそこにいたときと同じようには見えなかったからだ。
-あまりにも多くの変化があった。私はそれに気づかなかったが、クルーのボスであるマイクは、その開けた場所に何か違いがあることに気づいた。
-そして、雪が溶けた次の春に戻ってきて、いくつかの測定を行ったところ、本当に、状況が変化していることが分かった。
-(00:32:56)</p>
-<p>宇宙船が着陸した場所のすぐ近くでは、以前よりもずっと急速に木々が成長していた。
-そこで、彼は一本の木の、片側だけからコアサンプルを採取した。
-数えてみると、その時は15年経っていたことが分かった。事件から15年が経っていたのだ。
-なんと、それだけの年月が経っていたのだ。今では41年にもなる。
-(00:33:29)</p>
-<p>しかし、事件から15年後、この木には15の成長環があり、それまでのものよりもはるかに大きかった。
-つまり、この木は85年間、ずっと均一に成長していた。
-そして、突然あの事件が起こると、急激に太くなり、成長が加速した。
-私たちはさらに調査のために現地へ出かけた。
-(00:34:04)</p>
-<p>そこには森林火災が起こり、一部の木が焼け死んでいた。
-そこで私たちは木を切り倒し、その完全な断面を見ることができた。
-そして、この急速な木の成長は、宇宙船がいた方向に向かう木の側面だけに起こっていることがわかった。
-その空き地を回ってみると、木の成長が加速している部分、つまり木の年輪が厚くなっている部分は、宇宙船が着陸していた方向に向かって生えていた。
-(00:34:50)</p>
-<p>さて、ベン・ハンソンは「ファクト・オア・フェイク」という番組の司会者だった。彼は元FBI捜査官だ。
-その番組で、彼はこの種の調査を監督していた。
-そこで、彼は成長率の増加や磁気の数値を調査するこの遠征を監督した。
-つまり、地面を掘ったのだが、そこで発見したものは驚くべきものだった。
-地面の下に、これくらいの金属片を見つけた。
-(00:35:32)</p>
-<p>つまり、かなり徹底的に調べたのだ。
-しかし、ベン・ハンソンが発見したのは、ロシアのチェルノブイリ原発事故の周辺にある松の木にも同様の成長加速が見られるということだった。
-すでに発表された研究報告書があった。彼は、成長が加速したとか、そんなことは言わなかった。ただ、それを見つけただけだ。
-これらの木々は、原発から漏れ出た放射線を浴びる前と比べて、3倍の成長を見せたのだ。
-(00:36:24)</p>
-<p>だから、奇妙なことに、放射線が成長を加速させるとは思わないだろう。放射線は、病気を引き起こし、死に至らせるものだと考えるのが普通だろう。
-(00:36:36)</p>
-<hr>
-<p>しかし、松の木の場合、少なくとも、瘢痕組織のようなもの、あるいは何らかの影響によって、少なくとも太くなっている。
-そして、その開けた場所の周囲全体に、いつも宇宙船があった方向を指し示すように、太くなった木の側面があった。
-私の本には、いくつかの写真がある。この木の急速な成長は、宇宙船があった方向に向かって起こっているのが分かるだろう。
-(00:37:13)</p>
-<p>そして...何だって?ああ、大丈夫だ。大丈夫だ。
-私が忘れていたのは、これを拾うことだ...宇宙船だ。
-それは、最も驚くべき光景だった。つまり、私たちの人生で最も驚くべき光景だった。それは、私たちと共にいつまでも残るものだ。
-そして、人々と接しようとすると、こんなにも素晴らしいものを目にしているのに、人々はやって来てこう言うんだ。「いや、君は空に光る小さな点を見ただけだ。木星か何かを見ただけだ。」とね。馬鹿げているよ。彼らがそれを説明しようとした種類のものだ。
-(00:38:35)</p>
-<p>でも、それはとても輝いていた。とても美しかった。そして、地上の光は不気味な感じで光っていた。その地域全体に奇妙な感じを与えていた。
-これは本当に少し増幅する必要がある。
-このエネルギーの爆発が私を襲ったとき、クルーの連中は私が死んだと思った。とても激しかった。とても激しく空中に放り投げられた。
-(00:39:30)</p>
-<p>彼らは、地雷や手榴弾を踏んだようなものだと言った。つまり、私は粉々になったんだ。
-そして、彼らは帰路で、実際に私が分解されたかどうかについて議論したと言った。
-ケニーは、その場にいた男だ。彼は、前の座席の私のすぐ隣に座っていた。彼にとって恐ろしかったのは、宇宙船がまだそこに残っていることではなく、私の体がどうなっているかということだった。つまり、体が炭化してひどく変形しているのではないかということだ。
-(00:40:05)</p>
-<p>しかし、それは事実ではなかった。そこにはトラヴィスはいなかった。
-彼らが戻ってきたとき、彼らは宇宙船が上昇し離陸するのを目撃した。
-そして、宇宙船が離陸するのを目撃したのは彼らだけではなかった。鹿狩りをする人や、釣り人、湖のほとりにいた人々も、この物体が飛び立つのを目撃していた。
-これらの報告は保安官のファイルに記載されており、後に、私たちが経験したことを少し受け入れられるようになってから、私たちにそのファイルを見せてくれた。
-(00:40:57)</p>
-<p>しかし、このエネルギーの正体は何なのだろうか?
-私を襲ったとき、兄は主に医療的な影響を心配していた。
-すぐに私を医者に診せたいと思っていた。
-私たちの住むスノーフレーク地域では、あまりにも多くの異常な出来事が起こっていたため、その地域で医者に診てもらうのは不可能だと兄は感じていた。
-つまり、あまりにも多くのヒステリーが起こっていると感じていたのだ。
-(00:41:43)</p>
-<p>それで、兄は私をフェニックスに連れて行った。当時、空中現象研究機構(APRO)はMUFONのような存在だった。
-(00:41:54)</p>
-<hr>
-<p>そして、彼らは最も古く、最大のUFO調査グループだった。
-実際、彼らのフェニックス支部には何人かの医師が会員として参加していた。
-それで、彼らは私の兄を説得し、その医師たちに私を診察させた。
-兄は、長期的な被害について非常に心配していた。
-それで、ソルツ医師とキャンデル医師が家に来てくれて、実際に家の中で直接身体検査をしてくれたんだ。
-(00:42:32)</p>
-<p>医師が来て検査をしてくれるなんて、普通はありえないことだ。
-そこでかなり徹底的な検査をしてくれた。そして翌日にはさらに詳しい検査もした。
-オフィスに行って血液検査をしたんだ。
-その血液検査の結果が、マリコパ郡監察医の薬物検査に提出された。
-私の体内には、精神に作用する薬物は一切なかったことが証明された。
-(00:43:03)</p>
-<p>彼は私を世界的に有名な脳障害病院、バローズ神経科に入院させた。バローズ神経病院は世界的に有名だった。ボクサーのモハメド・アリは、神経障害が現れ始めた時に、自分の体に何が起こっているのかを確かめるために、実際にそこへ行った。
-そして、彼は病院の病棟全体を寄付した。
-彼は、病院が自分にできる限りのことをしてくれることにかなり興味を持っていた。
-そして、私もそうだった。技術者には、私がこの州北部で事故に遭った男だとは知らされていなかった。
-(00:44:06)</p>
-<p>技師は、私が誰なのか、また、この事件と私を結びつけるようなことは一切知らされていなかった。
-これは、実験者に探しているものを教えない二重盲検試験のようなもので、結果が自分の望むものになるように歪めることはできない。
-つまり、彼は脳の損傷だけを探していたが、それでも見つけたのだ。
-脳に異常なパターンがあり、交互に波が...。EEGレポートから引用すべきだが、彼は自分が知っていることを基に、間違いなく傷害の兆候を見つけた。
-(00:45:16)</p>
-<p>そして、感電死した人や感電した人、あるいは雷に打たれた人などと比較してみたい。
-そのパターンが、あるケースでは、そのような怪我をした人々と類似しているかもしれない。
-しかし、この怪我こそが、エイリアンが私を再び支配することを妨げていたものだったのだと思う。
-彼らはマインドコントロールをしており、自分の思い通りに人を操ることができるという理論がある。
-(00:46:07)</p>
-<p>さて、私はどうやってそのテーブルから降りることができたのだろうか?
-この怪我が、彼らにとって通常通り機能することを妨げていたのだ。
-たとえ彼らが3人組で私を凝視し、力を合わせようとしていたとしても、私はただ頭の中でぞわぞわするような感覚を覚え、協力するつもりはなかった。
-私は叫び声をあげ、この対決にパニックと恐怖を感じ、完全に戦闘態勢に入っていた。私は協力するつもりはなかった。
-(00:46:49)</p>
-<p>それで、私は誰かを攻撃しようとしていたのだが、それはおそらく私を蘇らせようとしたのだろう。
-(00:47:02)</p>
-<hr>
-<p>彼らは、私に起こったダメージを修復し、健康を取り戻させようとしていた。
-私の抵抗がその計画を阻止した。そして、私が信頼する唯一の人々だったからこそ、彼らは人間のような人々を連れてきたのだと思う。
-私はその時点で、誰とも戦うつもりはなかった。ただ、完全にパニックになっていた。
-(00:47:41)</p>
-<p>そういうことが起こったんだ。
-一部の人は、彼らは何かをでっちあげただけだと思っている。ロボットか何か、そういう類のものを作って、あなたたちに彼らと戦うのをやめさせるために。
-でも、それがそうだったのか、あるいは彼らが私たちに似た種族を見つけたのか、それはわからない。
-でも、それは良いことだ。なぜなら、私は比較的、健康を取り戻したから。
-(00:48:19)</p>
-<p>そして、最終的な結果として、私はここにいる目的があるのだと思う。
-私はここでこのことについて話しているし、できるだけ多くの人々を教育しようとしている。
-ありがとう。ありがとう。ありがとう。
-だから、私は誤解を正そうとしている。
-私はUFO研究に携わる友人たちの中に、この邪悪なエイリアンの侵略モンスターのようなものに分類される人々がいる。
-私は彼らに同意できない。私は、それがここで起こっていることだとは思わない。
-(00:49:15)</p>
-<p>もし彼らが本当にそのような意図を持っているなら、この惑星はすでに彼らのものになっているはずだと、私は人々を安心させたい。
-彼らは何年も前から私たちを見ており、私たちの進歩を知っている。
-つまり、彼らにとっては何も目新しいことではない。
-私たちが石や槍を投げていた時代なら、簡単に私たちを捕らえることができたはずだ。
-軍事的な武器で反撃できる手段がある今では、もちろんそんなことはありえない。
-(00:50:05)</p>
-<p>今でも、そんなやり方で戦おうとしても無駄だと思う。
-本当に私たちを捕らえたいのであれば、彼らはすでに私たちを捕らえているはずだ。
-私たちは何が起こったのかさえわからないだろう。
-だから、私は本当にそうは思わない。彼らは、私たちがここに座って自分たちの電力源に不満を抱いている程度では、彼らの存在を私たちに知らせたくもないのだ。
-なぜなら、地球上の石油ドルの状況全体が崩壊しないことが重要だからだ。私たちはそこから立ち直れないだろう。
-(00:50:59)</p>
-<p>戦争は起こらなくても、経済崩壊を引き起こすだろう。
-しかし、人間とはそういうものだ。
-人間は今ある権力に依存し過ぎている。
-そして、他のものに切り替えるには時間がかかり過ぎる。
-だから、宇宙人が地球に来ることによるマイナス面はそれほどないと思う。
-彼らは本当に被害を最小限に抑えようとしていると思う。
-(00:51:41)</p>
-<p>SFでは、これを「第一指令」または「不干渉指令」と呼ぶ。
-彼らが自分たちの存在による負の側面をできるだけ抑えたいと思うのには、それなりの理由があると思う。
-なぜなら、彼らに影響を与えるようなことをする前に、我々は自分自身を滅ぼしてしまう可能性があるからだ。
-だから、私の使命は、彼らが可能な限り悪影響を与えないようにしようとしているという考えを表現することだ。
-(00:52:28)</p>
-<p>そして、我々を準備させることだ。私たちは準備をしなければならない。
-(00:52:33)</p>
-<hr>
-<p>つまり、私たちが準備ができたときに、オープンコンタクトが起こるのだ。
-私の友人たちの中には、ディスクロージャーを期待している者もいる。
-本当に、この真っ只中にそれが起こると思うかい? あまりにも破壊的だ。
-徐々にやってこなければならない。 まずやってこなければならないことがある。
-そして、その第一にすべきことの一つは、あなた方への私のメッセージ、すなわち、これらの存在は私たちに危害を加えるつもりはないということだ。
-(00:53:13)</p>
-<p>それについて、パニックや反乱、戦争を起こす理由などないのだ。
-そして、現時点では、私たちがそれに近づいているとはとても思えない。
-しかし、とにかく、どうもありがとう。耳を傾けてくれて感謝している。
-(00:53:33)</p>
-<details class="details_lb9f alert alert--info details_b_Ee" data-collapsed="true"><summary>▼原文 展開</summary><div><div class="collapsibleContent_i85q"><p>Thank you for that warm welcome.
-Probably by now most of you realize that the movie didn't stick strictly to the real story.
-And that we are going to do a remake of the movie eventually.
-Back by popular demand.
-But for now I'm going to tell you how it really went.
-So to give you an idea of where in Arizona it happened, it was up in the mountains.
-(00:02:25)</p><p>Up in the forested area of the state.
-Not down in the lower desert.
-So that explains how we were loggers.
-As the press called us.
-For want of a more specific term.
-What we were actually doing was timber stand improvement.
-So it wasn't really harvesting so much as improving the forest.
-And we were often called upon to go and fight forest fires.
-Because we were the ones who were on site.
-(00:03:15)</p><p>We had the tools.
-We had the experience.
-We could get the job done.
-So they would come to get us to fight fires that came up.
-And that's where the term fire in the sky came from.
-We were wondering what this light coming through the trees was.
-And so we naturally supposed that it was another one of these trees that we had seen.
-(00:03:45)</p><p>We had actually been coming to work and seeing where a tree had been hit by lightning up high.
-And it was on fire, in flames.
-And we stopped and put the fire out.
-Without even being summoned by the forest service.
-So when we're driving through the woods and we see this glow through the trees, we're wondering what the heck could that be?
-Trying to figure out all the different alternatives about what it could be.
-(00:04:18)</p><p>At first I thought it was deer hunting season.
-We'd been hearing shots in the distance during the day.
-And I was thinking that maybe there could be some deer hunters camped up there on the hill.
-Just light shining through a tent or something.
-But the closer we got, the more we could see that this was strange.
-This was not adding up.
-John and some of the other guys were saying that it wasn't adding up to other kinds of possibilities.
-(00:04:58)</p><p>Like the sun had gone down minutes before. It was too late for it to be a sunset.
-(00:05:06)</p><hr><p>The moon was still high in the sky over here where we could see it.
-And it wasn't the moon.
-So wondering what the heck this could be.
-It wasn't anything that caused alarm right at first.
-It was like, what could that be? It was just kind of idle curiosity at first.
-Nothing all that exciting if it's just some deer hunters camped up there.
-(00:05:36)</p><p>But the closer we got, the more anxious we got for some reason.
-And I think the color of the light had something to do with that.
-It just had a weird color to it.
-When we got up ahead where we could see, there was a break in the trees up ahead.
-And the light was shining across the road.
-And so we knew when we got to that point, we'd be able to see the source of the light.
-(00:06:17)</p><p>And so I said, Mike, hurry on. Let's get up there and see what it is.
-And by then, the whole crew was interested in what it might be.
-And when we burst into that clearing there, it was just unmistakable.
-Everybody saw it. What in the heck is that?
-Well, except for Mike. He was saying, what are you guys looking at?
-Because he was down on the lower side of the truck and looking up at an angle.
-(00:06:48)</p><p>To see the source of the light, you'd have to be looking through the roof of the truck.
-But it wasn't long before he bent over and saw what it was.
-Unmistakable. Alan yelled out, it's a flying saucer!
-There was just no mistake in it.
-The skeptics tried to say that what we really saw was the planet Jupiter. You know, this was not some little point of light way off in the sky.
-(00:07:22)</p><p>This was a big disc-shaped craft, unmistakable, right there.
-And what I was thinking when I got out of the truck was... I don't know why that's coming up again.
-Maybe this... okay.
-Me back then.
-Well, this is the truck we had. It was a double cab truck.
-So, you know, that's how all of us were able to fit into one truck.
-Seven guys fitting into one little truck.
-(00:08:11)</p><p>And after you've been sweating all day, that's not necessarily real pleasant.
-But as soon as I saw it, my immediate reaction was, this thing is going to be gone in a flash.
-Because so many times before, we'd be driving through the woods and I'd say, oh look, there's a bobcat or something, you know.
-And before the other guys could even look, it'd be gone.
-(00:08:50)</p><p>You know, it'd just take off.
-Because, you know, animals are running away, you know.
-They just don't want to be seen.
-So, I thought that it would take off before I got as close as I got.
-But as soon as, you know, I yelled, Mike, stop the truck, I threw open the door and just him putting the brakes on the truck swung the door open even harder, you know.
-(00:09:19)</p><p>And I started towards it thinking, you know, I only had a few seconds to see it up close.
-(00:09:25)</p><hr><p>But the closer I got, the more alarmed the guys in the truck became.
-And they were yelling at me to get back in the truck and get away from there.
-And actually started swearing at me.
-That was pretty accurate there in the movie.
-To get in the truck and get away from there.
-The closer I got, the more I started to feel like I was doing something foolish, you know.
-(00:09:58)</p><p>That I was taking a big risk.
-But it was just my nature at the time to try to do something to impress the rest of the guys.
-And the closer I got, the slower I got.
-And when I got to where I was looking up at about a 45 degree angle, it was absolutely beautiful.
-I mean, it seemed so perfect and smooth.
-The energy that it put into the clearing was just kind of ethereal.
-(00:10:40)</p><p>And it just kind of gave a whole magical look to the entire area.
-And I was looking up at it.
-And the sound it was making was a mixture of real high-pitched frequencies and real low frequencies.
-All different kinds of sounds mixed together that is really hard to describe.
-I once gave a talk to a group of engineering students in the Midwest. And they were really intrigued by the sound it was making.
-(00:11:26)</p><p>They really wanted me to describe that in as much detail as possible.
-And I think the reason for that, they even explained it.
-The reason they wanted to know more about the sound is that they thought they could figure out what might be powering these things if they knew what kind of sounds it was making.
-Well, I was looking up at it at an angle like that.
-(00:11:56)</p><p>And just totally awestruck by the perfection of it.
-And suddenly it got louder and started to move.
-And that startled me as if I wasn't already scared, you know.
-I jumped for cover. There was a pile of logging debris there in the middle of the clearing.
-I got down behind this log and all the guys are yelling at me to get back in the truck.
-(00:12:31)</p><p>Come on, come on, let's go, let's go.
-And so I decided, yeah, okay, I'm going to run away. I'm going to get back in the truck.
-And I stood up to run back to the truck and I felt this numbing shock go through my body.
-It felt like I'd been hit by a truck, you know. It was like a real hard physical blow.
-(00:13:03)</p><p>John said it threw my body through the air so violently they were sure it killed me.
-Steve yelled out, it got him, meaning it killed him, you know.
-That's what he was thinking, that this was so violent that it had to be fatal.
-John said my body hit the ground like a sack of meat. He said it just went totally limp.
-And so somebody in the truck, I don't know who, was screaming, let's get this truck out of here, let's go, let's go, let's go.
-(00:13:51)</p><p>And so they took off and over the years so many people have criticized these guys saying, oh, what kind of heroes are those, what kind of friends are those, to take off at that point.
-(00:14:06)</p><hr><p>But it made perfect sense, you know.
-Mike's responsibility is for the lives of the rest of the crew.
-And it's not going to help anything to get somebody else killed to save somebody that they think is already dead.
-They drove up the road and they, you know, got into a big screaming match about what to do, you know.
-And, you know, he's dead, he's dead was kind of the final verdict at that point.
-(00:14:43)</p><p>But, you know, even then they felt torn, you know, bad about taking off and leaving me laying there, like they should have been more heroic.
-And so, you know, they come up with, Alan and Steve both come up with this idea that, well, the only reason I didn't get out is because they had mind control on Travis. And so they made him get out.
-(00:15:15)</p><p>But, you know, I told them that it seemed to me like it was my own idea.
-That it felt like an impulse, like, you know, how I was going to impress these guys with what I was doing and all that sort of thing.
-It just seemed like my own idea.
-But they said, well, if they have mind control, they can make you think it's your idea.
-(00:15:43)</p><p>That point remains to be, you know, settled.
-You know, Steve, you know, he's... Alan passed away, but Steve still insists that he thinks it was mind control because he says his mind was too strong to resist the mind control.
-Maybe they just didn't pick him, I don't know.
-But whatever it was, it worked.
-It was so certainly fatal in their minds that I've really made a point of telling audiences that I don't think they owed it to me to stick around and keep themselves in danger when, you know, it makes no sense to get somebody else killed to save a dead man.
-(00:16:55)</p><p>And I think it's a very good thing that they didn't get my body because the nearest hospital was over an hour away, whether you went to Show Low or to Payson. And if it was as simple as cardiac arrest, it would have been too late for them to get me to medical help.
-And none of these guys, I was an EMT, but none of those guys were.
-(00:17:30)</p><p>They didn't know anything about CPR or anything like that.
-So, you know, it would have been almost certainly fatal had they got a hold of my body at that point.
-So I find no fault with them whatsoever in not getting my body at that point, because had they succeeded in doing that, it would have been permanently fatal for me.
-It was a very traumatic experience for them, but all in all, for the best.
-(00:18:05)</p><p>You know, they were accused of murder and under suspicion and all that.
-But, you know, I went through the same kinds of accusations and, you know, terrible things being said.
-Things that weren't true, just so many things people would, you know, to try to convict us, you know, they would say things that were just really made up stories, you know.
-(00:18:38)</p><hr><p>It wasn't true.
-And some of them just totally unnecessary stories, you know.
-Girls that made up relationships that didn't exist.
-For instance, when I got to the phone booth and I called my family, this one guy, he lived there in Heber rather than in Snowflake where my family lived.
-He was claiming that the first thing I did when I got to the phone booth was to call him.
-(00:19:19)</p><p>And then when he wasn't home, then I called my family.
-Well, no way, you know.
-I did not know him that well and, you know, I didn't call him.
-And the proof is that the operator listened in on the phone call and reported it to the sheriff.
-So there was only one call made from that phone booth that night and that was me calling them for help.
-(00:19:48)</p><p>And there were other stories.
-There was this guy that told this story about being at that party when I was returned, you know, celebrating my return.
-Well, there was no such party. It never happened.
-So, you know, he's claiming that he was a part of the homecoming party and it wasn't. And there's just all kinds of stories like that where people, you know, want to be a part of something and so they make up some kind of a connection that didn't exist.
-(00:20:25)</p><p>And there was this one guy that was claiming that he was the sheriff's nephew and that he had the whole inside story on what really happened.
-And it was all just made up junk, just, you know, totally disprovable.
-And the people online that were hearing him tell his story, even they knew the basic facts enough to where they could, you know, disprove what he was claiming.
-(00:20:59)</p><p>Like, for instance, he claimed that when the crew went to tell the sheriff that they met him at the Red Robin Diner, well, Red Robin Diner is a popular restaurant in America, but it didn't exist for another 20 years after 1975. So this guy is sitting there claiming that he knew the inside story and that these men had met.
-See, that was in the movie. They met at a restaurant and so he's trying to make it fit the movie.
-(00:21:43)</p><p>Well, that never actually happened. There was an abandoned gas station, a service station there in Heber where they met with the sheriff and his men.
-And the guy says, well, it wasn't the Red Robin Diner, it was the Red Onion, and there is a Red Onion there in Heber. But it too did not exist for another 20 years after 1975. So there was all kinds of connections like this where he's claiming to know the inside story and he's just making it up to become important, you know.
-(00:22:21)</p><p>And I went and asked a town marshal, Sanford Flake, I said, who is this guy? And he didn't have a clue, didn't know who it could possibly be.
-But, you know, all kinds of things that he was claiming to be a part of the, you know, the real story, quote unquote, were just ridiculous.
-(00:22:48)</p><hr><p>He was claiming that Allen Dallas lived just a couple miles outside of Snowflake in a place called Concho. Well, that's like 20 miles out there, you know, there's no way that Allen would have been living there and working with us.
-It would have just been too impractical to, you know, pick everybody up for work and take them home.
-Just one thing after another, all kinds of stuff that the guy was just making up.
-(00:23:25)</p><p>He claimed to know my nephew and my son in school.
-I got the yearbook out and said, could you tell me who this could possibly be? They couldn't figure out who it could possibly be.
-But anyway, you know, he made up enough fictional stuff that, you know, it was easy to show that he's just making it up.
-Oh, he claimed that there were drug injections all over my body. And that's just totally ridiculous.
-(00:23:57)</p><p>The basic proof was that I went and had a medical doctor do a thorough physical examination and there was no such needle marks on my body.
-And more importantly, they did blood tests that he put through the Maricopa County Medical Examiner's drug screen, which proved there was no trace of any drug in my body.
-So, you know, this guy's just making stuff up to make it sound good, you know.
-(00:24:31)</p><p>And there's other kinds of stories that people would claim that they didn't have any proof.
-Like Steve's mom said, well, maybe you really saw it, but it was really demons, not aliens.
-But I just don't think it was demons, okay?
-The crew went, reported it to the sheriff and his men.
-And, of course, when they said, you know, we think he might be dead, the sheriff just perks up his ears and goes, oh, yeah.
-(00:25:09)</p><p>And he starts figuring that, you know, typical police officer, you know, that these guys probably killed this guy and stashed his body out there somewhere.
-And that's what they're really trying to cover up.
-So he called in the state police lie detector expert.
-And this is a guy with years of interrogation experience before he ever became a polygraph examiner.
-And eventually everybody passed.
-(00:25:47)</p><p>Alan didn't even finish his first test.
-He and I had gotten into a fight before work one morning.
-And so the sheriff, the sheriff's man, was asking him, did you ever have any harmful feelings towards Travis?
-Did you ever, you know, mean to do him any harm?
-And so he knew he wasn't going to pass that.
-And so he's thinking, this is a frame up.
-(00:26:26)</p><p>They're going to nail me for murdering him.
-And I haven't done anything.
-And, you know, Steve was a witness to this fight in the morning.
-It was out behind Mike's house.
-And Alan did a spin kick and fell down.
-He just fell on his butt, you know.
-And, you know, he basically lost the fight.
-But it still left a kind of a resentment in his mind.
-(00:26:59)</p><p>But more importantly, the idea that he at once wanted to do harm to me.
-(00:27:05)</p><hr><p>And that was the central question of this lie detector test.
-That did this guy mean to do any harm to Travis?
-Mainly they were pointing, you know, could they have murdered me?
-So he just took off the leads and everything and tore it off and stomped out of the room.
-But he did come back and passed the test, you know, totally no problem.
-(00:27:41)</p><p>And there was several of us that have taken several tests.
-Like Steve has taken several tests to prove to his wives that he was telling the truth.
-And I've taken five different tests from three different examiners.
-And all of those were passed.
-The president of the American Polygraph Association was consulted on two different occasions.
-What did they think of the total tests in connection with this incident?
-(00:28:33)</p><p>And the president of the American Polygraph Association the first time said, you know, the odds are a million to one of there being any kind of a mistake when you have that many people passing tests on the same issue.
-No one test is a hundred percent, but, you know, they're all in the upper 90th. And when you have that many people passing, it's pretty positive.
-(00:29:05)</p><p>And, you know, people who, you know, say, well, polygraph isn't a hundred percent don't understand that, you know, this is what the FBI and the CIA used to test their own people.
-You know, it's something that's very highly developed.
-And some of the best examiners in the world are doing these tests to check for things like security, you know, top secret kind of stuff, you know, things they really, really want to protect.
-(00:29:49)</p><p>And all of these examiners who tested me had worked as police officers for years and were very confident of their verdicts.
-But there were other things that were evidence that this really happened.
-There were changes in the growth of the trees at the site.
-To begin with, during the search, there was a group of researchers who came out there and found high magnetic readings.
-(00:30:40)</p><p>They had gauss meters, which measures, you know, magnetic variations.
-And there was quite a bit of pronounced magnetic change in that clearing right there near where the craft had come down.
-It was measured in gauss, G-A-U-S-S. And they did quite a bit of testing during the search while the sheriff's deputies were still real skeptical and looking for murder by a victim and that sort of thing.
-(00:31:28)</p><p>But as time went on, Paramount wanted to do a TV show. I think it was a hard copy or special edition, one of those news magazines.
-And they came out there and it was so much snow on the ground that they had rented these big snow cats, you know, like they use at the ski run.
-So, you know, they had big wide tracks, like four feet wide, so they could drive over the top of snow drifts.
-(00:32:06)</p><p>I mean, you could not even get a truck in there at the time that they wanted to film this show.
-(00:32:13)</p><hr><p>And so we went back in there on that snow cat and it was kind of strange because the spot did not look the same as it did as we were there the last time.
-Things had changed so much. Now, I did not pick up on it, but Mike, the crew boss, figured out that there was something different about the clearing.
-And he went back the next spring after the snow melted and he did some measuring and he found out that, yes, indeed, things had changed.
-(00:32:56)</p><p>Right near where the craft had come down, the trees had grown much more rapidly than they had before.
-And so he took a core sample of this one tree, only on one side.
-And you could see, counting back, it was 15 years at that time, it was 15 years after the incident.
-Wow, so much time has gone by. We are now up to 41 years.
-(00:33:29)</p><p>But 15 years after, you had 15 growth rings on this tree that were just enormously bigger than the previous ones.
-So here this tree was 85 years old, uniformly growing all that time.
-And then all of a sudden when this incident happens, they become very much thicker and just an accelerated growth.
-Well, we went out on a further expedition to do research at the site.
-(00:34:04)</p><p>And there had been a forest fire come through there and kill some of the trees.
-So we were able to cut the trees down and see a complete cross-section of the tree.
-And we found out at that point that this rapid tree growth was only on the side of the tree towards where the craft had been.
-As you went around the clearing, the thickened growth of the tree, the thick rings on the tree, were on the side of the tree towards where the craft had been.
-(00:34:50)</p><p>Now, Ben Hanson was the host of a show called Fact or Fake. He was a former FBI agent.
-And in that show, he had supervised research on these kinds of things.
-So he supervised this expedition to check out the increased rate of growth, the magnetic readings.
-I mean, we even dug into the ground and it was amazing the things that we found.
-We found a little piece of metal down under the ground about that far.
-(00:35:32)</p><p>I mean, we were pretty thorough.
-But what Ben Hanson found out was that the pine trees in the vicinity of the Chernobyl nuclear accident in Russia had a similar accelerated growth.
-There was actually published research reports already. He didn't, you know, say, hey, did you have increased growth or anything? He just found it, you know.
-That these trees had exhibited three times the growth that they had previous to being exposed to this radiation leaking from this nuclear plant.
-(00:36:24)</p><p>So, strangely, you know, you would not expect radiation to cause an increase in growth. You would expect it to, you know, make things sicken and die.
-(00:36:36)</p><hr><p>But in the case of pine trees, at least, it creates some kind of a scar tissue or some kind of an effect that at least makes it thicken.
-And there was, you know, all the way around the clearing, always pointing towards where the craft had been, the thickened side of the tree.
-And in my book, we've got several pictures of, you know, where you can see that the rapid growth of these trees is on the side of the tree towards where the craft had been.
-(00:37:13)</p><p>And... pardon? Yeah, I'm okay. I'm okay.
-What I'm forgetting to do is pick up these... the craft.
-It was the most amazing sight, you know, the amazing sight of our lives. And it's something that will always stay with us.
-And, you know, trying to deal with people, you see something this stupendous and then people come around and say, Oh, no, you just saw a little point of light off in the sky. You just saw Jupiter or something. It's just ridiculous, you know, the kinds of things they tried to explain it away with.
-(00:38:35)</p><p>But it was so shiny. It was so beautiful. And the light on the ground was glowing in an eerie kind of a way. It just gave a weird feeling to the whole area.
-This is something that really needs a little amplification.
-When this blast of energy hit me, the guys in the crew thought had killed me. It was so violent. It just threw me through the air so violently.
-(00:39:30)</p><p>They said it was like stepping on a landmine or a grenade, you know, that it just blew me to pieces.
-And they said they argued on the way back whether it had actually disintegrated me.
-And Kenny was the guy. He was sitting right next to me in the front seat. He said that the scary thing to him was not that the craft would still be there, but what my body might look like, you know, all charred and horribly disfigured.
-(00:40:05)</p><p>But that was not the case. There was no Travis there.
-So in coming back, they did see the craft rise up and take off.
-And they weren't the only ones that saw it leave. There were deer hunters and, you know, fishermen, people over at the lake, you know, seeing this thing take off.
-And these reports were in the sheriff's file that he actually let us have later on when he became a little more accepting of what we had been through.
-(00:40:57)</p><p>But what is the nature of this energy?
-When it hit me, my brother was mainly concerned about the medical effects.
-He wanted to get me checked out by doctors right away.
-And up in our area, Snowflake area, there was so much craziness going on that he felt like there was no way that we could get to a doctor in that area.
-That it would be, you know, just too much hysteria going on.
-(00:41:43)</p><p>So he took me to Phoenix. And the Aerial Phenomenon Research Organization, APRO, was kind of like MUFON at the time.
-(00:41:54)</p><hr><p>And they were the oldest and largest UFO investigative group.
-And they actually had a couple of doctors in their Phoenix membership.
-And so they persuaded my brother to let these doctors do the exam on me.
-You know, my brother was very concerned about, you know, lasting harm.
-And so they came, Dr. Saltz and Dr. Candell, came to the house and actually did a physical exam right there in the house, in person.
-(00:42:32)</p><p>Which is unusual to get a doctor to come to do an exam.
-So they did a pretty thorough exam there. And then further tests the next day.
-I went into the office and they took blood tests.
-And those were the blood tests that were, you know, submitted to the Maricopa County Medical Examiner's drug screen.
-Proved there was no mind-altering drugs in my body whatsoever.
-(00:43:03)</p><p>He sent me into this world-famous brain injury hospital, Barrow's Neurological. Barrow's Neurological Hospital was world-famous. And the boxer, Muhammad Ali, actually went there to, you know, check up on what was wrong with him when he started experiencing neurological problems.
-And he donated a whole wing to the hospital.
-And he was pretty interested in any help they could give him.
-And so was I. The technician was not told that it was me, the guy that this incident happened to up in the north part of the state.
-(00:44:06)</p><p>The technician was not told who I was or connect me to this incident at all.
-So it was kind of like a double-blind test where if you don't tell the experimenter what you're looking for, it doesn't, you know, skew the results to support what you want the results to be.
-So here he's just looking for brain injury, and yet he found it.
-There was an anomalous pattern in the brain, alternating wave... I ought to get the quotation out of the EEG report, but he definitely found the signs of injury based on the things that he knew.
-(00:45:16)</p><p>And I would like to get a comparison made between that and somebody that may have been electrocuted or shocked or hit by lightning or something, you know.
-How that pattern might, in some cases, be similar to somebody that's received that kind of injury.
-But I'm thinking that this injury was what was preventing the aliens from regaining control of me.
-You know, the theory is they've got mind control, they can control you how they want.
-(00:46:07)</p><p>Well, how was I able to get off that table?
-Well, this injury was preventing this from working in the way that it normally works for them.
-And even though they were like the three of them staring at me and trying to combine forces, it just gave me this real squirmy feeling in my head, and I was not going to cooperate.
-I was screaming and I was just in a total panic and in total fear about this confrontation and totally combative. I was not going to cooperate.
-(00:46:49)</p><p>So, you know, here I was thinking of attacking somebody that, it turns out, probably had the intention of trying to revive me.
-(00:47:02)</p><hr><p>That they were going to try to correct the damage that had happened to me and put me back in health.
-And so my resistance put the kibosh on that plan, and I think they brought these human-looking people in because that was the only people I was going to trust.
-I wasn't going to fight anybody else at that point, just, you know, in total panic.
-(00:47:41)</p><p>So, that's what happened.
-You know, some people think, oh, maybe they just rigged something up, some sort of robot or something of that sort to get you to quit fighting them.
-But, you know, whether it was that or they found some species that resembles us that much, I don't know.
-But it's a good thing because, you know, I was returned to health, relatively speaking.
-(00:48:19)</p><p>And I think the end result being that I have a purpose here.
-You know, I'm out here speaking about this and trying to educate people as much as possible.
-Thank you. Thank you. Thank you.
-So, I'm trying to correct the misconception.
-I have certain friends in ufology who are kind of parcel to this evil alien sort of invading monsters.
-And I just disagree with them. I don't think that's what's going on here.
-(00:49:15)</p><p>I would like to reassure people that if they really had those kinds of intentions, this planet would be theirs already.
-You know, they've been able to see us and know about our progress for years.
-I mean, this is nothing new to them.
-They could have easily got us when we were throwing rocks and stones and spears.
-Certainly not when we have the means to fight back with military-type weapons.
-(00:50:05)</p><p>Even now, I think it would be futile to try to fight in that way.
-Really, if they wanted us, they'd already have us.
-We'd never know what hit us.
-So, I really don't think that... They don't even want to let us know about their presence to the degree that we're sitting here unhappy with our own power sources and that sort of thing.
-Because it's important that we not have a collapse of the whole petrodollars situation on planet Earth. We wouldn't recover from that.
-(00:50:59)</p><p>I can see that that would cause economic collapse, if not wars.
-But that's just the way humans are.
-They're too dependent on power as it is.
-And it couldn't come fast enough to switch over to something else.
-So, I really don't think that that's the downside to the aliens coming here.
-I think that they really are trying to minimize the amount of harm.
-(00:51:41)</p><p>In science fiction, it's called the prime directive or the non-interference directive.
-And I think there's a good reason for them to want to keep the negative side effects of their presence as little as possible.
-Because we really could destroy ourselves long before we could ever do anything to affect them.
-So, that's my mission is to try to express the idea that they're going to try to, as much as possible, not have a bad effect.
-(00:52:28)</p><p>And to get us ready. We've got to get ready.
-(00:52:33)</p><hr><p>I mean, when we are ready, then open contact will happen.
-I have friends that are hoping for disclosure.
-Do you really think that's going to happen smack in the middle of this? It would be too destructive.
-It's got to come gradual. There are certain things that have to come first.
-And one of those things that has to come first is my message to you that these beings don't mean us any harm.
-(00:53:13)</p><p>That there's no reason to have any sort of a panic or rebellion or a war over it.
-And I'm not so sure that we're anywhere near that at this point.
-But, anyway, thank you very much. I appreciate you listening.
-(00:53:33)</p></div></div></details>
-<p>(2024-09-19)</p>
-<!-- -->
-<section data-footnotes="true" class="footnotes"><h2 class="anchor anchorWithStickyNavbar_LWe7 sr-only" id="footnote-label">Footnotes<a href="https://ouchaku.github.io/ds/en/blog/2024/09/19/travis_walton_2016_lec#footnote-label" class="hash-link" aria-label="Direct link to Footnotes" title="Direct link to Footnotes">​</a></h2>
-<ol>
-<li id="user-content-fn-1-2bb628">
-<p>講演中に以下の発言がある。<br>
-And you could see, counting back, it was 15 years at that time, it was 15 years after the incident.
-Wow, so much time has gone by. We are now up to 41 years.
-(00:33:29) <a href="https://ouchaku.github.io/ds/en/blog/2024/09/19/travis_walton_2016_lec#user-content-fnref-1-2bb628" data-footnote-backref="" aria-label="Back to reference 1" class="data-footnote-backref">↩</a></p>
-</li>
-</ol>
-</section>]]></content:encoded>
             <category>UFO</category>
             <category>2024-09</category>
         </item>
