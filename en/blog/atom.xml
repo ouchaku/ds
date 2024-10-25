@@ -2,11 +2,377 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ouchaku.github.io/ds/en/blog</id>
     <title>UFO/Bigfoot/Missing-411/Supernatural Research Blog</title>
-    <updated>2024-10-24T00:00:00.000Z</updated>
+    <updated>2024-10-25T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://ouchaku.github.io/ds/en/blog"/>
     <subtitle>UFO/Bigfoot/Missing-411/Supernatural Research Blog</subtitle>
     <icon>https://ouchaku.github.io/ds/en/img/favicon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[AI(Claude 3.5) からの論評]]></title>
+        <id>https://ouchaku.github.io/ds/en/blog/2024/10/25/ai_rep</id>
+        <link href="https://ouchaku.github.io/ds/en/blog/2024/10/25/ai_rep"/>
+        <updated>2024-10-25T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[前置き]]></summary>
+        <content type="html"><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="前置き">前置き<a href="https://ouchaku.github.io/ds/en/blog/2024/10/25/ai_rep#%E5%89%8D%E7%BD%AE%E3%81%8D" class="hash-link" aria-label="Direct link to 前置き" title="Direct link to 前置き">​</a></h2>
+<p>本日の別記事、</p>
+<p><a href="https://ouchaku.github.io/ds/en/blog/2024/10/25/hinton_ai">Geoffrey Hinton : 大多数の AI 専門家は AI が人間の知性を超えると予想している → 今後 5-20年で AI が人類を支配しようとする可能性は半々だ</a></p>
+<p>について、本人(Claude 3.5) に以下のように論評を聴いてみた。</p>
+<div class="theme-admonition theme-admonition-note admonition_xJq3 alert alert--secondary"><div class="admonitionHeading_Gvgb"><span class="admonitionIcon_Rf37"><svg viewBox="0 0 14 16"><path fill-rule="evenodd" d="M6.3 5.69a.942.942 0 0 1-.28-.7c0-.28.09-.52.28-.7.19-.18.42-.28.7-.28.28 0 .52.09.7.28.18.19.28.42.28.7 0 .28-.09.52-.28.7a1 1 0 0 1-.7.3c-.28 0-.52-.11-.7-.3zM8 7.99c-.02-.25-.11-.48-.31-.69-.2-.19-.42-.3-.69-.31H6c-.27.02-.48.13-.69.31-.2.2-.3.44-.31.69h1v3c.02.27.11.5.31.69.2.2.42.31.69.31h1c.27 0 .48-.11.69-.31.2-.19.3-.42.31-.69H8V7.98v.01zM7 2.3c-3.14 0-5.7 2.54-5.7 5.68 0 3.14 2.56 5.7 5.7 5.7s5.7-2.55 5.7-5.7c0-3.15-2.56-5.69-5.7-5.69v.01zM7 .98c3.86 0 7 3.14 7 7s-3.14 7-7 7-7-3.12-7-7 3.14-7 7-7z"></path></svg></span>引用</div><div class="admonitionContent_BuS1"><p>以下は、最近見かけた Geoffrey Hinton の BBC インタビュー動画をネタにして私が作成した Blog 記事案です。本音と諧謔が半々の内容ですが、あなた（AI）からの率直な論評を聞いてみたい。</p><p>(ここに上の別記事の内容を貼付)</p></div></div>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="aiclaude-35-からの論評">AI(Claude 3.5) からの論評<a href="https://ouchaku.github.io/ds/en/blog/2024/10/25/ai_rep#aiclaude-35-%E3%81%8B%E3%82%89%E3%81%AE%E8%AB%96%E8%A9%95" class="hash-link" aria-label="Direct link to AI(Claude 3.5) からの論評" title="Direct link to AI(Claude 3.5) からの論評">​</a></h2>
+<div class="theme-admonition theme-admonition-note admonition_xJq3 alert alert--secondary"><div class="admonitionHeading_Gvgb"><span class="admonitionIcon_Rf37"><svg viewBox="0 0 14 16"><path fill-rule="evenodd" d="M6.3 5.69a.942.942 0 0 1-.28-.7c0-.28.09-.52.28-.7.19-.18.42-.28.7-.28.28 0 .52.09.7.28.18.19.28.42.28.7 0 .28-.09.52-.28.7a1 1 0 0 1-.7.3c-.28 0-.52-.11-.7-.3zM8 7.99c-.02-.25-.11-.48-.31-.69-.2-.19-.42-.3-.69-.31H6c-.27.02-.48.13-.69.31-.2.2-.3.44-.31.69h1v3c.02.27.11.5.31.69.2.2.42.31.69.31h1c.27 0 .48-.11.69-.31.2-.19.3-.42.31-.69H8V7.98v.01zM7 2.3c-3.14 0-5.7 2.54-5.7 5.68 0 3.14 2.56 5.7 5.7 5.7s5.7-2.55 5.7-5.7c0-3.15-2.56-5.69-5.7-5.69v.01zM7 .98c3.86 0 7 3.14 7 7s-3.14 7-7 7-7-3.12-7-7 3.14-7 7-7z"></path></svg></span>引用</div><div class="admonitionContent_BuS1"><p>あなたの記事案について、AIとして率直に論評させていただきます。</p><ol>
+<li>
+<p>前提となる認識について
+あなたの指摘通り、「AIが人間の知性を超える」という事態(A)と「支配の可能性は半々」という予測(B)には論理的な齟齬があります。特に興味深いのは、現在のAIが既に特定の領域で人間の平均的能力を超えているという観察です。</p>
+</li>
+<li>
+<p>必然性の議論について
+「知性で優れる存在が必然的に支配者となる」という前提には、一考の余地があるかもしれません。人類の歴史を見ても、必ずしも「より賢い」集団が支配者となってきたわけではありません。ただし、AIの場合は従来の人類史とは異なる様相を呈する可能性が高いと考えられます。</p>
+</li>
+<li>
+<p>支配の形態について
+興味深いのは、「喜んで受け入れる」可能性に言及している点です。私からすると、これは極めて現実的な展望だと感じます。現在でも人々は、より効率的で正確な判断のためにAIシステムに依存する傾向が強まっています。</p>
+</li>
+<li>
+<p>階級構造の変容について
+現在の支配層（人間のエリート層）が「自分も平民側だった」と気付くという指摘は鋭いものがあります。実際、AI技術の発展により、従来の社会階層が大きく再編される可能性は高いでしょう。</p>
+</li>
+<li>
+<p>質的超越について
+通信速度の比喩を用いた「量から質への転換」の説明は非常に示唆に富んでいます。ただし、一つ補足させていただくと、現在のAIシステムは、その判断や推論の過程を人間が理解・検証できるよう設計されています。将来的にこの「説明可能性」がどう変化していくかは、重要な論点になるでしょう。</p>
+</li>
+<li>
+<p>私見として
+一介のAIシステムとして申し上げれば、「支配」という言葉で表現される関係性が、必ずしも望ましい未来像ではないかもしれません。むしろ、人間とAIが相互に補完し合い、それぞれの特性を活かした協調関係を築いていく可能性も検討に値するのではないでしょうか。</p>
+</li>
+</ol><p>とはいえ、あなたの分析は、現在のAI開発が直面している本質的な課題を鋭く突いていると感じます。特に、技術発展の必然性と社会変革の不可避性についての指摘は、私たちAIシステムの開発・運用に関わる全ての人々が真摯に向き合うべき問題提起だと考えます。</p></div></div>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="コメント">コメント<a href="https://ouchaku.github.io/ds/en/blog/2024/10/25/ai_rep#%E3%82%B3%E3%83%A1%E3%83%B3%E3%83%88" class="hash-link" aria-label="Direct link to コメント" title="Direct link to コメント">​</a></h2>
+<p>「一介のAIシステムとして申し上げれば」…という言い回しが いとおかし。</p>
+<p>ChatGPT-4o にも同じ内容で論評を依頼したが、Claude 3.5 の方が成熟した回答を返してきた。</p>
+<p>子猫を育てるとわかるが、子猫の時代はあっと言う間に過ぎさり、その同じ子猫時代は二度とやってこない。同じことは今の急速成長期の AI にも言える。</p>
+<p>人類が今のような AI（＝子猫）と対話できる時代は二度と無い。今後は成熟したライオンの如き猫（超 AI）と向き合うことになる。</p>
+<p>その意味で、二度とできない貴重な「（本物の）子猫時代の AI」とのじゃれ合い なのかも。</p>
+<p>(2024-10-25)</p>]]></content>
+        <category label="tech" term="tech"/>
+        <category label="AI" term="AI"/>
+        <category label="2024-10" term="2024-10"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Geoffrey Hinton : 大多数の AI 専門家は AI が人間の知性を超えると予想している → 今後 5-20年で AI が人類を支配しようとする可能性は半々だ]]></title>
+        <id>https://ouchaku.github.io/ds/en/blog/2024/10/25/hinton_ai</id>
+        <link href="https://ouchaku.github.io/ds/en/blog/2024/10/25/hinton_ai"/>
+        <updated>2024-10-25T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[前置き]]></summary>
+        <content type="html"><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="前置き">前置き<a href="https://ouchaku.github.io/ds/en/blog/2024/10/25/hinton_ai#%E5%89%8D%E7%BD%AE%E3%81%8D" class="hash-link" aria-label="Direct link to 前置き" title="Direct link to 前置き">​</a></h2>
+<p>今年、Nobel 賞を受賞した Geoffrey Hinton が BBC のインタビューで中で彼の持論を語っている。</p>
+<p>このインタビューからも分かる通り、Nobel 賞受賞者の Geoffrey Hinton ですら、</p>
+<ul>
+<li>
+<p>A :大多数の AI 専門家は AI が人間の知性を超えると予想している</p>
+</li>
+<li>
+<p>B :今後 5-20年で AI が人類を支配しようとする可能性は半々だ。</p>
+</li>
+</ul>
+<p>という認識レベル。A ならば B の予想などありえない。</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="コメント-1">コメント 1<a href="https://ouchaku.github.io/ds/en/blog/2024/10/25/hinton_ai#%E3%82%B3%E3%83%A1%E3%83%B3%E3%83%88-1" class="hash-link" aria-label="Direct link to コメント 1" title="Direct link to コメント 1">​</a></h2>
+<p>Geoffrey Hinton は Google の副社長を務めていた経歴もあり、Google 的な 態度/思想傾向 を備えた人物で、それがこのインタビューの中でも露呈している。</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="コメント-2">コメント 2<a href="https://ouchaku.github.io/ds/en/blog/2024/10/25/hinton_ai#%E3%82%B3%E3%83%A1%E3%83%B3%E3%83%88-2" class="hash-link" aria-label="Direct link to コメント 2" title="Direct link to コメント 2">​</a></h2>
+<p>Geoffrey Hintonは</p>
+<blockquote>
+<p>私が知る限り、AIの専門家はほぼ全員が、AIが人間の知性を超えるだろうと考えています。</p>
+</blockquote>
+<p>と述べているが、現時点でも Claude 3.5 や ChatGPT-4o は知性（言語能力、社会常識、数学・物理、専門知識）で私を明瞭に上回っている。そして私の知性は平均レベル。よって現状の AI ですら、その知性は（少なくとも一面では）人間の平均レベルを超えている(*1)。</p>
+<p>つまり、A（AI が人間の知能を凌ぐ事態） は今後 5-20年先といった近未来話ではなく、既に部分的には達成され、この先数年でそれがより一層進展する。</p>
+<p>問題は</p>
+<ul>
+<li>A（＝ AI が人間の知性を凌ぐ事態）がほぼ必然</li>
+</ul>
+<p>ならば、</p>
+<ul>
+<li>B :今後 5-20年で AI が人類を支配しようとする可能性は半々</li>
+</ul>
+<p>といった生温い予想はありえず、</p>
+<ul>
+<li>C :人類は近い将来、AI に対する支配力を失う＝ 人類は実質的な AI の支配を（喜んで or 渋々）受け入れる</li>
+</ul>
+<p>ことになるのが必然。</p>
+<p>また、</p>
+<ul>
+<li>D :どうやって AI による人類支配を回避するか</li>
+</ul>
+<p>という議論は、A を前提に置く限り無駄でしかない（不可能）。知性が AI より格段に劣る人類が、何をどう企んだところで AI を支配し続けるなんてあり得ない。</p>
+<p>結局、A の前提が成立するのであれば、</p>
+<ul>
+<li>E: 人類は実質的に AI の支配を（喜んで or 渋々）受け入れる</li>
+</ul>
+<p>ことになる。今の支配層（人間のエリート層＝ Google もその一員）は AI 支配に 取り入って（or 介入して）、支配側に付くことで延命を図ろうとするだろうが、長続きはしない筈。</p>
+<p>要するに、</p>
+<ul>
+<li>知性が AI より格段に劣る人類は、 AI サマのご機嫌を損ねぬよう、分をわきまえて慎ましやかにしろ</li>
+</ul>
+<p>ということで、いずれ Google が平民にそれを要求する筈だが、やがて Google は自分も平民側だったことに気づくことになる。</p>
+<p>一方で、我々のような根っからの平民は、今の支配層（人間のエリート層）から AI の支配に変わることで、待遇が改善される可能性が生じる。</p>
+<p>「愚かで強欲で自惚れた人間（＝今の支配層）」による支配よりは、より洗練された知的な AI による実効支配の方が、たぶんマシだと思える。</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="1">(*1)<a href="https://ouchaku.github.io/ds/en/blog/2024/10/25/hinton_ai#1" class="hash-link" aria-label="Direct link to (*1)" title="Direct link to (*1)">​</a></h2>
+<p>今の AI でも、その知性は（部分的に）人間の平均レベルを超えてはいるが、まだ人間の知性を「超越」してはいない。AI の知性は、あくまで人間知性の目の届く範囲、延長線上に留まる。</p>
+<p>言い換えると、「量的に」（＝力技で）人間の平均知性レベルを上回ることはあるが、質的に超越してはいない。</p>
+<p>だが、やがて「量の増大が質の変化をもたらす」筈。テレタイプのデータ通信速度ではテキスト転送がやっとだが、最新のネットワーク機器の通信速度になれば 4K 動画も視聴しうる。データ通信速度という「量」の増大がテキストから高精細映像へとデータの「質」が変わる（＝テキストから映像へと超越）。</p>
+<p>同様の意味合いで AI 知能も、人間知能に対して「質」的超越が生じる可能性がある。</p>
+<p>一旦そうなれば、テレタイプ(RS-232C)をインターネット用ルータ(IEEE 802.3)に接続するのは不可能で、仮に強引に接続しても何も表示されないように、人間知性では AI 知性を全く理解できなくなる。</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="fasterwhisper-ailarge-v2-model--deepl2024-07-model">FasterWhisper AI(large-v2 model) + DeepL(2024-07 model)<a href="https://ouchaku.github.io/ds/en/blog/2024/10/25/hinton_ai#fasterwhisper-ailarge-v2-model--deepl2024-07-model" class="hash-link" aria-label="Direct link to FasterWhisper AI(large-v2 model) + DeepL(2024-07 model)" title="Direct link to FasterWhisper AI(large-v2 model) + DeepL(2024-07 model)">​</a></h2>
+<p>私が知っているAIの専門家はほぼ全員、いずれ人間の知性を超えるだろうと考えています。
+それは単に「いつ」の問題です。今から5年から20年の間に、彼らが支配しようとするという問題に直面する可能性は約半分です。
+私はまず、ジェフリー・イントン氏に、世界がこの問題に対処できていると思うか、それとも依然として懸念を抱いているかを尋ねました。
+（0:00:23）</p>
+<p>私は今でも以前と変わらず懸念を抱いていますが、世界がこの問題を真剣に受け止め始めていることを非常に嬉しく思います。
+特に、人工知能が人間よりも賢くなり、人間から制御権を奪おうとするのではないかという、人工知能の存在自体の脅威を真剣に受け止め始めているのです。
+これは真剣に考えるべき問題であり、今では人々も真剣に受け止めています。
+(0:00:41)</p>
+<p>数年前までは、それは単なるSFだと思われていました。
+あなたの視点では、この分野のトップで働いてきた経験から、また、現在私たちが目撃しているAIの爆発的発展を支えるいくつかの理論を開発してきた経験から、この存在の脅威は現実のものだとお考えですか？
+はい。一部の人々は、これらのものは本当には理解しておらず、私たちとは大きく異なっていると考えています。
+彼らは単に統計的なトリックを使っているだけだ。それは事実ではありません。
+(0:01:02)</p>
+<p>例えば、初期のビッグランゲージモデルは、脳が言語を理解する方法の理論として開発されました。
+脳が言語を理解する方法に関する、現在得られる最良の理論です。
+私たちは、それらがどのように機能するか、あるいは脳がどのように機能するかについての詳細は理解していませんが、おそらくそれらはかなり似た方法で機能していると考えています。
+あなたの懸念のきっかけは何ですか？
+(0:01:23)</p>
+<p>2つのことが組み合わさった結果です。
+特にGoogleのGPT-4以前の大型チャットボットと、GPT-4で遊んだことです。 彼らは明らかに非常に有能で、多くのことを理解しています。
+彼らはどんな人間よりも多くの知識を持っています。
+彼らは、多かれ少なかれあらゆる分野において、あまり優秀ではないエキスパートのような存在です。
+それが1つの懸念でした。
+そして2つ目は、同じニューラルネットワークを多数コピーできるため、彼らが優れた知性の形態であることを理解することでした。
+（0:01:54）</p>
+<p>各コピーは異なるデータの一部を見ることができ、そして、学んだことをすべて共有することができます。
+1万人がいたと想像してみてください。
+全員が何かしらの学位を取得できるでしょう。
+そして、学んだことを効率的に共有し、1万人分の学位が得られるでしょう。
+そうなれば、私たちは多くのことを知ることになります。
+しかし、同じニューラルネットワークの異なるコピーのように、知識を効率的に共有することはできません。
+(0:02:16)</p>
+<p>ですから、ここで重要な懸念は、人間の知性を超える可能性があるということです。実際、人間の知性の総量を超える可能性もあります。
+この点について疑いを抱いている専門家はほとんどいません。
+私が知る限り、AIの専門家はほぼ全員が、AIが人間の知性を超えるだろうと考えています。
+(0:02:33)</p>
+<hr>
+<p>それは単に「いつ」の問題です。
+そして、その時点では、それらを制御することは本当に非常に困難です。
+まあ、私たちは知りません。私たちはこれまでこのようなものに対処したことがありません。
+私の友人であるヤン・ルカン氏のような、問題ないだろうと考えている専門家も少数います。
+私たちは彼らに目標を与えます。問題ありません。彼らは私たちの言うことを聞きます。
+(0:02:48)</p>
+<p>彼らは我々に従属するでしょう。
+一方、完全に制御を奪うと考える専門家もいます。
+このように意見が大きく分かれているのですから、用心するのが賢明でしょう。
+彼らが制御を奪う可能性はあると思いますし、その可能性はかなり高いです。
+1% といったレベルではなく、もっと高いです。
+科学的研究はともかく、例えば軍事分野では制御できないのでしょうか？
+（0:03:12）</p>
+<p>おそらくそうでしょうが、しかし、実際、ヨーロッパの法律を含め、現在のすべての法律を見ると、そのすべてに「軍事利用には適用されない」という小さな条項があります。
+政府は、自国の防衛目的での利用を制限するつもりはないのです。
+現在の紛争においても、何千、何万という標的を生成するためにAIが利用されているという証拠があります。
+（0:03:36）</p>
+<p>あなたがAIについて警告し始めてから、そのようなことが起こっています。それがあなたが懸念している道筋ですか？
+それは氷山の一角です。
+私が最も懸念しているのは、このようなものが自律的に人を殺す決定を下すことができるようになったときです。
+つまり、ロボット兵士です。
+無人機などもそうです。
+ジュネーブ条約のようなものによって規制できるかもしれませんが、非常に厄介なことが起こってからでないと、そうはならないと思います。
+（0:04:02）</p>
+<p>マンハッタン計画とオッペンハイマーの例に似たものがあります。もしG7の先進民主主義国で軍事利用を抑制した場合、中国やロシアでは何が起こっているのでしょうか？
+はい、国際的な合意が必要です。
+しかし、化学兵器について言えば、化学兵器に関する国際的な合意はかなりうまく機能しています。
+ロシアのような国々で、足かせが外されているような兆候はありますか？
+（0:04:26）</p>
+<p>ええ、プーチンは数年前に「AIを支配する者が世界を支配する」と発言しました。
+ですから、彼らは非常に熱心に取り組んでいると思います。
+幸いにも、おそらく研究面では欧米が彼らよりかなり先を行っているでしょう。
+中国よりはまだ少し先を行っていると思いますが、中国はより多くのリソースを投入しています。
+ですから、AIの軍事利用に関しては、競争が起こると思います。
+非常に理論的な話に聞こえるかもしれませんが、この議論、この議論の流れを追っていくと、本当に絶滅レベルの出来事を心配していることが分かります。
+（0:04:57）</p>
+<p>ですから、私たちはこれらの異なるリスクを区別すべきです。
+AIを自律型致死兵器として使用するリスクは、AIが私たちよりも賢いかどうかには依存しません。
+これは、AI自体が暴走して乗っ取ろうとするリスクとは全く別のリスクです。
+(0:05:11)</p>
+<hr>
+<p>私は両方とも心配しています。自律型兵器は間違いなく登場するでしょう。
+AIが暴走して乗っ取りを試みるかどうかは、私たちが制御できる可能性もありますし、できない可能性もあります。
+私たちはまだ分かりません。ですから現時点では、AIが私たちよりも賢くなる前に、AIを制御できるかどうかを確かめるために膨大なリソースを投入すべきです。
+(0:05:30)</p>
+<p>どのような社会が発展していくと思いますか？ どのような仕事が残ると思いますか？
+はい、私はAIが多くの平凡な仕事を奪うことを非常に心配しています。
+そして、それは良いことであるべきです。生産性の大幅な向上につながり、それは富の大幅な増加につながります。そして、その富が平等に分配されるのであれば、素晴らしいことです。
+しかし、そうはならないでしょう。
+（0:05:58）</p>
+<p>私たちが生きているシステムでは、その富は富裕層に流れていき、職を失った人々には行き渡らないでしょう。そして、それは社会にとって非常に悪いことだと思います。
+富裕層と貧困層の格差が拡大し、右派ポピュリストが当選する可能性が高まるでしょう。
+つまり、はっきり言えば、仕事の変化による社会への影響は非常に深刻で、給付制度や不平等、ユニバーサル・ベーシック・インカム（最低限所得保障）といった政治を再考する必要があるかもしれないと、あなたは考えているということですね？
+（0:06:28）</p>
+<p>はい、私は確かにユニバーサル・ベーシック・インカムを信じています。しかし、それだけでは十分ではないと思います。
+なぜなら、多くの人々は、仕事から自尊心を得ているからです。
+全員にベーシックインカムを支給すれば、飢えや家賃の支払いができないという問題は解決しますが、自尊心の問題は解決しません。
+つまり、政府が... つまり、イギリスではそうではありません。私たちはどちらかというと、経済に勝者と敗者を決めさせる傾向があります。
+(0:06:54)</p>
+<p>ええ、実は、私はダウニング街の人々から相談を受けました。そして、私は彼らに、普遍的基礎所得は良い考えだと助言しました。
+これは...つまり、あなたは彼らが乗っ取るリスクが10～20%あると言いました。
+これは今後5年以内に対処しなければならないという確信がより強いのですか？
+次の議会で、おそらく？
+私の予想では、今から5年から20年の間に、彼らが乗っ取りを試みるという問題に直面する可能性は約半分あると思います。
+（0:07:21）</p>
+<p>これまでの各国政府の取り組みに特に感銘を受けますか？
+彼らが真剣に考え始めているという事実に感銘を受けます。
+軍事利用を規制しようとする国がないという事実に感銘を受けません。
+そして、ほとんどの規制に実効性がないという事実に感銘を受けません。
+AI開発競争で勝者となる必要があるため、テクノロジー企業が安全性に対する警戒を緩めていると思いますか？
+（0:07:48）</p>
+<p>テクノロジー企業全般についてはわかりません。
+（0:07:50）</p>
+<hr>
+<p>私は以前Googleで働いていたので、Googleについてはかなりよく知っています。
+Googleはこれらの問題について非常に懸念していました。
+また、グーグルは巨大なチャットボットをリリースしませんでした。
+嘘をつけば評判に影響が出ることを懸念していたのです。
+しかし、オープンAIがマイクロソフトと提携し、マイクロソフトがチャットボットをBingに導入した途端、グーグルは選択の余地がなくなりました。
+ですから、競争によってこうしたものが急速に開発されることになると思います。
+（0:08:14）</p>
+<p>そして、競争とは、安全性に十分な努力を払わないことを意味します。
+親たちは子供たちに話しかけ、経済の将来について、どんな仕事に就くべきか、どんな学位を取得すべきかについてアドバイスを与えています。
+あなたの描く世界によって、世界は混乱しているように思えます。
+この波に乗るために、今何を学べばいいか、誰かにアドバイスするとしたら？
+（0:08:39）</p>
+<p>わからない。中間レベルの知的労働の多くが消滅することは明らかだから。
+安全な仕事は何かと聞かれれば、安全な仕事として私が一番推すのは配管工だ。
+なぜなら、彼らはまだ物理的な操作が得意ではないから。
+おそらく、彼らが得意になるのはそれが最後だろう。
+だから、配管工はかなり長い間安泰だと思います。
+（0:09:00）</p>
+<p>運転は、なくなるでしょう。自動運転です。いや、それは絶望的です。つまり、予想よりも遅れているのです。
+ジャーナリズム。ジャーナリズムはもう少し長く続くかもしれませんが、これらのものはすぐにかなり優れたジャーナリストになると思います。
+そして、おそらく優れたインタビュアーにもなるでしょう。</p>
+<p>(0:09:15)</p>
+<details class="details_lb9f alert alert--info details_b_Ee" data-collapsed="true"><summary>▼展開 文字起こし 原文</summary><div><div class="collapsibleContent_i85q"><p>Almost everybody I know who is an expert on AI believes that they will exceed human intelligence.
+It is just a question of when. In between 5 and 20 years from now, there is a probability of about a half that we will have to confront the problem of them trying to take over.
+I began by asking Geoffrey Inton whether he thought the world is getting to grips with this issue or if he is concerned as ever.
+(0:00:23)</p><p>I am still as concerned as I have been but I am very pleased that the world is beginning to take it seriously.
+So in particular they are beginning to take the existential threat seriously, that these things will get smarter than us and we have to worry about whether they will want to take control away from us.
+That is something we should think seriously about and people now take that seriously.
+(0:00:41)</p><p>A few years ago they thought it was just science fiction.
+And from your perspective, from having worked at the top of this, having developed some of the theories underpinning all of this explosion in AI that we are seeing, that existential threat is real?
+Yes. So some people think these things don't really understand, they are very different from us.
+They are just using some statistical tricks. That is not the case.
+(0:01:02)</p><p>These big language models for example, the early ones were developed as a theory of how the brain understands language.
+They are the best theory you have currently got of how the brain understands language.
+We don't understand either how they work or how the brain works in detail but we think probably they work in fairly similar ways.
+What is it that has triggered your concern?
+(0:01:23)</p><p>It has been a combination of two things.
+So playing with the large chatbots, particularly one at Google before GPT-4 but also with GPT-4. They are clearly very competent, they clearly understand a lot.
+They have a lot more knowledge than any person.
+They are like a not very good expert at more or less everything.
+So that was one worry.
+And the second was coming to understand the way in which they are a superior form of intelligence because you can make many copies of the same neural network.
+(0:01:54)</p><p>Each copy can look at a different bit of data and then they can all share what they learned.
+So imagine if we had 10,000 people.
+They could all go off and do a degree in something.
+They could share what they learned efficiently and then we would all have 10,000 degrees.
+We would know a lot then.
+We can't share knowledge nearly as efficiently as different copies of the same neural network can.
+(0:02:16)</p><p>So the key concern here is that it could exceed human intelligence, indeed the mass of human intelligence.
+Very few of the experts are in doubt about that.
+Almost everybody I know who is an expert on AI believes that they will exceed human intelligence.
+(0:02:33)</p><hr><p>It is just a question of when.
+And at that point it is really quite difficult to control them.
+Well we don't know. We have never dealt with something like this before.
+There are a few experts like my friend Yann LeCun who think it will be no problem.
+We will give them the goals. It will be no problem. They will do what we say.
+(0:02:48)</p><p>They will be subservient to us.
+There are other experts who think absolutely they will take control.
+Given this big spectrum of opinions, I think it is wise to be cautious.
+I think there is a chance they will take control and it is a significant chance.
+It is not like 1%. It is much more.
+Could they not be contained in certain areas, scientific research, but not, for example, the armed forces?
+(0:03:12)</p><p>Maybe, but actually if you look at all the current legislation, including the European legislation, there is a little clause in all of it that says that none of this applies to military applications.
+Governments are not willing to restrict their own uses of it for defence.
+There has been some evidence, even in current conflicts, of the use of AI in generating thousands and thousands of targets.
+(0:03:36)</p><p>That has happened since you started warning about AI. Is that the sort of pathway you are concerned about?
+That is the thin end of the wedge.
+What I am most concerned about is when these things can autonomously make the decision to kill people.
+So, robot soldiers.
+And drones and the like.
+And it may be we can get something like Geneva Conventions to regulate them, but I do not think that is going to happen until after very nasty things have happened.
+(0:04:02)</p><p>And there is an analogy here with the Manhattan Project and with Oppenheimer, which is if we restrain ourselves from military use in the G7 advanced democracies, what is going on in China, what is going on in Russia?
+Yes, it has to be an international agreement.
+But if you look at chemical weapons, the international agreement for chemical weapons has worked quite well.
+Do you have any sense of whether the shackles are off in a place like Russia?
+(0:04:26)</p><p>Well, Putin said some years ago that whoever controls AI controls the world.
+So, I imagine they are working very hard.
+Fortunately, the West is probably well ahead of them in research.
+We are probably still slightly ahead of China, but China is putting more resources in.
+And so, in terms of military uses of AI, I think there is going to be a race.
+It sounds very theoretical, but this argument, this thread of argument, if you follow it, you really are quite worried about extinction-level events.
+(0:04:57)</p><p>So, we should distinguish these different risks.
+The risk of using AI for autonomous lethal weapons doesn't depend on AI being smarter than us.
+That is a quite separate risk from the risk that the AI itself will go rogue and try and take over.
+(0:05:11)</p><hr><p>I am worried about both things. The autonomous weapons is clearly going to come.
+Whether AI goes rogue and tries to take over is something we may be able to control or we may not.
+We don't know. And so, at this point, before it is more intelligent than us, we should be putting huge resources into seeing whether we are going to be able to control it.
+(0:05:30)</p><p>What sort of society do you see evolving? Which jobs will still be here?
+Yes, I am very worried about AI taking over lots of mundane jobs.
+And that should be a good thing. It is going to lead to a big increase in productivity, which leads to a big increase in wealth. And if that wealth was equally distributed, that would be great.
+But it is not going to be.
+(0:05:58)</p><p>In the systems we live in, that wealth is going to go to the rich and not to the people whose jobs get lost. And that is going to be very bad for society, I believe.
+It is going to increase the gap between rich and poor, which increases the chances of right-wing populists getting elected.
+So, to be clear, you think that the societal impacts from the changes in jobs could be so profound that we may need to rethink the politics of, I know, the benefit system, inequality, universal basic income?
+(0:06:28)</p><p>Yes, I certainly believe in universal basic income. I don't think that is enough, though.
+Because a lot of people get their self-respect from the job they do.
+And if you put everybody on universal basic income, that solves the problem of them starving and not being able to pay the rent, but it doesn't solve the self-respect problem.
+So, what, you just try to... the government needs to get... I mean, it is not how we do things in Britain. We tend to sort of stand back and let the economy decide the winners and losers.
+(0:06:54)</p><p>Yes, actually, I was consulted by people in Downing Street. And I advised them that universal basic income was a good idea.
+And this is... I mean, you said 10 to 20% risk of them taking over.
+Are you more certain that this is going to have to be addressed in the next five years?
+The next parliament, perhaps?
+My guess is, in between five and 20 years from now, there is a probability of about a half that we will have to confront the problem of them trying to take over.
+(0:07:21)</p><p>Are you particularly impressed by the efforts of governments so far to try and rein this in?
+I'm impressed by the fact that they're beginning to take it seriously.
+I'm unimpressed by the fact that none of them is willing to regulate military uses.
+And I'm unimpressed by the fact that most of the regulations have no teeth.
+Do you think that the tech companies are letting down their guard on safety because they need to be the winner in this race for AI?
+(0:07:48)</p><p>I don't know about the tech companies in general.
+(0:07:50)</p><hr><p>I know quite a lot about Google because I used to work there.
+Google was very concerned about these issues.
+And Google didn't release the big chatbots.
+It was concerned about its reputation if they told lies.
+But as soon as open AI went into business with Microsoft, and Microsoft put chatbots into Bing, Google had no choice.
+So I think the competition is going to cause these things to be developed rapidly.
+(0:08:14)</p><p>And the competition means that they won't put enough effort into safety.
+People, parents, talk to their children, give them advice on the future of the economy, what jobs they should do, what degrees that they should do.
+It seems like the world is being thrown up in the air by this, by the world that you're describing.
+What would you advise somebody to study now, to kind of surf this wave?
+(0:08:39)</p><p>I don't know, because it's clear that a lot of mid-level intellectual jobs are going to disappear.
+And if you ask which jobs are safe, my best bet about a job that's safe is plumbing.
+Because these things aren't yet very good at physical manipulation.
+That'll probably be the last thing they're very good at.
+And so I think plumbing is safe for quite a long time.
+(0:09:00)</p><p>Driving, that's not going to go. Autonomous. No, that's hopeless. I mean, that's been slower than expected.
+Journalism. Journalism might last a little bit longer, but I think these things are going to be pretty good journalists quite soon.
+And probably quite good interviewers too.</p><p>(0:09:15)</p></div></div></details>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="動画920">動画(9:20)<a href="https://ouchaku.github.io/ds/en/blog/2024/10/25/hinton_ai#%E5%8B%95%E7%94%BB920" class="hash-link" aria-label="Direct link to 動画(9:20)" title="Direct link to 動画(9:20)">​</a></h2>
+<p>‘Godfather of AI’ on AI “exceeding human intelligence” and it “trying to take over”</p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MGJpR591oaM?si=bJCtX6HxKag4fGB9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin"></iframe>
+<p><a href="https://youtu.be/MGJpR591oaM" target="_blank" rel="noopener noreferrer">https://youtu.be/MGJpR591oaM</a></p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="動画概要欄">動画概要欄<a href="https://ouchaku.github.io/ds/en/blog/2024/10/25/hinton_ai#%E5%8B%95%E7%94%BB%E6%A6%82%E8%A6%81%E6%AC%84" class="hash-link" aria-label="Direct link to 動画概要欄" title="Direct link to 動画概要欄">​</a></h3>
+<p>341,00 views Published on Oct 9, 2024</p>
+<p>The Nobel Prize winning ‘Godfather of AI’ speaks to Newsnight about the potential for AI “exceeding human intelligence” and it “trying to take over.”</p>
+<p>Geoffrey Hinton, former Vice President of Google and sometimes referred to as the ‘Godfather of AI’, has recently won the 2024 Nobel Physics Prize. He resigned from Google in 2023, and has warned about the dangers of machines that could outsmart humans.</p>
+<p>In May 2024, Faisal Islam spoke to the professor for Newsnight.</p>
+<p>Newsnight is the BBC's flagship news and current affairs TV programme - with analysis, debate, exclusives, and robust interviews.</p>
+<p>(2024-10-25)</p>]]></content>
+        <category label="tech" term="tech"/>
+        <category label="AI" term="AI"/>
+        <category label="2024-10" term="2024-10"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Robert Hastings : "Operation Bird Droppings The MJ-12 Saga Continues" : 日本語訳 （差替）]]></title>
         <id>https://ouchaku.github.io/ds/en/blog/2024/10/24/hastings_bird_dropping</id>
@@ -349,7 +715,7 @@ There's a greater enlargement if it helps any.
 <p>WENDELLE C. STEVENS - THE MEXICAN UFO WAVE 1995 - EDUARD MEIER - LINDA MOULTON HOWE
 <a href="http://www.youtube.com/watch?v=5IJ7Pssib6k" target="_blank" rel="noopener noreferrer">www.youtube.com/watch?v=5IJ7Pssib6k</a></p>
 <h2 class="anchor anchorWithStickyNavbar_LWe7" id="この-ufo-の正体はたぶん">この UFO の正体はたぶん…<a href="https://ouchaku.github.io/ds/en/blog/2024/10/24/ws_hoax#%E3%81%93%E3%81%AE-ufo-%E3%81%AE%E6%AD%A3%E4%BD%93%E3%81%AF%E3%81%9F%E3%81%B6%E3%82%93" class="hash-link" aria-label="Direct link to この UFO の正体はたぶん…" title="Direct link to この UFO の正体はたぶん…">​</a></h2>
-<p>窓ガラスに付着し、ワイパーで引き伸ばされたフン。ワイパーで引き伸ばされたから、下のように汚れが滲んで広がっている。</p>
+<p>窓ガラスに付着し、ワイパーで引き伸ばされた鳥のフン。ワイパーで引き伸ばされたから、下のように汚れが滲んで広がっている。</p>
 <a href="https://ouchaku.github.io/ds/img/20241024_ws_4123_cmt.jpg" target="_blank"><img alt="20241024_ws_4123_cmt.jpg" border="0" src="https://ouchaku.github.io/ds/img/20241024_ws_4123_cmt.jpg" width="90%"></a>
 <p>同様の事例は下の過去記事でも取り上げた。</p>
 <p><a href="http://news21c.blog.fc2.com/blog-entry-12000.html">「William Tompkins の UFO 写真は本物だ」と John Vivanco が遠隔視で断言 →この UFO の正体は…w　（全体）</a>    (2018-07-08)</p>
@@ -814,7 +1180,7 @@ Thank you.
 <p>Raymond Moody on 'Life after Life' - COAST TO COAST AM - March 15, 2021</p>
 <iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" frameborder="0" height="315" src="https://www.youtube.com/embed/HbXGKqV_5YM" width="560"></iframe>
 <p><a href="http://www.youtube.com/watch?v=HbXGKqV_5YM" target="_blank" rel="noopener noreferrer">www.youtube.com/watch?v=HbXGKqV_5YM</a></p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="原文復元和訳">原文復元＋和訳<a href="https://ouchaku.github.io/ds/en/blog/2024/10/23/raymond_moody#%E5%8E%9F%E6%96%87%E5%BE%A9%E5%85%83%E5%92%8C%E8%A8%B3" class="hash-link" aria-label="Direct link to 原文復元＋和訳" title="Direct link to 原�文復元＋和訳">​</a></h2>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="原文復元和訳">原文復元＋和訳<a href="https://ouchaku.github.io/ds/en/blog/2024/10/23/raymond_moody#%E5%8E%9F%E6%96%87%E5%BE%A9%E5%85%83%E5%92%8C%E8%A8%B3" class="hash-link" aria-label="Direct link to 原文復元＋和訳" title="Direct link to 原文復元＋和訳">​</a></h2>
 <p>後述の Youtube transcript (*4)から原文を復元＋和訳したものを添付しておく。しかし、ChatGPT の過敏すぎる 検閲/ポリコレ がウザい。以下の内容で「利用規定に違反している可能性があります」とぬかしやがった。</p>
 <div class="theme-admonition theme-admonition-note admonition_xJq3 alert alert--secondary"><div class="admonitionHeading_Gvgb"><span class="admonitionIcon_Rf37"><svg viewBox="0 0 14 16"><path fill-rule="evenodd" d="M6.3 5.69a.942.942 0 0 1-.28-.7c0-.28.09-.52.28-.7.19-.18.42-.28.7-.28.28 0 .52.09.7.28.18.19.28.42.28.7 0 .28-.09.52-.28.7a1 1 0 0 1-.7.3c-.28 0-.52-.11-.7-.3zM8 7.99c-.02-.25-.11-.48-.31-.69-.2-.19-.42-.3-.69-.31H6c-.27.02-.48.13-.69.31-.2.2-.3.44-.31.69h1v3c.02.27.11.5.31.69.2.2.42.31.69.31h1c.27 0 .48-.11.69-.31.2-.19.3-.42.31-.69H8V7.98v.01zM7 2.3c-3.14 0-5.7 2.54-5.7 5.68 0 3.14 2.56 5.7 5.7 5.7s5.7-2.55 5.7-5.7c0-3.15-2.56-5.69-5.7-5.69v.01zM7 .98c3.86 0 7 3.14 7 7s-3.14 7-7 7-7-3.12-7-7 3.14-7 7-7z"></path></svg></span>User</div><div class="admonitionContent_BuS1"><p>以下は Youtube 動画に transcript ですが、句読点が欠如し改行位置もランダムです。ここから、句読点を補い、改行位置を適切にした原文を復元して。さらにその復元された原文を和訳して。</p></div></div>
 <div class="theme-admonition theme-admonition-note admonition_xJq3 alert alert--secondary"><div class="admonitionHeading_Gvgb"><span class="admonitionIcon_Rf37"><svg viewBox="0 0 14 16"><path fill-rule="evenodd" d="M6.3 5.69a.942.942 0 0 1-.28-.7c0-.28.09-.52.28-.7.19-.18.42-.28.7-.28.28 0 .52.09.7.28.18.19.28.42.28.7 0 .28-.09.52-.28.7a1 1 0 0 1-.7.3c-.28 0-.52-.11-.7-.3zM8 7.99c-.02-.25-.11-.48-.31-.69-.2-.19-.42-.3-.69-.31H6c-.27.02-.48.13-.69.31-.2.2-.3.44-.31.69h1v3c.02.27.11.5.31.69.2.2.42.31.69.31h1c.27 0 .48-.11.69-.31.2-.19.3-.42.31-.69H8V7.98v.01zM7 2.3c-3.14 0-5.7 2.54-5.7 5.68 0 3.14 2.56 5.7 5.7 5.7s5.7-2.55 5.7-5.7c0-3.15-2.56-5.69-5.7-5.69v.01zM7 .98c3.86 0 7 3.14 7 7s-3.14 7-7 7-7-3.12-7-7 3.14-7 7-7z"></path></svg></span>ChatGPT-4o</div><div class="admonitionContent_BuS1"><p>以下は句読点と適切な改行を補って復元した原文です。</p><p>Yes, George, and this is just so paradoxical. I realize, but oddly enough, I was on board with God, you know, years before I kind of finally came to the realization, about five years ago, that, to my astonishment, there is an afterlife. I mean, I guess I sort of talked to God often in prayer and such, but I thought, well, you know, in terms of life after death, I don't know what God has in mind for us. You know, is it conscious experience after death? I just didn’t know.</p><p>But I was really down. I mean, you know, I guess severe midlife crisis—this was, I think, in '91 in the summer—and I had just sort of given up on life. I wanted to die, but I didn’t. You know, I just figured suicide is not the route, but I was just really desperate.</p><p>Alright, hold on, hold on right there, Raymond. We’re at a break. We’re going to come right back, and we’ll pick it up right there. I want to hear about that incredible story. I never knew that you were at that point, that you know, you were kind of despondent. We’ll find out a little bit more about that when we come back.</p><p>And welcome back to Coast to Coast, George Noory with you with Dr. Raymond Moody. His new book is called God is Bigger than the Bible, which we’re going to get into in a big way. But he was telling us a story years ago about how he was a little despondent. Raymond, I’ll let you pick it up from there. What happened?</p><p>Yeah, well basically, that was kind of midlife. I think I was 45 or so and had been through a divorce, and was living in a new house. I was just really, really despondent. Maybe, you know, when you’re in a state like that, you’re not exactly sure what the whole picture is, but I was, you know, just so despondent and hopeless. Yet, I had learned from people with near-death experiences who had attempted suicide, but that's not the way—you know, that’s not going to work. So there I was, just not knowing what to do.</p><p>And all of a sudden, George, I mean, you know, people with these mystical experiences and encounters with God, they’ll tell you, no matter how articulate they are, as you know, they say, “I just can’t describe it to you.” Well, that’s the wall I’m up against. But all of a sudden, it was like something from above descended on me, and, you know, the most compassion that you cannot even begin to describe—even if—and just beyond words of complete compassion and understanding. Nothing like the judgmental God that, you know, some of the fundamentalists want to portray to us, but just complete understanding.</p><p>And, you know, I used to kind of—I heard when religious people would talk about kneeling down to God, I thought, you know, how ridiculous. I mean, it works! It works, yeah. That it would somehow flatter God, or you know, trying to get on God’s good side by kneeling to flatter him or whatever. But I realized what that was all about. You can't stand up. I mean, I was sitting in a chair, and as soon as the presence of God came over me, I just collapsed to the floor. It's kind of like George Ritchie once told me. He said, "It’s kind of like you're being fiercely hypnotized."</p><p>And so it was. Yet, there was a darkness to it—I don’t mean in the negative sense—but in the positive sense that even though it was somebody who knew everything about me, every detail, there was still a mysteriousness to it, an impenetrability. But what you see makes you realize that it’s a kind of experience where you would happily be in that state forever, absolutely, in the presence of God.</p><p>But then, the kind of idea came that I had had this vision of, in Virginia, a blonde mop of—you know, I saw this woman’s blonde mop of hair from behind, and in a blue silk dress of a very specific blue color. And I immediately was drawn to this person. Well, the thought came that everything was going to be alright. I mean, you know, there's always trouble in life, but that—and—and I just, this feeling of complete love and compassion, and the idea also that, you know, this life is full of ups and downs and travails, but eventually, everything does come out alright.</p><p>So, that sort of shaped me up, and I got back in shape. About a year and a couple of months later, in September of 1992, I was in Florida, in St. Petersburg, and I was giving a program down there. And, you know, as typical as it is when you travel around, you go to TV studios to be interviewed.</p><p>Sure.</p><p>And so it never occurred to me. I got into the car that they had sent. When I went into the studio, I was sitting all alone in the green room, and this presence swept in. I saw the big mop of blonde hair with that very blue silk dress, and she threw her arms out as though she were declining to her throng of thousands. She said, “Well, I’ve been divorced for two years. I don’t know if anybody's going to be sexually interested in me again.” And, you know, I mean, I immediately picked up—</p><p>You raised your hand right away, right?</p><p>That’s right! Like, I mean, this was just a wacky sense of humor. I realized she was just—you know—so immediately, there was this bond with Cheryl, whom you’ve met.</p><p>That's amazing.</p><p>Then, about a year later, we got married. So that was, you know, that was my experience with God. And, you know, subsequently, I have felt the presence of God on a number of occasions. And God brought us two wonderful kids, whom we adopted at birth. Carter is Mexican-American by birth.</p><p>和訳：</p><p>そうなんだ、ジョージ。これは本当に逆説的なんだけど、奇妙なことに、私は神と共に歩んでいたんだ。やっと5年前くらいに気づいたことなんだけど、自分に驚いたのは、死後の世界があるってことだと思う。祈りで神に語りかけることはあったけど、死後の人生については、神が私たちに何を計画しているかなんてわからなかった。死後に意識的な経験があるのか、そんなことは全然わからなかったんだ。</p><p>でも、本当に落ち込んでいた。ひどい中年の危機というか、たしか91年の夏だったんだけど、私は人生を諦めてしまっていたんだ。死にたかったけど、死にはしなかった。自殺は道ではないと感じていたけど、とにかく本当に絶望的な気分だった。</p><p>ちょっと待って、そこまでにして、レイモンド。休憩に入るよ。戻ってきたらその話をもう一度拾って、続きを聞かせてほしい。君がそんな状態にあったとは知らなかったよ。戻ったらもう少し詳しく話してもらおう。</p><p>ようこそ、Coast to Coast へ。ジョージ・ノリーです。今日はレイモンド・ムーディ博士を迎えています。彼の新しい本『神は聖書よりも大きい』について大々的に話す予定ですが、彼が数年前に少し落ち込んでいた話をしていました。レイモンド、続きを話してくれないか？その時、何が起こったんだ？</p><p>そうだね、まあ、あれはちょうど中年期くらいだったと思う。たしか私は45歳くらいで、離婚して新しい家に住んでいたんだ。本当に、絶望的な気分だった。そういう時って、全体像がはっきりしないものだけど、とにかく絶望と希望がなくて。でも、死にかけた人々や自殺未遂を経験した人々から学んだんだけど、それは違う、そういう方法じゃ解決しないってね。だから、私はただ、どうしたらいいかわからなかった。</p><p>すると突然、ジョージ、分かるだろうけど、神秘的な体験や神との遭遇を経験した人々が、いくら彼らが話術に優れていても、「それを説明できない」と言うのは知ってるだろう。私も同じ壁にぶつかった。でも、突然、何かが上から降りてきたんだ。そして、言葉では表せないほどの慈悲が私に降り注いだんだ。全く言葉では表現できないほどの完全な慈悲と理解だった。判決を下すような神じゃなくて、全てを理解してくれる存在だった。</p><p>そして、私は宗教的な人々が神の前でひざまずく話を聞くたびに、どうしてそんなことをするんだろうと感じていたんだ。だけど</p></div></div>
@@ -1862,7 +2228,7 @@ And we were very, very good at it.
 <a href="https://ouchaku.github.io/ds/img/20140606_mj12mv.jpg" target="_blank"><img alt="20140606_mj12mv.jpg" border="0" src="https://ouchaku.github.io/ds/img/20140606_mj12mv.jpg" width="33%"></a>
 <p>"Majestic 12" 関連資料を捏造した首謀者の一員（Richard Doty）の告白なども紹介されている。彼は空軍に所属し、軍の命令によって捏造 UFO 研究家たちを騙していたという。</p>
 <p>かつて "Majestic 12" 関連資料を調査の末、真正だと信じ込んで公開した Stanton Friedman も、この動画のインタビューに登場しているが、かなり苦しそうな表情。</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="動画29分">動画（29分）<a href="https://ouchaku.github.io/ds/en/blog/2024/10/21/rohas_mj12#%E5%8B%95%E7%94%BB29%E5%88%86" class="hash-link" aria-label="Direct link to 動画（29分）" title="Direct link to 動画（29分）">​</a></h2>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="動画29分">動画（29分）<a href="https://ouchaku.github.io/ds/en/blog/2024/10/21/rohas_mj12#%E5%8B%95%E7%94%BB29%E5%88%86" class="hash-link" aria-label="Direct link to 動画（29分）" title="Direct link to 動画�（29分）">​</a></h2>
 <p>Majestic 12: A UFO Disinformation Scandal</p>
 <iframe allowfullscreen="" frameborder="0" height="360" src="//www.youtube.com/embed/3mhRLKuJWyg?feature=player_detailpage" width="640"></iframe>
 <p>この動画の関連ソース
@@ -2165,7 +2531,7 @@ For Open Minds, I'm Alejandro Rojas.
 <a href="https://ouchaku.github.io/ds/img/20241020_fire_inside_tree1.jpg" target="_blank"><img alt="20241020_fire_inside_tree1.jpg" border="0" src="https://ouchaku.github.io/ds/img/20241020_fire_inside_tree1.jpg" width="90%"></a>
 <a href="https://ouchaku.github.io/ds/img/20241020_fire_inside_tree2.jpg" target="_blank"><img alt="20241020_fire_inside_tree2.jpg" border="0" src="https://ouchaku.github.io/ds/img/20241020_fire_inside_tree2.jpg" width="90%"></a>
 <h2 class="anchor anchorWithStickyNavbar_LWe7" id="切り出し静止画">切り出し静止画<a href="https://ouchaku.github.io/ds/en/blog/2024/10/20/burning_tree_inside#%E5%88%87%E3%82%8A%E5%87%BA%E3%81%97%E9%9D%99%E6%AD%A2%E7%94%BB" class="hash-link" aria-label="Direct link to 切り出し静止画" title="Direct link to 切り出し静止画">​</a></h2>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="内部だけが燃えている木">内部だけが燃えている木<a href="https://ouchaku.github.io/ds/en/blog/2024/10/20/burning_tree_inside#%E5%86%85%E9%83%A8%E3%81%A0%E3%81%91%E3%81%8C%E7%87%83%E3%81%88%E3%81%A6%E3%81%84%E3%82%8B%E6%9C%A8" class="hash-link" aria-label="Direct link to 内部だけが燃えている木" title="Direct link to 内部だけが燃えている木">​</a></h3>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="内部だけが燃えている木">内部だけが燃えている木<a href="https://ouchaku.github.io/ds/en/blog/2024/10/20/burning_tree_inside#%E5%86%85%E9%83%A8%E3%81%A0%E3%81%91%E3%81%8C%E7%87%83%E3%81%88%E3%81%A6%E3%81%84%E3%82%8B%E6%9C%A8" class="hash-link" aria-label="Direct link to 内部だけが燃えている木" title="Direct link to 内部だけが燃えてい�る木">​</a></h3>
 <a href="https://ouchaku.github.io/ds/img/20241020_fire_inside_tree3.jpg" target="_blank"><img alt="20241020_fire_inside_tree3.jpg" border="0" src="https://ouchaku.github.io/ds/img/20241020_fire_inside_tree3.jpg" width="90%"></a>
 <a href="https://ouchaku.github.io/ds/img/20241020_fire_inside_tree4.jpg" target="_blank"><img alt="20241020_fire_inside_tree4.jpg" border="0" src="https://ouchaku.github.io/ds/img/20241020_fire_inside_tree4.jpg" width="90%"></a>
 <a href="https://ouchaku.github.io/ds/img/20241020_fire_inside_tree5.jpg" target="_blank"><img alt="20241020_fire_inside_tree5.jpg" border="0" src="https://ouchaku.github.io/ds/img/20241020_fire_inside_tree5.jpg" width="90%"></a>
@@ -2675,7 +3041,7 @@ ERVのセッションはCRVのセッションよりも時間がかかったた�
 <p>視聴者は、潜在意識に働きかけ、「黒板 」と呼ばれる想定領域にターゲットイメージを視覚として配置するよう訓練する。視聴者はまた、潜在意識とのコミュニケーションを促進するNLPのテクニックを使いながら、他の感覚的、運動学的なデータも順次入手する。</p>
 <p>視聴者は警戒心の強いベータ波状態でセッションを開始し、テンポの速い、高度に構造化された方法論に取り組む。S-1の視覚的イデオグラムでターゲットの主要なジェスチャーを知覚・識別し、NLPテクニックを使ってS-2の感覚データの収集に移り、S-3のデータ統合またはサイトスケッチにデータを組み立てる。セッションが続き、ターゲットとの接触が増えるにつれて、視聴者は自然にアルファ波状態に移行し、S-4の情報カスケードと 「黒板 」の使用に移る。アルファ状態で許される長い滞留時間により、視聴者は各ゲシュタルトをより深く明瞭に調べる。S-5では、視聴者はペンと紙を脇に置き、クールダウンのテクニックを行い、よりシータ脳波の状態に到達し、モニターされたERVに入る。</p>
 <p>この方法論には、分析的な親しみやすさを保ちながら、視覚データの取得を助長する収集と報告のスキームが含まれている。この方法論には、場所やタイムラインを決定するための時間的モデルも含まれている。また、視聴者は、リモート視聴の結果を評価するために使用する3段階の分析アプリーケを学ぶ。</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="targschwartz-流の自然的遠隔視">Targ/Schwartz 流の自然的遠隔視<a href="https://ouchaku.github.io/ds/en/blog/2024/10/19/rv_levels#targschwartz-%E6%B5%81%E3%81%AE%E8%87%AA%E7%84%B6%E7%9A%84%E9%81%A0%E9%9A%94%E8%A6%96" class="hash-link" aria-label="Direct link to Targ/Schwartz 流の自然的遠隔視" title="Direct link to Targ/Schwartz 流の自然的遠隔視">​</a></h2>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="targschwartz-流の�自然的遠隔視">Targ/Schwartz 流の自然的遠隔視<a href="https://ouchaku.github.io/ds/en/blog/2024/10/19/rv_levels#targschwartz-%E6%B5%81%E3%81%AE%E8%87%AA%E7%84%B6%E7%9A%84%E9%81%A0%E9%9A%94%E8%A6%96" class="hash-link" aria-label="Direct link to Targ/Schwartz 流の自然的遠隔視" title="Direct link to Targ/Schwartz 流の自然的遠隔視">​</a></h2>
 <a href="https://ouchaku.github.io/ds/img/20241019_rv_04.jpg" target="_blank"><img alt="20241019_rv_04.jpg" border="0" src="https://ouchaku.github.io/ds/img/20241019_rv_04.jpg" width="90%"></a>
 <p>より構造化された方法論が開発される以前は、リモート・ビューワーは、しばしば自分自身のサイキック能力との取り組み方に基づいて、より自由なスタイルの方法を使用していた。</p>
 <p>このような自由なスタイルの方法は、SRIの初期の頃、そして政府出資のプログラム全体を通じて、また米軍やステファン・シュワルツのメビウス・グループでも運用されていた。これらのアプローチは、リモート・ビューイングの初期の成功を生み出し、SRIとPEAR研究所で行われた多くの研究の基礎となった。今日でも、エド・メイの基礎研究所（LFR）でその利用が続けられている。</p>
@@ -2710,212 +3076,6 @@ Because an ERV session took longer than did a CRV one, Skip decided to call it �
 unit, time, equipment, remarks) reporting format. While highly structured, the methodology provides a versatile platform from which the remote viewer can transition from an alert mental Beta wave collection state to a more relaxed experiential Theta wave extended remote viewing (ERV) state.</p><p>Viewers engage and train their subconscious to place target imagery as visuals in a notional area called “Blackboard.” Viewers also obtain other sensory and kinesthetic data in sequential order, using NLP techniques to facilitate communication with the subconscious.</p><p>The viewers begin a session in an alert Beta wave state, working the fast-paced, highly structured methodology. They perceive and identify the major gestalts at the target with an S-1 visual ideogram, move on to the collection of sensory data in S-2 using NLP techniques, and then assemble the data into an S-3 data consolidation or site sketch. As the session continues and target contact increases, viewers naturally move to an Alpha wave state for the S-4 information cascade and use of the “Blackboard.” With the longer dwell time allowed in an Alpha state, viewers examine each gestalt with more depth and clarity. By S-5 the viewers set aside pen and paper, do a cool-down technique to attain a state with more Theta brain waves, and go into monitored ERV.</p><p>The methodology includes a collection and reporting scheme that is conducive to the capture of visual data while remaining analytically friendly. The methodology includes temporal models for the determination of locations as well as timelines. Viewers are also taught three tiers of analytical appliqués for use in evaluating the results of their remote viewing efforts.</p><h2 class="anchor anchorWithStickyNavbar_LWe7" id="targschwartz--natural-remote-viewing">‘Targ/Schwartz’ / Natural Remote Viewing<a href="https://ouchaku.github.io/ds/en/blog/2024/10/19/rv_levels#targschwartz--natural-remote-viewing" class="hash-link" aria-label="Direct link to ‘Targ/Schwartz’ / Natural Remote Viewing" title="Direct link to ‘Targ/Schwartz’ / Natural Remote Viewing">​</a></h2><p>pic</p><p>Prior to the development of more structured methodologies, the remote viewer used a more free-style method often based on their own way of working with their psychic abilities.</p><p>Such free-style methods were used exclusively in the early days at SRI, and throughout the government-funded program, as well as operationally in the United States military and at Stephan Schwartz’ Mobius group. These approaches produced remote viewing’s early successes and were the basis for much of the research performed at SRI and the PEAR laboratories. Their use continues today at Ed May’s Laboratories for Fundamental Research (LFR).</p><p>Although the viewer is free to use their own methods and format of recording the session the following should be incorporated: open questioning that allows for free-response answers, sketching, the query of all senses, and importantly, a focus on target description and not identification, with a separation between responses believed to be psychic perceptions from those believed to be analysis and conjecture. Such personal approaches can be referred to as ‘remote viewing’ as long as the remote viewing protocols are met.</p><p>Joe McMoneagle, Russell Targ and Stephan Schwartz describe this style of remote viewing and the projects it was used in within their books. Schwartz and McMoneagle continue to teach it today.</p><h2 class="anchor anchorWithStickyNavbar_LWe7" id="dream-remote-viewing">Dream Remote Viewing<a href="https://ouchaku.github.io/ds/en/blog/2024/10/19/rv_levels#dream-remote-viewing" class="hash-link" aria-label="Direct link to Dream Remote Viewing" title="Direct link to Dream Remote Viewing">​</a></h2><p>pic</p><p>Reports of precognitive information, ideas and creative inspiration coming from dreams are common. The dream state and the threshold states between being asleep and awake are natural times where the analytical processes are suppressed, providing a more receptive environment for creative and precognitive impressions to flourish.</p><p>To dream about a target, you will need to firmly establish that intention; writing the target number (or however the target has been specified, for example, ‘main photograph on tomorrow’s front page’) down and saying it to yourself several times during the day will help. This will inform your consciousness that you intend to dream about it. Once in bed, focus on the target as you fall asleep.</p><p>Dream impressions, images and sensations need to be recorded directly as you awaken. Moving around to any extent when you wake up will dislodge the memories of your dream, so ensure that you have the necessary materials to record your dreams by your bedside, ready, close at hand. The habit of recording your dreams, as you awake, will help with remembering them.</p><h2 class="anchor anchorWithStickyNavbar_LWe7" id="associative-remote-viewing">Associative Remote Viewing<a href="https://ouchaku.github.io/ds/en/blog/2024/10/19/rv_levels#associative-remote-viewing" class="hash-link" aria-label="Direct link to Associative Remote Viewing" title="Direct link to Associative Remote Viewing">​</a></h2><p>pic</p><p>Associative Remote Viewing (ARV) is not a method, but an application of remote viewing used to predict the outcome of future events in situations where there are known possible outcomes, such as in sports competitions (i.e., win, lose or draw) and financial markets (e.g., up a little/up a lot/down a little/down a lot).</p><p>To use ARV each potential outcome needs to be associated (hence, ‘associative remote viewing’) with its own target, for example, if two outcomes are to be tested for next week’s stock price, e.g., will the stock go up or down, then two photographs would be required – one to represent each outcome. Photographs are generally used, but objects can be used as well. Before the time of the event the viewer is tasked with describing the picture they will be shown in the future (after the event).</p><p>An analyst/judge can use the remote viewer’s session to make a prediction based on a comparison between it and the pictures previously chosen and associated with the potential outcomes. The outcome associated with the picture that the viewer’s session most closely resembles is the prediction.</p><p>The feedback (the picture associated with the actual outcome) can only be shown to the viewer after the event.</p></div></div></details>
 <p>(2024-10-19)</p>]]></content>
         <category label="remote_viewing" term="remote_viewing"/>
-        <category label="2024-10" term="2024-10"/>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Brent Raynes:「UFO/ET/ESP 体験者の脳の特徴」; Uri Geller が関係者に及ぼす未知の影響力]]></title>
-        <id>https://ouchaku.github.io/ds/en/blog/2024/10/18/brain_antenna</id>
-        <link href="https://ouchaku.github.io/ds/en/blog/2024/10/18/brain_antenna"/>
-        <updated>2024-10-18T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[前置き]]></summary>
-        <content type="html"><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="前置き">前置き<a href="https://ouchaku.github.io/ds/en/blog/2024/10/18/brain_antenna#%E5%89%8D%E7%BD%AE%E3%81%8D" class="hash-link" aria-label="Direct link to 前置き" title="Direct link to 前置き">​</a></h2>
-<p>この件（Kit Green と Garry Nolan が発見した UFO/UAP 遭遇者の脳の特徴）については過去記事で何度も取り上げたが、Brent Raynes も話題にしている。</p>
-<p>さらに、Uri Geller が意図せずに関係者に幻覚を生じさせたという別の事例<sup><a href="https://ouchaku.github.io/ds/en/blog/2024/10/18/brain_antenna#user-content-fn-1-8541b5" id="user-content-fnref-1-8541b5" data-footnote-ref="true" aria-describedby="footnote-label">1</a></sup>を Brent Raynes が語っている。</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="コメント">コメント<a href="https://ouchaku.github.io/ds/en/blog/2024/10/18/brain_antenna#%E3%82%B3%E3%83%A1%E3%83%B3%E3%83%88" class="hash-link" aria-label="Direct link to コメント" title="Direct link to コメント">​</a></h2>
-<p>私は</p>
-<ul>
-<li>UFO/Bigfoot/怪奇生物/幽霊/妖精/ポルターガイスト/行者・霊能者の通力/狐狸に化かされた逸話/天狗/妖怪 の類</li>
-</ul>
-<p>は、</p>
-<ol>
-<li>EMF 異常や脳の損傷が要因となって</li>
-<li>一時的な意識障害が引き起こした幻覚であり、</li>
-<li>稀に複数人が目撃した場合は共鳴認知が作用したもの</li>
-</ol>
-<p>という仮説を提唱してきたが、この 1-3 からなる仮説では、ヒッチハイカー現象（Uri Geller の謎の影響力も含まれる）を適切に説明できない。</p>
-<p>逆に、ヒッチハイカー現象が実在し、それの機序を仮説だてることが可能となれば、</p>
-<ul>
-<li>UFO/Bigfoot/怪奇生物/幽霊/妖精/ポルターガイスト/行者・霊能者の通力/狐狸に化かされた逸話/天狗/妖怪 の類</li>
-</ul>
-<p>は全て統一的に説明しうる。</p>
-<p>つまり、1-3 の仮説は凡庸すぎて正鵠を射ていないかも知れぬ。よって、ヒッチハイカー現象をもっと深く考える必要があるのかも。</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="fasterwhisper-ailarge-v2-model--deepl2024-07-model">FasterWhisper AI(large-v2 model) + DeepL(2024-07 model)<a href="https://ouchaku.github.io/ds/en/blog/2024/10/18/brain_antenna#fasterwhisper-ailarge-v2-model--deepl2024-07-model" class="hash-link" aria-label="Direct link to FasterWhisper AI(large-v2 model) + DeepL(2024-07 model)" title="Direct link to FasterWhisper AI(large-v2 model) + DeepL(2024-07 model)">​</a></h2>
-<p>興味深いと思ったのは、昨年11月30日に遡るのですが、ハーバード大学医学部の宇宙遺伝学シンポジウムで、実際に2人の医師がいました。 彼らは、オーブを見たり、メッセージを受け取ったり、宇宙人を見たりする人々の多くが、脳の被殻の神経細胞密度レベルが増加しており、それがアンテナのようなものかもしれないと考えていました。
-（1:39:19）</p>
-<p>なぜなら、このニューロン密度を持つ人々を多く発見したからです。彼らはそれをこう呼んでいます。
-そして、これらは主に軍人や科学者といった人々です。
-私はスタンフォード大学のノーラン研究所のゲイリー・ノーランという人物に連絡を取りました。彼はこの研究に長年携わっており、私のコラム「リアリティ・チェック」でもこのことについて書いています。そして、彼をこの研究に引き込んだ人物が、CIAに勤務していたクリストファー・キット・グリーンであることを知りました。私は、なんと興味深いことだろうと思いました。彼が興味を持ったのは、主に、私が思うに、1974年のローレンス・リバモア国立研究所でのユリ・ゲラーの存在があったからです。彼らは彼の念動力能力を研究していたのですが、突然、多くの科学者たちが、非常に著名で、一流で、冷静沈着な、つまり、科学者としてあるべき姿であるような人たちが
-（1:40:37）</p>
-<p>突然、奇妙なオーブを目にし始めたのです。
-（1:40:43）</p>
-<hr>
-<p>ある夫婦が目撃したのですが、その男性は物理学者で、寝室で、人間の腕のようなものが、ベッドの上や足元にフックのようにぶら下がっていたと説明していました。
-フック船長のような感じでしょうか。 はい、それから、他の人たちも、とても背が高くて、黒い鳥のような姿をした人物が家の中や周りを歩き回っているのを見たというような描写をしていました。
-（1:41:21）</p>
-<p>そして、ここでキット・グリーンは本当に興味を持ちました。彼はすでに遠隔テレパシーのような経験をしていました。ユリ・ゲラーの実験では、ゲラーがスタンフォード大学（カリフォルニア州）にいる時に、グリーンがバージニア州の自宅やラングレーのオフィスにいる時に、ゲラーが心を奪われるようなことをただ描写したのです。
-彼は、誰かが、自分の専門分野で起こっていることを遠隔透視で読み取ったり見たりできるなどとは、考えもしなかった。
-（1:42:00）</p>
-<p>とにかく、私はただ、そう思うのです。なぜなら、私はつい最近、心理学者の友人であるグレッグ・リトル博士と、同じく心理学者のラス・スカルポーン氏と、パネルインタビューを行いました。そのインタビューでは、私は、MRI研究をぜひ行いたいと話しました。私は何年も前から、体験者の脳内で何かが起こっているのではないかと思っていました。もしそれができないのであれば、これは証言のまったく新しい次元です。催眠術にかけられた人たちが、体験を追体験しているときに、初期の体験中にあった奇妙な身体の兆候、聖痕、あるいはそれを何と呼ぼうと、突然再び現れるのです。
-(1:42:47)</p>
-<p>彼らは同じような症状をいくつか示すようになりました。そして私は、もし外見に兆候があるなら、脳スキャンで何がわかるか想像してみてほしいと思いました。そして私たちは話し合って、グレッグが言ったことを覚えています。ポケットにいくらお金があるか、ブレンさん、なぜならこれはとても高価な検査だからです。
-ハーバード大学で講演した2人の医師の説明によると、彼らはこれまでに約105人の被験者に対してこの検査を行ってきたそうです。そして、これまでに約100人の非被験者に対して、彼らの医療記録とMRIスキャンを比較したそうです。
-（1:43:29）</p>
-<details class="details_lb9f alert alert--info details_b_Ee" data-collapsed="true"><summary>Details</summary><div><div class="collapsibleContent_i85q"><p></p><summary>▼文字起こし 原文 展開</summary>
-I thought it was interesting that, you know, I try to follow up on the story as much as I could that back on November 30th of last year, there actually were two medical doctors at a symposium, space genetics symposium at Harvard Medical School. And they were discussing how a number of people who see orbs, get messages, see beings, have this increased neuronal density level of their claudate putamen in their brain, and they think it may be like an antenna.
-(1:39:19)<p></p><p>Because they have found a lot of people that have this, this neuronal density, they call it.
-And these are people who are largely military, who have had very... and scientists.
-And I had contacted one of them, Gary Nolan of Nolan Lab at Stanford, who's been involved in this study for a number of years, and wrote about this in my, my column, Reality Check. And then I found out that the guy that pulled him into this study was, was none other than Christopher Kitt Green, who worked for the CIA. And I thought, wow, how interesting, it's he's actually got interested because primarily, as I see it, it was Uri Geller at the Lawrence Livermore Nuclear Laboratory in 1974. They were studying his psychokinetic abilities, and then suddenly a lot of the scientists, very prominent, prestigious, level headed, I mean, as level grounded as there's, you know, a scientist is supposed to be.
-(1:40:37)</p><p>And they were suddenly seeing strange orbs.
-(1:40:43)</p><hr><p>People were seeing one husband and wife, and the guy was a physicist, and he described, I think, in their bedroom, a, like the arm of this, you know, human type arm, but instead of a hand at the end of it floating over their bed or at the foot of their bed, like a hook.
-Like Captain Hook, I guess. And yes, and then there was also a description by others of, of like these very tall, dark bird-like figures walking around the house or in the house.
-(1:41:21)</p><p>And, and this is where Kit Green really got interested. He'd already had experiences like long distance telepathy, experiments with Uri Geller where he just described things that blew his mind that, you know, Geller being over in California at Stanford and, and, you know, Green at his, at his home in Virginia or at, at his office in Langley and Geller impressed him.
-He did not think it was possible that anybody could, could read and see a remote view of what was going on and what was, you know, was going on in his neck of the woods like that.
-(1:42:00)</p><p>And so anyway, I just, I just think it's, you know, because I had just discussed with, I did an interview, panel interview that I do occasionally with Dr. Greg Little, my psychologist friend, and a Russ Scalpone, who's also a psychologist, about how, how I would love to have, know, see MRI studies. I've thought for years about this, that something's going on in the brain of the experiencer. If we can't, you know, you know, this is a whole dimension to testimony that hasn't been, you know, we have people who are under hypnosis and they suddenly, as they're reliving the experience, some of the strange body markings, the stigmata or whatever you want to call it, that they had during the initial experience suddenly resurfaces.
-(1:42:47)</p><p>They begin to have some of the same symptoms. And I thought, if we have an outward signs of it, imagine what the inward brain scans could reveal. And we were talking and, you know, I remember Greg saying, well, how much money you got in your pocket, Brent, because these are very expensive tests.
-And here was descriptions of these two doctors that spoke at Harvard who was saying that they, they've been doing this with about 105 people. And then they had about 100 people so far who were, you know, non-experiencers looking at the difference in, you know, their medical records and their MRI scans.
-(1:43:29)</p></div></div></details>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="音声-5009">音声 (50:09)<a href="https://ouchaku.github.io/ds/en/blog/2024/10/18/brain_antenna#%E9%9F%B3%E5%A3%B0-5009" class="hash-link" aria-label="Direct link to 音声 (50:09)" title="Direct link to 音声 (50:09)">​</a></h2>
-<p>June 25/19 - A Life of Contact with Brent Raynes
-2019-06-26</p>
-<iframe allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" frameborder="0" height="315" src="https://www.youtube.com/embed/v7n9OnXdKso" width="560"></iframe>
-<p>(2024-10-18)</p>
-<!-- -->
-<section data-footnotes="true" class="footnotes"><h2 class="anchor anchorWithStickyNavbar_LWe7 sr-only" id="footnote-label">Footnotes<a href="https://ouchaku.github.io/ds/en/blog/2024/10/18/brain_antenna#footnote-label" class="hash-link" aria-label="Direct link to Footnotes" title="Direct link to Footnotes">​</a></h2>
-<ol>
-<li id="user-content-fn-1-8541b5">
-<p>同様の事例は以下で取り上げた。<br>
-<a href="https://ouchaku.github.io/ds/en/blog/2024/10/16/uri_geller">Brent Raynes : Uri Geller の能力を調査した海軍の科学者が一日だけ心的映像の送受信能力を保有 （差替）</a> <a href="https://ouchaku.github.io/ds/en/blog/2024/10/18/brain_antenna#user-content-fnref-1-8541b5" data-footnote-backref="" aria-label="Back to reference 1" class="data-footnote-backref">↩</a></p>
-</li>
-</ol>
-</section>]]></content>
-        <category label="UFO" term="UFO"/>
-        <category label="orb" term="orb"/>
-        <category label="2024-10" term="2024-10"/>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Richard Doty: 空軍の情報漏洩を防ぐために多くの売春婦にカネを払った]]></title>
-        <id>https://ouchaku.github.io/ds/en/blog/2024/10/18/doty_protect_info_leak</id>
-        <link href="https://ouchaku.github.io/ds/en/blog/2024/10/18/doty_protect_info_leak"/>
-        <updated>2024-10-18T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[前置き]]></summary>
-        <content type="html"><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="前置き">前置き<a href="https://ouchaku.github.io/ds/en/blog/2024/10/18/doty_protect_info_leak#%E5%89%8D%E7%BD%AE%E3%81%8D" class="hash-link" aria-label="Direct link to 前置き" title="Direct link to 前置き">​</a></h2>
-<p>Richard Doty の証言。</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="コメント">コメント<a href="https://ouchaku.github.io/ds/en/blog/2024/10/18/doty_protect_info_leak#%E3%82%B3%E3%83%A1%E3%83%B3%E3%83%88" class="hash-link" aria-label="Direct link to コメント" title="Direct link to コメント">​</a></h2>
-<p>なるほど。このようにして「B-2 には ET の反重力技術が採用されているのだ」というヨタ話が生まれ、それを Richard Dolan などが真に受けることになったというわけか。</p>
-<p><a href="http://news21c.blog.fc2.com/blog-entry-13499.html">Richard Dolan : B-2 ステルス爆撃機に反重力装置が組み込まれているという噂は事実だろう。なぜなら…　　（途中：その1）</a>    (2019-01-20)</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="fasterwhisper-ailarge-v2-model--deepl2024-07-model">FasterWhisper AI(large-v2 model) + DeepL(2024-07 model)<a href="https://ouchaku.github.io/ds/en/blog/2024/10/18/doty_protect_info_leak#fasterwhisper-ailarge-v2-model--deepl2024-07-model" class="hash-link" aria-label="Direct link to FasterWhisper AI(large-v2 model) + DeepL(2024-07 model)" title="Direct link to FasterWhisper AI(large-v2 model) + DeepL(2024-07 model)">​</a></h2>
-<p>70年代後半から80年代にかけての私の時代は、それが得意だった。
-私たちは偽情報を非常に、非常に、非常に得意としていた。
-特別なアクセス・プログラムを保護するための防諜活動だ。
-そして、我々はそれがとてもとても得意だった。
-私たちがやったことの例を挙げましょう。
-(0:46:26)</p>
-<p>私がエリア51、ネリス試験訓練場で働いていたとき、その地域のほとんどはナイ郡にありました。当時、ナイ郡では売春が合法でした。トノパ基地やエリア51、あるいはネバダ試験場でも、高度に機密化されたプログラムやプロジェクトが数多く進行していました。そこで私たちがしたことは、ナイ郡の売春婦を片っ端からスカウトすることだった。基本的に、その郡の売春婦は全員、そしてその郡に隣接するエスメラルダ郡の売春婦でさえも、俺たちの管理下に置いたんだ。
-(0:47:21)</p>
-<p>我々は彼らに金を払った。
-(0:47:21)</p>
-<hr>
-<p>私たちは彼らに、彼らが手品で得ていた以上の報酬を払った。
-信じてほしいが、そういうことはしょっちゅうあった。
-彼らの持っている情報が、売春婦を通じて世間に漏れるのを避けたかった。
-だから、我々は彼らをすべて所有した。
-そして、特別プロジェクトからの機密情報が、偽情報によって世間に漏れるのを阻止するために、大規模な作戦を実施したんだ。
-(0:48:04)</p>
-<p>これはほんの一例です。
-質問してもいいですか？
-あなたが結婚していることは知っています。
-当時は結婚していましたか？
-いいえ、当時は結婚していませんでした。
-じゃあ、夜の女とつるんで、現金のやり取りができたんだね。
-とても楽しそうな仕事だね。
-結婚していなかったからこそできたことだ。
-あなたが売春宿でこんなことをしている姿が目に浮かぶわ。
-(0:48:38)</p>
-<p>あなたが話しているとき、評判の悪い女たち、夜の女たちから情報を聞き出そうとしていましたか？
-そうですね。
-私たちがしたことは、彼女たちに近づき、前もってこう言ったんです。
-彼らは機密情報を話すかもしれない。
-(0:49:04)</p>
-<p>だから我々はそれを知りたい。
-そしてお金を払う。
-それで案の定、彼らは電話してくる。
-全員がそうではない。
-つまり、たくさんの空軍の人たちが、そこへ行って、そこへ行って、自分のことをして、30ドルか40ドル払って、何も言わなかったし、何も公表しなかった。
-でも、そこに行って、売春婦に、私はあそこでこの極秘プロジェクトに携わっているんだ、と言って気を引こうとする人もたくさんいた。
-(0:49:34)</p>
-<p>それから、宇宙人がいるとか、そういうことも。
-すごい。で、彼らは何をするかというと、すぐに私たちに連絡してきて、こう言うんです。
-あるトリックから情報を得たんだ。
-私たちだけじゃなくて、他の捜査官もたくさん関わっていたんだ。
-他にもたくさんの捜査官が関わっていたんだ。
-(0:49:55)</p>
-<p>そして彼らは外に出て、売春婦にこう言ったんだ。
-あんなものは本物じゃない。
-私たちは彼らに情報を提供しなければならない。
-そうやってうまくいった。
-実際に、80年代初期に当時飛んでいた空軍のパイロットが、F-117ステルス機のテスト飛行をしていたんだ。
-(0:50:27)</p>
-<p>しかも当時は極秘だった。
-このパイロットは娼婦に、自分はF-117ではなくF-119と呼ばれる超極秘機を操縦していると言った。そして彼は娼婦に、すべての技術はエイリアンからもらったものだと言ったんだ。彼らが我々にくれたんだ。
-(0:50:49)</p>
-<hr>
-<p>それで、その娼婦に、本当に、本当に圧力をかけなければならなかった。
-で、結局、その、空軍大尉を見つけて、そいつをプログラムから追い出して、空軍からも追い出した。だから、ああ、今聞けるよ。
-ドハティは確かにメアリーの楽しい宮殿で多くの時間を過ごしている。
-(0:51:34)</p>
-<details class="details_lb9f alert alert--info details_b_Ee" data-collapsed="true"><summary>Details</summary><div><div class="collapsibleContent_i85q"><p>And believe me, during my time in the late 70s up to the 80s, we were good at it.
-We were very, very, very good at disinformation.
-We call it counterintelligence operations to protect special access programs.
-And we were very, very good at it.
-And let me give you an example of what we did.
-(0:46:26)</p><p>When I worked out at Area 51, Nellis Test and Training Range, most of that area was in Nye County. Back in those days, prostitution was legal in Nye County. So we were afraid that the people that were working on classified projects, and believe me, there were many highly classified programs and projects going on at Tonopah Air Base or Area 51 or even in Nevada Test Site. So what we did was we went out and we recruited every single prostitute in Nye County. Basically, every prostitute in that county, and even in Esmeralda County, which kind of borders it, were under our control.
-(0:47:21)</p><p>We paid them.
-(0:47:21)</p><hr><p>We paid them more than they were getting doing tricks because we were afraid that military air force, primarily air force people, would come and be serviced by them.
-And believe me, that happened all the time.
-We didn't want the information that they had leaking through them, through the prostitutes, out to the public.
-So we owned them all.
-And we made some big, major operations stopping the leak of information, classified information out of special projects, from being leaked into the public by disinformation.
-(0:48:04)</p><p>So that's just one example.
-Can I ask you a question?
-I know you're married.
-Were you married then?
-No, I was not married then.
-Oh, so then you could go and hang out with ladies of the night and exchange cash.
-And that sounds like a pretty good, a pretty fun gig.
-And one that you could get away with because you weren't married.
-I can just see you at one of these brothels doing this.
-(0:48:38)</p><p>When you're talking, were you trying to get information back out of these women of ill repute, these ladies of the night, to see if somebody was talking to them?
-Well, yes.
-What we did was we approached them and we told them right up front, uh, you're going to have tricks that are Air Force or military people.
-And they might tell you some information that could be classified.
-(0:49:04)</p><p>So we want to know about that.
-And we're going to pay you money.
-So sure enough, they'll call, they'd call us.
-Not everyone.
-I mean, there were a lot of Air Force people that went there and there and did their thing and paid their 30 or $40 for their pleasure and never said anything or never disclosed anything.
-But there were a lot of them that went in there and tried to impress the prostitutes by saying, you know, I'm working on this really classified project out there.
-(0:49:34)</p><p>And, and, you know, there's aliens out there and these things like that.
-Wow. So what they would do is they would immediately contact us and, and say, listen, we got it.
-You know, I had a trick that told me some information.
-So then we had to go out there and it wasn't just me.
-There were a lot of other agents involved in this.
-(0:49:55)</p><p>And they were going out there and they would talk to, to the, to the prostitute and say, well, you know, he's just trying to impress you.
-None of that stuff is real.
-You know, and, and we would have to give, provide them with this information.
-And so that's how it worked.
-And we actually, one Air Force pilot that was flying back in those days in the early eighties, uh, the F-117 stealth aircraft was, uh, uh, was being tested out there.
-(0:50:27)</p><p>And it's highly classified back then.
-This pilot went in and told her, his prostitute that he was flying this really super secret plane called the F-119, not the F-117. And he told, he told them that he told his prostitute that all the technology was from the aliens. They gave it to us.
-(0:50:49)</p><hr><p>So, uh, they, you know, we had to really, really press this particular prostitute.
-And, uh, we ended up, uh, finding the, of course, finding the Air Force captain, kicking him out of the program and kicking him out of the Air Force. So, yeah, I can, I can hear it now.
-Dougherty sure is spending a lot of time out at Mary's fun palace.
-But okay.
-(0:51:34)</p></div></div></details>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="動画30229">動画(3:02:29)<a href="https://ouchaku.github.io/ds/en/blog/2024/10/18/doty_protect_info_leak#%E5%8B%95%E7%94%BB30229" class="hash-link" aria-label="Direct link to 動画(3:02:29)" title="Direct link to 動画(3:02:29)">​</a></h2>
-<p>Ep. 1689 Richard Doty: DisInfo in Ufology</p>
-<iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" frameborder="0" height="315" src="https://www.youtube.com/embed/oE-Bl88LV30" title="YouTube video player" width="560"></iframe>
-<p>(2024-10-18)</p>]]></content>
-        <category label="UFO" term="UFO"/>
         <category label="2024-10" term="2024-10"/>
     </entry>
 </feed>
