@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunktest_website=self.webpackChunktest_website||[]).push([[99082],{41713:e=>{e.exports=JSON.parse('{"metadata":{"permalink":"/ds/blog/page/498","page":498,"postsPerPage":1,"totalPages":655,"totalCount":655,"previousPage":"/ds/blog/page/497","nextPage":"/ds/blog/page/499","blogDescription":"Blog","blogTitle":"Blog"}}')}}]);
