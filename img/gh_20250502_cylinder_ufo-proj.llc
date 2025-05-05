@@ -1,0 +1,10 @@
+{
+  version: 1,
+  mediaFileName: 'gh_20250502_cylinder_ufo.mp4',
+  cutSegments: [
+    {
+      start: 9.353177,
+      name: '',
+    },
+  ],
+}
