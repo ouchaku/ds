@@ -4,10 +4,241 @@
         <title>UFO/Bigfoot/Missing-411/Supernatural Research Blog</title>
         <link>https://ouchaku.github.io/ds/blog</link>
         <description>UFO/Bigfoot/Missing-411/Supernatural Research Blog</description>
-        <lastBuildDate>Thu, 08 May 2025 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 May 2025 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[Local PC(70B モデル) による英文要約性能]]></title>
+            <link>https://ouchaku.github.io/ds/blog/2025/05/09/localpc_70b</link>
+            <guid>https://ouchaku.github.io/ds/blog/2025/05/09/localpc_70b</guid>
+            <pubDate>Fri, 09 May 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[前置き]]></description>
+            <content:encoded><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="前置き">前置き<a href="https://ouchaku.github.io/ds/blog/2025/05/09/localpc_70b#%E5%89%8D%E7%BD%AE%E3%81%8D" class="hash-link" aria-label="前置き への直接リンク" title="前置き への直接リンク">​</a></h2>
+<p>私の Local PC で動くほぼ上限のモデル</p>
+<p>wayfarer-large-70b-llama-3.3</p>
+<p>で試した。</p>
+<p>全く同じ入力データで、ChatGPT 4o が要約した結果は過去記事、</p>
+<p><a href="https://ouchaku.github.io/ds/blog/2025/05/05/jim_penniston">Jim Penniston の証言動画 : 文字起こし＋ 和訳 ＋ AIの要約</a></p>
+<p>に記載した。</p>
+<p>質問と回答は英語。回答を DeepL で和訳したものが下。回答を終えるのに要した時間は 15秒。</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="印象">印象<a href="https://ouchaku.github.io/ds/blog/2025/05/09/localpc_70b#%E5%8D%B0%E8%B1%A1" class="hash-link" aria-label="印象 への直接リンク" title="印象 への直接リンク">​</a></h2>
+<ul>
+<li>さすがに 70B のモデルだけあって、7B のモデルより格段に性能が良い。ChatGPT-4o には敵わないが、ほぼ実用レベルの性能。</li>
+<li>和訳もできはするが、和訳文には文字化けなどもわずかに混じる。</li>
+<li>日常的な会話なら、日本語でもほぼ差し支えないレベル。ざっと視た感じで  ChatGPT 3.5 レベルに相当。</li>
+<li>回答の生成が遅い。昔の ChatGPT 3 or 3.5 のレベルの生成速度。</li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="対話の詳細">対話の詳細<a href="https://ouchaku.github.io/ds/blog/2025/05/09/localpc_70b#%E5%AF%BE%E8%A9%B1%E3%81%AE%E8%A9%B3%E7%B4%B0" class="hash-link" aria-label="対話の詳細 への直接リンク" title="対話の詳細 への直接リンク">​</a></h2>
+<div class="theme-admonition theme-admonition-note admonition_xJq3 alert alert--secondary"><div class="admonitionHeading_Gvgb"><span class="admonitionIcon_Rf37"><svg viewBox="0 0 14 16"><path fill-rule="evenodd" d="M6.3 5.69a.942.942 0 0 1-.28-.7c0-.28.09-.52.28-.7.19-.18.42-.28.7-.28.28 0 .52.09.7.28.18.19.28.42.28.7 0 .28-.09.52-.28.7a1 1 0 0 1-.7.3c-.28 0-.52-.11-.7-.3zM8 7.99c-.02-.25-.11-.48-.31-.69-.2-.19-.42-.3-.69-.31H6c-.27.02-.48.13-.69.31-.2.2-.3.44-.31.69h1v3c.02.27.11.5.31.69.2.2.42.31.69.31h1c.27 0 .48-.11.69-.31.2-.19.3-.42.31-.69H8V7.98v.01zM7 2.3c-3.14 0-5.7 2.54-5.7 5.68 0 3.14 2.56 5.7 5.7 5.7s5.7-2.55 5.7-5.7c0-3.15-2.56-5.69-5.7-5.69v.01zM7 .98c3.86 0 7 3.14 7 7s-3.14 7-7 7-7-3.12-7-7 3.14-7 7-7z"></path></svg></span>wayfarer-large-70b-llama-3.3 の回答 → DeepL</div><div class="admonitionContent_BuS1"><p>以下は、警備員のUFO目撃体験の詳細な箇条書きリストである：</p><p>意識の変化の主観的体験:</p><ul>
+<li>クラフトを見たときの混乱と当惑</li>
+<li>様々なシナリオの訓練にもかかわらず、何が見られたのか理解できない感じ</li>
+<li>異なる考え方の切り替え（墜落の復旧 vs. 未知の物体の調査）</li>
+<li>時間が引きずられている、またはゆっくりと動いている感覚</li>
+<li>認識された時間の経過の不一致（5-10分 vs. 2時間以上）</li>
+</ul><p>感覚の変化：</p><ul>
+<li>皮膚、髪、衣服の静電気</li>
+<li>クラフト周囲の音の不鮮明化</li>
+<li>クラフト付近の動物の鳴き声の不在</li>
+</ul><p>クラフトの説明：</p><ul>
+<li>三角形の形、黒い色、ガラスに似た非常に光沢のある金属表面</li>
+<li>クラフトの布地を走る赤と青の光</li>
+<li>高さ約7フィート、大きさ9x9x9フィート</li>
+<li>目に見える着陸装置、吸気口、排気口、乗組員コンパートメント、窓はない</li>
+</ul><p>クラフトの側面に刻まれたグリフ／シンボル（意味は不明）</p><p>離陸の説明：</p><ul>
+<li>機体は音もなく離陸した</li>
+<li>木々の上空を短時間旋回した後、一瞬にして消滅</li>
+<li>「不可能」と説明された離陸速度</li>
+</ul><p>感情状態：</p><ul>
+<li>混乱</li>
+<li>恐怖</li>
+<li>驚愕</li>
+<li>畏怖</li>
+<li>否定（「こんなはずはない」）</li>
+<li>予期せぬ完了感／受容</li>
+</ul><p>報告と余波：</p><ul>
+<li>報告書ではUFOではなく「出所不明の工芸品」という軍事用語を使用</li>
+<li>事件を報告することによるキャリアへの影響の可能性を懸念</li>
+<li>クラフトがトラブルを抱えていたか、地上で修理していたのではないかという説</li>
+</ul></div></div>
+<div class="theme-admonition theme-admonition-note admonition_xJq3 alert alert--secondary"><div class="admonitionHeading_Gvgb"><span class="admonitionIcon_Rf37"><svg viewBox="0 0 14 16"><path fill-rule="evenodd" d="M6.3 5.69a.942.942 0 0 1-.28-.7c0-.28.09-.52.28-.7.19-.18.42-.28.7-.28.28 0 .52.09.7.28.18.19.28.42.28.7 0 .28-.09.52-.28.7a1 1 0 0 1-.7.3c-.28 0-.52-.11-.7-.3zM8 7.99c-.02-.25-.11-.48-.31-.69-.2-.19-.42-.3-.69-.31H6c-.27.02-.48.13-.69.31-.2.2-.3.44-.31.69h1v3c.02.27.11.5.31.69.2.2.42.31.69.31h1c.27 0 .48-.11.69-.31.2-.19.3-.42.31-.69H8V7.98v.01zM7 2.3c-3.14 0-5.7 2.54-5.7 5.68 0 3.14 2.56 5.7 5.7 5.7s5.7-2.55 5.7-5.7c0-3.15-2.56-5.69-5.7-5.69v.01zM7 .98c3.86 0 7 3.14 7 7s-3.14 7-7 7-7-3.12-7-7 3.14-7 7-7z"></path></svg></span>英文の回答を同じ 70B モデルで和訳させたもの</div><div class="admonitionContent_BuS1"><p>以下は、イギリスで1980年に近距離からUFO着陸事件を目撃した警備員の証言の要点リストです。</p><p>主観的な意識の変化：</p><ul>
+<li>その物体を目にした際の混乱と困惑</li>
+<li>さまらなシナリオに対するトレーニングを受けたにもかかわらず、目の前のものが何であるか理解できないという感覚</li>
+<li>クラッシュ回収の思考から未知の物体を調べる思考への切り替え</li>
+<li>時間が遅く感じられたり、時間の経過に変化を認めた</li>
+</ul><p>感覚の変化：</p><ul>
+<li>皮膚、髪、服にある静電気</li>
+<li>物体周辺の音の消滅</li>
+<li>物体近くの動物音の喋arkin</li>
+</ul><p>宇宙船の説明：</p><ul>
+<li>三角形の形状、黒色、金属表面がガラスに似た非常に輝いたもの</li>
+<li>宇宙船の素材を通る赤と青の光</li>
+<li>約7フィートの高さ、9×9×9フィートの大きさ</li>
+<li>可視の着陸装置、吸気口、排気口、乗員区画、窓がない</li>
+</ul><p>宇宙船の左前側に刻まれた記号/文字（意味は不明）</p><p>離陸の詳細：</p><ul>
+<li>その場を静かに後にした</li>
+<li>Trees上で短時間ホバリングした後、瞬時に消えた</li>
+<li>「無法を超える」速度でその場を後にした</li>
+</ul><p>感情:</p><ul>
+<li>混乱</li>
+<li>恐怖</li>
+<li>驚き</li>
+<li>敬畏の念</li>
+<li>否認（「これはあり得ない」）</li>
+<li>予期しない完璧さ/受容感覚</li>
+</ul><p>レポートと事後：</p><ul>
+<li>「未知の原産地の宇宙船」などの軍事用語をレポートで使用し、UFOを明記しなかった</li>
+<li>そのような現象を報告した場合の職業上の影響への心配</li>
+<li>その夜、宇宙船がトラブルに陥り、または地上で自己修復していたという仮説</li>
+</ul><p>これらの詳細は、1980年にイギリスで発生したUFO着陸事件の目撃証言を基に作成されたものです。</p></div></div>
+<div class="theme-admonition theme-admonition-note admonition_xJq3 alert alert--secondary"><div class="admonitionHeading_Gvgb"><span class="admonitionIcon_Rf37"><svg viewBox="0 0 14 16"><path fill-rule="evenodd" d="M6.3 5.69a.942.942 0 0 1-.28-.7c0-.28.09-.52.28-.7.19-.18.42-.28.7-.28.28 0 .52.09.7.28.18.19.28.42.28.7 0 .28-.09.52-.28.7a1 1 0 0 1-.7.3c-.28 0-.52-.11-.7-.3zM8 7.99c-.02-.25-.11-.48-.31-.69-.2-.19-.42-.3-.69-.31H6c-.27.02-.48.13-.69.31-.2.2-.3.44-.31.69h1v3c.02.27.11.5.31.69.2.2.42.31.69.31h1c.27 0 .48-.11.69-.31.2-.19.3-.42.31-.69H8V7.98v.01zM7 2.3c-3.14 0-5.7 2.54-5.7 5.68 0 3.14 2.56 5.7 5.7 5.7s5.7-2.55 5.7-5.7c0-3.15-2.56-5.69-5.7-5.69v.01zM7 .98c3.86 0 7 3.14 7 7s-3.14 7-7 7-7-3.12-7-7 3.14-7 7-7z"></path></svg></span>英文の回答</div><div class="admonitionContent_BuS1"><p>Here is a detailed bullet-point list of the security guard's UFO sighting experience:</p><p>Subjective Experience of Altered Consciousness:</p><ul>
+<li>Confusion and perplexity upon seeing the craft</li>
+<li>Feeling of not understanding what was being seen, despite training for various scenarios</li>
+<li>Switching between different mindsets (crash recovery vs. examining an unknown object)</li>
+<li>Sensation of time dragging or moving slowly</li>
+<li>Discrepancy in perceived time passage (5-10 minutes vs. over 2 hours)</li>
+</ul><p>Sensory Changes:</p><ul>
+<li>Static electricity on skin, hair, and clothes</li>
+<li>Deadening of sound around the craft</li>
+<li>Absence of animal sounds near the craft</li>
+</ul><p>Craft Description:</p><ul>
+<li>Triangular shape, black color, very shiny metal surface similar to glass</li>
+<li>Red and blue lights running through the fabric of the craft</li>
+<li>Approximately 7 feet tall and 9x9x9 feet in size</li>
+<li>No visible landing gear, intake, exhaust, crew compartment, or windows</li>
+</ul><p>glyphs/symbols etched into the side of the craft (meaning unknown)</p><p>Takeoff Description:</p><ul>
+<li>Craft lifted off with no sound</li>
+<li>Maneuvered briefly above trees before disappearing in an instant</li>
+<li>Speed of departure described as "impossible"</li>
+</ul><p>Emotional State:</p><ul>
+<li>Confusion</li>
+<li>Fear</li>
+<li>Astonishment</li>
+<li>Awe</li>
+<li>Denial ("This can't be what I think it could be")</li>
+<li>Unexpected feeling of completeness/acceptance</li>
+</ul><p>Report and Aftermath:</p><ul>
+<li>Used military term "craft of unknown origin" instead of UFO in report</li>
+<li>Concern about potential career repercussions from reporting the incident</li>
+<li>Theory that craft may have been in trouble or repairing itself on the ground</li>
+</ul></div></div>
+<details class="details_lb9f alert alert--info details_b_Ee" data-collapsed="true"><summary>入力</summary><div><div class="collapsibleContent_i85q"><p>The following is a transcript of the testimony of a security guard who witnessed a UFO landing incident in the UK in 1980 from close range. The statements of the witness and the narrator are mixed. Statements containing the proper name “Peniston” are those of the narrator. Statements containing “I” referring to the witness are those of the witness.</p><p>Please organize this transcript into as detailed a bullet-point list as possible. Pay particular attention to the witness's subjective experiences of altered consciousness or sensory perception, such as changes in cognitive function or unusual sensory changes, and list even minor details without omission.</p><p>######## Here's exactly what I was thinking. I'm going out there with... my mindset was like this. I'm going to go out and set up an entry control point for a downed aircraft, a crashed... we're going to go ahead and tag classified material and body parts. That's what I'm thinking. And then we're going to set up the entry control point so we can get emergency response vehicles out there. (0:00:21)</p><p>When I got up to the area where I seen it wasn't an aircraft crash, it was something that I couldn't identify. I was perplexed. Not understanding what I was seeing. I hadn't been trained for anything even close to that. So here's my... the gear adjustments that were switching were just crazy. I went from crash and recovery thoughts to... I don't know what I'm looking at. (0:00:55)</p><p>I don't know what is in front of me. I'm confused. And this is not a comfortable situation for a security supervisor. You're confused and not sure what you're doing. Not sure what to do. And that's the feeling I was getting. Of course I am talking back and forth with my teammates. And we're coming back with the same type of confusion. We're not sure what's going on in front of us. (0:01:18)</p><p>The craft was a triangular craft. It was black in color. Very shiny. It was metal, but it was smooth as glass. Inside the fabric of this triangular craft there was light movement of red and blue running through the fabric of it. I had pasted off and it measured 9 feet by 9 feet by 9 feet. It was approximately, based on my height, I'm 6 foot 2, so I estimated it at 7 feet tall. (0:01:54)</p><p>It was very small for an aircraft. One of the things that I was looking at initially was I was looking for obvious things that aircraft have. Looking for landing gear, looking for intake, looking for exhaust, looking for crew compartment, looking for windows. It was void of all those. That's where the confusion comes in at. I came back around to the right side of it. (0:02:33)</p><p>When I seen those glyphs, I seen that there's some writing up there, so I felt pretty comfortable at that moment. Because I said, OK, it's going to say United States Air Force prototype, something like that. It's going to say NASA on it. And then, of course, I seen something that I hadn't seen before. The glyphs that Peniston mentions are symbols that were etched into the side of the craft. (0:03:01)</p><p>Peniston sketched these symbols in a notebook, but their meaning is a mystery. As Peniston and his team approached the craft, they began feeling unusual sensations. The immediate area around the craft, we noticed physical changes. We noticed that the sound was different. For example, the lack of sound around it was like a deadening sound. We were hearing animals before we got within like 10 feet. (0:03:32)</p><p>And then once we got within this area right around the craft, it just, it went silent. (0:03:38)</p><p>Then we started feeling static electricity on our skin, in our hair, in our clothes. One of the unusual effects is that once we entered this immediate area around the craft, it felt like everything went in slow motion. It felt like there was a dragging of time. We did have, you know, discrepancies on our watches after we left the area of 45 minutes. And what appeared to be us just examining the craft for 5 or 10 minutes actually was over a couple hours out there. (0:04:22)</p><p>So we did lose track of some time. We do know that we did have adrenaline going. We do understand that that can affect, you know, the way things are perceived. But it was just too much, two hours is a long time to write off for adrenaline. Penniston knew that he had to be careful when reporting this incident. In my report, the term craft of unknown origin, I was not going to in any way, shape, or form use the term UFO in there. (0:04:57)</p><p>I used a military term. I couldn't determine the origin. And I let somebody else figure that out. I figured, okay, my job is to gather the facts, which I did. I let, and it's above my pay grade, let somebody else figure out what it was. So that's pretty much how I was looking at it. Also, we had a very real fear of our careers. (0:05:22)</p><p>Because we know that this is something that would hurt our careers, reporting this type of phenomenon. It just wasn't done. Penniston does have a theory as to why the craft was there that night. A feeling. That night, in retrospect, looking back at it, the feeling I had is that it was in trouble. It wasn't supposed to be there. The other odd thing is that, why would it land? (0:05:56)</p><p>Why would it be on the ground that long? Why would it allow it to be examined? Unless it had to. Unless it was repairing itself. And that's a feeling I had then, and I still have with it today. What kind of technology repairs itself? During his encounter, Penniston describes experiencing confusion, fear, astonishment, and awe. If extraterrestrial intelligence were to reveal itself to human beings, would humanity experience the same emotions? (0:06:36)</p><p>I think I agree with that the human race would probably experience the same type of feelings I had. But I think one of the things that I hadn't mentioned is probably denial. Is one of the also feelings you feel. Well, this can't be what I think it could be. I think that's part of what's going on there. Because, you know, we're rational people. We want rational answers. (0:07:02)</p><p>Especially in that position I was in. I mean, what we have in that base, in those twin bases. Largest tactical fighter wing in the United States Air Force. Penniston has written that the feelings he had during this encounter were unlike any he had ever had before. (0:07:17)</p><p>He describes an unexpected additional emotional state that he experienced. It felt sort of complete. It felt like it was okay. And then when it took off, there was an absence of that feeling. After about 45 minutes, the colors on the craft became more agitated as they once again became an intense white color. And then it started getting brighter and brighter. And now we're squinting. (0:07:51)</p><p>And all I could see was a white light. But it was still not as bad as when we first came up to the craft. Because this still could take off and go up to about treetop level. And I could still see the silhouette of the triangular craft. But when I initially approached it, it was just too bright. Description of what was going on was larger white light glowing. (0:08:17)</p><p>Approximately 10-15 meters from it, it was quite distinguishable. It was triangular in shape. It was not an aircraft. But it was a craft of some sort. Certain things didn't make sense. I couldn't determine the front. That was the problem. Second, it seemed running, but no sound. Third was the aspect of having electricity in the air. I could feel it in my clothing, my hair, my skin. (0:08:48)</p><p>The next one is after I got up close to the craft. The writing changes. It changes from being written confidently to shaky. Can I stop here? Sorry. I need a little time. Okay. Wow. Wow. Anything I could see, I would go ahead and write down. Structure of craft. Fabric. Black. Smooth. Glass-like. Surface unknown. Identity unknown. I paste off the size of the craft, taking notes of the distance. (0:09:41)</p><p>Size, 9 feet long. Approximately 7-8 feet high. I couldn't tell what was the front or the back. I had trouble when I was walking around the craft to distinguish engines. Propulsion unknown. No sound. But apparently operating somehow. Type of aircraft unknown. I made extra effort to look for the crew compartment or windows or anything like that, or access ports. Could not see any. (0:10:09)</p><p>There was no handles or anything like that. The craft was completely smooth on the outside. Skin fabric of craft. Warm. Probably the most startling part of it was the fabric of the craft. Aircraft are metal, and this was maybe metal, but it was very smooth. The fabric seemed like black glass. High electric static on clothes, skin, hair. Identifying markings on left front. That is probably the most compelling thing that said, well, my God, this is from someplace else. (0:10:44)</p><p>Symbols etched or engraved? Symbols recorded. All I know is I was out there that first night. I know I completed one of the best investigations of my entire military career. This thing wasn't lights in the sky. This was the object, a craft that had landed. I examined it. I walked around it. I felt it. This is an actual event. It happened. It doesn't matter what they say. (0:11:18)</p><p>I was there. They weren't. Liftoff, 245. No sound. (0:11:26)</p><p>No exhaust. Takeoff unknown. Speed impossible. The takeoff was probably the most amazing thing I've ever seen. With absolutely no sound. It just lifted up maybe two or three feet. And it did a little bit of maneuvering back in the trees. Momentarily hovered, then a blink of an eye, it left. Literally a blink of an eye.</p><p>(0:11:52)</p></div></div></details>
+<p>(2025-05-09)</p>]]></content:encoded>
+            <category>AI</category>
+            <category>2025-05</category>
+        </item>
+        <item>
+            <title><![CDATA[Tom Campbell : Robert Monroe との出会い]]></title>
+            <link>https://ouchaku.github.io/ds/blog/2025/05/09/moroe_anec</link>
+            <guid>https://ouchaku.github.io/ds/blog/2025/05/09/moroe_anec</guid>
+            <pubDate>Fri, 09 May 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[前置き]]></description>
+            <content:encoded><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="前置き">前置き<a href="https://ouchaku.github.io/ds/blog/2025/05/09/moroe_anec#%E5%89%8D%E7%BD%AE%E3%81%8D" class="hash-link" aria-label="前置き への直接リンク" title="前置き への直接リンク">​</a></h2>
+<p>Tom Campbell と Mishlove の対談動画から。</p>
+<p>Tom Campbell が Monroe に出会った時の経緯や、Monroe の邸宅を訪れたときの逸話が面白い。</p>
+<p>例えば、</p>
+<blockquote><p>車で彼の敷地に近づいたとき、私は気づいたんだ。白い板張りのフェンス、牧草地、湖、丘の上の大きな家。
+この男は本を売る必要はない。彼はとても裕福だった。そう、彼は裕福な紳士で、500エーカーほどの土地に住み、小作人を雇って農業をさせ、ヴァージニアの田園地帯に美しい眺めの家を持っていた。
+(0:13:09)</p></blockquote>
+<p>Mishlove も</p>
+<blockquote><p>彼は裕福なバージニアの紳士だった。1973年、私は超心理学の大学院生で、学位論文の委員だったチャーリー・タートと一緒に研究していました。彼はボブ・モンローと一緒に研究していて、体外離脱した状態で、上の棚にある数字を読むことができたのです。
+(0:13:40)</p></blockquote>
+<p>という逸話を語っている。この Charles Tart はこの対談の直前で死去したとも。</p>
+<p>だが、残りの大半は Tom Campbell の主張する TOE 仮説（意識が万物の根源だ…の類、よくある陳腐で凡庸な説の焼き直し）を延々と語っているようだ（飽きて大半をスキップしたので推測）。</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="おまけ">おまけ<a href="https://ouchaku.github.io/ds/blog/2025/05/09/moroe_anec#%E3%81%8A%E3%81%BE%E3%81%91" class="hash-link" aria-label="おまけ への直接リンク" title="おまけ への直接リンク">​</a></h2>
+<p>Tom Campbell は自身の ESP 体験を冒頭で語っている。コンピュータに入力する紙のパンチカードが赤く色づいて見えたと。</p>
+<p>今や、パンチカードを扱った体験を語れるのは彼のような高齢の世代のみ。確か、Jacques Vallee もコンピュータ用の紙テープを扱った経験をどこかで語っていた。</p>
+<p>私も倉庫の奥に眠っていたという古い紙テープとパンチカードの束を見かけたことがある。その時は全て処分させたが、今思えば記念に何枚か残しておくべきだった。風変わりな栞として流用できた筈。</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="fasterwhisper-ailarge-v2-model--deepl2024-07-mod">FasterWhisper AI(large-v2 model) + DeepL(2024-07 mod<a href="https://ouchaku.github.io/ds/blog/2025/05/09/moroe_anec#fasterwhisper-ailarge-v2-model--deepl2024-07-mod" class="hash-link" aria-label="FasterWhisper AI(large-v2 model) + DeepL(2024-07 mod への直接リンク" title="FasterWhisper AI(large-v2 model) + DeepL(2024-07 mod への直接リンク">​</a></h2>
+<p>el)</p>
+<p>その時点でロバート・モンローを訪ねる理由があったわけですね。
+そうですね、でもその時点ではロバート・モンローのことは何も知りませんでした。
+それからさらに1年後、私はコードのデバッグができるということで、かなり良い評判を得ることができた。
+でも、そのことは話したくなかったんです。物理学のコミュニティでは、そういうことは話さないでしょうから。
+(0:10:06)</p>
+<p>だから、私はそれをほとんど自分の胸にしまっておいた。それで私はこの仕事を引き受け、上司がやってきた。私はその職場に来てまだ数週間しか経っていませんでした。
+私はそのオフィスではとても新人だった。そして彼はロバート・モンローの本を私に投げて、「トム、この本を読んで感想を聞かせてくれ」と言った。
+そう言うと、彼はビル・ヨストだと言った。彼は私が働いていた支店の支店長だった。
+(0:10:30)</p>
+<p>あなたの人生を変えた。
+私の人生を変えた。だから僕は、オーケーと答えた。それから1週間かけて本を読んだ。そしてこう言ったんだ。
+(0:10:38)</p>
+<hr>
+<p>もしこの人の話が本当なら、もし彼が本当にそれを経験したのなら、すごいことだ。だから、僕はそれを受け入れたんだ。
+私の知らない現実が、もうひとつある。だとしたら、この男とつながって、もっと話をする必要がある。
+(0:10:57)</p>
+<p>一方で、彼はただ本を売ってお金を稼ごうとしているだけなのかもしれないとも言った。
+もしかしたら、バカの一つ覚えのような早口で遠回しなことを書いて、その方が本が売れるのかもしれない。
+どっちなのか分からなかった。
+その1ヶ月後くらいかな、ボスが来て、ボブ・モンローを見つけたよ、と言ったんだ。彼はそんなに遠くに住んでいない。
+(0:11:20)</p>
+<p>彼と話をして、みんなで彼の家に招待されたんだ。来るかい？と聞かれたので、「もちろん」と答えた。
+それで私たちは大勢で、たぶん2台の車に4、5人、6人ずつ乗った。満員だったよ。
+みんなでボブ・モンローの家に出かけて、それがボブに会った最初だった。そこで私が思ったのは、この男は本物なのか、それともただ小銭が欲しいだけの小賢しい男なのか、ということだった。そして彼に会って、彼はとても素直だった。
+(0:11:57)</p>
+<p>彼は...。実際、彼はエンジニアのように振る舞っていた。実際にはエンジニアとしての訓練は受けていなかったと思います。
+彼はラジオや他のことをやっていましたが、基本的には起業家のように振る舞っていました。
+ええ、彼は起業家で、当時はケーブル会社を立ち上げたばかりでした。
+バージニア州シャーロッツビルのジェファーソン・ケーブルです。それで... 彼が最初にそこに着いたんです。
+シャーロッツビル中がケーブルの選り取り見取りで、当時はケーブルは真新しいものでした。
+(0:12:29)</p>
+<p>だから彼は裕福だった。他の人たちと一緒にこの車で彼の敷地に近づいたとき、私は気づいたんだ。白い板張りのフェンス、牧草地、湖、丘の上の大きな家。
+この男は本を売る必要はない。彼はとても裕福だった。そう、彼は裕福な紳士で、500エーカーほどの土地に住み、小作人を雇って農業をさせ、ヴァージニアの田園地帯に美しい眺めの家を持っていた。
+(0:13:09)</p>
+<p>彼は裕福なバージニアの紳士だった。1973年、私は超心理学の大学院生で、学位論文の委員だったチャーリー・タートと一緒に研究していました。彼はボブ・モンローと一緒に研究していて、体外離脱した状態で、上の棚にある数字を読むことができたのです。
+(0:13:40)</p>
+<p>そう。チャーリー・タルトのことは聞いたよ。ボブが初めて体外離脱をした時、それが怖かったんだと思う。
+(0:13:49)</p>
+<hr>
+<p>彼は自分がおかしくなっているのか、自分に何が起きているのかわからなかった。脳腫瘍かもしれない。
+チャーリーは、自分が生理的な問題を抱えているのか、それとも正気なのか、それとも何なのかを確かめるために相談した人たちの一人だった。
+それで彼はチャーリーとつながり、一緒に実験やいろいろなことをしました。
+(0:14:14)</p>
+<p>そしてチャーリーはボブの親友になり、彼らはいくつかの実験をしました。それで... そのことはボブから聞いたけど、チャーリーには会ったことがないんだ。チャーリーは1ヶ月ほど前に亡くなりました。実を言うと、あなたと私が会う数日前だったと思います。
+どうですか？
+チャーリーとの16のインタビューをまとめた本を近々出版する予定です。ボブと一緒に仕事をしたことで、体外離脱という言葉を地図に載せることができたんだ。
+(0:14:50)</p>
+<details class="details_lb9f alert alert--info details_b_Ee" data-collapsed="true"><summary>展開</summary><div><div class="collapsibleContent_i85q"><p>So you had a reason to visit Robert Monroe at that point.
+Well, I did, but I didn't know anything about Robert Monroe at that point.
+Another year later after that, and I got some pretty good reputation for being able to debug code, and a lot of, would you help me debug my code?
+But I didn't want to talk about it, because you don't talk about those things in a physics community.
+(0:10:06)</p><p>So I kept it pretty much to myself. So I take this job and my boss comes in. I'd only been there for like, I don't know, a few weeks.
+I was very new in the office. And he tosses Robert Monroe's book to me and says, Tom, read this book and tell me what you think of it.
+So he said, that was Bill Yost. He was the branch manager of where I worked.
+(0:10:30)</p><p>Changed your life.
+Changed my life. So I said, okay. And I read the book over the next week. And I said, well, here's what I think.
+(0:10:38)</p><hr><p>If this guy's telling the truth, if he really did experience that, then wow, there's a whole bigger set of reality, which I knew from my experience that existed. So that's why I was so open to it.
+There's another whole bunch of reality that I don't know anything about. If that's the case, we need to connect with this guy and talk to him more.
+(0:10:57)</p><p>I said, on the other hand, maybe he's just trying to sell books and make some money.
+You know, maybe it's just you write something really fast as a fool and far out and you'll sell books that way.
+I didn't know which way it would be.
+Until about, I don't know, maybe a month later, my boss came in and said, we found Bob Monroe. He doesn't live that far away.
+(0:11:20)</p><p>We talked to him and we're all invited out to his house. Do you want to come? I said, absolutely.
+So a bunch of us, maybe two cars, maybe four or five, six people in each car. It was jammed, you know, full.
+We all went out to Bob Monroe's and that was the first time I met Bob. So my viewpoint there was, is this guy for real or is this guy just a clever, you know, hocus-pocus guy wanting to get some money? And I met him and he was very straightforward.
+(0:11:57)</p><p>He was... He acted actually and had the demeanor of an engineer. I don't think he actually was an engineer by training.
+He was in radio and other things, but he acted like an entrepreneur basically.
+Yeah, he was an entrepreneur and at that time he was just starting a cable company.
+Jefferson Cable in Charlottesville, Virginia. So it was... He got there first.
+So all of Charlottesville was his for the picking for cable and cable was a brand new thing in that time.
+(0:12:29)</p><p>So he was well-to-do. And as I approached his property in this car with all the others, I noticed the... I don't know, quarter of a mile of whiteboard fence, the pastures, the lake, the big house on the hill and said, this guy doesn't need to sell books.
+This guy is not trying to sell, you know. He was very well-to-do. Yeah, he was a well-to-do gentleman, lived on about 500 acres, had a tenant farmer who did farming for him and had a beautiful house with a beautiful view out in the Virginia countryside.
+(0:13:09)</p><p>He was a well-to-do Virginia gentleman. In my case, I knew that he was legitimate because in 1973, I was a graduate student in parapsychology working with Charlie Tartt, who was one of my dissertation committee members who had done research with Bob Monroe showing that in the out-of-body state he was able to read numbers that were on a shelf up above that could only be seen by floating up to the ceiling.
+(0:13:40)</p><p>Yes. Yeah, I heard about Charlie Tartt. I think what happened is that when Bob first had these out-of-bodies, they frightened him.
+(0:13:49)</p><hr><p>He didn't know whether he was going insane or what was happening with him. Maybe he had a brain tumor.
+He had no idea and Charlie was one of the people that he consulted with to see whether or not he had some physiological problem or whether his sanity was solid or what.
+So, he got then connected with Charlie and they did some experiments and things together.
+(0:14:14)</p><p>And then Charlie became a good friend of Bob's and they did do some experiments. So, that... I heard about that from Bob, but I don't think I've ever really met Charlie. Charlie died about a month ago. As a matter of fact, I believe it was just a few days before you and I met.
+How about that?
+We will be publishing a book soon with 16 of my interviews with Charlie. So, working with Bob, he put the phrase out-of-body experience on the map.
+(0:14:50)</p></div></div></details>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="youtube-動画20947">Youtube 動画(2:09:47)<a href="https://ouchaku.github.io/ds/blog/2025/05/09/moroe_anec#youtube-%E5%8B%95%E7%94%BB20947" class="hash-link" aria-label="Youtube 動画(2:09:47) への直接リンク" title="Youtube 動画(2:09:47) への直接リンク">​</a></h2>
+<p>Remembering Robert Monroe and Journeys Out of the Body with Tom Campbell, author of My Big TOE</p>
+<p>(2025-05-09)</p>]]></content:encoded>
+            <category>OBE</category>
+            <category>occult</category>
+            <category>2025-05</category>
+        </item>
         <item>
             <title><![CDATA[Cattle mutilation 現場に出現した orb の動画映像]]></title>
             <link>https://ouchaku.github.io/ds/blog/2025/05/08/cattle_mutilation_orb</link>
@@ -589,7 +820,7 @@ Join me again next time for more stories that will undoubtedly be weird or what?
             <guid>https://ouchaku.github.io/ds/blog/2025/05/08/et_hair</guid>
             <pubDate>Thu, 08 May 2025 00:00:00 GMT</pubDate>
             <description><![CDATA[前置き]]></description>
-            <content:encoded><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="��前置き">前置き<a href="https://ouchaku.github.io/ds/blog/2025/05/08/et_hair#%E5%89%8D%E7%BD%AE%E3%81%8D" class="hash-link" aria-label="前置き への直接リンク" title="前置き への直接リンク">​</a></h2>
+            <content:encoded><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="前置き">前置き<a href="https://ouchaku.github.io/ds/blog/2025/05/08/et_hair#%E5%89%8D%E7%BD%AE%E3%81%8D" class="hash-link" aria-label="前置き への直接リンク" title="前置き への直接リンク">​</a></h2>
 <p>過去記事、</p>
 <p><a href="http://news21c.blog.fc2.com/blog-entry-22336.html" target="_blank">❏ Bill Chalker の講演 : ET の髪の毛の DNA分析結果：文字起こし＋和訳 （途中 1）</a> (2024-06-03)</p>
 <p>に関連。</p>
@@ -1260,7 +1491,7 @@ And I actually saw just like we had a major problem here in the UK where a tower
 <li>短文のまとめや単純な抽出には使えるが、微妙な意味の区別や人間の論理の理解を要する要約には不向き。</li>
 </ul>
 </li>
-</ul><hr><h3 class="anchor anchorWithStickyNavbar_LWe7" id="結論">結論<a href="https://ouchaku.github.io/ds/blog/2025/05/07/gpt_eval_quen#%E7%B5%90%E8%AB%96" class="hash-link" aria-label="結論 への直接リンク" title="結論 への直接リンク">​</a></h3><p>"deepseel-r1-distill-quen-7b" は単語レベル・話題レベルでは予言内容をある程度把握できるが、文脈理解や細部の正確性では GPT-4/Claude などの大型モデルに明確に劣ります。特に、予言や政治的発言のように微妙なニュアンスを含むテキストでは、誤解・過剰解釈・重要情報の見落としが起きやすい傾向があります。</p><p>必要なら、GPT-4 の観点から「どの修正が必要だったか」の詳細リストも作れますので教えてください。</p></div></div>
+</ul><hr><h3 class="anchor anchorWithStickyNavbar_LWe7" id="結論">結論<a href="https://ouchaku.github.io/ds/blog/2025/05/07/gpt_eval_quen#%E7%B5%90%E8%AB%96" class="hash-link" aria-label="結論 への直接リンク" title="結論 へ��の直接リンク">​</a></h3><p>"deepseel-r1-distill-quen-7b" は単語レベル・話題レベルでは予言内容をある程度把握できるが、文脈理解や細部の正確性では GPT-4/Claude などの大型モデルに明確に劣ります。特に、予言や政治的発言のように微妙なニュアンスを含むテキストでは、誤解・過剰解釈・重要情報の見落としが起きやすい傾向があります。</p><p>必要なら、GPT-4 の観点から「どの修正が必要だったか」の詳細リストも作れますので教えてください。</p></div></div>
 <p>Me:</p>
 <p>まことに納得できる評価です。先の "deepseel-r1-distill-quen-7b" の性能レベルは、大枠では ChatGPT の進化のどの段階に位置してますあ？言い換えると、何年前の OpenAI のトップモデルに相当しますか？</p>
 <p>私の体感では、2年前位かなぁ…といった感触ですが。</p>
@@ -1386,7 +1617,7 @@ Chaos. Every country needs to be much more self sufficient.
 <p>現状の Local PC で使えるのは、主に 7B（70億）～13B（130億）パラメータの distilled 小型モデル（例：LLaMA2 7B, Mistral 7B, DeepSeek 7B, Qwen1.5 7B）。
 　しかし精度・性能は GPT-3（2020-2021年）程度。</p>
 </li>
-</ul><hr><h3 class="anchor anchorWithStickyNavbar_LWe7" id="技術的市場的ブレークスルーの条件">技術的・市場的ブレークスルーの条件<a href="https://ouchaku.github.io/ds/blog/2025/05/07/practical_local_ai#%E6%8A%80%E8%A1%93%E7%9A%84%E5%B8%82%E5%A0%B4%E7%9A%84%E3%83%96%E3%83%AC%E3%83%BC%E3%82%AF%E3%82%B9%E3%83%AB%E3%83%BC%E3%81%AE%E6%9D%A1%E4%BB%B6" class="hash-link" aria-label="技術的・市場的ブレークスルーの条件 への直接リンク" title="技術的・市場的ブレークスルーの条件 への直接リンク">​</a></h3><ol>
+</ul><hr><h3 class="anchor anchorWithStickyNavbar_LWe7" id="技術的市場的ブレークスルーの条件">技術的・市場的ブレークスルーの条件<a href="https://ouchaku.github.io/ds/blog/2025/05/07/practical_local_ai#%E6%8A%80%E8%A1%93%E7%9A%84%E5%B8%82%E5%A0%B4%E7%9A%84%E3%83%96%E3%83%AC%E3%83%BC%E3%82%AF%E3%82%B9%E3%83%AB%E3%83%BC%E3%81%AE%E6%9D%A1%E4%BB%B6" class="hash-link" aria-label="技術的・市場的ブレークスルーの条件 への直接リンク" title="技術的・市場的ブレークスルーの条件 への直�接リンク">​</a></h3><ol>
 <li>
 <p><strong>ハードウェアの進化</strong></p>
 <ul>
@@ -1409,7 +1640,7 @@ Chaos. Every country needs to be much more self sufficient.
 </li>
 </ol><hr><h3 class="anchor anchorWithStickyNavbar_LWe7" id="大枠の予想タイムライン">大枠の予想タイムライン<a href="https://ouchaku.github.io/ds/blog/2025/05/07/practical_local_ai#%E5%A4%A7%E6%9E%A0%E3%81%AE%E4%BA%88%E6%83%B3%E3%82%BF%E3%82%A4%E3%83%A0%E3%83%A9%E3%82%A4%E3%83%B3" class="hash-link" aria-label="大枠の予想タイムライン への直接リンク" title="大枠の予想タイムライン への直接リンク">​</a></h3><table><thead><tr><th>年次</th><th>状況予測</th></tr></thead><tbody><tr><td><strong>2025-2026年</strong></td><td>30BクラスのローカルモデルがゲーミングPCで動作する試作例が登場（ただし速度・精度は厳しい）</td></tr><tr><td><strong>2027-2028年</strong></td><td>4o相当の精度を持つ圧縮・蒸留モデル（10B〜20B）が個人PCで実用的になる</td></tr><tr><td><strong>2029-2030年</strong></td><td>4o相当のフルスケールモデルを直接動かせるGPU・PCが30〜50万円クラスで普及</td></tr></tbody></table><p>つまり、おおむね <strong>あと4〜5年程度（2027-2028年）</strong> で、
 「実用的にChatGPT-4o相当の性能を持つローカルモデル」が、
-ハイエンド個人PCの範囲内に入ると予想できます。</p><hr><h3 class="anchor anchorWithStickyNavbar_LWe7" id="注意点">注意点<a href="https://ouchaku.github.io/ds/blog/2025/05/07/practical_local_ai#%E6%B3%A8%E6%84%8F%E7%82%B9" class="hash-link" aria-label="注意点 への直接リンク" title="注意点 への直接リンク">​</a></h3><ul>
+ハイエンド個人PCの範囲内に入ると予想できます。</p><hr><h3 class="anchor anchorWithStickyNavbar_LWe7" id="注意点">注意点<a href="https://ouchaku.github.io/ds/blog/2025/05/07/practical_local_ai#%E6%B3%A8%EF%BF%BD%E6%84%8F%E7%82%B9" class="hash-link" aria-label="注意点 への直接リンク" title="注意点 への直接リンク">​</a></h3><ul>
 <li>この予測は <strong>ハード・ソフト両方の進化が順調に続くことが前提</strong>です。</li>
 <li>現状の進化ペースを見る限り、OpenAIやAnthropicなどのクラウド専用LLMの優位はあと3-4年は続く可能性が高いです。</li>
 <li>一方、圧縮・蒸留・専用アーキテクチャの進歩次第では、予想より1-2年早まる可能性もあります。</li>
@@ -1442,7 +1673,7 @@ Chaos. Every country needs to be much more self sufficient.
 現状のGPT-4oでもおおむね十分。</li>
 </ul>
 </li>
-</ol><hr><h3 class="anchor anchorWithStickyNavbar_LWe7" id="専門家側の盲点">専門家側の盲点<a href="https://ouchaku.github.io/ds/blog/2025/05/07/practical_local_ai#%E5%B0%82%E9%96%80%E5%AE%B6%E5%81%B4%E3%81%AE%E7%9B%B2%E7%82%B9" class="hash-link" aria-label="専門家�側の盲点 への直接リンク" title="専門家側の盲点 への直接リンク">​</a></h3><p>AI専門家はしばしば：</p><ul>
+</ol><hr><h3 class="anchor anchorWithStickyNavbar_LWe7" id="専門家側の盲点">専門家側の盲点<a href="https://ouchaku.github.io/ds/blog/2025/05/07/practical_local_ai#%E5%B0%82%E9%96%80%E5%AE%B6%E5%81%B4%E3%81%AE%E7%9B%B2%E7%82%B9" class="hash-link" aria-label="専門家側の盲点 への直接リンク" title="専門家側の盲点 への直接リンク">​</a></h3><p>AI専門家はしばしば：</p><ul>
 <li>知能の限界突破やパフォーマンス競争に強く意識が向く。</li>
 <li>しかし一般人が求めるのは「より賢いAI」ではなく「より使えるAI」。</li>
 </ul><p>つまり、専門家の関心（知能進化、マルチモーダル強化、推論性能の向上）と、
@@ -1755,7 +1986,7 @@ And just to give you an idea, this was 66, 67, and just to give you an idea of h
             <guid>https://ouchaku.github.io/ds/blog/2025/05/06/nr_wib</guid>
             <pubDate>Tue, 06 May 2025 00:00:00 GMT</pubDate>
             <description><![CDATA[前置き]]></description>
-            <content:encoded><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="前置き">前置き<a href="https://ouchaku.github.io/ds/blog/2025/05/06/nr_wib#%E5%89%8D%E7%BD%AE%E3%81%8D" class="hash-link" aria-label="前置き への直接リンク" title="前置き への直接リンク">​</a></h2>
+            <content:encoded><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="前置き">前置き<a href="https://ouchaku.github.io/ds/blog/2025/05/06/nr_wib#%E5%89%8D%E7%BD%AE%EF%BF%BD%EF%BF%BD%E3%81%8D" class="hash-link" aria-label="前置き への直接リンク" title="前置き への直接リンク">​</a></h2>
 <p>Nick Redfern が目撃証言を元にした WIB の再現図を解説している。</p>
 <a href="https://ouchaku.github.io/ds/img/gh_20250502_wib.jpg" target="_blank"><img alt="gh_20250502_wib.jpg" border="0" src="https://ouchaku.github.io/ds/img/gh_20250502_wib.jpg" width="90%"></a>
 <a href="https://ouchaku.github.io/ds/img/gh_20250502_wib2.jpg" target="_blank"><img alt="gh_20250502_wib2.jpg" border="0" src="https://ouchaku.github.io/ds/img/gh_20250502_wib2.jpg" width="90%"></a>
@@ -1962,7 +2193,7 @@ meta-capacity（メタ能力）の有無に尽きると思います。</p><p>も
 </ul><p>つまり：</p><ul>
 <li>虚数は <strong>感覚的直観の外側</strong> だが、
 　<strong>論理的・数学的整合性の内部</strong> にありました。</li>
-</ul><hr><h3 class="anchor anchorWithStickyNavbar_LWe7" id="問題の核心論理の範疇をも超える次元">問題の核心：「論理の範疇をも超える次元」<a href="https://ouchaku.github.io/ds/blog/2025/05/06/number#%E5%95%8F%E9%A1%8C%E3%81%AE%E6%A0%B8%E5%BF%83%E8%AB%96%E7%90%86%E3%81%AE%E7%AF%84%E7%96%87%E3%82%92%E3%82%82%E8%B6%85%E3%81%88%E3%82%8B%E6%AC%A1%E5%85%83" class="hash-link" aria-label="問題の核心：「論理の範疇をも超える次元」 への直接リンク" title="問題の核心：「論理の範疇をも超える次元」 への直接リンク">​</a></h3><p>あなたが指摘するように、もし X（=先ほどの「問いとしてすら知覚できない次元」）が：</p><ul>
+</ul><hr><h3 class="anchor anchorWithStickyNavbar_LWe7" id="問題の核心論理の範疇をも超える次元">問題の核心：「論理の範疇をも超える次元」<a href="https://ouchaku.github.io/ds/blog/2025/05/06/number#%E5%95%8F%E9%A1%8C%E3%81%AE%E6%A0%B8%E5%BF%83%E8%AB%96%E7%90%86%E3%81%AE%E7%AF%84%E7%96%87%E3%82%92%E3%82%82%E8%B6%85%E3%81%88%E3%82%8B%E6%AC%A1%E5%85%83" class="hash-link" aria-label="問題の核心：「論理の範疇をも超える次元」 への直接リンク" title="問題の核心：�「論理の範疇をも超える次元」 への直接リンク">​</a></h3><p>あなたが指摘するように、もし X（=先ほどの「問いとしてすら知覚できない次元」）が：</p><ul>
 <li>感覚的直観の外側</li>
 <li>かつ論理的整合性の枠外
 であるなら、それは人間の側からは根本的にアクセス不能です。</li>
@@ -2083,7 +2314,7 @@ Posted by Thursday's Child at 8:15 AM</p></div></div></details>
             <guid>https://ouchaku.github.io/ds/blog/2025/05/05/donavon_master</guid>
             <pubDate>Mon, 05 May 2025 00:00:00 GMT</pubDate>
             <description><![CDATA[前置き]]></description>
-            <content:encoded><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="前置き">前置き<a href="https://ouchaku.github.io/ds/blog/2025/05/05/donavon_master#%E5%89%8D%E7%BD%AE%E3%81%8D" class="hash-link" aria-label="前置き への直接リンク" title="前置き への直接リンク">​</a></h2>
+            <content:encoded><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="前置き">前置き<a href="https://ouchaku.github.io/ds/blog/2025/05/05/donavon_master#%EF%BF%BD%E5%89%8D%E7%BD%AE%E3%81%8D" class="hash-link" aria-label="前置き への直接リンク" title="前置き への直接リンク">​</a></h2>
 <p>Dnonovan Masters（実名は Samuel Paul Holcombe ）の体験。</p>
 <h2 class="anchor anchorWithStickyNavbar_LWe7" id="出典">出典<a href="https://ouchaku.github.io/ds/blog/2025/05/05/donavon_master#%E5%87%BA%E5%85%B8" class="hash-link" aria-label="出典 への直接リンク" title="出典 への直接リンク">​</a></h2>
 <p>Church of Ufology: July 2008<br>
@@ -2158,771 +2389,6 @@ Wife: "Well, maybe not crazy, but perhaps he has a screw loose."</p><p>He went o
 Posted by Thursday's Child at 6:58 AM</p></div></div></details>
 <p>(2025-05-05)</p>]]></content:encoded>
             <category>UFO</category>
-            <category>2025-05</category>
-        </item>
-        <item>
-            <title><![CDATA[Jim Penniston の証言動画 : 文字起こし＋ 和訳 ＋ AIの要約]]></title>
-            <link>https://ouchaku.github.io/ds/blog/2025/05/05/jim_penniston</link>
-            <guid>https://ouchaku.github.io/ds/blog/2025/05/05/jim_penniston</guid>
-            <pubDate>Mon, 05 May 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[前置き]]></description>
-            <content:encoded><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="前置き">前置き<a href="https://ouchaku.github.io/ds/blog/2025/05/05/jim_penniston#%E5%89%8D%E7%BD%AE%E3%81%8D" class="hash-link" aria-label="前置き への直接リンク" title="前置き への直接リンク">​</a></h2>
-<p>Jim Penniston の証言動画を見かけたので記録しておく。この証言には、自身の「意識や感覚の変容」に関する言及があり、貴重。</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="関連">関連<a href="https://ouchaku.github.io/ds/blog/2025/05/05/jim_penniston#%E9%96%A2%E9%80%A3" class="hash-link" aria-label="関連 への直接リンク" title="関連 への直接リンク">​</a></h2>
-<p><a href="https://ouchaku.github.io/ds/blog/2024/10/31/Linda_jb_ill">Jim Penniston の新たな証言：UFO に触れた時「我々は未来からやってきた。遺伝物質を集めている」とメッセージを受け取った （変換＋差替＋和訳）</a></p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="ai-chatgpt-4oの要約">AI (ChatGPT 4o)の要約<a href="https://ouchaku.github.io/ds/blog/2025/05/05/jim_penniston#ai-chatgpt-4o%E3%81%AE%E8%A6%81%E7%B4%84" class="hash-link" aria-label="AI (ChatGPT 4o)の要約 への直接リンク" title="AI (ChatGPT 4o)の要約 への直接リンク">​</a></h2>
-<p>Me:</p>
-<p>この文字起こしを、できるだけ詳しく箇条書きに整理して。特に目撃者の主観的な意識や感覚の変容体験、たとえば認知機能の変容や感覚の不自然な変化は些細なものでも漏らさず、列挙して。</p>
-<div class="theme-admonition theme-admonition-note admonition_xJq3 alert alert--secondary"><div class="admonitionHeading_Gvgb"><span class="admonitionIcon_Rf37"><svg viewBox="0 0 14 16"><path fill-rule="evenodd" d="M6.3 5.69a.942.942 0 0 1-.28-.7c0-.28.09-.52.28-.7.19-.18.42-.28.7-.28.28 0 .52.09.7.28.18.19.28.42.28.7 0 .28-.09.52-.28.7a1 1 0 0 1-.7.3c-.28 0-.52-.11-.7-.3zM8 7.99c-.02-.25-.11-.48-.31-.69-.2-.19-.42-.3-.69-.31H6c-.27.02-.48.13-.69.31-.2.2-.3.44-.31.69h1v3c.02.27.11.5.31.69.2.2.42.31.69.31h1c.27 0 .48-.11.69-.31.2-.19.3-.42.31-.69H8V7.98v.01zM7 2.3c-3.14 0-5.7 2.54-5.7 5.68 0 3.14 2.56 5.7 5.7 5.7s5.7-2.55 5.7-5.7c0-3.15-2.56-5.69-5.7-5.69v.01zM7 .98c3.86 0 7 3.14 7 7s-3.14 7-7 7-7-3.12-7-7 3.14-7 7-7z"></path></svg></span>AI</div><div class="admonitionContent_BuS1"><p>以下は、あなたの依頼に基づいて作成した詳細な箇条書きリストです。特に、証言者の主観的な意識変容や感覚の変化に注意して整理しました。細かい点も漏れなく含めています。</p><hr><h3 class="anchor anchorWithStickyNavbar_LWe7" id="-証言者penistonの初期の状況と心境">■ 証言者（Peniston）の初期の状況と心境<a href="https://ouchaku.github.io/ds/blog/2025/05/05/jim_penniston#-%E8%A8%BC%E8%A8%80%E8%80%85peniston%E3%81%AE%E5%88%9D%E6%9C%9F%E3%81%AE%E7%8A%B6%E6%B3%81%E3%81%A8%E5%BF%83%E5%A2%83" class="hash-link" aria-label="■ 証言者（Peniston）の初期の状況と心境 への直接リンク" title="■ 証言者（Peniston）の初期の状況と心境 への直接リンク">​</a></h3><ul>
-<li>
-<p>出動時の心構え：</p>
-<ul>
-<li>「墜落機の制圧・機密物資回収・遺体処理」の任務を想定</li>
-<li>エントリーコントロールポイント（出入り管理地点）の設置を考えていた</li>
-</ul>
-</li>
-<li>
-<p>実際に現場到着後：</p>
-<ul>
-<li>墜落機ではない「何か」を目撃し困惑</li>
-<li>「訓練では一度も経験したことのない状況」</li>
-<li>頭の中の「装備切替スイッチ（gear adjustment）」が混乱状態</li>
-<li>チームメンバーと無線交信し、皆同様の困惑を共有</li>
-</ul>
-</li>
-</ul><hr><h3 class="anchor anchorWithStickyNavbar_LWe7" id="-目撃したクラフトの外観物理的特徴">■ 目撃したクラフトの外観・物理的特徴<a href="https://ouchaku.github.io/ds/blog/2025/05/05/jim_penniston#-%E7%9B%AE%E6%92%83%E3%81%97%E3%81%9F%E3%82%AF%E3%83%A9%E3%83%95%E3%83%88%E3%81%AE%E5%A4%96%E8%A6%B3%E7%89%A9%E7%90%86%E7%9A%84%E7%89%B9%E5%BE%B4" class="hash-link" aria-label="■ 目撃したクラフトの外観・物理的特徴 への直接リンク" title="■ 目撃したクラフトの外観・物理的特徴 への直接リンク">​</a></h3><ul>
-<li>形状：黒色の三角形、非常に光沢があり、滑らか（ガラスのよう）</li>
-<li>サイズ：<!-- -->
-<ul>
-<li>9フィート × 9フィート × 9フィート（約2.7m四方）</li>
-<li>高さ約7フィート（約2.1m、証言者の身長6フィート2インチから推定）</li>
-</ul>
-</li>
-<li>特徴的な欠如要素：<!-- -->
-<ul>
-<li>着陸装置、吸気口、排気口、クルー区画、窓 → 一切なし</li>
-<li>外殻は完全に滑らか、取っ手やアクセスハッチも見当たらず</li>
-</ul>
-</li>
-<li>表面の感触：温かく、金属的だがガラスのような滑らかさ</li>
-<li>表面の模様：赤と青の光が「素材内部」を流動的に走る</li>
-<li>記号（glyphs）：<!-- -->
-<ul>
-<li>左前方に謎のシンボルが刻印、NASAや米空軍の表示を予想したが未知の記号</li>
-<li>記号の意味は不明、現場でスケッチ</li>
-<li>記録中に手の震え、筆跡が変化</li>
-</ul>
-</li>
-</ul><hr><h3 class="anchor anchorWithStickyNavbar_LWe7" id="-感覚意識の異常体験">■ 感覚・意識の異常体験<a href="https://ouchaku.github.io/ds/blog/2025/05/05/jim_penniston#-%E6%84%9F%E8%A6%9A%E6%84%8F%E8%AD%98%E3%81%AE%E7%95%B0%E5%B8%B8%E4%BD%93%E9%A8%93" class="hash-link" aria-label="■ 感覚・意識の異常体験 への直接リンク" title="■ 感覚・意識の異常体験 への直接リンク">​</a></h3><ul>
-<li>音の変化：<!-- -->
-<ul>
-<li>クラフトに10フィート（約3m）以内に近づくと周囲の音が完全に消失</li>
-<li>直前まで聞こえていた動物の鳴き声が消える、「音の死寂」状態</li>
-</ul>
-</li>
-<li>静電気：<!-- -->
-<ul>
-<li>皮膚、髪、衣服に静電気の感覚</li>
-</ul>
-</li>
-<li>時間感覚の歪み：<!-- -->
-<ul>
-<li>主観的には5～10分の調査が、実際は2時間経過</li>
-<li>腕時計の時間ずれが約45分</li>
-</ul>
-</li>
-<li>知覚の変化：<!-- -->
-<ul>
-<li>「スローモーション」のような感覚</li>
-<li>「時間が引き延ばされるような感覚（dragging of time）」</li>
-</ul>
-</li>
-<li>感情・心理状態：<!-- -->
-<ul>
-<li>困惑、不安、畏怖、恐怖、驚愕</li>
-<li>「これは何か違う」という直感、「これは地球外のものではないか」という否定感</li>
-<li>予期せぬ「満たされた感覚（complete）」、安心感</li>
-<li>離脱後にはその感覚の喪失感を体験</li>
-</ul>
-</li>
-</ul><hr><h3 class="anchor anchorWithStickyNavbar_LWe7" id="-離陸時の観察">■ 離陸時の観察<a href="https://ouchaku.github.io/ds/blog/2025/05/05/jim_penniston#-%E9%9B%A2%E9%99%B8%E6%99%82%E3%81%AE%E8%A6%B3%E5%AF%9F" class="hash-link" aria-label="■ 離陸時の観察 への直接リンク" title="■ 離陸時の観察 への直接リンク">​</a></h3><ul>
-<li>色の変化：<!-- -->
-<ul>
-<li>約45分後、表面の光が激しくなり白色に輝く</li>
-<li>輝度が増し、目を細めないと見られないほど明るくなる</li>
-</ul>
-</li>
-<li>輪郭：<!-- -->
-<ul>
-<li>木の上（樹高）付近に浮上するまで、三角形のシルエットは確認可能</li>
-</ul>
-</li>
-<li>音・動き：<!-- -->
-<ul>
-<li>無音、排気なし</li>
-<li>約60～90cm（2～3フィート）浮上</li>
-<li>木々の間を短くホバリングした後、「瞬きする間に」消失 → 超高速離脱</li>
-<li>離脱の速さは「不可能な速度（speed impossible）」</li>
-</ul>
-</li>
-</ul><hr><h3 class="anchor anchorWithStickyNavbar_LWe7" id="-証言者の行動報告の方針">■ 証言者の行動・報告の方針<a href="https://ouchaku.github.io/ds/blog/2025/05/05/jim_penniston#-%E8%A8%BC%E8%A8%80%E8%80%85%E3%81%AE%E8%A1%8C%E5%8B%95%E5%A0%B1%E5%91%8A%E3%81%AE%E6%96%B9%E9%87%9D" class="hash-link" aria-label="■ 証言者の行動・報告の方針 への直接リンク" title="■ 証言者の行動・報告の方針 への直接リンク">​</a></h3><ul>
-<li>調査：<!-- -->
-<ul>
-<li>物理的にクラフトを歩いて測定、接触、スケッチ、記録</li>
-<li>「軍歴で最良の調査の一つ」と自負</li>
-</ul>
-</li>
-<li>報告：<!-- -->
-<ul>
-<li>「未確認起源のクラフト（craft of unknown origin）」と記載</li>
-<li>「UFO」という語の使用を避け、出世・キャリアの危険回避</li>
-<li>上層部の判断に委ねる意識</li>
-</ul>
-</li>
-</ul><hr><h3 class="anchor anchorWithStickyNavbar_LWe7" id="-証言者の後の推測理論">■ 証言者の後の推測・理論<a href="https://ouchaku.github.io/ds/blog/2025/05/05/jim_penniston#-%E8%A8%BC%E8%A8%80%E8%80%85%E3%81%AE%E5%BE%8C%E3%81%AE%E6%8E%A8%E6%B8%AC%E7%90%86%E8%AB%96" class="hash-link" aria-label="■ 証言者の後の推測・理論 への直接リンク" title="■ 証言者の後の推測・理論 への直接リンク">​</a></h3><ul>
-<li>当時の感覚：<!-- -->
-<ul>
-<li>クラフトは「困難な状況にあり、修理中だったのではないか」という直感</li>
-</ul>
-</li>
-<li>後年の見解：<!-- -->
-<ul>
-<li>異星知性が出現すれば、人類も同様の感情（否定、困惑、恐怖、畏怖）を抱くだろうと予想</li>
-</ul>
-</li>
-</ul><hr></div></div>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="youtube-動画1155">Youtube 動画(11:55)<a href="https://ouchaku.github.io/ds/blog/2025/05/05/jim_penniston#youtube-%E5%8B%95%E7%94%BB1155" class="hash-link" aria-label="Youtube 動画(11:55) への直接リンク" title="Youtube 動画(11:55) への直接リンク">​</a></h2>
-<p>Landed UFO closely observed by Jim Penniston, missing time experienced; took notes on the spot, 1980</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="fasterwhisper-ailarge-v2-model--deepl2024-07-model">FasterWhisper AI(large-v2 model) + DeepL(2024-07 model)<a href="https://ouchaku.github.io/ds/blog/2025/05/05/jim_penniston#fasterwhisper-ailarge-v2-model--deepl2024-07-model" class="hash-link" aria-label="FasterWhisper AI(large-v2 model) + DeepL(2024-07 model) への直接リンク" title="FasterWhisper AI(large-v2 model) + DeepL(2024-07 model) への直接リンク">​</a></h2>
-<p>まさに私が考えていたことです。私は現場に向かう際、次のような心構えでした。
-墜落した航空機の現場にエントリーコントロールポイントを設置し、機密資料や遺体を識別・管理する予定です。それが私の計画です。
-その後、緊急車両の現場へのアクセスを確保するため、エントリーコントロールポイントを整備します。
-（0:00:21）</p>
-<p>現場に到着した時、それは航空機墜落ではなく、私が識別できない何かでした。困惑しました。目にしたものを理解できませんでした。
-そのような状況に対応する訓練は受けていませんでした。
-そこで、装備の調整が急激に変わりました。
-墜落と回収の対応から… 何を見ているのか分かりません。
-（0:00:55）</p>
-<p>目の前に何があるのか分かりません。混乱しています。
-これはセキュリティ監督者にとって快適な状況ではありません。
-混乱していて、何をしているのか分からない。どうすべきか分からない。
-それが私の感じていたことです。もちろん、チームメイトとやり取りしていました。
-そして同じような混乱を抱えて戻ってきました。目の前で何が起こっているのか分かりません。
-（0:01:18）</p>
-<p>その物体は三角形の形状をしていました。色は黒で、非常に光沢がありました。
-金属製でしたが、ガラスのように滑らかでした。
-三角形の物体の内部には、赤と青の光が布地のような構造の中を移動していました。
-私はそれを測定し、9フィート×9フィート×9フィートのサイズでした。
-私の身長が6フィート2インチなので、高さ約7フィートと推定しました。
-（0:01:54）</p>
-<p>航空機としては非常に小さかったです。
-最初に注目したのは、航空機が持つ明らかな特徴を探していたことです。
-着陸装置、吸気口、排気口、乗員室、窓を探しました。
-それらの要素は一切ありませんでした。これが混乱の始まりです。
-右側に戻って見ました。
-（0:02:33）</p>
-<p>あの記号を見た時、そこに文字があることに気づき、その瞬間は安心しました。
-「これはアメリカ空軍の試作機だろう」と考えたからです。
-「NASAのマークがあるはずだ」と。
-そして、当然ながら、見たことのないものがありました。
-ペニストンが言及する記号は、機体の側面に刻まれたシンボルです。
-（0:03:01）</p>
-<p>ペニストンはこれらの記号をノートにスケッチしましたが、その意味は謎のままです。
-ペニストンと彼のチームが機体に近づくと、彼らは異常な感覚を覚えました。
-機体の周囲の直近のエリアでは、物理的な変化に気づきました。
-音の違いに気づきました。
-例えば、周囲の静けさは、死んだような音に似ていました。
-10フィート以内に近づくまで、動物の鳴き声が聞こえていました。
-（0:03:32）</p>
-<p>そして、機体の周囲のこの領域に入ると、突然、静寂に包まれました。
-（0:03:38）</p>
-<hr>
-<p>その後、皮膚や髪、服に静電気を感じ始めました。
-この領域に入ると、すべてがスローモーションのように感じられるという不思議な現象が起こりました。
-時間が引きずられるような感覚でした。
-エリアを離れた後、時計の時刻に45分程度のずれがありました。
-私たちがクラフトを5分や10分観察していたはずが、実際には数時間経っていたのです。
-（0:04:22）</p>
-<p>そのため、時間の感覚を失いました。
-アドレナリンが分泌されていたことは理解しています。
-その影響で、物の見方が歪むことは理解しています。
-しかし、2時間はアドレナリンのせいで失われた時間としては長すぎます。
-ペンニストンは、この事件を報告する際には注意が必要だと知っていました。
-私の報告書では、「未知の起源の物体」という表現を使用し、UFOという用語は一切使用しないようにしました。
-（0:04:57）</p>
-<p>軍事用語を使用しました。起源を特定できませんでした。
-そして、他の人に判断を委ねました。
-私の役割は事実を収集することだと考え、それを実行しました。
-私の職責を超えるため、他の人に判断を委ねました。
-それが私の基本的な考えでした。
-また、私たちはキャリアへの現実的な恐怖を抱えていました。
-（0:05:22）</p>
-<p>なぜなら、このような現象を報告することは、私たちのキャリアに害を及ぼすことを知っていたからです。それは単に、そうするべきではなかったのです。
-ペンニストンには、その夜その物体がそこにいた理由についての理論があります。
-直感です。
-その夜、振り返ってみると、私が感じたのは、それがトラブルに巻き込まれていたということです。
-それはそこにいるべきではなかったのです。
-もう一つ奇妙な点は、なぜ着陸したのかということです。
-（0:05:56）</p>
-<p>なぜそんなに長く地面にいたのか？
-なぜ調査を許したのか？
-修理する必要があったからかもしれません。修理中だったからかもしれません。
-その感覚は当時も今も変わりません。
-どのような技術が自分自身を修理するのでしょうか？
-ペンニストンは、遭遇時に混乱、恐怖、驚愕、畏敬の念を感じたと述べています。
-もし地球外知性が人類に姿を現したなら、人類は同じ感情を体験するでしょうか？
-（0:06:36）</p>
-<p>私は、人類が私と同じような感情を体験するだろうと同意します。
-しかし、私が言及しなかった点の一つは、おそらく「否定」です。
-それもまた、感じる感情の一つです。
-これは私が思っているものとは異なるはずだ。
-それがそこでの状況の一部だと思います。
-なぜなら、私たちは合理的な人間です。合理的な答えを求めているからです。
-（0:07:02）</p>
-<p>特に私がいた立場では。
-つまり、その基地、その双子の基地にあるもの。
-アメリカ空軍最大の戦術戦闘機部隊です。ペンニストンは、この遭遇時に感じた感情は、これまで経験したことのないものだったと述べています。
-（0:07:17）</p>
-<hr>
-<p>彼は、予期せぬ追加の感情状態を経験したと説明しています。
-それは、ある種の完成感でした。
-それは、大丈夫だと感じました。
-そして、それが離陸した時、その感情が消え去りました。
-約45分後、機体の色は再び激しい白色に変化し、より激しく揺れ動きました。
-そして次第に明るくなってきました。
-私たちは目を細めていました。
-（0:07:51）</p>
-<p>目に見えるのは白い光だけでした。
-しかし、最初に機体に近づいた時ほどひどくはありませんでした。
-なぜなら、まだ離陸して木々の高さまで上昇する可能性があったからです。
-三角形の飛行物のシルエットはまだ見えました。
-しかし、最初に近づいた時は明るすぎて見えませんでした。
-状況の説明は、大きな白い光が輝いていたということです。
-（0:08:17）</p>
-<p>約10~15メートルの距離では、はっきりと識別できました。
-三角形の形をしていました。
-航空機ではありませんでした。
-しかし、何らかの飛行物体でした。
-いくつかの点が理解できませんでした。
-前方を特定できませんでした。
-それが問題でした。
-第二に、動いているように見えたが、音はしなかった。
-第三に、空中に電気があるような感覚でした。
-服や髪、肌に感じられました。
-（0:08:48）</p>
-<p>次に、飛行物体に近づいた後の状況です。
-文字が変化します。
-自信を持って書かれた文字から、震えた文字に変わります。
-ここで止めてもいいですか？
-すみません。少し時間が必要です。
-わかりました。わお。わお。見えたものはすべて書き留めました。
-飛行体の構造。
-生地。黒。滑らか。ガラスのような質感。表面は不明。
-正体不明。
-飛行体のサイズを貼り付け、距離のメモを付けます。
-（0:09:41）</p>
-<p>サイズ、9フィート長。
-高さ約7~8フィート。
-前か後ろか判別できませんでした。
-機体の周りを歩き回った際、エンジンを区別するのが困難でした。
-推進方式不明。
-音はなし。
-しかし、何らかの方法で動作しているようです。
-航空機の種類不明。
-乗員室や窓、アクセスポートなど、そのようなものを特に探しました。
-何も確認できませんでした。
-（0:10:09）</p>
-<p>ハンドルや類似のものは一切ありませんでした。
-機体は外側が完全に滑らかでした。
-機体の外装材。
-温かい。最も衝撃的だったのは機体の外装材でした。
-航空機は金属製ですが、これはおそらく金属製かもしれませんが、非常に滑らかでした。
-外装材は黒色のガラスに似ていました。
-衣服、皮膚、髪に高い静電気を感じました。
-左前部の識別マーク。
-これが最も説得力のある点で、神よ、これは別の場所から来たものだと思いました。
-（0:10:44）</p>
-<p>刻印または彫刻されたシンボル？
-シンボルが記録されています。
-私が知っているのは、最初の夜に現場にいたことです。
-私は軍人としてのキャリアで最も優れた調査の一つを完了しました。
-これは空の光ではありませんでした。
-これが物体、着陸した宇宙船です。
-私はそれを調べました。
-周囲を回りました。
-触れました。
-これは実際の出来事です。
-起こりました。
-彼らが何と言おうと関係ありません。
-（0:11:18）</p>
-<p>私はそこにいました。
-彼らはいませんでした。離陸、245。音なし。
-（0:11:26）</p>
-<hr>
-<p>排気音なし。
-離陸不明。
-速度不可能。
-離陸は私がこれまで見た中で最も驚くべきものでした。
-全く音なし。
-2~3フィートほど浮き上がり、
-木立の中を少し操縦し、
-一瞬浮遊した後、目まぐるしい速さで去って行きました。
-文字通り、目まぐるしい速さでした。</p>
-<p>（0:11:52）</p>
-<details class="details_lb9f alert alert--info details_b_Ee" data-collapsed="true"><summary>展開</summary><div><div class="collapsibleContent_i85q"><p>Here's exactly what I was thinking. I'm going out there with... my mindset was like this.
-I'm going to go out and set up an entry control point for a downed aircraft, a crashed... we're going to go ahead and tag classified material and body parts. That's what I'm thinking.
-And then we're going to set up the entry control point so we can get emergency response vehicles out there.
-(0:00:21)</p><p>When I got up to the area where I seen it wasn't an aircraft crash, it was something that I couldn't identify. I was perplexed. Not understanding what I was seeing.
-I hadn't been trained for anything even close to that.
-So here's my... the gear adjustments that were switching were just crazy.
-I went from crash and recovery thoughts to... I don't know what I'm looking at.
-(0:00:55)</p><p>I don't know what is in front of me. I'm confused.
-And this is not a comfortable situation for a security supervisor.
-You're confused and not sure what you're doing. Not sure what to do.
-And that's the feeling I was getting. Of course I am talking back and forth with my teammates.
-And we're coming back with the same type of confusion. We're not sure what's going on in front of us.
-(0:01:18)</p><p>The craft was a triangular craft. It was black in color. Very shiny.
-It was metal, but it was smooth as glass.
-Inside the fabric of this triangular craft there was light movement of red and blue running through the fabric of it.
-I had pasted off and it measured 9 feet by 9 feet by 9 feet.
-It was approximately, based on my height, I'm 6 foot 2, so I estimated it at 7 feet tall.
-(0:01:54)</p><p>It was very small for an aircraft.
-One of the things that I was looking at initially was I was looking for obvious things that aircraft have.
-Looking for landing gear, looking for intake, looking for exhaust, looking for crew compartment, looking for windows.
-It was void of all those. That's where the confusion comes in at.
-I came back around to the right side of it.
-(0:02:33)</p><p>When I seen those glyphs, I seen that there's some writing up there, so I felt pretty comfortable at that moment.
-Because I said, OK, it's going to say United States Air Force prototype, something like that.
-It's going to say NASA on it.
-And then, of course, I seen something that I hadn't seen before.
-The glyphs that Peniston mentions are symbols that were etched into the side of the craft.
-(0:03:01)</p><p>Peniston sketched these symbols in a notebook, but their meaning is a mystery.
-As Peniston and his team approached the craft, they began feeling unusual sensations.
-The immediate area around the craft, we noticed physical changes.
-We noticed that the sound was different.
-For example, the lack of sound around it was like a deadening sound.
-We were hearing animals before we got within like 10 feet.
-(0:03:32)</p><p>And then once we got within this area right around the craft, it just, it went silent.
-(0:03:38)</p><hr><p>Then we started feeling static electricity on our skin, in our hair, in our clothes.
-One of the unusual effects is that once we entered this immediate area around the craft, it felt like everything went in slow motion.
-It felt like there was a dragging of time.
-We did have, you know, discrepancies on our watches after we left the area of 45 minutes.
-And what appeared to be us just examining the craft for 5 or 10 minutes actually was over a couple hours out there.
-(0:04:22)</p><p>So we did lose track of some time.
-We do know that we did have adrenaline going.
-We do understand that that can affect, you know, the way things are perceived.
-But it was just too much, two hours is a long time to write off for adrenaline.
-Penniston knew that he had to be careful when reporting this incident.
-In my report, the term craft of unknown origin, I was not going to in any way, shape, or form use the term UFO in there.
-(0:04:57)</p><p>I used a military term. I couldn't determine the origin.
-And I let somebody else figure that out.
-I figured, okay, my job is to gather the facts, which I did.
-I let, and it's above my pay grade, let somebody else figure out what it was.
-So that's pretty much how I was looking at it.
-Also, we had a very real fear of our careers.
-(0:05:22)</p><p>Because we know that this is something that would hurt our careers, reporting this type of phenomenon. It just wasn't done.
-Penniston does have a theory as to why the craft was there that night.
-A feeling.
-That night, in retrospect, looking back at it, the feeling I had is that it was in trouble.
-It wasn't supposed to be there.
-The other odd thing is that, why would it land?
-(0:05:56)</p><p>Why would it be on the ground that long?
-Why would it allow it to be examined?
-Unless it had to. Unless it was repairing itself.
-And that's a feeling I had then, and I still have with it today.
-What kind of technology repairs itself?
-During his encounter, Penniston describes experiencing confusion, fear, astonishment, and awe.
-If extraterrestrial intelligence were to reveal itself to human beings, would humanity experience the same emotions?
-(0:06:36)</p><p>I think I agree with that the human race would probably experience the same type of feelings I had.
-But I think one of the things that I hadn't mentioned is probably denial.
-Is one of the also feelings you feel.
-Well, this can't be what I think it could be.
-I think that's part of what's going on there.
-Because, you know, we're rational people. We want rational answers.
-(0:07:02)</p><p>Especially in that position I was in.
-I mean, what we have in that base, in those twin bases.
-Largest tactical fighter wing in the United States Air Force. Penniston has written that the feelings he had during this encounter were unlike any he had ever had before.
-(0:07:17)</p><hr><p>He describes an unexpected additional emotional state that he experienced.
-It felt sort of complete.
-It felt like it was okay.
-And then when it took off, there was an absence of that feeling.
-After about 45 minutes, the colors on the craft became more agitated as they once again became an intense white color.
-And then it started getting brighter and brighter.
-And now we're squinting.
-(0:07:51)</p><p>And all I could see was a white light.
-But it was still not as bad as when we first came up to the craft.
-Because this still could take off and go up to about treetop level.
-And I could still see the silhouette of the triangular craft.
-But when I initially approached it, it was just too bright.
-Description of what was going on was larger white light glowing.
-(0:08:17)</p><p>Approximately 10-15 meters from it, it was quite distinguishable.
-It was triangular in shape.
-It was not an aircraft.
-But it was a craft of some sort.
-Certain things didn't make sense.
-I couldn't determine the front.
-That was the problem.
-Second, it seemed running, but no sound.
-Third was the aspect of having electricity in the air.
-I could feel it in my clothing, my hair, my skin.
-(0:08:48)</p><p>The next one is after I got up close to the craft.
-The writing changes.
-It changes from being written confidently to shaky.
-Can I stop here?
-Sorry. I need a little time.
-Okay. Wow. Wow. Anything I could see, I would go ahead and write down.
-Structure of craft.
-Fabric. Black. Smooth. Glass-like. Surface unknown.
-Identity unknown.
-I paste off the size of the craft, taking notes of the distance.
-(0:09:41)</p><p>Size, 9 feet long.
-Approximately 7-8 feet high.
-I couldn't tell what was the front or the back.
-I had trouble when I was walking around the craft to distinguish engines.
-Propulsion unknown.
-No sound.
-But apparently operating somehow.
-Type of aircraft unknown.
-I made extra effort to look for the crew compartment or windows or anything like that, or access ports.
-Could not see any.
-(0:10:09)</p><p>There was no handles or anything like that.
-The craft was completely smooth on the outside.
-Skin fabric of craft.
-Warm. Probably the most startling part of it was the fabric of the craft.
-Aircraft are metal, and this was maybe metal, but it was very smooth.
-The fabric seemed like black glass.
-High electric static on clothes, skin, hair.
-Identifying markings on left front.
-That is probably the most compelling thing that said, well, my God, this is from someplace else.
-(0:10:44)</p><p>Symbols etched or engraved?
-Symbols recorded.
-All I know is I was out there that first night.
-I know I completed one of the best investigations of my entire military career.
-This thing wasn't lights in the sky.
-This was the object, a craft that had landed.
-I examined it.
-I walked around it.
-I felt it.
-This is an actual event.
-It happened.
-It doesn't matter what they say.
-(0:11:18)</p><p>I was there.
-They weren't. Liftoff, 245. No sound.
-(0:11:26)</p><hr><p>No exhaust.
-Takeoff unknown.
-Speed impossible.
-The takeoff was probably the most amazing thing I've ever seen.
-With absolutely no sound.
-It just lifted up maybe two or three feet.
-And it did a little bit of maneuvering back in the trees.
-Momentarily hovered, then a blink of an eye, it left.
-Literally a blink of an eye.</p><p>(0:11:52)</p></div></div></details>
-<p>(2025-05-05)</p>]]></content:encoded>
-            <category>UFO</category>
-            <category>2025-05</category>
-        </item>
-        <item>
-            <title><![CDATA[Local PC で動く AI の性能]]></title>
-            <link>https://ouchaku.github.io/ds/blog/2025/05/05/qwen_ai</link>
-            <guid>https://ouchaku.github.io/ds/blog/2025/05/05/qwen_ai</guid>
-            <pubDate>Mon, 05 May 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[前置き]]></description>
-            <content:encoded><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="前置き">前置き<a href="https://ouchaku.github.io/ds/blog/2025/05/05/qwen_ai#%E5%89%8D%E7%BD%AE%E3%81%8D" class="hash-link" aria-label="前置き への直接リンク" title="前置き への直接リンク">​</a></h2>
-<p>Local PC で動く AI がどの程度なのか、テストした。DeepL で和訳したが、英語の方が格段に良い性能なので、質問と回答は英語で行った。</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="結果">結果<a href="https://ouchaku.github.io/ds/blog/2025/05/05/qwen_ai#%E7%B5%90%E6%9E%9C" class="hash-link" aria-label="結果 への直接リンク" title="結果 への直接リンク">​</a></h2>
-<p>約12分間の証言音声の 文字起こし をそのまま一気に入力して要約が可能だった。思考時間は 7秒。</p>
-<p>なお、ChatGPT-4o で同じ作業をさせた結果は別記事、</p>
-<p><a href="https://ouchaku.github.io/ds/blog/2025/05/05/jim_penniston">Jim Penniston の証言動画 : 文字起こし＋ 和訳 ＋ AIの要約</a></p>
-<p>に含まれている。</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="モデル">モデル<a href="https://ouchaku.github.io/ds/blog/2025/05/05/qwen_ai#%E3%83%A2%E3%83%87%E3%83%AB" class="hash-link" aria-label="モデル への直接リンク" title="モデル への直接リンク">​</a></h2>
-<p>deepseek-r1-distill-qwen-7b</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="コメント">コメント<a href="https://ouchaku.github.io/ds/blog/2025/05/05/qwen_ai#%E3%82%B3%E3%83%A1%E3%83%B3%E3%83%88" class="hash-link" aria-label="コメント への直接リンク" title="コメント への直接リンク">​</a></h2>
-<p>正直、Local PC 上の AI でここまでの性能が出ることには驚く。</p>
-<p>体感でしかないが、1～2年前の ChatGPT の性能に匹敵している気がする。</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="回答-の和訳---deepl2024-07-model">回答 の和訳 :  DeepL(2024-07 model)<a href="https://ouchaku.github.io/ds/blog/2025/05/05/qwen_ai#%E5%9B%9E%E7%AD%94-%E3%81%AE%E5%92%8C%E8%A8%B3---deepl2024-07-model" class="hash-link" aria-label="回答 の和訳 :  DeepL(2024-07 model) への直接リンク" title="回答 の和訳 :  DeepL(2024-07 model) への直接リンク">​</a></h2>
-<think><p>わかりました。1980年に発生したUFO着陸事件の記録を整理するタスクがあります。依頼者は既にテキストを証言者とナレーターの発言に分割しようとしたのですが、タイムスタンプの管理で混乱しています。私の目標は、提供された構造を確認し、重要な観察点を詳細な箇条書きリストにまとめ、特に意識の変化や感覚体験に焦点を当てた内容を作成することです。</p><p>まず、記録全体を注意深く読み、文脈を理解します。これは、1980年の夏にイギリスで未確認飛行物体（UFO）を目撃した警備員の証言です。証言者は、物体の外観、サイズ、色、体への静電気のような感覚、そして周囲の時間感覚が鈍るという主観的な体験について述べています。物体上のシンボルに関する言及や、その存在理由に関する仮説も含まれています。</p><p>記録では、証言者の発言（「Peniston」を含む部分）が証人の観察の後に記載されています。これは非常に重要です。なぜなら、これらを正確に区別する必要があるからです。ユーザーは既にこの作業を試みていますが、タイムスタンプに基づいて一部の見落としや誤った対応がある可能性があります。私の役割は、各ポイントを証人かナレーターに正しく割り当てることです。</p><p>まず、「Peniston」という単語がすべての出現箇所を特定します。これらは、事件を担当したセキュリティ監督官の発言であり、飛行物の起源や事件後の調査プロセスなど、状況の説明を提供しています。</p><p>次に、証人の観察（「I」で表される）をそれぞれ抽出し、該当するポイントの下にリスト化します。これには、クラフトの構造、サイズ、色、静電気のような感覚体験、不審なシンボル、主観的な時間膨張、その他の注目すべき観察が含まれます。</p><p>特に、見落とされがちだが包括的な理解に重要な細部に注意を払う必要があります。例えば、証人の正確な身長（6'2"）は、周辺の人物との比較でクラフトの規模を説明する文脈を提供します。</p><p>各ポイントの明確さも重要です。記録がやや混乱していたり、重複していたりする可能性があるため、各箇条書きが特定の観察内容を要約し、不要な情報を含まないようにします。</p><p>用語の一貫性を維持し、異なる証人または関係者間の混乱を避けることも重要です。例えば、警備員（証人）とナレーター（ペニストン）を区別する必要があります。</p><p>すべてのポイントが正しく特定され分類された後、証人のセクション下に構造化された箇条書きリストに整理します。これにより、各詳細を体系的に確認しやすくなります。</p><p>最後に、すべての情報を整理した後、このプロセスで情報が漏れたり誤って割り当てられたりしていないか、徹底的なチェックを行います。重要な観察内容が正確に表現され、トランскриプトを確認する誰もが容易にアクセスできることが重要です。</p></think>
-<p>提供された記録に基づいて整理された箇条書きリストです。証人（「私」）とナレーター（ペニストン）の発言を分離し、意識の変容体験を含む主要な観察点を強調しています：</p>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="証人の観察">証人の観察：<a href="https://ouchaku.github.io/ds/blog/2025/05/05/qwen_ai#%E8%A8%BC%E4%BA%BA%E3%81%AE%E8%A6%B3%E5%AF%9F" class="hash-link" aria-label="証人の観察： への直接リンク" title="証人の観察： への直接リンク">​</a></h3>
-<ol>
-<li><strong>物体の識別：</strong></li>
-</ol>
-<ul>
-<li>物体は三角形形状で、黒色で、滑らかなガラスのような質感でした。</li>
-<li>物体の表面は不明ですが、金属のように見えました。</li>
-</ul>
-<ol start="2">
-<li><strong>サイズと寸法：</strong></li>
-</ol>
-<ul>
-<li>クラフトのサイズは、約9フィート×9フィート×9フィートでした。</li>
-<li>証人の身長（6フィート2インチ）を基に推定された高さは約7フィートでした。</li>
-</ul>
-<ol start="3">
-<li><strong>感覚体験：</strong></li>
-</ol>
-<ul>
-<li>皮膚、髪、服に静電気のような感覚が感じられました。</li>
-<li>クラフトの周囲の直近エリアでは、時間の流れが引き延ばされるような異常な感覚が体験されました。</li>
-<li>探査後、時計に時間差が生じ、物体付近では時間が遅く流れたように見えました。</li>
-</ul>
-<ol start="4">
-<li><strong>視覚的観察：</strong></li>
-</ol>
-<ul>
-<li>内部の布地から赤と青の模様のような動きが確認されました。</li>
-<li>物体の側面に刻まれた記号が確認されましたが、その意味は不明です。</li>
-<li>物体は最初の接触時に白い光を放ち、離陸を試みる際にその光がより明るくなりました。</li>
-</ul>
-<ol start="5">
-<li><strong>運用面：</strong></li>
-</ol>
-<ul>
-<li>吸気口や排気口などの航空機の特徴は検出されませんでした。</li>
-<li>離陸前、機体は長時間にわたり無音で動作し、離陸時はわずかに聞こえる音と共に地面から2フィートほど浮き上がりました。</li>
-</ul>
-<ol start="6">
-<li><strong>理論的考察：</strong></li>
-</ol>
-<ul>
-<li>目撃者は、機体の非大気圏的性質にもかかわらず、修理メカニズムや地球外起源の可能性を含む理論を検討しました。</li>
-</ul>
-<ol start="7">
-<li><strong>行動的・感情的影響：</strong></li>
-</ol>
-<ul>
-<li>体験は混乱、恐怖、驚嘆、そして監視されているような感覚の混合を引き起こしました。</li>
-<li>飛行体の突然の出現と消失は不可解であり、全体的な不気味な雰囲気を強化しました。</li>
-</ul>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="ナレーターの見解ペニストン">ナレーターの見解（ペニストン）：<a href="https://ouchaku.github.io/ds/blog/2025/05/05/qwen_ai#%E3%83%8A%E3%83%AC%E3%83%BC%E3%82%BF%E3%83%BC%E3%81%AE%E8%A6%8B%E8%A7%A3%E3%83%9A%E3%83%8B%E3%82%B9%E3%83%88%E3%83%B3" class="hash-link" aria-label="ナレーターの見解（ペニストン）： への直接リンク" title="ナレーターの見解（ペニストン）： への直接リンク">​</a></h3>
-<ol>
-<li><strong>飛行体の起源と背景：</strong></li>
-</ol>
-<ul>
-<li>ペニストンは飛行体の起源が不明であると指摘しましたが、自己修理中または故障中である可能性を推測しました。</li>
-<li>この出来事は極めて異常なものとされ、軍関係者による徹底的な調査が行われました。</li>
-<li>物体は、潜在的な地球外生命体の痕跡を特定するため、体系的に調査されました。</li>
-</ul>
-<ol start="2">
-<li><strong>調査と記録：</strong></li>
-</ol>
-<ul>
-<li>物体はシンボルのスケッチで記録されましたが、さらに詳しい説明は行われませんでした。</li>
-<li>証言者は「UFO」という用語を避け、機密保持のため軍事用語を使用しました。</li>
-</ul>
-<ol start="3">
-<li><strong>感情的・職業的影響：</strong></li>
-</ol>
-<ul>
-<li>遭遇は重大なストレスを引き起こし、信頼性やキャリアへの影響に関する職業上の懸念が生じました。</li>
-<li>ペン・ピストンは、他者が独立して調査を進める間、発見を早期に開示しない責任を感じました。</li>
-</ul>
-<p>この構造化されたアプローチは、明確さ、詳細への配慮、主観的な観察と文脈分析の区別を保証します。</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="入力">入力<a href="https://ouchaku.github.io/ds/blog/2025/05/05/qwen_ai#%E5%85%A5%E5%8A%9B" class="hash-link" aria-label="入力 への直接リンク" title="入力 への直接リンク">​</a></h2>
-<details class="details_lb9f alert alert--info details_b_Ee" data-collapsed="true"><summary>展開</summary><div><div class="collapsibleContent_i85q"><p>The following is a transcript of the testimony of a security guard who witnessed a UFO landing incident in the UK in 1980 from close range. The statements of the witness and the narrator are mixed. Statements containing the proper name “Peniston” are those of the narrator. Statements containing “I” referring to the witness are those of the witness.</p><p>Please organize this transcript into as detailed a bullet-point list as possible. Pay particular attention to the witness's subjective experiences of altered consciousness or sensory perception, such as changes in cognitive function or unusual sensory changes, and list even minor details without omission.</p><p>########
-Here's exactly what I was thinking. I'm going out there with... my mindset was like this.
-I'm going to go out and set up an entry control point for a downed aircraft, a crashed... we're going to go ahead and tag classified material and body parts. That's what I'm thinking.
-And then we're going to set up the entry control point so we can get emergency response vehicles out there.
-(0:00:21)</p><p>When I got up to the area where I seen it wasn't an aircraft crash, it was something that I couldn't identify. I was perplexed. Not understanding what I was seeing.
-I hadn't been trained for anything even close to that.
-So here's my... the gear adjustments that were switching were just crazy.
-I went from crash and recovery thoughts to... I don't know what I'm looking at.
-(0:00:55)</p><p>I don't know what is in front of me. I'm confused.
-And this is not a comfortable situation for a security supervisor.
-You're confused and not sure what you're doing. Not sure what to do.
-And that's the feeling I was getting. Of course I am talking back and forth with my teammates.
-And we're coming back with the same type of confusion. We're not sure what's going on in front of us.
-(0:01:18)</p><p>The craft was a triangular craft. It was black in color. Very shiny.
-It was metal, but it was smooth as glass.
-Inside the fabric of this triangular craft there was light movement of red and blue running through the fabric of it.
-I had pasted off and it measured 9 feet by 9 feet by 9 feet.
-It was approximately, based on my height, I'm 6 foot 2, so I estimated it at 7 feet tall.
-(0:01:54)</p><p>It was very small for an aircraft.
-One of the things that I was looking at initially was I was looking for obvious things that aircraft have.
-Looking for landing gear, looking for intake, looking for exhaust, looking for crew compartment, looking for windows.
-It was void of all those. That's where the confusion comes in at.
-I came back around to the right side of it.
-(0:02:33)</p><p>When I seen those glyphs, I seen that there's some writing up there, so I felt pretty comfortable at that moment.
-Because I said, OK, it's going to say United States Air Force prototype, something like that.
-It's going to say NASA on it.
-And then, of course, I seen something that I hadn't seen before.
-The glyphs that Peniston mentions are symbols that were etched into the side of the craft.
-(0:03:01)</p><p>Peniston sketched these symbols in a notebook, but their meaning is a mystery.
-As Peniston and his team approached the craft, they began feeling unusual sensations.
-The immediate area around the craft, we noticed physical changes.
-We noticed that the sound was different.
-For example, the lack of sound around it was like a deadening sound.
-We were hearing animals before we got within like 10 feet.
-(0:03:32)</p><p>And then once we got within this area right around the craft, it just, it went silent.
-(0:03:38)</p><hr><p>Then we started feeling static electricity on our skin, in our hair, in our clothes.
-One of the unusual effects is that once we entered this immediate area around the craft, it felt like everything went in slow motion.
-It felt like there was a dragging of time.
-We did have, you know, discrepancies on our watches after we left the area of 45 minutes.
-And what appeared to be us just examining the craft for 5 or 10 minutes actually was over a couple hours out there.
-(0:04:22)</p><p>So we did lose track of some time.
-We do know that we did have adrenaline going.
-We do understand that that can affect, you know, the way things are perceived.
-But it was just too much, two hours is a long time to write off for adrenaline.
-Penniston knew that he had to be careful when reporting this incident.
-In my report, the term craft of unknown origin, I was not going to in any way, shape, or form use the term UFO in there.
-(0:04:57)</p><p>I used a military term. I couldn't determine the origin.
-And I let somebody else figure that out.
-I figured, okay, my job is to gather the facts, which I did.
-I let, and it's above my pay grade, let somebody else figure out what it was.
-So that's pretty much how I was looking at it.
-Also, we had a very real fear of our careers.
-(0:05:22)</p><p>Because we know that this is something that would hurt our careers, reporting this type of phenomenon. It just wasn't done.
-Penniston does have a theory as to why the craft was there that night.
-A feeling.
-That night, in retrospect, looking back at it, the feeling I had is that it was in trouble.
-It wasn't supposed to be there.
-The other odd thing is that, why would it land?
-(0:05:56)</p><p>Why would it be on the ground that long?
-Why would it allow it to be examined?
-Unless it had to. Unless it was repairing itself.
-And that's a feeling I had then, and I still have with it today.
-What kind of technology repairs itself?
-During his encounter, Penniston describes experiencing confusion, fear, astonishment, and awe.
-If extraterrestrial intelligence were to reveal itself to human beings, would humanity experience the same emotions?
-(0:06:36)</p><p>I think I agree with that the human race would probably experience the same type of feelings I had.
-But I think one of the things that I hadn't mentioned is probably denial.
-Is one of the also feelings you feel.
-Well, this can't be what I think it could be.
-I think that's part of what's going on there.
-Because, you know, we're rational people. We want rational answers.
-(0:07:02)</p><p>Especially in that position I was in.
-I mean, what we have in that base, in those twin bases.
-Largest tactical fighter wing in the United States Air Force. Penniston has written that the feelings he had during this encounter were unlike any he had ever had before.
-(0:07:17)</p><hr><p>He describes an unexpected additional emotional state that he experienced.
-It felt sort of complete.
-It felt like it was okay.
-And then when it took off, there was an absence of that feeling.
-After about 45 minutes, the colors on the craft became more agitated as they once again became an intense white color.
-And then it started getting brighter and brighter.
-And now we're squinting.
-(0:07:51)</p><p>And all I could see was a white light.
-But it was still not as bad as when we first came up to the craft.
-Because this still could take off and go up to about treetop level.
-And I could still see the silhouette of the triangular craft.
-But when I initially approached it, it was just too bright.
-Description of what was going on was larger white light glowing.
-(0:08:17)</p><p>Approximately 10-15 meters from it, it was quite distinguishable.
-It was triangular in shape.
-It was not an aircraft.
-But it was a craft of some sort.
-Certain things didn't make sense.
-I couldn't determine the front.
-That was the problem.
-Second, it seemed running, but no sound.
-Third was the aspect of having electricity in the air.
-I could feel it in my clothing, my hair, my skin.
-(0:08:48)</p><p>The next one is after I got up close to the craft.
-The writing changes.
-It changes from being written confidently to shaky.
-Can I stop here?
-Sorry. I need a little time.
-Okay. Wow. Wow. Anything I could see, I would go ahead and write down.
-Structure of craft.
-Fabric. Black. Smooth. Glass-like. Surface unknown.
-Identity unknown.
-I paste off the size of the craft, taking notes of the distance.
-(0:09:41)</p><p>Size, 9 feet long.
-Approximately 7-8 feet high.
-I couldn't tell what was the front or the back.
-I had trouble when I was walking around the craft to distinguish engines.
-Propulsion unknown.
-No sound.
-But apparently operating somehow.
-Type of aircraft unknown.
-I made extra effort to look for the crew compartment or windows or anything like that, or access ports.
-Could not see any.
-(0:10:09)</p><p>There was no handles or anything like that.
-The craft was completely smooth on the outside.
-Skin fabric of craft.
-Warm. Probably the most startling part of it was the fabric of the craft.
-Aircraft are metal, and this was maybe metal, but it was very smooth.
-The fabric seemed like black glass.
-High electric static on clothes, skin, hair.
-Identifying markings on left front.
-That is probably the most compelling thing that said, well, my God, this is from someplace else.
-(0:10:44)</p><p>Symbols etched or engraved?
-Symbols recorded.
-All I know is I was out there that first night.
-I know I completed one of the best investigations of my entire military career.
-This thing wasn't lights in the sky.
-This was the object, a craft that had landed.
-I examined it.
-I walked around it.
-I felt it.
-This is an actual event.
-It happened.
-It doesn't matter what they say.
-(0:11:18)</p><p>I was there.
-They weren't. Liftoff, 245. No sound.
-(0:11:26)</p><hr><p>No exhaust.
-Takeoff unknown.
-Speed impossible.
-The takeoff was probably the most amazing thing I've ever seen.
-With absolutely no sound.
-It just lifted up maybe two or three feet.
-And it did a little bit of maneuvering back in the trees.
-Momentarily hovered, then a blink of an eye, it left.
-Literally a blink of an eye.</p><p>(0:11:52)</p></div></div></details>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="回答--deepseek-r1-desill-qwen7b">回答 : deepseek-r1-desill-qwen7b<a href="https://ouchaku.github.io/ds/blog/2025/05/05/qwen_ai#%E5%9B%9E%E7%AD%94--deepseek-r1-desill-qwen7b" class="hash-link" aria-label="回答 : deepseek-r1-desill-qwen7b への直接リンク" title="回答 : deepseek-r1-desill-qwen7b への直接リンク">​</a></h2>
-<details class="details_lb9f alert alert--info details_b_Ee" data-collapsed="true"><summary>展開</summary><div><div class="collapsibleContent_i85q"><think><p>Alright, so I have this task where I need to help someone organize a transcript of a UFO landing incident from 1980. The person has already tried to split the text into witness and narrator notes but got confused with the timestamps. My goal is to go through their provided structure and create a detailed bullet-point list that captures all the important observations, especially focusing on any altered consciousness or sensory experiences.</p><p>First, I'll read through the entire transcript carefully to understand the context. It's a testimony from a security guard who saw a craft in the UK during the summer of 1980. The witness mentions various details about the craft: its appearance, size, color, the feeling of electric static on their body, and even the subjective experience of time slowing down around it. There are also references to symbols on the craft and some theories about why it was there.</p><p>I notice that in the transcript, the narrator's statements (containing "Peniston") come after the witness's observations. This is crucial because I need to separate these two accurately. The user has already attempted this but may have missed some points or misaligned others based on timestamps. My job here is to ensure each point is correctly attributed to either the witness or the narrator.</p><p>I'll start by identifying all instances where "Peniston" appears, which marks the narrator's statements. These are likely from the security supervisor in charge of the incident and provide context about what happened, such as the crafts' origins or the investigation process after the event.</p><p>Next, I need to parse each observation made by the witness (using "I") and list them under their respective points. This includes details about the craft's structure, size, color, sensory experiences like static electricity, unusual symbols, subjective time dilation, and any other notable observations.</p><p>I should pay special attention to minor details that might be easily overlooked but are significant for a comprehensive understanding. For example, the exact height of the witness (6'2") gives context about the craft's scale relative to people nearby.</p><p>Another important aspect is ensuring clarity in each point. Sometimes the transcript can be a bit jumbled or repeated, so I'll make sure each bullet point encapsulates one specific observation without including unnecessary information.</p><p>I also need to maintain consistency in terminology and avoid any potential confusion between different witnesses or individuals involved. For instance, distinguishing between the security guard (witness) and the narrator (Peniston).</p><p>Once all points are identified and categorized correctly, I'll organize them into a structured bullet-point list under the witness's section for clarity. This will make it easy to review each detail systematically.</p><p>Finally, after organizing everything, I should do a thorough check to ensure that no information was missed or misassigned during this process. It's important that all key observations are accurately represented and easily accessible for anyone reviewing the transcript.</p></think><p>Here is an organized bullet-point list based on the provided transcript, separating statements from the witness ("I") and the narrator (Peniston). This structure highlights key observations, including altered consciousness experiences:</p><h3 class="anchor anchorWithStickyNavbar_LWe7" id="witness-observations">Witness Observations:<a href="https://ouchaku.github.io/ds/blog/2025/05/05/qwen_ai#witness-observations" class="hash-link" aria-label="Witness Observations: への直接リンク" title="Witness Observations: へ��の直接リンク">​</a></h3><ol>
-<li><strong>Craft Identification:</strong></li>
-</ol><ul>
-<li>The craft was triangular in shape, black in color, with a smooth glass-like texture.</li>
-<li>The surface of the craft was unknown but appeared metallic.</li>
-</ul><ol start="2">
-<li><strong>Size and Dimensions:</strong></li>
-</ol><ul>
-<li>The craft measured approximately 9 feet by 9 feet by 9 feet.</li>
-<li>Estimated height based on witness height (6'2") was around 7 feet.</li>
-</ul><ol start="3">
-<li><strong>Sensory Experiences:</strong></li>
-</ol><ul>
-<li>Electric static was felt on the skin, hair, and clothes.</li>
-<li>The immediate area around the craft experienced unusual sensations, including a dragging of time effect.</li>
-<li>Watches showed discrepancies post-exploration, with time appearing to pass slower near the craft.</li>
-</ul><ol start="4">
-<li><strong>Visual Observations:</strong></li>
-</ol><ul>
-<li>Internal fabric revealed light movements resembling red and blue patterns.</li>
-<li>Symbols were etched on the craft's side; these symbols were noted but their meaning remained unclear.</li>
-<li>The craft displayed a white light after initial contact, which became brighter as it attempted to take off.</li>
-</ul><ol start="5">
-<li><strong>Operational Aspects:</strong></li>
-</ol><ul>
-<li>No obvious aircraft features like intake or exhaust were detected.</li>
-<li>The craft operated without sound for an extended period before takeoff, which was barely audible and lifted two feet above the ground.</li>
-</ul><ol start="6">
-<li><strong>Theoretical Insights:</strong></li>
-</ol><ul>
-<li>The witness considered theories about the craft's presence despite its non-aerospheric nature, including potential repair mechanisms and extraterrestrial origins.</li>
-</ul><ol start="7">
-<li><strong>Behavioral and Emotional Impact:</strong></li>
-</ol><ul>
-<li>The experience led to a mix of confusion, fear, awe, and a feeling of being watched.</li>
-<li>The sudden appearance and disappearance of the craft were perplexing and contributed to the overall unsettling atmosphere.</li>
-</ul><h3 class="anchor anchorWithStickyNavbar_LWe7" id="narrators-insights-peniston">Narrator's Insights (Peniston):<a href="https://ouchaku.github.io/ds/blog/2025/05/05/qwen_ai#narrators-insights-peniston" class="hash-link" aria-label="Narrator's Insights (Peniston): への直接リンク" title="Narrator's Insights (Peniston): への直接リンク">​</a></h3><ol>
-<li><strong>Craft Origin and Context:</strong></li>
-</ol><ul>
-<li>Pen Piston noted the craft was of unknown origin but speculated it might have been repairing itself or in distress.</li>
-<li>The incident was considered highly unusual, prompting a thorough investigation by military personnel.</li>
-<li>The craft was examined methodically to identify any potential extraterrestrial markings.</li>
-</ul><ol start="2">
-<li><strong>Investigation and Documentation:</strong></li>
-</ol><ul>
-<li>The craft was documented with sketches of symbols but left without further explanation.</li>
-<li>The witness's reporting avoided using the term "UFO," instead opting for a military descriptor to maintain discretion.</li>
-</ul><ol start="3">
-<li><strong>Emotional and Professional Impact:</strong></li>
-</ol><ul>
-<li>The encounter caused significant stress, including professional concerns about credibility and career implications.</li>
-<li>Pen Piston felt a sense of responsibility not to disclose findings prematurely while allowing others to investigate independently.</li>
-</ul><p>This structured approach ensures clarity, attention to detail, and distinction between subjective observations and contextual analysis.</p></div></div></details>
-<p>(2025-05-05)</p>]]></content:encoded>
-            <category>AI</category>
             <category>2025-05</category>
         </item>
     </channel>
