@@ -14,9 +14,9 @@
         <updated>2025-06-27T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[かつての状況]]></summary>
         <content type="html"><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="かつての状況">かつての状況<a href="https://ouchaku.github.io/ds/blog/2025/06/27/ai_ufo_research#%E3%81%8B%E3%81%A4%E3%81%A6%E3%81%AE%E7%8A%B6%E6%B3%81" class="hash-link" aria-label="かつての状況 への直接リンク" title="かつての状況 への直接リンク">​</a></h2>
-<p>「UFO の研究」には海外の UFO 状況把握が必須。日本での UFO 研究活動は、ほぼ無きに等しい状況なので、2000年頃までは従来は英語で書かれた UFO 資料を大量に読みこなす必要があった。</p>
+<p>「UFO の研究」には海外の UFO 状況把握が必須。日本での UFO 研究活動は、ほぼ無きに等しい状況なので、従来（2000年頃まで）は英語で書かれた UFO 資料を大量に読みこなす必要があった。</p>
 <p>2000年以降、UFO 資料は、英語で書かれた文献よりも、英語話者による動画が重要となってきた。それゆえ近年では、大量の英語文章が読めることよりも、大量の英語を聴き取れることが UFO 研究において重要となった。</p>
-<p>だが、大量の英語文献を読みこなし、英語の 動画/podcast を聴き取ることは、多くの日本人には実質的に超えがたい壁となる。このため、ますます UFO の研究では日本は完全に立ち遅れてしまっている。</p>
+<p>だが、大量の英語文献を読みこなし、英語の 動画/podcast を聴き取ることは、多くの日本人には実質的に超えがたい壁となる。このため、 UFO の研究では日本の立ち遅れが加速した。</p>
 <h2 class="anchor anchorWithStickyNavbar_LWe7" id="現在の状況">現在の状況<a href="https://ouchaku.github.io/ds/blog/2025/06/27/ai_ufo_research#%E7%8F%BE%E5%9C%A8%E3%81%AE%E7%8A%B6%E6%B3%81" class="hash-link" aria-label="現在の状況 への直接リンク" title="現在の状況 への直接リンク">​</a></h2>
 <p>この英語の壁が、 AI によってほぼ無くなりつつある。この数年で AI の進化が著しく、</p>
 <ul>
@@ -26,11 +26,11 @@
 <p>と言える状況になった。</p>
 <p>大量の英語情報を効率よく整理する能力では英語が母国語の人間でさえ、AI には全く敵わない。まして英語が苦手な日本人が、チマチマと英語文章や英語話者の聞き取りに時間を費やしているようではどうにもならない。</p>
 <p>Google の NotebookLM を用いると、英語の文献はもちろん、英語のドキュメンタリー動画や podcast を詳細に整理して、日本語で出力できる。それも即座（数十秒）に結果が表示される。</p>
-<p>現在は、動画の文字起こし情報だけしか扱えないが、いずれ動画の映像そのものも扱うようになるのは確実。</p>
+<p>現在は、動画場合は文字起こし情報だけしか扱えないが、いずれ動画の映像そのものも扱うようになるのは確実（公開されていないだけで既に実用になっている）。</p>
 <h2 class="anchor anchorWithStickyNavbar_LWe7" id="結論">結論<a href="https://ouchaku.github.io/ds/blog/2025/06/27/ai_ufo_research#%E7%B5%90%E8%AB%96" class="hash-link" aria-label="結論 への直接リンク" title="結論 への直接リンク">​</a></h2>
 <ul>
 <li>UFO ファン/マニア/研究者 ならば、AI を使いこなすべき。</li>
-<li>現段階では、AI として  NotobookLM の有料版が最適。</li>
+<li>現段階では、AI として  NotobookLM が最適。</li>
 </ul>
 <p>(2025-06-27)</p>]]></content>
         <category label="UFO" term="UFO"/>
